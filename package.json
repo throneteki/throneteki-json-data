@@ -8,6 +8,7 @@
   },
   "license": "MIT",
   "scripts": {
+    "export": "node scripts/export.js",
     "import": "node scripts/import.js",
     "test": "node scripts/validate.js"
   },
