@@ -1,4 +1,3 @@
-const fs = require('fs');
 const path = require('path');
 const ThronetekiToThronesDbConverter = require('../src/ThronetekiToThronesDbConverter.js');
 

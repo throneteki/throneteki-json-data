@@ -14,5 +14,5 @@ if(!fs.existsSync(packDir)) {
 }
 
 for(let pack of convertedPacks) {
-    fs.writeFileSync(path.join(packDir, pack.code + ".json"), JSON.stringify(pack, null, 4));
+    fs.writeFileSync(path.join(packDir, pack.code + '.json'), JSON.stringify(pack, null, 4));
 }

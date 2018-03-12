@@ -10,10 +10,13 @@
   "scripts": {
     "export": "node scripts/export.js",
     "import": "node scripts/import.js",
-    "test": "node scripts/validate.js"
+    "lint": "eslint src/ scripts/",
+    "test": "npm run validate",
+    "validate": "node scripts/validate.js"
   },
   "dependencies": {},
   "devDependencies": {
+    "eslint": "^4.18.2",
     "jsonschema": "^1.2.2"
   }
 }

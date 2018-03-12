@@ -1,5 +1,3 @@
-const fs = require('fs');
-const path = require('path');
 const Validator = require('jsonschema').Validator;
 
 class ThronetekiPackValidator {
@@ -13,7 +11,7 @@ class ThronetekiPackValidator {
         let validator = new Validator();
 
         validator.addSchema(this.packSchema, '/pack.schema.json');
-        validator.addSchema(cardSchema, '/card.schema.json')
+        validator.addSchema(cardSchema, '/card.schema.json');
 
         return validator;
     }
@@ -23,7 +21,7 @@ class ThronetekiPackValidator {
         return {
             errors: results.errors.map(error => this.addCardInfoToError(pack, error)),
             valid: results.valid
-        }
+        };
     }
 
     addCardInfoToError(pack, error) {

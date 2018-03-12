@@ -7,7 +7,6 @@ let directory = path.join(__dirname, '../packs');
 let packFiles = fs.readdirSync(directory).filter(file => file.endsWith('.json'));
 
 let valid = true;
-let errorCards = [];
 
 for(let file of packFiles) {
     let pack = require(path.join(directory, file));
@@ -19,8 +18,8 @@ for(let file of packFiles) {
 }
 
 if(valid) {
-    console.log("Validation complete, no errors.");
+    console.log('Validation complete, no errors.');
 } else {
-    console.log("Validation complete, please correct the above errors.");
+    console.log('Validation complete, please correct the above errors.');
     process.exit(1);
 }
