@@ -1,0 +1,343 @@
+{
+    "cgdbId": 19,
+    "code": "TRW",
+    "name": "The Red Wedding",
+    "releaseDate": "2017-07-06",
+    "cards": [
+        {
+            "code": "06061",
+            "type": "character",
+            "name": "Dacey Mormont",
+            "unique": true,
+            "faction": "stark",
+            "loyal": true,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": "X",
+            "traits": [
+                "House Mormont",
+                "Lady"
+            ],
+            "text": "Renown.\nX is the number of [stark] characters you control.",
+            "deckLimit": 3
+        },
+        {
+            "code": "06062",
+            "type": "location",
+            "name": "Winterfell Archery Range",
+            "unique": true,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "Winterfell"
+            ],
+            "text": "<b>Action:</b> During a [military] challenge, kneel Winterfell Archery Range to choose a participating character with STR 3 or lower, and remove it from the challenge.",
+            "deckLimit": 3
+        },
+        {
+            "code": "06063",
+            "type": "character",
+            "name": "Oldtown Informer",
+            "unique": false,
+            "faction": "tyrell",
+            "loyal": true,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Ally",
+                "Spy"
+            ],
+            "text": "Ambush (2). Bestow (3).\n<b>Reaction:</b> After a card enters play during the challenges phase, draw X cards. Then, discard X cards. X is the number of gold Oldtown Informer has.",
+            "deckLimit": 3
+        },
+        {
+            "code": "06064",
+            "type": "location",
+            "name": "Arbor Vineyard",
+            "unique": false,
+            "faction": "tyrell",
+            "loyal": true,
+            "cost": 2,
+            "traits": [
+                "House Redwyne"
+            ],
+            "text": "Limited.\n<b>Marshaling Action:</b> Kneel Arbor Vineyard to gain 1 gold. (2 gold instead if there are more <i>Summer</i> plot cards than <i>Winter</i> plot cards revealed.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "06065",
+            "type": "character",
+            "name": "Othell Yarwyck",
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": true,
+            "cost": 6,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "Builder"
+            ],
+            "text": "<b>Action:</b> Kneel a [thenightswatch] location to choose a [thenightswatch] character. Until the end of the phase, that character gains a challenge icon of your choice.",
+            "deckLimit": 3
+        },
+        {
+            "code": "06066",
+            "type": "attachment",
+            "name": "Improved Fortifications",
+            "unique": false,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 0,
+            "traits": [
+                "Fortification"
+            ],
+            "text": "Location only.\n<b>Interrupt:</b> When attached location would leave play, sacrifice Improved Fortifications to save it.",
+            "deckLimit": 3
+        },
+        {
+            "code": "06067",
+            "type": "character",
+            "name": "Ser Axell Florent",
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "House Florent",
+                "Knight"
+            ],
+            "text": "Bestow (3).\n<b>Reaction:</b> After you win a challenge in which Ser Axell Florent is participating, discard 1 gold from him to choose and kneel a character without attachments.",
+            "deckLimit": 3
+        },
+        {
+            "code": "06068",
+            "type": "event",
+            "name": "Saving the Kingdom",
+            "faction": "baratheon",
+            "loyal": true,
+            "cost": 2,
+            "traits": [],
+            "text": "<b>Challenges Action:</b> Choose and kneel a character with STR 3 or lower. That character cannot stand during the standing phase this round.\n<b>Reaction:</b> After you win dominance, pay 1 gold to return Saving the Kingdom from your discard pile to your hand.",
+            "deckLimit": 3
+        },
+        {
+            "code": "06069",
+            "type": "character",
+            "name": "Ser Osmund Kettleblack",
+            "unique": true,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Kingsguard",
+                "Knight"
+            ],
+            "text": "Bestow (3).\n<b>Challenges Action:</b> Discard 1 gold from Ser Osmund Kettleblack to put a <i>Knight</i> character into play from your hand. At the end of the phase, if that card is still in play, discard it from play (cannot be saved). (Limit once per phase.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "06070",
+            "type": "event",
+            "name": "Tywin's Stratagem",
+            "faction": "lannister",
+            "loyal": true,
+            "cost": 2,
+            "traits": [],
+            "text": "<b>Challenges Action:</b> Choose a character with printed cost 2 or lower controlled by each player. Return each of those characters to its owner's hand.\n<b>Reaction:</b> After a character is discarded from an opponent's hand or deck, pay 1 gold to return Tywin's Stratagem from your discard pile to your hand.",
+            "deckLimit": 3
+        },
+        {
+            "code": "06071",
+            "type": "character",
+            "name": "Silence's Crew",
+            "unique": false,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Raider"
+            ],
+            "text": "Bestow (3). No attachments. Pillage.\nSilence's Crew gets +2 STR for each gold it has.\n<b>Reaction:</b> After Silence's Crew discards a location or attachment using pillage, place 1 gold from the treasury on Silence's Crew.",
+            "deckLimit": 3
+        },
+        {
+            "code": "06072",
+            "type": "event",
+            "name": "Plunder",
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 0,
+            "traits": [],
+            "text": "<b>Action:</b> Kneel your faction card to choose an opponent. Gain 1 gold for each location and attachment in that player's discard pile.",
+            "deckLimit": 3
+        },
+        {
+            "code": "06073",
+            "type": "character",
+            "name": "Strong Belwas",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 4,
+            "traits": [
+                "Companion"
+            ],
+            "text": "Bestow (2).\n<b>Interrupt:</b> When another unique [targaryen] character would be killed, discard 1 gold from Strong Belwas to save it. (Limit once per phase.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "06074",
+            "type": "attachment",
+            "name": "Breaker of Chains",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "Title"
+            ],
+            "text": "Unique [targaryen] character only.\nAttached character gets +1 STR for each character you control with printed cost 2 or lower.\n<b>Reaction:</b> After attached character is declared as an attacker, put a character with printed cost 2 or lower into play from your hand.",
+            "deckLimit": 3
+        },
+        {
+            "code": "06075",
+            "type": "character",
+            "name": "Ellaria Sand",
+            "unique": true,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Bastard",
+                "Companion"
+            ],
+            "text": "Bestow (3).\n<b>Reaction:</b> After you lose a challenge in which Ellaria Sand is participating, discard 1 gold from her to stand each <i>Bastard</i> character you control.",
+            "deckLimit": 3
+        },
+        {
+            "code": "06076",
+            "type": "event",
+            "name": "Secret Schemes",
+            "faction": "martell",
+            "loyal": true,
+            "cost": 1,
+            "traits": [],
+            "text": "<b>Action:</b> Kneel your faction card to draw X cards. X is the number of plot cards in your used pile.",
+            "deckLimit": 3
+        },
+        {
+            "code": "06077",
+            "type": "character",
+            "name": "Walder Frey",
+            "unique": true,
+            "faction": "neutral",
+            "cost": 6,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "House Frey",
+                "Lord"
+            ],
+            "text": "Renown.\nWhile Walder Frey is attacking, each other <i>House Frey</i> character you control is also considered to be attacking.",
+            "deckLimit": 3
+        },
+        {
+            "code": "06078",
+            "type": "character",
+            "name": "Frey Bastard",
+            "unique": false,
+            "faction": "neutral",
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 1,
+            "traits": [
+                "Bastard",
+                "House Frey"
+            ],
+            "text": "Bestow (2).\n<b>Reaction:</b> After you win a challenge in which you control 2 or more attacking <i>House Frey</i> characters, discard 1 gold from Frey Bastard to gain 1 power for your faction.",
+            "deckLimit": 3
+        },
+        {
+            "code": "06079",
+            "type": "event",
+            "name": "Frey Hospitality",
+            "faction": "neutral",
+            "cost": 3,
+            "traits": [
+                "House Frey"
+            ],
+            "text": "<b>Reaction:</b> After you win a challenge in which you control an attacking <i>House Frey</i> character, if it was the third challenge you initiated this phase, choose and kill a character controlled by the losing opponent. (Choose and kill 3 characters instead if you won by 20 or more STR.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "06080",
+            "type": "plot",
+            "name": "The Red Wedding",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 4,
+                "initiative": 0,
+                "claim": 0,
+                "reserve": 4
+            },
+            "traits": [
+                "House Frey",
+                "Scheme"
+            ],
+            "text": "<b>Interrupt:</b> When you win a challenge as the attacking player, choose and kill a <i>Lord</i> or <i>Lady</i> character controlled by the losing opponent. (Any player may initiate this ability.)",
+            "deckLimit": 1
+        }
+    ]
+}

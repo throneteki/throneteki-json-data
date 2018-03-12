@@ -1,0 +1,270 @@
+{
+    "cgdbId": 30,
+    "code": "SoD",
+    "name": "Sands of Dorne",
+    "releaseDate": null,
+    "cards": [
+        {
+            "code": "10001",
+            "type": "character",
+            "name": "Doran Martell",
+            "unique": true,
+            "faction": "martell",
+            "loyal": true,
+            "cost": 7,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "Lord"
+            ],
+            "text": "<b>Action:</b> Kneel your faction card to choose a participating character with fewer than 2 challenge icons and remove it from the challenge.\n<b>Reaction:</b> After you lose a challenge, choose a character. Until the end of the phase, that character gains or loses a challenge icon of your choice.",
+            "deckLimit": 3
+        },
+        {
+            "code": "10005",
+            "type": "character",
+            "name": "Obara Sand",
+            "unique": true,
+            "faction": "martell",
+            "loyal": true,
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Bastard",
+                "Sand Snake"
+            ],
+            "text": "<b>Challenges Action:</b> Return a <i>Sand Snake</i> character to your hand to put a [martell] character with lower printed cost into play from your hand. (Limit once per phase.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "10006",
+            "type": "character",
+            "name": "Areo Hotah",
+            "unique": true,
+            "faction": "martell",
+            "loyal": true,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Guard"
+            ],
+            "text": "Ambush (6).\nReduce the cost to ambush Areo Hotah by 1 for each plot in your used pile.\n<b>Reaction:</b> After you win a challenge in which Areo Hotah is defending, return him to your hand to raise the claim value on your revealed plot by 1 until the end of the phase.",
+            "deckLimit": 3
+        },
+        {
+            "code": "10008",
+            "type": "character",
+            "name": "Tyene Sand",
+            "unique": true,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Bastard",
+                "Sand Snake"
+            ],
+            "text": "Stealth.\n<b>Reaction:</b> After you lose a challenge as the defending player, kneel a <i>Sand Snake</i> character to put Tyene Sand into play from your hand.",
+            "deckLimit": 3
+        },
+        {
+            "code": "10010",
+            "type": "character",
+            "name": "Obella Sand",
+            "unique": true,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "Bastard",
+                "Sand Snake"
+            ],
+            "text": "<b>Reaction:</b> After Obella Sand is discarded for [intrigue] claim or killed for [military] claim, move 1 power from the winning opponent's faction card to your own. Shuffle Obella Sand from your discard or dead pile into your deck.",
+            "deckLimit": 3
+        },
+        {
+            "code": "10012",
+            "type": "character",
+            "name": "Ser Cletus Yronwood",
+            "unique": true,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "House Yronwood",
+                "Knight"
+            ],
+            "text": "No attachments except <i>Weapon</i>.\nIncrease the initiative value on your revealed plot card by 1 for each plot card in your used pile.",
+            "deckLimit": 3
+        },
+        {
+            "code": "10016",
+            "type": "character",
+            "name": "Shadow City Bastard",
+            "unique": false,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 1,
+            "traits": [
+                "Bastard"
+            ],
+            "text": "Ambush (3).\n<b>Challenges Action:</b> Sacrifice Shadow City Bastard to choose a character with printed cost 5 or lower. Until the end of the phase, that characters loses a [military], an [intrigue], and a [power] icon.",
+            "deckLimit": 3
+        },
+        {
+            "code": "10017",
+            "type": "location",
+            "name": "Dorne",
+            "unique": true,
+            "faction": "martell",
+            "loyal": true,
+            "cost": 4,
+            "traits": [
+                "Dorne"
+            ],
+            "text": "<b>Reaction:</b> After you lose a challenge, look at the top 2 cards of your deck. Add 1 to your hand, and place the other on the bottom of your deck.\n+1 Reserve.",
+            "deckLimit": 3
+        },
+        {
+            "code": "10019",
+            "type": "attachment",
+            "name": "Hotah's Axe",
+            "unique": true,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "Weapon"
+            ],
+            "text": "Attached character gets +3 STR.\n<b>Reaction:</b> After a [martell] character enters play during the challenges phase, put Hotah's Axe into play from your hand, attached to that character.",
+            "deckLimit": 3
+        },
+        {
+            "code": "10020",
+            "type": "attachment",
+            "name": "Patience",
+            "unique": false,
+            "faction": "martell",
+            "loyal": true,
+            "cost": 1,
+            "traits": [
+                "Skill"
+            ],
+            "text": "Character you control only.\n<b>Challenges Action:</b> Return attached character to its owner's hand.",
+            "deckLimit": 3
+        },
+        {
+            "code": "10023",
+            "type": "event",
+            "name": "False Plans",
+            "faction": "martell",
+            "loyal": false,
+            "cost": 1,
+            "traits": [],
+            "text": "<b>Challenges Action:</b> Choose an opponent. That player discards 1 card at random from his or her hand.\n<b>Reaction:</b> After False Plans is discarded for [intrigue] claim, the winning opponent discards 2 cards at random from his or her hand.",
+            "deckLimit": 3
+        },
+        {
+            "code": "10039",
+            "type": "character",
+            "name": "Val",
+            "unique": true,
+            "faction": "neutral",
+            "cost": 6,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Wildling"
+            ],
+            "text": "<b>Reaction:</b> After Val is declared as an attacker, put a <i>Wildling</i> character with printed cost 4 or lower into play from your hand knelt, participating as an attacker.",
+            "deckLimit": 3
+        },
+        {
+            "code": "10045",
+            "type": "agenda",
+            "name": "The Wars To Come",
+            "faction": "neutral",
+            "traits": [
+                "Omen"
+            ],
+            "text": "Your plot deck must be exactly 10 cards. You may include a second copy of up to 2 different cards in your plot deck.",
+            "deckLimit": 1
+        },
+        {
+            "code": "10046",
+            "type": "plot",
+            "name": "At Prince Doran's Behest",
+            "faction": "martell",
+            "loyal": true,
+            "plotStats": {
+                "income": 0,
+                "initiative": 0,
+                "claim": 0,
+                "reserve": 0
+            },
+            "traits": [
+                "Edict"
+            ],
+            "text": "<b>When Revealed:</b> Choose and reveal a new plot card. (Cannot be canceled.)",
+            "deckLimit": 1
+        },
+        {
+            "code": "10049",
+            "type": "plot",
+            "name": "Beyond Reproach",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 5,
+                "initiative": 1,
+                "claim": 1,
+                "reserve": 4
+            },
+            "traits": [
+                "The Seven"
+            ],
+            "text": "<b>When Revealed:</b> Each player sacrifices each attachment that is attached to a character he or she does not control.",
+            "deckLimit": 2
+        }
+    ]
+}

@@ -1,0 +1,335 @@
+{
+    "cgdbId": 24,
+    "code": "JtO",
+    "name": "Journey to Oldtown",
+    "releaseDate": "2017-12-21",
+    "cards": [
+        {
+            "code": "08021",
+            "type": "character",
+            "name": "Maege Mormont",
+            "unique": true,
+            "faction": "stark",
+            "loyal": true,
+            "cost": 6,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "House Mormont",
+                "Lady"
+            ],
+            "text": "Renown.\n<b>Reaction:</b> After you win a challenge in which you control a participating <i>House Mormont</i> character, reveal the top card of your deck. If it is a [stark] card, draw it.",
+            "deckLimit": 3
+        },
+        {
+            "code": "08022",
+            "type": "location",
+            "name": "The House of Black and White",
+            "unique": true,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "Braavos"
+            ],
+            "text": "Bestow (10).\n<b>Dominance Action:</b> Kneel The House of Black and White and discard X gold from it to choose and kill a character with printed STR X or lower (X cannot be 0). You may move any number of gold from your gold pool to The House of Black and White.",
+            "deckLimit": 3
+        },
+        {
+            "code": "08023",
+            "type": "character",
+            "name": "Brightwater Knight",
+            "unique": false,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "House Florent",
+                "Knight"
+            ],
+            "text": "Bestow (3).\n<b>Marshaling Action:</b> Discard 1 gold from Brightwater Knight to reduce the cost of the next <i>Knight</i> character you marshal this phase by 2. (Limit once per phase.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "08024",
+            "type": "location",
+            "name": "Oldtown",
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": true,
+            "cost": 2,
+            "traits": [
+                "Oldtown",
+                "The Reach"
+            ],
+            "text": "<b>Action:</b> Kneel Oldtown to name a cardtype (character, location, attachment, or event). Then, reveal the top card of your deck. If the revealed card has that cardtype, draw it and gain 1 power for your faction.",
+            "deckLimit": 3
+        },
+        {
+            "code": "08025",
+            "type": "character",
+            "name": "Dareon",
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Minstrel",
+                "Steward"
+            ],
+            "text": "<b>Reaction:</b> After you play a <i>Song</i> event, choose an opponent. Move 1 gold from that player's gold pool to your own. (Limit once per phase.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "08026",
+            "type": "event",
+            "name": "Journey to Oldtown",
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 0,
+            "traits": [],
+            "text": "<b>Reaction:</b> After the plot phase begins, choose a character you control. Remove it from the game until the beginning of the next plot phase.",
+            "deckLimit": 3
+        },
+        {
+            "code": "08027",
+            "type": "character",
+            "name": "Devan Seaworth",
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "Companion"
+            ],
+            "text": "Bestow (3).\n<b>Reaction:</b> After you win dominance, discard X gold from Devan Seaworth to search your deck for a non-limited location with printed cost X or lower, reveal it, and put it into play (X cannot be 0). Shuffle your deck.",
+            "deckLimit": 3
+        },
+        {
+            "code": "08028",
+            "type": "event",
+            "name": "Stannis's Wrath",
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 1,
+            "traits": [],
+            "text": "<b>Action:</b> Choose and kneel a character without a [power] icon.",
+            "deckLimit": 3
+        },
+        {
+            "code": "08029",
+            "type": "character",
+            "name": "Black Ears",
+            "unique": false,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 4,
+            "traits": [
+                "Clansman"
+            ],
+            "text": "<b>Reaction:</b> After a character is killed, pay 2 gold to put Black Ears into play from your hand.",
+            "deckLimit": 3
+        },
+        {
+            "code": "08030",
+            "type": "attachment",
+            "name": "Kingslayer",
+            "unique": true,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "Title"
+            ],
+            "text": "<i>Kingsguard</i> character only. Terminal.\n<b>Action:</b> Kneel attached character to choose and kill a character with 2 or more power. (Limit once per game.)\n<b>Forced Interrupt:</b> When attached character leaves play, each opponent gains 2 power for his or her faction.",
+            "deckLimit": 3
+        },
+        {
+            "code": "08031",
+            "type": "character",
+            "name": "Tris Botley",
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "House Botley",
+                "Lord"
+            ],
+            "text": "Pillage.\n<b>Action:</b> Choose a card in an opponent's discard pile and remove it from the game. Until Tris Botley leaves play, that player cannot marshal or play any copy of that card. (Limit once per round.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "08032",
+            "type": "location",
+            "name": "Black Wind",
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": true,
+            "cost": 2,
+            "traits": [
+                "Warship"
+            ],
+            "text": "While you control Asha Greyjoy, she gains renown.\n<b>Reaction:</b> After a character you control discards a location or attachment using pillage, draw 1 card. (Limit twice per phase.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "08033",
+            "type": "character",
+            "name": "Stormcrows",
+            "unique": false,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Mercenary"
+            ],
+            "text": "Bestow (5).\n<b>Challenges Action:</b> Discard X gold from Stormcrows to choose X characters. Until the end of the phase, each of those characters gets -1 STR. (Limit once per phase.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "08034",
+            "type": "event",
+            "name": "Consuming Flames",
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 2,
+            "traits": [],
+            "text": "<b>Challenges Action:</b> Discard another [targaryen] card from your hand to choose a participating character. Until the end of the phase, that character gets -3 STR and is killed if its STR is 0.",
+            "deckLimit": 3
+        },
+        {
+            "code": "08035",
+            "type": "character",
+            "name": "Arianne Martell",
+            "unique": true,
+            "faction": "martell",
+            "loyal": true,
+            "cost": 7,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "Lady"
+            ],
+            "text": "Insight.\n<b>Challenges Action:</b> Return Arianne Martell to your hand to choose a character with a lower STR than hers, and return it to its owner's hand.",
+            "deckLimit": 3
+        },
+        {
+            "code": "08036",
+            "type": "event",
+            "name": "Change of Plans",
+            "faction": "martell",
+            "loyal": false,
+            "cost": 0,
+            "traits": [],
+            "text": "<b>Reaction:</b> After you lose a challenge, if there are fewer than 5 plot cards in your used pile, move a card from your plot deck to the bottom of your used pile.",
+            "deckLimit": 3
+        },
+        {
+            "code": "08037",
+            "type": "character",
+            "name": "Thoros of Myr",
+            "unique": true,
+            "faction": "neutral",
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Brotherhood",
+                "R'hllor"
+            ],
+            "text": "Renown.\n<b>Interrupt:</b> When another non-loyal character you control would be killed, kneel Thoros of Myr and discard 1 power from him to save that character.",
+            "deckLimit": 3
+        },
+        {
+            "code": "08038",
+            "type": "location",
+            "name": "Gates of the Moon",
+            "unique": true,
+            "faction": "neutral",
+            "cost": 1,
+            "traits": [
+                "Contested",
+                "House Arryn"
+            ],
+            "text": "Limited.\nIncrease the gold value on each opponent's revealed plot card by 1.\n+2 Income.",
+            "deckLimit": 3
+        },
+        {
+            "code": "08039",
+            "type": "agenda",
+            "name": "The House With the Red Door",
+            "faction": "neutral",
+            "traits": [
+                "Dream"
+            ],
+            "text": "After all agendas are announced, search your deck for a non-limited unique location with printed cost 3 or lower and put it into play. That location cannot be discarded from play by card effects.\nYou cannot spend more than 4 gold during setup.",
+            "deckLimit": 1
+        },
+        {
+            "code": "08040",
+            "type": "plot",
+            "name": "Sailing the Summer Sea",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 5,
+                "initiative": 2,
+                "claim": 1,
+                "reserve": 5
+            },
+            "traits": [
+                "Summer"
+            ],
+            "text": "You may initiate an additional [power] challenge during the challenges phase. You cannot initiate [military] or [intrigue] challenges.",
+            "deckLimit": 2
+        }
+    ]
+}

@@ -1,0 +1,336 @@
+{
+    "cgdbId": 21,
+    "code": "TBWB",
+    "name": "The Brotherhood Without Banners",
+    "releaseDate": "2017-09-21",
+    "cards": [
+        {
+            "code": "06101",
+            "type": "character",
+            "name": "Sansa's Maid",
+            "unique": false,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "Companion"
+            ],
+            "text": "Bestow (3).\nEach <i>Lady</i> character you control gets +1 STR for each gold Sansa's Maid has.",
+            "deckLimit": 3
+        },
+        {
+            "code": "06102",
+            "type": "location",
+            "name": "Northern Keep",
+            "unique": false,
+            "faction": "stark",
+            "loyal": true,
+            "cost": 2,
+            "traits": [
+                "The North"
+            ],
+            "text": "Limited.\n<b>Marshaling Action:</b> Kneel Northern Keep to gain 1 gold. (2 gold instead if there are more <i>Winter</i> plot cards than <i>Summer</i> plot cards revealed.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "06103",
+            "type": "character",
+            "name": "Highgarden Minstrel",
+            "unique": false,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 1,
+            "traits": [
+                "Minstrel"
+            ],
+            "text": "<b>Reaction:</b> After you play a <i>Song</i> event, gain 1 gold. (Limit 3 times per round.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "06104",
+            "type": "location",
+            "name": "Horn Hill",
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "The Reach"
+            ],
+            "text": "Bestow (3).\n<b>Challenges Action:</b> Kneel Horn Hill to give each participating [tyrell] character you control +X STR until the end of the challenge. X is the number of gold Horn Hill has.",
+            "deckLimit": 3
+        },
+        {
+            "code": "06105",
+            "type": "character",
+            "name": "Donal Noye",
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 4,
+            "traits": [
+                "Steward"
+            ],
+            "text": "Bestow (3). No attachments except <i>Weapon</i>.\n<b>Action:</b> Discard 1 gold from Donal Noye to put a <i>Weapon</i> attachment into play from your hand.",
+            "deckLimit": 3
+        },
+        {
+            "code": "06106",
+            "type": "attachment",
+            "name": "Ranger's Bow",
+            "unique": false,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "Weapon"
+            ],
+            "text": "[thenightswatch] character only.\nAttached character gets +1 STR.\n<b>Challenges Action:</b> Kneel Ranger's Bow to choose a defending [thenightswatch] character. Until the end of the challenge, that character gets +2 STR.",
+            "deckLimit": 3
+        },
+        {
+            "code": "06107",
+            "type": "character",
+            "name": "Patchface",
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "Fool"
+            ],
+            "text": "While another <i>Fool</i> character has a keyword, Patchface gains that keyword.\nWhile another <i>Fool</i> character has a challenge icon, Patchface gains that challenge icon.",
+            "deckLimit": 3
+        },
+        {
+            "code": "06108",
+            "type": "attachment",
+            "name": "King's Blood",
+            "unique": false,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 0,
+            "traits": [
+                "Condition"
+            ],
+            "text": "<i>Bastard</i> or <i>King</i> character you control only. Bestow (3).\n<b>Plot Action:</b> Kneel attached character and sacrifice King's Blood to discard X power from each opponent's faction card. X is the number of gold King's Blood has.",
+            "deckLimit": 3
+        },
+        {
+            "code": "06109",
+            "type": "character",
+            "name": "Genna Frey",
+            "unique": true,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 5,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "House Frey",
+                "Lady"
+            ],
+            "text": "<b>Reaction:</b> After you win a challenge in which Genna Frey is attacking, if it was the third challenge you initiated this phase, the losing opponent discards 1 card at random from his or her hand. (2 cards instead if you control another attacking <i>House Frey</i> character.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "06110",
+            "type": "location",
+            "name": "The Goldroad",
+            "unique": false,
+            "faction": "lannister",
+            "loyal": true,
+            "cost": 2,
+            "traits": [
+                "Westeros"
+            ],
+            "text": "Limited.\n<b>Challenges Action:</b> Kneel The Goldroad to gain 1 gold.\n+1 Income.",
+            "deckLimit": 3
+        },
+        {
+            "code": "06111",
+            "type": "character",
+            "name": "Stony Shore Raider",
+            "unique": false,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Ironborn",
+                "Raider"
+            ],
+            "text": "Bestow (3).\n<b>Action:</b> Discard 1 gold from Stony Shore Raider to choose and kneel a location with printed cost 3 or lower. (Limit once per round.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "06112",
+            "type": "event",
+            "name": "Pay The Iron Price",
+            "faction": "greyjoy",
+            "loyal": true,
+            "cost": 2,
+            "traits": [],
+            "text": "<b>Challenges Action:</b> Choose an attachment in an opponent's discard pile, and put it into play under your control.\n<b>Reaction:</b> After you win an unopposed challenge, pay 1 gold to return Pay The Iron Price from your discard pile to your hand.",
+            "deckLimit": 3
+        },
+        {
+            "code": "06113",
+            "type": "character",
+            "name": "Freedmen",
+            "unique": false,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 1,
+            "traits": [
+                "Ally"
+            ],
+            "text": "<b>Reaction:</b> After you win a challenge by 5 or more STR as the attacking player, put Freedmen into play from your discard pile.",
+            "deckLimit": 3
+        },
+        {
+            "code": "06114",
+            "type": "attachment",
+            "name": "Warrior's Braid",
+            "unique": false,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "Item"
+            ],
+            "text": "[targaryen] character only.\nAttached character gains renown, and gets +1 STR for each bell token on Warrior's Braid.\n<b>Reaction:</b> After you win a [military] challenge in which attached character is attacking, place a bell token on Warrior's Braid.",
+            "deckLimit": 3
+        },
+        {
+            "code": "06115",
+            "type": "character",
+            "name": "Dornish Spy",
+            "unique": false,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Spy"
+            ],
+            "text": "Ambush (4).\n<b>Reaction:</b> After Dornish Spy enters play, choose a character. Until the end of the phase, that character loses a challenge icon of your choice.",
+            "deckLimit": 3
+        },
+        {
+            "code": "06116",
+            "type": "attachment",
+            "name": "Locked Away",
+            "unique": false,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 3,
+            "traits": [
+                "Condition"
+            ],
+            "text": "Terminal.\n<b>Reaction:</b> After the marshaling phase begins, return attached character to its owner's hand (cannot be saved).",
+            "deckLimit": 3
+        },
+        {
+            "code": "06117",
+            "type": "character",
+            "name": "Beric Dondarrion",
+            "unique": true,
+            "faction": "neutral",
+            "cost": 7,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": "X",
+            "traits": [
+                "Knight",
+                "Lord",
+                "R'hllor"
+            ],
+            "text": "Renown.\nX is the number of kiss tokens Beric Dondarrion has.\n<b>Forced Reaction:</b> After you marshal Beric Dondarrion, place 6 kiss tokens on him. (Cannot be canceled.)\n<b>Interrupt:</b> When Beric Dondarrion would be killed, discard a kiss token from him to save him.",
+            "deckLimit": 3
+        },
+        {
+            "code": "06118",
+            "type": "event",
+            "name": "Unbridled Generosity",
+            "faction": "neutral",
+            "cost": 0,
+            "traits": [],
+            "text": "<b>Action:</b> Choose up to 3 cards. Move 1 gold from the treasury to each of those cards.",
+            "deckLimit": 3
+        },
+        {
+            "code": "06119",
+            "type": "agenda",
+            "name": "The Brotherhood Without Banners",
+            "faction": "neutral",
+            "traits": [],
+            "text": "You cannot include loyal characters in your deck.\n<b>Reaction:</b> After the challenges phase begins, kneel your faction card to choose a neutral character you control. Until the end of the phase, that character gains (choose one): insight, intimidate, renown, or stealth.",
+            "deckLimit": 1
+        },
+        {
+            "code": "06120",
+            "type": "plot",
+            "name": "Favors From the Crown",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 5,
+                "initiative": 4,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "Kingdom"
+            ],
+            "text": "<b>Reaction:</b> After a card with bestow enters play, place 1 gold from the treasury on that card. (2 gold instead if that card has 3 or more gold on it.)",
+            "deckLimit": 2
+        }
+    ]
+}

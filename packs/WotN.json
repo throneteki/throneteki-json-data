@@ -1,0 +1,890 @@
+{
+    "cgdbId": 8,
+    "code": "WotN",
+    "name": "Wolves of the North",
+    "releaseDate": "2016-04-07",
+    "cards": [
+        {
+            "code": "03001",
+            "type": "character",
+            "name": "King Robb's Host",
+            "unique": true,
+            "faction": "stark",
+            "loyal": true,
+            "cost": 8,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 8,
+            "traits": [
+                "Army"
+            ],
+            "text": "No attachments.<b>\nReaction:</b> After you win a [military] challenge in which King Robb's Host is participating, move 1 power from the losing opponent's faction card to an attacking character. (2 power instead if there is a <i>War</i> plot card revealed.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "03002",
+            "type": "character",
+            "name": "Catelyn Stark",
+            "unique": true,
+            "faction": "stark",
+            "loyal": true,
+            "cost": 7,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "House Tully",
+                "Lady",
+                "The Seven"
+            ],
+            "text": "Catelyn Stark gets +1 STR for each power she has.\n<b>Reaction:</b> After a [stark] character you control is sacrificed or killed, Catelyn Stark gains 1 power. (Limit twice per round.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "03003",
+            "type": "character",
+            "name": "Eddard Stark",
+            "unique": true,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 6,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 6,
+            "traits": [
+                "Lord",
+                "Small Council"
+            ],
+            "text": "Renown.\n<b>Reaction: </b>After Eddard Stark gains power using renown, choose another participating character you control. That character gains 1 power.",
+            "deckLimit": 3
+        },
+        {
+            "code": "03004",
+            "type": "character",
+            "name": "The Blackfish",
+            "unique": true,
+            "faction": "stark",
+            "loyal": true,
+            "cost": 6,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "House Tully",
+                "Knight",
+                "Lord"
+            ],
+            "text": "Renown.\nWhile The Blackfish has 4 or more power, each <i>House Tully </i>character you control does not kneel when declared as an attacker.\n<b>Reaction:</b> After you win a [military] challenge as the attacking player, draw 1 card. (Limit once per phase.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "03005",
+            "type": "character",
+            "name": "Jon Snow",
+            "unique": true,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 4,
+            "traits": [
+                "Bastard"
+            ],
+            "text": "<b>Action:</b> Sacrifice a [stark] character to choose and stand a unique [stark] character. (Limit once per round.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "03006",
+            "type": "character",
+            "name": "Wolves of the North",
+            "unique": false,
+            "faction": "stark",
+            "loyal": true,
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Direwolf"
+            ],
+            "text": "No attachments. Stealth.\n<b>Reaction:</b> After Wolves of the North bypasses a character using stealth, that character gets -X STR until the end of the phase. X is the number of <i>Direwolf</i> cards you control.",
+            "deckLimit": 3
+        },
+        {
+            "code": "03007",
+            "type": "character",
+            "name": "Arya Stark",
+            "unique": true,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Lady"
+            ],
+            "text": "<b>Reaction:</b> After a [stark] character you control is killed, sacrifice Arya Stark to choose and kill a character with STR 3 or lower.",
+            "deckLimit": 3
+        },
+        {
+            "code": "03008",
+            "type": "character",
+            "name": "Jory Cassel",
+            "unique": true,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Guard"
+            ],
+            "text": "<b>Interrupt:</b> When a unique [stark] character you control would be killed, sacrifice Jory Cassel to save it. Then, if there is a <i>Winter</i> plot card revealed, that character gains 1 power.",
+            "deckLimit": 3
+        },
+        {
+            "code": "03009",
+            "type": "character",
+            "name": "Riverrun Minstrel",
+            "unique": false,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "House Tully",
+                "Minstrel"
+            ],
+            "text": "<b>Reaction:</b> After Riverrun Minstrel enters play, choose a <i>House Tully</i> character. That character gains 1 power.",
+            "deckLimit": 3
+        },
+        {
+            "code": "03010",
+            "type": "character",
+            "name": "Old Nan",
+            "unique": true,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Storyteller"
+            ],
+            "text": "<b>Interrupt:</b> When a plot card is revealed, kneel Old Nan to have that plot card gain the <i>Summer </i>or <i>Winter</i> trait until the end of the round.",
+            "deckLimit": 3
+        },
+        {
+            "code": "03011",
+            "type": "character",
+            "name": "Osha",
+            "unique": true,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Wildling"
+            ],
+            "text": "<b>Challenges Action:</b> Remove Osha from the challenge. Then, stand her. (Limit once per phase.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "03012",
+            "type": "character",
+            "name": "Bear Island Loyalist",
+            "unique": false,
+            "faction": "stark",
+            "loyal": true,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "House Mormont"
+            ],
+            "text": "While Bear Island Loyalist is participating in a challenge, each other participating [stark] character you control gains \"immune to opponents' events.\"",
+            "deckLimit": 3
+        },
+        {
+            "code": "03013",
+            "type": "character",
+            "name": "Sansa Stark",
+            "unique": true,
+            "faction": "stark",
+            "loyal": true,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Lady"
+            ],
+            "text": "Sansa Stark gets -1 STR for each [stark] character in your dead pile.\nWhile Sansa Stark's STR is 0, she gains insight.",
+            "deckLimit": 3
+        },
+        {
+            "code": "03014",
+            "type": "character",
+            "name": "Shaggydog",
+            "unique": true,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Direwolf"
+            ],
+            "text": "No attachments.\nWhile you control Rickon Stark, he gets +2 STR and gains a [military] icon.",
+            "deckLimit": 3
+        },
+        {
+            "code": "03015",
+            "type": "character",
+            "name": "House Tully Septon",
+            "unique": false,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "Ally",
+                "House Tully",
+                "The Seven"
+            ],
+            "text": "<b>Marshaling Action:</b> Discard 1 power from a character you control to reduce the cost of the next <i>House Tully</i> or <i>The Seven</i> character you marshal this phase by 2. (Limit once per phase.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "03016",
+            "type": "character",
+            "name": "Rickon Stark",
+            "unique": true,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 1,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 1,
+            "traits": [
+                "Lord"
+            ],
+            "text": "<b>Interrupt:</b> When the effects of a triggered ability with the word \"search\" in it would initiate, sacrifice Rickon Stark to cancel those effects.",
+            "deckLimit": 3
+        },
+        {
+            "code": "03017",
+            "type": "location",
+            "name": "Winterfell",
+            "unique": true,
+            "faction": "stark",
+            "loyal": true,
+            "cost": 4,
+            "traits": [
+                "The North",
+                "Winterfell"
+            ],
+            "text": "Each [stark] character you control gets +1 STR.\n<b>Reaction:</b> After a challenge is initiated, kneel Winterfell. Then, each player with a non-<i>Winter</i> plot card revealed cannot trigger card abilities until the end of the challenge.",
+            "deckLimit": 3
+        },
+        {
+            "code": "03018",
+            "type": "location",
+            "name": "Winterfell Heart Tree",
+            "unique": true,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Old Gods",
+                "Winterfell"
+            ],
+            "text": "<b>Reaction:</b> After a phase begins, sacrifice Winterfell Heart Tree to choose a [stark] card you control. Until the end of the phase, that card gains \"immune to opponents' plot effects.\"",
+            "deckLimit": 3
+        },
+        {
+            "code": "03019",
+            "type": "attachment",
+            "name": "Nymeria",
+            "unique": true,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "Direwolf"
+            ],
+            "text": "Unique [stark] character only.\nAttached character gains intimidate.\n<b>Action:</b> Pay 1 gold to attach Nymeria to a different character. (Limit once per phase.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "03020",
+            "type": "attachment",
+            "name": "Needle",
+            "unique": true,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Weapon"
+            ],
+            "text": "[stark] character only.\nAttached character gets +2 STR.\n<b>Interrupt:</b> When attached character is sacrificed, sacrifice Needle to return that character to your hand instead of placing it in your discard pile.",
+            "deckLimit": 3
+        },
+        {
+            "code": "03021",
+            "type": "attachment",
+            "name": "Frozen Solid",
+            "unique": false,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Condition"
+            ],
+            "text": "Non-limited location with printed cost 3 or lower only. Terminal.\nTreat attached location's printed text box as if it were blank (except for <i>Traits</i>).",
+            "deckLimit": 3
+        },
+        {
+            "code": "03022",
+            "type": "event",
+            "name": "As Hard as Winter",
+            "faction": "stark",
+            "loyal": false,
+            "cost": 1,
+            "traits": [],
+            "text": "Play only if there is a <i>Winter</i> plot card in your used pile.\n<b>Reaction:</b> After a [stark] character you control is sacrificed or killed, put a [stark] character with equal or lower printed cost into play from your hand.",
+            "deckLimit": 3
+        },
+        {
+            "code": "03023",
+            "type": "event",
+            "name": "The Pack Survives",
+            "faction": "stark",
+            "loyal": true,
+            "cost": 0,
+            "traits": [],
+            "text": "<b>Interrupt:</b> When the effects of an opponent's event would initiate, sacrifice a <i>Direwolf</i> card or kneel 2 [stark] characters to cancel those effects.",
+            "deckLimit": 3
+        },
+        {
+            "code": "03024",
+            "type": "event",
+            "name": "Arya's Gift",
+            "faction": "stark",
+            "loyal": false,
+            "cost": 0,
+            "traits": [],
+            "text": "<b>Action:</b> Move an attachment from a [stark] character you control to another eligible character you control.",
+            "deckLimit": 3
+        },
+        {
+            "code": "03025",
+            "type": "attachment",
+            "name": "Motley",
+            "unique": false,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Condition"
+            ],
+            "text": "Opponent's character only.\nAttached character gains the <i>Fool</i> trait.\n<b>Reaction:</b> After attached character is declared as an attacker or defender, discard 1 card at random from its controller's hand.",
+            "deckLimit": 3
+        },
+        {
+            "code": "03026",
+            "type": "event",
+            "name": "Even Handed Justice",
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 2,
+            "traits": [],
+            "text": "<b>Action:</b> Choose a standing character controlled by each player. Kneel each of those characters.",
+            "deckLimit": 3
+        },
+        {
+            "code": "03027",
+            "type": "character",
+            "name": "Fishwhiskers",
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "House Botley",
+                "Ironborn"
+            ],
+            "text": "While Fishwhiskers is attacking, if there are more <i>Winter</i> plot cards than <i>Summer</i> plot cards revealed, each defending character does not contribute its STR to that challenge.",
+            "deckLimit": 3
+        },
+        {
+            "code": "03028",
+            "type": "event",
+            "name": "Ahead of the Tide",
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 0,
+            "traits": [],
+            "text": "<b>Interrupt:</b> When you compare initiative, your revealed plot card gets +3 initiative until the end of the phase. If you win initiative this phase, draw 1 card.",
+            "deckLimit": 3
+        },
+        {
+            "code": "03029",
+            "type": "character",
+            "name": "Crossroads Sellsword",
+            "unique": false,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Mercenary"
+            ],
+            "text": "<b>Interrupt:</b> When Crossroads Sellsword is killed during the challenges phase, gain 2 gold.",
+            "deckLimit": 3
+        },
+        {
+            "code": "03030",
+            "type": "location",
+            "name": "Tower of the Hand",
+            "unique": true,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 3,
+            "traits": [
+                "King's Landing"
+            ],
+            "text": "<b>Reaction:</b> After you win an [intrigue] challenge, kneel Tower of the Hand and return a participating [lannister] character to your hand to choose a character with lower printed cost controlled by the losing opponent. Return that character to its owner's hand.",
+            "deckLimit": 3
+        },
+        {
+            "code": "03031",
+            "type": "character",
+            "name": "Quentyn Martell",
+            "unique": true,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 6,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Knight",
+                "Lord"
+            ],
+            "text": "While you are not the first player, Quentyn Martell gets +1 STR and gains stealth.\n<b>Interrupt:</b> When Quentyn Martell is killed, choose and kill a character with a lower STR than his.",
+            "deckLimit": 3
+        },
+        {
+            "code": "03032",
+            "type": "event",
+            "name": "His Viper Eyes",
+            "faction": "martell",
+            "loyal": false,
+            "cost": 0,
+            "traits": [],
+            "text": "<b>Reaction:</b> After you lose a [military] or [power] challenge as the defending player, look at the winning opponent's hand. Then, choose and discard 1 card from that hand.",
+            "deckLimit": 3
+        },
+        {
+            "code": "03033",
+            "type": "character",
+            "name": "Stonesnake",
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 4,
+            "traits": [
+                "Ranger"
+            ],
+            "text": "Stealth.\n<b>Reaction:</b> After Stonesnake bypasses a character using stealth, choose one of that character's keywords. Stonesnake gains that keyword until the end of the phase.",
+            "deckLimit": 3
+        },
+        {
+            "code": "03034",
+            "type": "location",
+            "name": "The Shadow Tower",
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "The North"
+            ],
+            "text": "<b>Reaction:</b> After you win a challenge as the defending player, kneel The Shadow Tower to choose a character controlled by the losing opponent. That character cannot be declared as an attacker this phase.",
+            "deckLimit": 3
+        },
+        {
+            "code": "03035",
+            "type": "character",
+            "name": "Aggo",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 4,
+            "traits": [
+                "Bloodrider",
+                "Dothraki"
+            ],
+            "text": "<b>Action:</b> If there is a <i>Summer</i> plot card revealed, choose and stand a <i>Bloodrider</i> character. (Limit once per round.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "03036",
+            "type": "event",
+            "name": "Dragon Sight",
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 1,
+            "traits": [],
+            "text": "<b>Action:</b> Each participating non-<i>Dragon</i> character gets -1 STR until the end of the challenge.",
+            "deckLimit": 3
+        },
+        {
+            "code": "03037",
+            "type": "character",
+            "name": "House Florent Knight",
+            "unique": false,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "House Florent",
+                "Knight"
+            ],
+            "text": "<b>Forced Reaction:</b> After House Florent Knight enters play, choose a character with the lowest STR in play, and discard it from play.",
+            "deckLimit": 3
+        },
+        {
+            "code": "03038",
+            "type": "event",
+            "name": "To the Rose Banner!",
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 0,
+            "traits": [],
+            "text": "<b>Marshaling Action:</b> Choose a [tyrell] character you control. Gain X gold, where X is that character's STR. Then, sacrifice that character.",
+            "deckLimit": 3
+        },
+        {
+            "code": "03039",
+            "type": "character",
+            "name": "Mance Rayder",
+            "unique": true,
+            "faction": "neutral",
+            "cost": 7,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "King",
+                "Wildling"
+            ],
+            "text": "Renown.\nEach <i>Wildling</i> character in your hand gains ambush (X). X is that card's printed cost.\nWhile there is a <i>Winter</i> plot card revealed, reduce the cost to ambush each of your <i>Wildling</i> characters by 1.",
+            "deckLimit": 3
+        },
+        {
+            "code": "03040",
+            "type": "character",
+            "name": "Young Spearwife",
+            "unique": false,
+            "faction": "neutral",
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Wildling"
+            ],
+            "text": "While you have less power on your faction card than an opponent, Young Spearwife gains stealth.",
+            "deckLimit": 3
+        },
+        {
+            "code": "03041",
+            "type": "character",
+            "name": "House Maester",
+            "unique": false,
+            "faction": "neutral",
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "Maester"
+            ],
+            "text": "",
+            "deckLimit": 3
+        },
+        {
+            "code": "03042",
+            "type": "location",
+            "name": "Tourney Grounds",
+            "unique": false,
+            "faction": "neutral",
+            "cost": 1,
+            "traits": [
+                "Contested",
+                "Westeros"
+            ],
+            "text": "<b>Action:</b> Kneel Tourney Grounds to reduce the cost of the next event you play this phase by 1.",
+            "deckLimit": 3
+        },
+        {
+            "code": "03043",
+            "type": "attachment",
+            "name": "Green Dreams",
+            "unique": false,
+            "faction": "neutral",
+            "cost": 0,
+            "traits": [
+                "Dream"
+            ],
+            "text": "Terminal.\n<b>Reaction:</b> After attached character is knelt, look at the top card of your deck. You may put that card on the bottom of your deck.",
+            "deckLimit": 3
+        },
+        {
+            "code": "03044",
+            "type": "event",
+            "name": "Healing Expertise",
+            "faction": "neutral",
+            "cost": 0,
+            "traits": [
+                "Citadel"
+            ],
+            "text": "<b>Interrupt:</b> When a non-<i>Army </i>character you control would be killed, kneel a <i>Maester</i> character to save it.",
+            "deckLimit": 3
+        },
+        {
+            "code": "03045",
+            "type": "event",
+            "name": "Tithe",
+            "faction": "neutral",
+            "cost": 0,
+            "traits": [],
+            "text": "<b>Action:</b> Kneel a neutral character to gain 2 gold.",
+            "deckLimit": 3
+        },
+        {
+            "code": "03046",
+            "type": "plot",
+            "name": "A Time For Wolves",
+            "faction": "stark",
+            "loyal": true,
+            "plotStats": {
+                "income": 3,
+                "initiative": 1,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "Winter"
+            ],
+            "text": "<b>When Revealed:</b> Search your deck for a <i>Direwolf</i> card, reveal it, and add it to your hand. If that card's printed cost is 3 or lower, you may put it into play instead. Shuffle your deck.",
+            "deckLimit": 2
+        },
+        {
+            "code": "03047",
+            "type": "plot",
+            "name": "Fallen from Favor",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 7,
+                "initiative": 7,
+                "claim": 1,
+                "reserve": 7
+            },
+            "traits": [
+                "Edict"
+            ],
+            "text": "<b>When Revealed:</b> Sacrifice a character you control.",
+            "deckLimit": 2
+        },
+        {
+            "code": "03048",
+            "type": "plot",
+            "name": "Snowed Under",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 5,
+                "initiative": 0,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "Winter"
+            ],
+            "text": "Treat the base initiative value on each revealed plot card as if it were 0.",
+            "deckLimit": 2
+        },
+        {
+            "code": "03049",
+            "type": "plot",
+            "name": "The Long Winter",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 4,
+                "initiative": 2,
+                "claim": 2,
+                "reserve": 4
+            },
+            "traits": [
+                "Winter"
+            ],
+            "text": "<b>When Revealed:</b> Each player without a <i>Summer</i> plot revealed discards 1 power from a card he or she controls.",
+            "deckLimit": 1
+        },
+        {
+            "code": "03050",
+            "type": "plot",
+            "name": "A Song of Summer",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 5,
+                "initiative": 3,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "Summer"
+            ],
+            "text": "While there are no <i>Winter</i> plot cards revealed, each character you control gets +1 STR.",
+            "deckLimit": 2
+        },
+        {
+            "code": "03051",
+            "type": "plot",
+            "name": "Weapons at the Door",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 3,
+                "initiative": 9,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "Edict"
+            ],
+            "text": "<b>Forced Reaction:</b> After the challenges phase begins, return each card with the printed attachment cardtype to its owner's hand.",
+            "deckLimit": 1
+        },
+        {
+            "code": "03052",
+            "type": "plot",
+            "name": "Ranger's Cache",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 3,
+                "initiative": 0,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "Kingdom",
+                "Winter"
+            ],
+            "text": "<b>Interrupt:</b> When the taxation phase ends, either: draw 2 cards or gain 3 gold.",
+            "deckLimit": 1
+        }
+    ]
+}

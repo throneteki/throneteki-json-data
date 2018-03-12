@@ -1,0 +1,909 @@
+{
+    "cgdbId": 29,
+    "code": "HoT",
+    "name": "House of Thorns",
+    "releaseDate": "2017-10-26",
+    "cards": [
+        {
+            "code": "09001",
+            "type": "character",
+            "name": "Mace Tyrell",
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": true,
+            "cost": 7,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "Lord"
+            ],
+            "text": "<b>Reaction:</b> After a [tyrell] character enters play under your control, pay 1 gold to have Mace Tyrell gain 1 power. (Limit once per phase.)\n<b>Action:</b> Kneel your faction card to remove another [tyrell] character you control from the game until the beginning of the next phase.",
+            "deckLimit": 3
+        },
+        {
+            "code": "09002",
+            "type": "character",
+            "name": "Brienne of Tarth",
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": true,
+            "cost": 6,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "Lady"
+            ],
+            "text": "<b>Reaction:</b> After you win a challenge in which Brienne of Tarth is participating, if her STR is: \n- 6 or higher, she gains 1 power.\n- 10 or higher, choose another character. It gets +3 STR until the end of the phase.\n- 15 or higher, stand her and draw 1 card.",
+            "deckLimit": 3
+        },
+        {
+            "code": "09003",
+            "type": "character",
+            "name": "Ser Garlan Tyrell",
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 6,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "Knight",
+                "Lord"
+            ],
+            "text": "<b>Action:</b> During a challenge in which a <i>Knight</i> character you control is attacking alone, discard 1 card from your hand to raise the claim value on your revealed plot card by 1 until the end of the challenge. (Limit once per challenge.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "09004",
+            "type": "character",
+            "name": "The Queen of Thorns",
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": true,
+            "cost": 5,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Lady"
+            ],
+            "text": "Insight.\n<b>Reaction:</b> After The Queen of Thorns is knelt, discard an event from your hand to search your deck for an event, reveal it, and add it to your hand. Shuffle your deck.",
+            "deckLimit": 3
+        },
+        {
+            "code": "09005",
+            "type": "character",
+            "name": "Highgarden Honor Guard",
+            "unique": false,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 5,
+            "traits": [
+                "Army",
+                "Guard"
+            ],
+            "text": "Ambush (6). No attachments.\nReduce the cost to ambush Highgarden Honor Guard by 1 for each <i>The Reach</i> location you control.",
+            "deckLimit": 3
+        },
+        {
+            "code": "09006",
+            "type": "character",
+            "name": "Margaery Tyrell",
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Lady",
+                "Queen"
+            ],
+            "text": "While Margaery Tyrell is attacking, she gets +1 STR for each defending character.\n<b>Reaction:</b> After Margaery Tyrell is declared as an attacker, choose and kneel a character controlled by the defending player. That character is participating in the challenge as a defender.",
+            "deckLimit": 3
+        },
+        {
+            "code": "09007",
+            "type": "character",
+            "name": "The Knight of Flowers",
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Knight",
+                "Lord"
+            ],
+            "text": "Renown.\n<b>Reaction:</b> After you play an event, The Knight of Flowers gets +2 STR until the end of the phase.",
+            "deckLimit": 3
+        },
+        {
+            "code": "09008",
+            "type": "character",
+            "name": "Willas Tyrell",
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": true,
+            "cost": 4,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Lord"
+            ],
+            "text": "<b>Action:</b> Kneel Willas Tyrell. Then, if you control:\n- Margaery Tyrell, stand her.\n- The Knight of Flowers, he gains insight until the end of the phase.\n- Ser Garlan Tyrell, he gains renown until the end of the phase.",
+            "deckLimit": 3
+        },
+        {
+            "code": "09009",
+            "type": "character",
+            "name": "Garth the Gross",
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 1,
+            "traits": [
+                "Lord",
+                "Steward"
+            ],
+            "text": "While you control another [tyrell] <i>Lord</i> character, Garth the Gross gains a [military] icon and renown.\nWhile you control a [tyrell] <i>Lady</i> character, Garth the Gross gains an [intrigue] icon and gets +2 STR.",
+            "deckLimit": 3
+        },
+        {
+            "code": "09010",
+            "type": "character",
+            "name": "The Blue Bard",
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Minstrel"
+            ],
+            "text": "<b>Interrupt:</b> When the Blue Bard leaves play, search the top 10 cards of your deck for any number of <i>Song</i> events, reveal them, and add them to your hand. Shuffle your deck.",
+            "deckLimit": 3
+        },
+        {
+            "code": "09011",
+            "type": "character",
+            "name": "Emissary of the Hightower",
+            "unique": false,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "House Hightower"
+            ],
+            "text": "Ambush (4).\n<b>Reaction:</b> After Emissary of the Hightower enters play, choose an event in your discard pile. Until the end of the phase, you may play that event as if it were in your hand. If you do, remove it from the game instead of placing it into your discard pile.",
+            "deckLimit": 3
+        },
+        {
+            "code": "09012",
+            "type": "character",
+            "name": "Green-Apple Knight",
+            "unique": false,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 1,
+            "traits": [
+                "Knight"
+            ],
+            "text": "Green-Apple Knight gets +1 STR for each other <i>Knight</i> character you control.\nWhile you control 2 or more other <i>Knight</i> characters, Green-Apple Knight does not kneel when declared as an attacker.",
+            "deckLimit": 3
+        },
+        {
+            "code": "09013",
+            "type": "character",
+            "name": "Desmera Redwyne",
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "House Redwyne",
+                "Lady"
+            ],
+            "text": "<b>Reaction:</b> After a character is removed from a challenge, pay 1 gold to give that character +2 STR or -1 STR until the end of the phase.",
+            "deckLimit": 3
+        },
+        {
+            "code": "09014",
+            "type": "character",
+            "name": "Maester Ballabar",
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 1,
+            "traits": [
+                "Maester"
+            ],
+            "text": "<b>Action:</b> During a challenge in which you control a participating character, kneel Maester Ballabar to choose a character with the lowest STR among participating characters. Stand that character and remove it from the challenge.",
+            "deckLimit": 3
+        },
+        {
+            "code": "09015",
+            "type": "character",
+            "name": "Highgarden Courtier",
+            "unique": false,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 1,
+            "traits": [
+                "Companion"
+            ],
+            "text": "<b>Reaction:</b> After another character’s STR is increased by a card effect, kneel Highgarden Courtier to stand that character. (Limit once per phase.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "09016",
+            "type": "character",
+            "name": "Jousting Knight",
+            "unique": false,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Knight"
+            ],
+            "text": "Jousting Knight does not contribute its STR to a challenge unless it is attacking or defending alone.",
+            "deckLimit": 3
+        },
+        {
+            "code": "09017",
+            "type": "location",
+            "name": "The Hightower",
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": true,
+            "cost": 4,
+            "traits": [
+                "House Hightower",
+                "Oldtown"
+            ],
+            "text": "<b>Reaction:</b> After a [tyrell] character enters play under your control, gain 1 gold and draw 1 card. (Limit once per phase.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "09018",
+            "type": "location",
+            "name": "Redwyne Straits",
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": true,
+            "cost": 2,
+            "traits": [
+                "House Redwyne"
+            ],
+            "text": "Limited.\n+2 Income.",
+            "deckLimit": 3
+        },
+        {
+            "code": "09019",
+            "type": "location",
+            "name": "Jousting Pavilion",
+            "unique": false,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 0,
+            "traits": [
+                "The Reach"
+            ],
+            "text": "Each <i>Knight</i> character you control gets +1 STR while attacking or defending alone.",
+            "deckLimit": 3
+        },
+        {
+            "code": "09020",
+            "type": "attachment",
+            "name": "Queen of the Seven Kingdoms",
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "Title"
+            ],
+            "text": "<i>Lady</i> character only.\nAttached character gains the <i>Queen</i> trait.\n<b>Action</b> Stand attached character and remove it from the challenge to choose a participating character. Stand that character and remove it from the challenge. (Limit once per phase.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "09021",
+            "type": "attachment",
+            "name": "Tourney Lance",
+            "unique": false,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Weapon"
+            ],
+            "text": "<i>Knight</i> character only.\nAttached character gets +1 STR.\nWhile attached character is attacking alone, the defending player cannot declare more than 1 character as a defender.",
+            "deckLimit": 3
+        },
+        {
+            "code": "09022",
+            "type": "event",
+            "name": "Melee at Bitterbridge",
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": "X",
+            "traits": [],
+            "text": "<b>Action:</b> Choose X participating characters. Each character with the highest STR among those characters gains renown until the end of the challenge. Each other chosen character does not contribute its STR to the challenge.",
+            "deckLimit": 3
+        },
+        {
+            "code": "09023",
+            "type": "event",
+            "name": "\"Six Maids in a Pool\"",
+            "faction": "tyrell",
+            "loyal": true,
+            "cost": 2,
+            "traits": [
+                "Song"
+            ],
+            "text": "<b>Action:</b> Draw 1 card for each <i>Lady</i> character you control.",
+            "deckLimit": 3
+        },
+        {
+            "code": "09024",
+            "type": "event",
+            "name": "Hidden Thorns",
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 1,
+            "traits": [],
+            "text": "<b>Reaction:</b> After you win an [intrigue] challenge by 5 or more STR, the losing opponent chooses and discards 2 cards from his or her hand. Then, if you control The Queen of Thorns, return Hidden Thorns to your hand instead of placing it in your discard pile. (Max 1 per challenge.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "09025",
+            "type": "character",
+            "name": "River Runner",
+            "unique": false,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Ally",
+                "Smuggler"
+            ],
+            "text": "While River Runner is attacking, each character with power cannot be declared as a defender.",
+            "deckLimit": 3
+        },
+        {
+            "code": "09026",
+            "type": "event",
+            "name": "Bend the Knee",
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 1,
+            "traits": [],
+            "text": "Play only if you control a standing <i>King</i> character.\n<b>Action:</b> Choose and kneel a <i>Lord</i> or <i>Lady</i> character.",
+            "deckLimit": 3
+        },
+        {
+            "code": "09027",
+            "type": "character",
+            "name": "Drowned God's Apostle",
+            "unique": false,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Drowned God",
+                "Ironborn"
+            ],
+            "text": "<b>Reaction:</b> After you win dominance, kill Drowned God's Apostle to put a non-unique [greyjoy] character with printed cost 3 or lower into play from your dead pile.",
+            "deckLimit": 3
+        },
+        {
+            "code": "09028",
+            "type": "location",
+            "name": "Corpse Lake",
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "Iron Islands"
+            ],
+            "text": "<b>Reaction:</b> After a character is discarded from an opponent's deck, Corpse Lake gains 1 power. (Limit 3 times per round.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "09029",
+            "type": "character",
+            "name": "The Hound",
+            "unique": true,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "House Clegane",
+                "Kingsguard"
+            ],
+            "text": "No attachments except <i>Weapon</i>.\n<b>Reaction:</b> After The Hound enters play, choose a <i>Knight</i> character without attachments and return it to its owner's hand.",
+            "deckLimit": 3
+        },
+        {
+            "code": "09030",
+            "type": "attachment",
+            "name": "Lion's Tooth",
+            "unique": true,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Weapon"
+            ],
+            "text": "Unique [lannister] character only. Ambush (2).\nAttached character gets +1 STR.\n<b>Action:</b> During a challenge in which attached character is participating, sacrifice Lion’s Tooth to choose a participating character with printed cost 3 or lower and return it to its owner’s hand.",
+            "deckLimit": 3
+        },
+        {
+            "code": "09031",
+            "type": "character",
+            "name": "The Bastard of Godsgrace",
+            "unique": true,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 4,
+            "traits": [
+                "Bastard",
+                "Knight"
+            ],
+            "text": "Renown.\n<b>Challenges Action:</b> Discard 1 power from The Bastard of Godsgrace to reduce the cost of the next card you play or ambush this phase by 2.",
+            "deckLimit": 3
+        },
+        {
+            "code": "09032",
+            "type": "location",
+            "name": "Hellholt",
+            "unique": true,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "Dorne",
+                "House Uller",
+                "Stronghold"
+            ],
+            "text": "<b>Reaction:</b> After you lose a challenge by 5 or more STR, Hellholt gains 1 power.",
+            "deckLimit": 3
+        },
+        {
+            "code": "09033",
+            "type": "character",
+            "name": "Small Paul",
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 5,
+            "traits": [
+                "Steward"
+            ],
+            "text": "No attachments except <i>Weapon</i>.\n<b>Interrupt:</b> When Small Paul is killed, search the top X cards of your deck for any number of <i>Steward</i> characters, reveal them, and add them to your hand. X is your reserve value. Shuffle your deck.",
+            "deckLimit": 3
+        },
+        {
+            "code": "09034",
+            "type": "event",
+            "name": "Broken Vows",
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 1,
+            "traits": [],
+            "text": "<b>Marshaling Action:</b> Give control of a [thenightswatch] character you control to an opponent. Then, take control of a non-loyal character that player controls with a lower printed cost.",
+            "deckLimit": 3
+        },
+        {
+            "code": "09035",
+            "type": "character",
+            "name": "Ser Dontos Hollard",
+            "unique": true,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Fool",
+                "Knight"
+            ],
+            "text": "No attachments except <i>Weapon</i>.\n<b>Interrupt:</b> When a <i>Lady</i> character would be killed or discarded from play, stand Ser Dontos Hollard to save that character.",
+            "deckLimit": 3
+        },
+        {
+            "code": "09036",
+            "type": "location",
+            "name": "Last Hearth",
+            "unique": true,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "House Umber",
+                "The North"
+            ],
+            "text": "<b>Action:</b> Kneel Last Hearth to give a participating [stark] character +2 STR until the end of the challenge. (+3 STR instead if there are fewer than 3 plot cards in your used pile.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "09037",
+            "type": "character",
+            "name": "Qotho",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 5,
+            "traits": [
+                "Bloodrider",
+                "Dothraki"
+            ],
+            "text": "<b>Action:</b> Discard 2 [targaryen] cards from your hand to put Qotho into play from your hand.",
+            "deckLimit": 3
+        },
+        {
+            "code": "09038",
+            "type": "attachment",
+            "name": "Tokar",
+            "unique": false,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Item"
+            ],
+            "text": "[targaryen] character only.\nAttached character gets +1 STR for each attachment it has.\nWhile attached character is participating in a challenge, each character without attachments cannot gain power.",
+            "deckLimit": 3
+        },
+        {
+            "code": "09039",
+            "type": "character",
+            "name": "Archmaester Ebrose",
+            "unique": true,
+            "faction": "neutral",
+            "cost": 5,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Maester"
+            ],
+            "text": "<b>Action:</b> Kneel a <i>Maester</i> character to choose and stand another <i>Maester</i> character. (Limit once per phase.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "09040",
+            "type": "character",
+            "name": "Faceless Man",
+            "unique": false,
+            "faction": "neutral",
+            "cost": 4,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [],
+            "text": "Ambush (4).\n<b>Challenges Action:</b> Choose a character in a dead pile. Until the end of the phase, Faceless Man gains each of that character's printed challenge icons, keywords, faction affiliations, and <i>Traits</i>. (Limit once per phase.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "09041",
+            "type": "character",
+            "name": "Citadel Novice",
+            "unique": false,
+            "faction": "neutral",
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 1,
+            "traits": [
+                "Maester"
+            ],
+            "text": "<b>Reaction:</b> After Citadel Novice is knelt, reveal the top card of your deck. If it is an attachment or a <i>Maester</i> character, draw it. (Limit once per phase.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "09042",
+            "type": "location",
+            "name": "The Citadel",
+            "unique": true,
+            "faction": "neutral",
+            "cost": 2,
+            "traits": [
+                "Citadel",
+                "Oldtown"
+            ],
+            "text": "<b>Action:</b> Kneel The Citadel to search the top 10 cards of your deck for a <i>Maester</i> character, reveal it, and add it to your hand. Shuffle your deck.",
+            "deckLimit": 3
+        },
+        {
+            "code": "09043",
+            "type": "attachment",
+            "name": "Strangler",
+            "unique": false,
+            "faction": "neutral",
+            "cost": 2,
+            "traits": [
+                "Condition",
+                "Poison"
+            ],
+            "text": "Terminal.\nWhile attached character is participating in a challenge, set its STR to 1. <em>(Other modifiers do not raise or lower its STR.)</em>",
+            "deckLimit": 3
+        },
+        {
+            "code": "09044",
+            "type": "event",
+            "name": "Words Are Wind",
+            "faction": "neutral",
+            "cost": 0,
+            "traits": [],
+            "text": "<b>Interrupt:</b> When the effects of an opponent's event would initiate, that opponent must choose, either: cancel those effects, or you draw 2 cards.",
+            "deckLimit": 3
+        },
+        {
+            "code": "09045",
+            "type": "agenda",
+            "name": "The Conclave",
+            "faction": "neutral",
+            "traits": [
+                "Citadel",
+                "Conclave"
+            ],
+            "text": "Your deck may include non-loyal <i>Maester</i> characters from any faction. Your deck must include at least 12 <i>Maester</i> characters. Before placing setup cards, place the top 7 cards of your deck facedown under this agenda.\n<b>Reaction:</b> After you win a challenge in which you control a participating <i>Maester</i> character, choose 1 card under this agenda and switch it with the top card of your deck.",
+            "deckLimit": 1
+        },
+        {
+            "code": "09046",
+            "type": "plot",
+            "name": "Wardens of the South",
+            "faction": "tyrell",
+            "loyal": true,
+            "plotStats": {
+                "income": 4,
+                "initiative": 4,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "Summer"
+            ],
+            "text": "<b>Reaction:</b> After a [tyrell] character you control is declared as an attacker or defender, that character gets +2 STR until the end of the challenge.",
+            "deckLimit": 1
+        },
+        {
+            "code": "09047",
+            "type": "plot",
+            "name": "Besieged",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 5,
+                "initiative": 6,
+                "claim": 1,
+                "reserve": 5
+            },
+            "traits": [
+                "Siege",
+                "War"
+            ],
+            "text": "At least one character must be declared as a defender in each challenge, if able.",
+            "deckLimit": 2
+        },
+        {
+            "code": "09048",
+            "type": "plot",
+            "name": "Your King Commands It",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 6,
+                "initiative": 1,
+                "claim": 1,
+                "reserve": 5
+            },
+            "traits": [
+                "Edict",
+                "Noble"
+            ],
+            "text": "Each non-<i>King</i>, non-<i>Queen</i> character cannot gain power.",
+            "deckLimit": 1
+        },
+        {
+            "code": "09049",
+            "type": "plot",
+            "name": "The Spider's Web",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 3,
+                "initiative": 5,
+                "claim": 1,
+                "reserve": 4
+            },
+            "traits": [
+                "Scheme"
+            ],
+            "text": "<b>Reaction:</b> After claim is applied for an [intrigue] challenge you won, you may initiate an additional [intrigue] challenge this phase. Until the end of the phase, raise the claim value on your revealed plot card by 1 during [intrigue] challenges. (Limit once per phase.)",
+            "deckLimit": 2
+        },
+        {
+            "code": "09050",
+            "type": "plot",
+            "name": "Now It Comes To War",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 3,
+                "initiative": 3,
+                "claim": 1,
+                "reserve": 4
+            },
+            "traits": [
+                "War"
+            ],
+            "text": "<b>Forced Interrupt:</b> When claim is applied for an [intrigue] or [power] challenge, the attacking player may choose to apply [military] claim instead.",
+            "deckLimit": 1
+        },
+        {
+            "code": "09051",
+            "type": "plot",
+            "name": "Trade Routes",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 2,
+                "initiative": 2,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "Kingdom",
+                "Summer"
+            ],
+            "text": "<b>When Revealed:</b> Choose an opponent. Gain 1 gold for each location you control and each location that opponent controls.",
+            "deckLimit": 2
+        },
+        {
+            "code": "09052",
+            "type": "plot",
+            "name": "Nothing Burns Like The Cold",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 4,
+                "initiative": 7,
+                "claim": 1,
+                "reserve": 5
+            },
+            "traits": [
+                "Winter"
+            ],
+            "text": "<b>When Revealed:</b> Each player chooses an attachment and a non-limited location he or she controls, if able, and discards each of those cards from play (cannot be saved).",
+            "deckLimit": 1
+        }
+    ]
+}

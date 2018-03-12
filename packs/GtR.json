@@ -1,0 +1,338 @@
+{
+    "cgdbId": 17,
+    "code": "GtR",
+    "name": "Guarding the Realm",
+    "releaseDate": "2017-05-04",
+    "cards": [
+        {
+            "code": "06021",
+            "type": "character",
+            "name": "Bear Island Host",
+            "unique": false,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Army",
+                "House Mormont"
+            ],
+            "text": "Bestow (3). No attachments.\n<b>Action:</b> Discard 1 gold from Bear Island Host to choose a <i>House Mormont</i> character. Until the end of the phase, that character does not kneel when declared as an attacker in a [military] challenge.",
+            "deckLimit": 3
+        },
+        {
+            "code": "06022",
+            "type": "attachment",
+            "name": "Marriage Pact",
+            "unique": false,
+            "faction": "stark",
+            "loyal": true,
+            "cost": 3,
+            "traits": [
+                "Condition"
+            ],
+            "text": "Terminal.\nAttached character cannot participate in challenges against you.\n<b>Forced Interrupt:</b> When attached character leaves play, sacrifice a character you control.",
+            "deckLimit": 3
+        },
+        {
+            "code": "06023",
+            "type": "character",
+            "name": "Knight of the Reach",
+            "unique": false,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Knight"
+            ],
+            "text": "<b>Reaction:</b> After you win a challenge in which Knight of the Reach is attacking or defending alone, choose a <i>Lady</i> character. That character gains 1 power.",
+            "deckLimit": 3
+        },
+        {
+            "code": "06024",
+            "type": "event",
+            "name": "\"Lord Renly's Ride\"",
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Song"
+            ],
+            "text": "<b>Action:</b> Choose a character. Until the end of the phase, that character gets +X STR and gains intimidate. X is the printed STR of the top character in your dead pile.",
+            "deckLimit": 3
+        },
+        {
+            "code": "06025",
+            "type": "character",
+            "name": "Gilly",
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 1,
+            "traits": [
+                "Wildling"
+            ],
+            "text": "Bestow (3).\n<b>Action:</b> Discard 1 gold from Gilly to choose a <i>Steward</i> character you control. Until the end of the phase, that character gains stealth.",
+            "deckLimit": 3
+        },
+        {
+            "code": "06026",
+            "type": "event",
+            "name": "Guarding the Realm",
+            "faction": "thenightswatch",
+            "loyal": true,
+            "cost": 2,
+            "traits": [],
+            "text": "<b>Marshaling Action:</b> Choose a character with printed cost 3 or lower in an opponent's discard pile, and put it into play under your control.\n<b>Reaction:</b> After you win a challenge as the defending player, pay 1 gold to return Guarding the Realm from your discard pile to your hand.",
+            "deckLimit": 3
+        },
+        {
+            "code": "06027",
+            "type": "character",
+            "name": "Melisandre",
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": true,
+            "cost": 7,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 6,
+            "traits": [
+                "Lady",
+                "R'hllor"
+            ],
+            "text": "Insight.\n<b>Reaction:</b> After you win dominance, choose an opponent and look at his or her hand. Then, choose and discard 1 card from that hand. If that card is a character, place it in its owner's dead pile.",
+            "deckLimit": 3
+        },
+        {
+            "code": "06028",
+            "type": "attachment",
+            "name": "Light of the Lord",
+            "unique": false,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "Blessing",
+                "R'hllor"
+            ],
+            "text": "[baratheon] or <i>R'hllor</i> character only.\n<b>Reaction:</b> After the dominance phase begins, stand attached character and gain 1 gold.",
+            "deckLimit": 3
+        },
+        {
+            "code": "06029",
+            "type": "character",
+            "name": "Polliver",
+            "unique": true,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Ally"
+            ],
+            "text": "Pillage.\n<b>Reaction:</b> After Polliver discards a character using pillage, return 2 gold from the losing opponent's gold pool to the treasury.",
+            "deckLimit": 3
+        },
+        {
+            "code": "06030",
+            "type": "location",
+            "name": "The Hand's Solar",
+            "unique": true,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "King's Landing"
+            ],
+            "text": "<b>Action:</b> Kneel The Hand's Solar to choose a character. Until the end of the phase, that character gains an [intrigue] icon.",
+            "deckLimit": 3
+        },
+        {
+            "code": "06031",
+            "type": "character",
+            "name": "Wex Pyke",
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Bastard",
+                "House Botley"
+            ],
+            "text": "Bestow (8).\nWhile Wex Pyke is attacking, each character with printed cost X cannot be declared as a defender. X is the number of gold Wex Pyke has.\n<b>Dominance Action:</b> Move 1 gold from your gold pool to Wex Pyke. (Limit twice per phase.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "06032",
+            "type": "location",
+            "name": "Iron Islands Market",
+            "unique": false,
+            "faction": "greyjoy",
+            "loyal": true,
+            "cost": 2,
+            "traits": [
+                "Iron Islands"
+            ],
+            "text": "Limited.\n<b>Marshaling Action:</b> Kneel Iron Islands Market to gain 1 gold. (2 gold instead if an opponent has 8 or more cards in his or her discard pile.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "06033",
+            "type": "character",
+            "name": "Second Sons",
+            "unique": false,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 6,
+            "traits": [
+                "Mercenary"
+            ],
+            "text": "Bestow (3).\n<b>Forced Interrupt:</b> When the challenges phase ends, sacrifice Second Sons unless you discard 1 gold from it.",
+            "deckLimit": 3
+        },
+        {
+            "code": "06034",
+            "type": "event",
+            "name": "A Dragon Is No Slave",
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 2,
+            "traits": [],
+            "text": "<b>Challenges Action:</b> Choose a character without attachments. That character gets -2 STR until the end of the phase.\n<b>Reaction:</b> After you win a challenge in which you control a participating <i>Dragon</i> character or Daenerys Targaryen, pay 1 gold to return A Dragon Is No Slave from your discard pile to your hand.",
+            "deckLimit": 3
+        },
+        {
+            "code": "06035",
+            "type": "character",
+            "name": "Orphan of the Greenblood",
+            "unique": false,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "Ally"
+            ],
+            "text": "Bestow (3).\n<b>Action:</b> Discard 1 gold from Orphan of the Greenblood to return another character you control to its owner's hand.",
+            "deckLimit": 3
+        },
+        {
+            "code": "06036",
+            "type": "location",
+            "name": "Scorching Deserts",
+            "unique": false,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Dorne"
+            ],
+            "text": "<b>Reaction:</b> After a character with fewer than 2 challenge icons is declared as an attacker or defender, kneel and sacrifice Scorching Deserts to remove that character from the challenge.",
+            "deckLimit": 3
+        },
+        {
+            "code": "06037",
+            "type": "character",
+            "name": "Black Walder",
+            "unique": true,
+            "faction": "neutral",
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "House Frey"
+            ],
+            "text": "Bestow (3).\nDuring the third challenge you initiate each phase, Black Walder gains renown and gets +2 STR for each gold he has.",
+            "deckLimit": 3
+        },
+        {
+            "code": "06038",
+            "type": "location",
+            "name": "Great Hall",
+            "unique": false,
+            "faction": "neutral",
+            "cost": 1,
+            "traits": [
+                "Westeros"
+            ],
+            "text": "Limited.\n<b>Marshaling Action:</b> Kneel Great Hall to reduce the cost of the next unique character you marshal this phase by 1. (By 2 instead if that character's printed cost is 6 or higher.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "06039",
+            "type": "event",
+            "name": "\"The Dornishman's Wife\"",
+            "faction": "neutral",
+            "cost": 1,
+            "traits": [
+                "Song"
+            ],
+            "text": "<b>Action:</b> Choose an opponent. If that player has a higher power total than you, gain 2 gold. If that player has more cards in his or her hand than you, gain 1 power for your faction. If that player controls more characters than you, draw 1 card.",
+            "deckLimit": 3
+        },
+        {
+            "code": "06040",
+            "type": "plot",
+            "name": "The Annals of Castle Black",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 4,
+                "initiative": 4,
+                "claim": 1,
+                "reserve": 7
+            },
+            "traits": [
+                "Legacy"
+            ],
+            "text": "Each player may play events in his or her discard pile as if they were in his or her hand.\n<b>Forced Reaction:</b> After an event is placed in a discard pile, remove it from the game.",
+            "deckLimit": 2
+        }
+    ]
+}

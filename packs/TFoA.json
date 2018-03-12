@@ -1,0 +1,342 @@
+{
+    "cgdbId": 18,
+    "code": "TFoA",
+    "name": "The Fall of Astapor",
+    "releaseDate": "2017-06-01",
+    "cards": [
+        {
+            "code": "06041",
+            "type": "character",
+            "name": "Roaming Wolfpack",
+            "unique": false,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 6,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 6,
+            "traits": [
+                "Direwolf"
+            ],
+            "text": "Intimidate. No attachments.\nWhile Roaming Wolfpack is attacking, each attacking <i>Direwolf</i> character gets +2 STR.",
+            "deckLimit": 3
+        },
+        {
+            "code": "06042",
+            "type": "event",
+            "name": "The North Remembers",
+            "faction": "stark",
+            "loyal": true,
+            "cost": 2,
+            "traits": [],
+            "text": "<b>Challenges Action:</b> Each player sacrifices a character or location.\n<b>Reaction:</b> After a character you control is killed, pay 1 gold to return The North Remembers from your discard pile to your hand.",
+            "deckLimit": 3
+        },
+        {
+            "code": "06043",
+            "type": "character",
+            "name": "Elinor Tyrell",
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Lady"
+            ],
+            "text": "You may marshal or play 1 additional limited card each round.",
+            "deckLimit": 3
+        },
+        {
+            "code": "06044",
+            "type": "attachment",
+            "name": "Silver Hair Net",
+            "unique": false,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "Item"
+            ],
+            "text": "<i>Lady</i> character only.\nAttached character gains stealth.\nWhile attached character is participating in a challenge, reduce the cost of each event you play by 1.",
+            "deckLimit": 3
+        },
+        {
+            "code": "06045",
+            "type": "character",
+            "name": "Recruiter for the Watch",
+            "unique": false,
+            "faction": "thenightswatch",
+            "loyal": true,
+            "cost": 4,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Wandering Crow"
+            ],
+            "text": "You may choose not to stand Recruiter for the Watch during the standing phase.\n<b>Marshaling Action:</b> Kneel Recruiter for the Watch to choose a character with printed cost 2 or lower. Take control of that character until Recruiter for the Watch stands or leaves play.",
+            "deckLimit": 3
+        },
+        {
+            "code": "06046",
+            "type": "location",
+            "name": "Underground Vault",
+            "unique": false,
+            "faction": "thenightswatch",
+            "loyal": true,
+            "cost": 2,
+            "traits": [
+                "The North"
+            ],
+            "text": "Limited.\n<b>Marshaling Action:</b> Kneel Underground Vault to gain 1 gold. (2 gold instead if the gold value on an opponent's revealed plot card is 5 or higher.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "06047",
+            "type": "character",
+            "name": "Flea Bottom Bastard",
+            "unique": false,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 1,
+            "traits": [
+                "Bastard"
+            ],
+            "text": "During the dominance phase, Flea Bottom Bastard gets +3 STR.",
+            "deckLimit": 3
+        },
+        {
+            "code": "06048",
+            "type": "location",
+            "name": "Spears of the Merling King",
+            "unique": false,
+            "faction": "baratheon",
+            "loyal": true,
+            "cost": 1,
+            "traits": [
+                "Westeros"
+            ],
+            "text": "<b>Interrupt:</b> When a character you control is killed, sacrifice Spears of the Merling King to return that character to your hand instead of placing it in your dead pile.",
+            "deckLimit": 3
+        },
+        {
+            "code": "06049",
+            "type": "character",
+            "name": "Cersei's Attendant",
+            "unique": false,
+            "faction": "lannister",
+            "loyal": true,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Companion"
+            ],
+            "text": "While Cersei's Attendant is participating in a challenge against an opponent with no cards in his or her hand, Cersei's Attendant gains insight.",
+            "deckLimit": 3
+        },
+        {
+            "code": "06050",
+            "type": "attachment",
+            "name": "Fever Dreams",
+            "unique": false,
+            "faction": "lannister",
+            "loyal": true,
+            "cost": 1,
+            "traits": [
+                "Dream"
+            ],
+            "text": "Opponent's character only. Bestow (3).\n<b>Reaction:</b> After attached character is knelt, discard 1 gold from Fever Dreams to draw 2 cards.",
+            "deckLimit": 3
+        },
+        {
+            "code": "06051",
+            "type": "character",
+            "name": "Theon Greyjoy",
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "Ironborn",
+                "Lord"
+            ],
+            "text": "While Theon Greyjoy is attacking alone, each character with a higher STR than his does not contribute its STR to the challenge.",
+            "deckLimit": 3
+        },
+        {
+            "code": "06052",
+            "type": "attachment",
+            "name": "Corsair's Dirk",
+            "unique": false,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Weapon"
+            ],
+            "text": "<i>Ironborn</i> character only.\nAttached character gets +2 STR.\n<b>Reaction:</b> After you win a challenge in which attached character is attacking, move 1 gold from the losing opponent's gold pool to your own.",
+            "deckLimit": 3
+        },
+        {
+            "code": "06053",
+            "type": "character",
+            "name": "Grey Worm",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 6,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 5,
+            "traits": [
+                "Companion"
+            ],
+            "text": "No attachments except <i>Weapon</i>.\n<b>Action:</b> During a challenge in which Grey Worm is attacking, choose a defending character. Until the end of the challenge, that character gets -3 STR. (Limit once per challenge.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "06054",
+            "type": "location",
+            "name": "Astapor",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 1,
+            "traits": [
+                "Astapor",
+                "Contested"
+            ],
+            "text": "Bestow (4).\n<b>Action:</b> Kneel Astapor to choose a participating character. Until the end of the challenge, that character gets -X STR. X is the number of gold Astapor has.",
+            "deckLimit": 3
+        },
+        {
+            "code": "06055",
+            "type": "character",
+            "name": "Maester of Sunspear",
+            "unique": false,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Maester"
+            ],
+            "text": "<b>Reaction:</b> After you lose a challenge in which Maester of Sunspear is participating, choose an attachment and return it to its owner's hand.",
+            "deckLimit": 3
+        },
+        {
+            "code": "06056",
+            "type": "location",
+            "name": "Dornish Fiefdom",
+            "unique": false,
+            "faction": "martell",
+            "loyal": true,
+            "cost": 2,
+            "traits": [
+                "Dorne"
+            ],
+            "text": "Limited.\n<b>Marshaling Action:</b> Kneel Dornish Fiefdom to gain 1 gold. (2 gold instead if you are not the first player.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "06057",
+            "type": "character",
+            "name": "Frey Lordling",
+            "unique": false,
+            "faction": "neutral",
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "House Frey",
+                "Lord"
+            ],
+            "text": "<b>Reaction:</b> After you initiate a challenge, Frey Lordling gets +1 STR until the end of the phase.",
+            "deckLimit": 3
+        },
+        {
+            "code": "06058",
+            "type": "location",
+            "name": "The Twins",
+            "unique": true,
+            "faction": "neutral",
+            "cost": 2,
+            "traits": [
+                "House Frey",
+                "The Riverlands"
+            ],
+            "text": "During the third challenge you initiate each phase, if you control an attacking <i>House Frey</i> character, raise the claim value on your revealed plot card by 1.",
+            "deckLimit": 3
+        },
+        {
+            "code": "06059",
+            "type": "event",
+            "name": "Lay Siege",
+            "faction": "neutral",
+            "cost": 1,
+            "traits": [
+                "Siege"
+            ],
+            "text": "<b>Action:</b> Choose and kneel a location. Then, if that location is <i>Contested</i>, discard it from play.",
+            "deckLimit": 3
+        },
+        {
+            "code": "06060",
+            "type": "plot",
+            "name": "Duel",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 4,
+                "initiative": 5,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "War"
+            ],
+            "text": "<b>When Revealed:</b> Choose an opponent. That player chooses 2 non-<i>Army</i> characters, each with printed cost 6 or higher. Then, that player chooses and kneels 1 of those characters. Kill the other (cannot be saved).",
+            "deckLimit": 1
+        }
+    ]
+}

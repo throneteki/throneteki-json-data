@@ -1,0 +1,347 @@
+{
+    "cgdbId": 26,
+    "code": "FotOG",
+    "name": "Favor of the Old Gods",
+    "releaseDate": "2018-02-15",
+    "cards": [
+        {
+            "code": "08061",
+            "type": "character",
+            "name": "Nymeria",
+            "unique": true,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Direwolf"
+            ],
+            "text": "Intimidate. No attachments.\n<b>Action:</b> During a challenge in which you control a participating [stark] character, kneel Nymeria and any number of other <i>Direwolf</i> characters to have each of those characters participate in the challenge on your side.",
+            "deckLimit": 3
+        },
+        {
+            "code": "08062",
+            "type": "attachment",
+            "name": "Favor of the Old Gods",
+            "unique": true,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "Blessing",
+                "Old Gods"
+            ],
+            "text": "Attached character gains the <i>Old Gods</i> trait.\n<b>Action:</b> If each character, location and attachment you control has the [stark] affiliation, kneel Favor of the Old Gods to stand attached character.",
+            "deckLimit": 3
+        },
+        {
+            "code": "08063",
+            "type": "character",
+            "name": "Hightower Spy",
+            "unique": false,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "House Hightower",
+                "Spy"
+            ],
+            "text": "Ambush (3).\n<b>Reaction:</b> After Hightower Spy enters play, choose a character and reveal the top card of your deck. Until the end of the phase, that character gets +X STR. X is the printed cost of the revealed card.",
+            "deckLimit": 3
+        },
+        {
+            "code": "08064",
+            "type": "attachment",
+            "name": "Blessed by the Maiden",
+            "unique": false,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "Blessing",
+                "The Seven"
+            ],
+            "text": "Character you control only.\nAttached character gains <i>The Seven</i> trait and \"No attachments except <i>Blessing.</i>\"",
+            "deckLimit": 3
+        },
+        {
+            "code": "08065",
+            "type": "character",
+            "name": "Garrison on the Wall",
+            "unique": false,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 6,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 6,
+            "traits": [
+                "Army"
+            ],
+            "text": "No attachments.\n<b>Reaction:</b> After Garrison on the Wall is declared as a defender, kneel a non-[thenightswatch] character to stand Garrison on the Wall.",
+            "deckLimit": 3
+        },
+        {
+            "code": "08066",
+            "type": "attachment",
+            "name": "Obsidian Arrows",
+            "unique": false,
+            "faction": "thenightswatch",
+            "loyal": true,
+            "cost": 0,
+            "traits": [
+                "Weapon"
+            ],
+            "text": "Bestow (4).\n<b>Action:</b> While attached character is attacking, move 1 gold from Obsidian Arrows to a defending character to give that character –3 STR until the end of the challenge. (Limit once per challenge.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "08067",
+            "type": "character",
+            "name": "Selyse Baratheon",
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": true,
+            "cost": 6,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Lady",
+                "Queen",
+                "R'hllor"
+            ],
+            "text": "<b>Forced Reaction:</b> After you marshal Selyse Baratheon, kneel your faction card. Then, kneel each non-<i>Lady</i> character.",
+            "deckLimit": 3
+        },
+        {
+            "code": "08068",
+            "type": "location",
+            "name": "Dragonstone Castle",
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": true,
+            "cost": 3,
+            "traits": [
+                "Dragonstone",
+                "Stronghold"
+            ],
+            "text": "<b>Reaction:</b> After a phase begins, kneel Dragonstone Castle to choose a character. Until the end of the phase, that character cannot stand.",
+            "deckLimit": 3
+        },
+        {
+            "code": "08069",
+            "type": "character",
+            "name": "Ser Balon Swann",
+            "unique": true,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 6,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Kingsguard",
+                "Knight"
+            ],
+            "text": "Renown.\n<b>Reaction:</b> After a non-[lannister] Knight character enters play under your control, gain 2 gold. (Limit once per phase.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "08070",
+            "type": "location",
+            "name": "Sweet Cersei",
+            "unique": true,
+            "faction": "lannister",
+            "loyal": true,
+            "cost": 1,
+            "traits": [
+                "Warship"
+            ],
+            "text": "During the challenges phase, you may spend gold on Sweet Cersei as if it were in your gold pool.\n<b>Reaction:</b> After you win an [intrigue] challenge, move 1 gold from the treasury to Sweet Cersei.",
+            "deckLimit": 3
+        },
+        {
+            "code": "08071",
+            "type": "character",
+            "name": "Coastal Reaver",
+            "unique": false,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Raider"
+            ],
+            "text": "<b>Reaction:</b> After Coastal Reaver enters play, choose an opponent. That player chooses a card in his or her hand and places it on top of his or her deck.",
+            "deckLimit": 3
+        },
+        {
+            "code": "08072",
+            "type": "attachment",
+            "name": "Support of Harlaw",
+            "unique": false,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "House Harlaw"
+            ],
+            "text": "<b>Challenges Action:</b> Kneel a <i>Warship</i> location to have attached character gain (choose one): pillage, renown, or stealth until the end of the phase.",
+            "deckLimit": 3
+        },
+        {
+            "code": "08073",
+            "type": "character",
+            "name": "Wise Master",
+            "unique": false,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Ally"
+            ],
+            "text": "Bestow (3).\n<b>Action:</b> Discard 1 gold from Wise Master to return an out-of-faction attachment or event from your discard pile to your hand. (Limit once per round.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "08074",
+            "type": "location",
+            "name": "Yunkai",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Essos"
+            ],
+            "text": "Bestow (4).\n<b>Action:</b> During a challenge in which you are the attacking player, kneel Yunkai and discard X gold from it to remove each character with STR X or lower from the challenge (X cannot be 0). Then, if you win the challenge, place 2 gold from the treasury on Yunkai.",
+            "deckLimit": 3
+        },
+        {
+            "code": "08075",
+            "type": "character",
+            "name": "Planky Town Trader",
+            "unique": false,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 1,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 1,
+            "traits": [
+                "Merchant"
+            ],
+            "text": "Bestow (5).\n<b>Interrupt:</b> When Planky Town Trader leaves play, put a non-[martell] character with printed cost X or lower into play from your hand. X is the number of gold on Planky Town Trader. Until the end of the phase, that character cannot leave play.",
+            "deckLimit": 3
+        },
+        {
+            "code": "08076",
+            "type": "location",
+            "name": "Shandystone",
+            "unique": true,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "Dorne",
+                "Stronghold"
+            ],
+            "text": "<b>Reaction:</b> After you lose a challenge as the defending player, kneel Shandystone to choose and stand a character you control.",
+            "deckLimit": 3
+        },
+        {
+            "code": "08077",
+            "type": "character",
+            "name": "Warrior's Sons",
+            "unique": false,
+            "faction": "neutral",
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "Army",
+                "The Seven"
+            ],
+            "text": "No attachments.\n<b>Reaction:</b> After an opponent plays an event during a challenge in which Warrior’s Sons is participating, move 1 power from that opponent’s faction card to Warrior’s Sons.",
+            "deckLimit": 3
+        },
+        {
+            "code": "08078",
+            "type": "attachment",
+            "name": "Seized by the Guard",
+            "unique": false,
+            "faction": "neutral",
+            "cost": 1,
+            "traits": [
+                "Condition"
+            ],
+            "text": "Non-limited location only. Bestow (4). Terminal.\nTreat attached location as if its printed text box were blank (except for <i>Traits</i>).\n<b>Forced Reaction:</b> After the marshaling phase begins, sacrifice Seized by the Guard unless you discard 1 gold from it.",
+            "deckLimit": 3
+        },
+        {
+            "code": "08079",
+            "type": "agenda",
+            "name": "Greensight",
+            "faction": "neutral",
+            "traits": [],
+            "text": "<b>Forced Reaction:</b> After the draw phase begins, reveal the top card of each player's deck. You may kneel your faction card to discard those cards.",
+            "deckLimit": 1
+        },
+        {
+            "code": "08080",
+            "type": "plot",
+            "name": "The King in the North",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 5,
+                "initiative": 2,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "Kingdom"
+            ],
+            "text": "While a player does not control a <i>King</i> character, he or she cannot trigger abilities on characters, locations, or attachments.",
+            "deckLimit": 1
+        }
+    ]
+}

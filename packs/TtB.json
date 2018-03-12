@@ -1,0 +1,340 @@
+{
+    "cgdbId": 2,
+    "code": "TtB",
+    "name": "Taking the Black",
+    "releaseDate": "2015-12-09",
+    "cards": [
+        {
+            "code": "02001",
+            "type": "character",
+            "name": "Will",
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": true,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Ranger"
+            ],
+            "text": "Stealth. Insight.\n<b>Forced Reaction:</b> After you lose an unopposed challenge, sacrifice a <i>Ranger</i> character you control.",
+            "deckLimit": 3
+        },
+        {
+            "code": "02002",
+            "type": "event",
+            "name": "The Watch Has Need",
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 1,
+            "traits": [],
+            "text": "<b>Action:</b> Name a trait: <i>Builder</i>, <i>Ranger</i>, or <i>Steward</i>. Search the top X cards of your deck for any number of characters with that trait, reveal them, and add them to your hand. Shuffle the other cards back into your deck. X is your reserve value.",
+            "deckLimit": 3
+        },
+        {
+            "code": "02003",
+            "type": "character",
+            "name": "Maester Luwin",
+            "unique": true,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "Maester"
+            ],
+            "text": "While you control:\n- Robb Stark, he gains insight.\n- Jon Snow, he gains stealth.\n- Bran Stark, he gains: \"immune to opponents' plot effects.\"\n- Rickon Stark, he gains pillage.",
+            "deckLimit": 3
+        },
+        {
+            "code": "02004",
+            "type": "attachment",
+            "name": "Lady",
+            "unique": true,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Direwolf"
+            ],
+            "text": "[stark] character only. Terminal.\nAttached character gets +2 STR.\n<b>Action:</b> Pay 1 gold to attach Lady to a different character. Then, if attached character is Sansa Stark, stand her. (Limit once per phase.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "02005",
+            "type": "character",
+            "name": "Arbor Knight",
+            "unique": false,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 1,
+            "traits": [
+                "House Redwyne",
+                "Knight"
+            ],
+            "text": "<b>Challenges Action:</b> Pay 1 gold to choose a participating <i>House Redwyne</i> character. Until the end of the challenge, that character gets +1 STR. (Limit 3 times per phase.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "02006",
+            "type": "location",
+            "name": "Pleasure Barge",
+            "unique": false,
+            "faction": "tyrell",
+            "loyal": true,
+            "cost": 0,
+            "traits": [
+                "Barge"
+            ],
+            "text": "Immune to card effects.\n<b>Reaction:</b> After you marshal Pleasure Barge, if you have not yet drawn any cards this phase, draw 3 cards.\n-1 Income",
+            "deckLimit": 3
+        },
+        {
+            "code": "02007",
+            "type": "character",
+            "name": "Renly Baratheon",
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 6,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Lord",
+                "Small Council"
+            ],
+            "text": "Reduce the cost of the first non-[baratheon] character you marshal each round by 1.",
+            "deckLimit": 3
+        },
+        {
+            "code": "02008",
+            "type": "attachment",
+            "name": "King Robert's Warhammer",
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "Weapon"
+            ],
+            "text": "Attached character gets +1 STR.\n<b>Reaction:</b> After you win a challenge in which attached character is participating as an attacker, choose and kneel up to X total STR worth of characters, where X is attached character's STR. Then, sacrifice King Robert's Warhammer.",
+            "deckLimit": 3
+        },
+        {
+            "code": "02009",
+            "type": "character",
+            "name": "The Hound",
+            "unique": true,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 6,
+            "traits": [
+                "House Clegane"
+            ],
+            "text": "Ambush (4).\n<b>Forced Reaction:</b> After you win a challenge in which The Hound is participating, you may discard 1 card at random from your hand. If you do not, return The Hound to your hand.",
+            "deckLimit": 3
+        },
+        {
+            "code": "02010",
+            "type": "location",
+            "name": "Cersei's Wheelhouse",
+            "unique": true,
+            "faction": "lannister",
+            "loyal": true,
+            "cost": 1,
+            "traits": [
+                "Vehicle"
+            ],
+            "text": "<b>Reaction:</b> After you become the first player, either: gain 1 gold, or draw 1 card.\n-1 Initiative",
+            "deckLimit": 3
+        },
+        {
+            "code": "02011",
+            "type": "location",
+            "name": "The Seastone Chair",
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": true,
+            "cost": 1,
+            "traits": [
+                "Iron Islands"
+            ],
+            "text": "<b>Interrupt:</b> When claim is applied for an unopposed [military] challenge in which you are the attacking player, kneel your faction card to choose a character without attachments, controlled by the losing opponent. Instead of the normal claim effects, kill that character.",
+            "deckLimit": 3
+        },
+        {
+            "code": "02012",
+            "type": "plot",
+            "name": "Rise of the Kraken",
+            "faction": "greyjoy",
+            "loyal": true,
+            "plotStats": {
+                "income": 2,
+                "initiative": 8,
+                "claim": 2,
+                "reserve": 5
+            },
+            "traits": [
+                "War"
+            ],
+            "text": "<b>Interrupt:</b> When you gain power for winning an unopposed challenge, gain 2 power instead.",
+            "deckLimit": 1
+        },
+        {
+            "code": "02013",
+            "type": "character",
+            "name": "Merchant Prince",
+            "unique": false,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Companion"
+            ],
+            "text": "While Merchant Prince has an attachment, he gets +1 STR and gains a [military] icon.",
+            "deckLimit": 3
+        },
+        {
+            "code": "02014",
+            "type": "location",
+            "name": "Vaes Dothrak",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 1,
+            "traits": [
+                "Essos"
+            ],
+            "text": "<b>Reaction:</b> After you reveal a plot card, discard an attachment from your hand to choose an attachment with equal or lower printed cost, and discard it from play.",
+            "deckLimit": 3
+        },
+        {
+            "code": "02015",
+            "type": "character",
+            "name": "Bastard Daughter",
+            "unique": false,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 1,
+            "traits": [
+                "Bastard",
+                "Sand Snake"
+            ],
+            "text": "<b>Interrupt:</b> When Bastard Daughter or The Red Viper is killed, discard 1 card at random from each opponent's hand.",
+            "deckLimit": 3
+        },
+        {
+            "code": "02016",
+            "type": "plot",
+            "name": "The Long Plan",
+            "faction": "martell",
+            "loyal": true,
+            "plotStats": {
+                "income": 4,
+                "initiative": 3,
+                "claim": 1,
+                "reserve": 8
+            },
+            "traits": [
+                "Scheme"
+            ],
+            "text": "You do not return unspent gold to the treasury during the taxation phase.\n<b>Reaction:</b> After you lose a challenge, gain 1 gold.",
+            "deckLimit": 1
+        },
+        {
+            "code": "02017",
+            "type": "event",
+            "name": "Support of the People",
+            "faction": "neutral",
+            "cost": 1,
+            "traits": [],
+            "text": "<b>Reaction:</b> After you win a [power] challenge by 5 or more STR, search your deck for a location with printed cost 3 or lower, and put it into play. Shuffle your deck. (Max 1 per challenge.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "02018",
+            "type": "location",
+            "name": "Street of the Sisters",
+            "unique": true,
+            "faction": "neutral",
+            "cost": 1,
+            "traits": [
+                "King's Landing"
+            ],
+            "text": "<b>Reaction:</b> After you win a [power] challenge by 5 or more STR, kneel your faction card to gain 1 power for your faction.",
+            "deckLimit": 3
+        },
+        {
+            "code": "02019",
+            "type": "plot",
+            "name": "Muster the Realm",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 4,
+                "initiative": 5,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "Edict"
+            ],
+            "text": "During a challenge in which you control an attacking <i>Army</i> character, raise the claim value on Muster the Realm by 1.",
+            "deckLimit": 2
+        },
+        {
+            "code": "02020",
+            "type": "plot",
+            "name": "Here to Serve",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 3,
+                "initiative": 3,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "Conclave",
+                "Kingdom"
+            ],
+            "text": "<b>When Revealed:</b> Search your deck for a <i>Maester</i> character with printed cost 3 or lower, and put it into play. Shuffle your deck.",
+            "deckLimit": 2
+        }
+    ]
+}

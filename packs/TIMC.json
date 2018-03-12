@@ -1,0 +1,341 @@
+{
+    "cgdbId": 12,
+    "code": "TIMC",
+    "name": "There Is My Claim",
+    "releaseDate": "2016-12-01",
+    "cards": [
+        {
+            "code": "04061",
+            "type": "character",
+            "name": "Jojen Reed",
+            "unique": true,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 1,
+            "traits": [
+                "House Reed"
+            ],
+            "text": "Stealth.\n<b>Reaction:</b> After Jojen Reed stands, reveal the top card of each player's deck. You may either: discard each of those cards, or have each player draw 1 card.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04062",
+            "type": "attachment",
+            "name": "The Wolf King",
+            "unique": true,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "Title"
+            ],
+            "text": "[stark] character only.\nAttached character gains the <i>King</i> trait and does not kneel when declared as an attacker in a [military] challenge.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04063",
+            "type": "character",
+            "name": "King Renly's Host",
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 6,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Army"
+            ],
+            "text": "Intimidate. No attachments.\nWhile there is a <i>Summer</i> plot card revealed, King Renly's Host gets +4 STR.\nWhile there is a <i>Winter</i> plot card revealed, King Renly's Host cannot be declared as an attacker.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04064",
+            "type": "location",
+            "name": "Caswell's Keep",
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "The Reach"
+            ],
+            "text": "<b>Reaction:</b> After you reveal a plot card, choose a player. Look at the top 2 cards of that player's deck. Place 1 of those cards on the bottom of that deck, and the other on top.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04065",
+            "type": "character",
+            "name": "Shadow Tower Mason",
+            "unique": false,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "Builder"
+            ],
+            "text": "No attachments except <i>Weapon</i>.\nWhile you control 3 or more [thenightswatch] locations and/or attachments, Shadow Tower Mason gains a [military] and an [intrigue] icon.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04066",
+            "type": "location",
+            "name": "The Haunted Forest",
+            "unique": false,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "The North"
+            ],
+            "text": "While The Haunted Forest is standing, it contributes 1 STR to your side during any challenge in which you are the defending player.\n<b>Forced Reaction:</b> After you lose a challenge, kneel The Haunted Forest.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04067",
+            "type": "character",
+            "name": "Stannis Baratheon",
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": true,
+            "cost": 7,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 6,
+            "traits": [
+                "King",
+                "Lord"
+            ],
+            "text": "During [power] challenges, each participating non-<i>King</i> character gets -1 STR.\n<b>Reaction:</b> After you win dominance, choose a non-loyal character. That character cannot stand during the standing phase this round.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04068",
+            "type": "attachment",
+            "name": "Red God's Blessing",
+            "unique": false,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "Blessing",
+                "R'hllor"
+            ],
+            "text": "Attached character gains the <i>R'hllor</i> trait and gets +1 STR for each <i>R'hllor</i> character you control.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04069",
+            "type": "character",
+            "name": "Tanda Stokeworth",
+            "unique": true,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Lady"
+            ],
+            "text": "<b>Reaction:</b> After you marshal Tanda Stokeworth, each player gains 3 gold.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04070",
+            "type": "event",
+            "name": "Without His Beard",
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 0,
+            "traits": [],
+            "text": "<b>Reaction:</b> After you win an [intrigue] challenge, discard up to 3 cards at random from the losing opponent's hand. Then, that player draws 2 cards.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04071",
+            "type": "character",
+            "name": "Aeron Damphair",
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 6,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Drowned God",
+                "Ironborn",
+                "Lord"
+            ],
+            "text": "<b>Reaction:</b> After a character is saved, either: stand it, or kneel it.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04072",
+            "type": "location",
+            "name": "King Balon's Solar",
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": true,
+            "cost": 0,
+            "traits": [
+                "Iron Islands"
+            ],
+            "text": "<b>Reaction:</b> After you win initiative, gain 1 gold.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04073",
+            "type": "character",
+            "name": "Pyat Pree",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 6,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Warlock"
+            ],
+            "text": "<b>Reaction:</b> After you win a challenge in which Pyat Pree is participating, search the top X cards of your deck for a [targaryen] attachment or event, reveal it, and add it to your hand. Shuffle your deck. X is the STR by which you won the challenge.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04074",
+            "type": "location",
+            "name": "Vaes Tolorro",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Essos"
+            ],
+            "text": "<b>Interrupt:</b> When a character with 1 or more power is killed, kneel Vaes Tolorro to move 1 power from that character to Vaes Tolorro. (Up to 2 power instead if that character's STR is 0.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "04075",
+            "type": "character",
+            "name": "Elia Sand",
+            "unique": true,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Bastard",
+                "Sand Snake"
+            ],
+            "text": "<b>Reaction:</b> After you lose a challenge, choose a character. Until the end of the phase, that character gains stealth. (Limit twice per phase.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "04076",
+            "type": "event",
+            "name": "Burning on the Sand",
+            "faction": "martell",
+            "loyal": true,
+            "cost": 0,
+            "traits": [],
+            "text": "<b>Reaction:</b> After you lose an unopposed challenge, set the claim value on the winning opponent's revealed plot card to 0 until the end of the challenge.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04077",
+            "type": "character",
+            "name": "Jaqen H'ghar",
+            "unique": true,
+            "faction": "neutral",
+            "cost": 7,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "Ally"
+            ],
+            "text": "<b>Reaction:</b> After Jaqen H'ghar enters play, place a Valar Morghulis token on up to 3 different unique characters. If Jaqen H'ghar leaves play, discard those tokens from play.\n<b>Reaction:</b> After you win a challenge in which Jaqen H'ghar is attacking alone, choose and kill a character with a Valar Morghulis token.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04078",
+            "type": "location",
+            "name": "Isle of Ravens",
+            "unique": true,
+            "faction": "neutral",
+            "cost": 1,
+            "traits": [
+                "Oldtown"
+            ],
+            "text": "<b>Action:</b> Kneel Isle of Ravens to choose a card in any player's discard pile, and shuffle it into its owner's deck.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04079",
+            "type": "attachment",
+            "name": "King Beyond the Wall",
+            "unique": true,
+            "faction": "neutral",
+            "cost": 2,
+            "traits": [
+                "Title"
+            ],
+            "text": "<i>Wildling</i> character only.\nAttached character gains the <i>King</i> trait.\nWhile attached character is attacking a player with a higher power total than you, raise the claim value on your revealed plot card by 1.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04080",
+            "type": "plot",
+            "name": "Valar Morghulis",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 2,
+                "initiative": 0,
+                "claim": 0,
+                "reserve": 5
+            },
+            "traits": [
+                "Omen"
+            ],
+            "text": "<b>When Revealed:</b> Kill each character.",
+            "deckLimit": 1
+        }
+    ]
+}

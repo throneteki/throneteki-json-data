@@ -1,0 +1,59 @@
+{
+    "cgdbId": 28,
+    "code": "SAT",
+    "name": "Someone Always Tells",
+    "releaseDate": null,
+    "cards": [
+        {
+            "code": "08105",
+            "type": "character",
+            "name": "Septon Cellador",
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": true,
+            "cost": 4,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "The Seven"
+            ],
+            "text": "<b>Challenges Action:</b> Kneel Septon Cellador to choose an opponent. That player must choose and discard a character from his or her hand unless he or she reveals a hand containing no characters.",
+            "deckLimit": 3
+        },
+        {
+            "code": "08115",
+            "type": "character",
+            "name": "Host of the Boneway",
+            "unique": false,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 6,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 4,
+            "traits": [
+                "Army"
+            ],
+            "text": "Intimidate. No attachments.\nHost of the Boneway gets +1 STR for each plot card in your used pile.",
+            "deckLimit": 3
+        },
+        {
+            "code": "08116",
+            "type": "event",
+            "name": "Someone Always Tells",
+            "faction": "martell",
+            "loyal": true,
+            "cost": 2,
+            "traits": [],
+            "text": "<b>Interrupt:</b> When the effects of an opponent's event or triggered plot ability would initiate, cancel those effects.",
+            "deckLimit": 3
+        }
+    ]
+}

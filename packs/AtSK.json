@@ -1,0 +1,348 @@
+{
+    "cgdbId": 9,
+    "code": "AtSK",
+    "name": "Across the Seven Kingdoms",
+    "releaseDate": "2016-07-21",
+    "cards": [
+        {
+            "code": "04001",
+            "type": "event",
+            "name": "The Dragon's Tail",
+            "faction": "neutral",
+            "cost": 0,
+            "traits": [
+                "Omen"
+            ],
+            "text": "<b>Action:</b> Choose an opponent. You and that player each draw 2 cards.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04002",
+            "type": "character",
+            "name": "Robb Stark",
+            "unique": true,
+            "faction": "stark",
+            "loyal": true,
+            "cost": 7,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "King",
+                "Lord"
+            ],
+            "text": "Renown.\nDuring [military] challenges, Robb Stark gets +1 STR for each loyal character you control.\n<b>Action:</b> While Robb Stark is participating in a [military] challenge, choose a participating non-<i>King</i> character. Stand and remove that character from the challenge. (Limit once per challenge.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "04003",
+            "type": "location",
+            "name": "Riverrun",
+            "unique": true,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "House Tully",
+                "The Riverlands"
+            ],
+            "text": "<b>Reaction:</b> After power is gained by or moved to a <i>House Tully</i> character, kneel Riverrun to have that character gain 1 power.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04004",
+            "type": "character",
+            "name": "Ser Colen of Greenpools",
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": true,
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 1,
+            "traits": [
+                "Knight"
+            ],
+            "text": "During [power] challenges, Ser Colen of Greenpools gets +3 STR.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04005",
+            "type": "location",
+            "name": "Bitterbridge Encampment",
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": true,
+            "cost": 3,
+            "traits": [
+                "The Reach"
+            ],
+            "text": "<b>Reaction:</b> After a <i>Summer</i> plot card is revealed, kneel Bitterbridge Encampment. Then, each player may put a character into play from his or her hand.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04006",
+            "type": "character",
+            "name": "Arry",
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": true,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Recruit"
+            ],
+            "text": "Ambush (4).\nIf you control Arya Stark, sacrifice Arry.\n<b>Action:</b> Return Arry to your hand to draw 1 card.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04007",
+            "type": "location",
+            "name": "White Tree",
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": true,
+            "cost": 3,
+            "traits": [
+                "Contested",
+                "The North"
+            ],
+            "text": "<b>Reaction:</b> After an opponent collects income, kneel White Tree to move 1 gold from that player's gold pool to your own.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04008",
+            "type": "character",
+            "name": "White Raven",
+            "unique": false,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 1,
+            "traits": [
+                "Raven"
+            ],
+            "text": "<b>Forced Reaction:</b> After you lose a [power] challenge, sacrifice White Raven.\n<b>Reaction:</b> After you win dominance, if there is a <i>Summer</i> or <i>Winter</i> plot card revealed, gain 1 power for your faction.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04009",
+            "type": "attachment",
+            "name": "Ruby of R'hllor",
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 3,
+            "traits": [
+                "Item",
+                "R'hllor"
+            ],
+            "text": "<i>R'hllor</i> character only.\n<b>Reaction:</b> After you win an [intrigue] challenge in which attached character is attacking, name a card. The losing opponent reveals his or her hand and discards each card with that name.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04010",
+            "type": "character",
+            "name": "Janos Slynt",
+            "unique": true,
+            "faction": "lannister",
+            "loyal": true,
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Mercenary"
+            ],
+            "text": "Intimidate.\n<b>Action:</b> Pay 1 gold to give Janos Slynt +2 STR until the end of the phase.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04011",
+            "type": "event",
+            "name": "Levies at the Rock",
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 0,
+            "traits": [],
+            "text": "<b>Reaction:</b> After a player initiates a challenge against you, move up to X gold from that player's gold pool to your own. X is the number of attacking characters.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04012",
+            "type": "character",
+            "name": "Captain's Daughter",
+            "unique": false,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "Ally"
+            ],
+            "text": "<b>Reaction:</b> After a non-loyal character enters play, kneel your faction card and sacrifice Captain's Daughter to put that character onto the top of it's owner's deck.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04013",
+            "type": "location",
+            "name": "Pyke",
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": true,
+            "cost": 2,
+            "traits": [
+                "Iron Islands"
+            ],
+            "text": "<b>Action:</b> Kneel Pyke to choose a character. Until the end of the phase, that character gains stealth.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04014",
+            "type": "character",
+            "name": "Viserys Targaryen",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 1,
+            "traits": [
+                "King",
+                "Lord"
+            ],
+            "text": "While Viserys Targaryen is attacking, each <i>King</i> character must be declared as a defender, if able.\n<b>Interrupt:</b> When the dominance phase ends, if no opponent controls a <i>King</i> character, Viserys Targaryen gains 1 power.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04015",
+            "type": "event",
+            "name": "Shierak Qiya",
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 0,
+            "traits": [
+                "Omen"
+            ],
+            "text": "<b>Reaction:</b> After you win a [power] challenge by 5 or more STR, kneel your faction card to choose and stand a participating character.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04016",
+            "type": "character",
+            "name": "Harmen Uller",
+            "unique": true,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 6,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "House Uller",
+                "Lord"
+            ],
+            "text": "Renown.\nEach <i>Sand Snake</i> character in your hand gains ambush (X). X is 1 less than that card's printed cost.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04017",
+            "type": "location",
+            "name": "Tower of the Sun",
+            "unique": true,
+            "faction": "martell",
+            "loyal": true,
+            "cost": 2,
+            "traits": [
+                "Dorne"
+            ],
+            "text": "<b>Reaction:</b> After an event is played, gain 1 gold. (Limit once per phase.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "04018",
+            "type": "character",
+            "name": "Pyromancers",
+            "unique": false,
+            "faction": "neutral",
+            "cost": 5,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Ally"
+            ],
+            "text": "<b>Dominance Action:</b> Kneel Pyromancers and discard 1 power from your faction card to choose a non-limited location, and discard it from play.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04019",
+            "type": "plot",
+            "name": "Rains of Autumn",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 4,
+                "initiative": 3,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "Omen"
+            ],
+            "text": "Characters and locations do not provide positive gold modifiers.",
+            "deckLimit": 2
+        },
+        {
+            "code": "04020",
+            "type": "plot",
+            "name": "Varys's Riddle",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 5,
+                "initiative": 6,
+                "claim": 1,
+                "reserve": 7
+            },
+            "traits": [
+                "Riddle",
+                "Scheme"
+            ],
+            "text": "<b>When Revealed:</b> Initiate the when revealed ability on a revealed non-<i>Riddle</i> plot card as if you had just revealed it.",
+            "deckLimit": 2
+        }
+    ]
+}

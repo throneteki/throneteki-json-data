@@ -1,0 +1,348 @@
+{
+    "cgdbId": 7,
+    "code": "TS",
+    "name": "True Steel",
+    "releaseDate": "2016-05-19",
+    "cards": [
+        {
+            "code": "02101",
+            "type": "character",
+            "name": "Septa Mordane",
+            "unique": true,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "The Seven"
+            ],
+            "text": "While you control:\n- Sansa Stark, she gets +2 STR and gains renown.\n- Arya Stark, she gains an [intrigue] icon and \"immune to opponents' plot effects.\"",
+            "deckLimit": 3
+        },
+        {
+            "code": "02102",
+            "type": "attachment",
+            "name": "Ward",
+            "unique": true,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 4,
+            "traits": [
+                "Condition"
+            ],
+            "text": "Character with printed cost 4 or lower only. Terminal.\nTake control of attached character.\nAttached character gains the [stark] affiliation.",
+            "deckLimit": 3
+        },
+        {
+            "code": "02103",
+            "type": "character",
+            "name": "Butterbumps",
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": true,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Fool"
+            ],
+            "text": "Insight.\n<b>Forced Reaction:</b> After you lose a challenge in which Butterbumps is participating, discard 1 card at random from your hand.",
+            "deckLimit": 3
+        },
+        {
+            "code": "02104",
+            "type": "event",
+            "name": "A Gift of Arbor Red",
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 0,
+            "traits": [
+                "House Redwyne"
+            ],
+            "text": "<b>Action:</b> Kneel your faction card to have each player reveal the top 4 cards of his or her deck. Choose 1 card revealed by each player, and add it to that player's hand. Shuffle the other cards back into their owners' decks.",
+            "deckLimit": 3
+        },
+        {
+            "code": "02105",
+            "type": "character",
+            "name": "Sworn Brother",
+            "unique": false,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 1,
+            "traits": [
+                "Builder"
+            ],
+            "text": "No attachments except <i>Weapon</i>.\nReduce the cost of the first location you marshal each round by 1.",
+            "deckLimit": 3
+        },
+        {
+            "code": "02106",
+            "type": "attachment",
+            "name": "Old Bear's Raven",
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "Raven",
+                "Companion"
+            ],
+            "text": "Attached character gains stealth.\nIf attached character is Old Bear Mormont, he gains an [intrigue] icon.",
+            "deckLimit": 3
+        },
+        {
+            "code": "02107",
+            "type": "character",
+            "name": "Ser Barristan Selmy",
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 7,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 6,
+            "traits": [
+                "Kingsguard",
+                "Knight",
+                "Small Council"
+            ],
+            "text": "Renown.\n<b>Interrupt:</b> When a <i>Lord</i> or <i>Lady</i> character you control would be killed, stand Ser Barristan Selmy to save that character.",
+            "deckLimit": 3
+        },
+        {
+            "code": "02108",
+            "type": "character",
+            "name": "City Watch",
+            "unique": false,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 6,
+            "traits": [
+                "Army"
+            ],
+            "text": "Ambush (6). No attachments except <i>Weapon</i>.\nWhile you have more power on your faction card than an opponent, reduce the cost to ambush City Watch by 2.",
+            "deckLimit": 3
+        },
+        {
+            "code": "02109",
+            "type": "character",
+            "name": "Ser Ilyn Payne",
+            "unique": true,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 6,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Knight"
+            ],
+            "text": "<b>Marshaling Action:</b> Kneel Ser Ilyn Payne to choose and kill a character with printed cost 3 or lower.",
+            "deckLimit": 3
+        },
+        {
+            "code": "02110",
+            "type": "location",
+            "name": "Small Council Chamber",
+            "unique": true,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 3,
+            "traits": [
+                "King's Landing"
+            ],
+            "text": "Immune to events.\n<b>Reaction:</b> After you win an [intrigue] challenge, Small Council Chamber gains 1 power.",
+            "deckLimit": 3
+        },
+        {
+            "code": "02111",
+            "type": "character",
+            "name": "Dagmer Cleftjaw",
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": true,
+            "cost": 7,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "Captain",
+                "Ironborn"
+            ],
+            "text": "Renown.\n<b>Interrupt:</b> When claim is applied for a challenge in which Dagmer Cleftjaw is attacking alone, choose a non-limited location with printed cost 3 or lower controlled by the losing opponent. Instead of the normal claim effects, take control of that location.",
+            "deckLimit": 3
+        },
+        {
+            "code": "02112",
+            "type": "attachment",
+            "name": "Drowned God's Blessing",
+            "unique": false,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Blessing"
+            ],
+            "text": "[greyjoy] character only.\nAttached character gains the <i>Drowned God</i> trait and cannot be chosen as the only target of opponents' events.\n+1 Initiative.",
+            "deckLimit": 3
+        },
+        {
+            "code": "02113",
+            "type": "character",
+            "name": "Jhogo",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Bloodrider",
+                "Dothraki"
+            ],
+            "text": "While you control another <i>Bloodrider</i> character, Jhogo gains stealth.\nWhile Jhogo is attacking, he gets +X STR, where X is the number of characters in the defending player's dead pile.",
+            "deckLimit": 3
+        },
+        {
+            "code": "02114",
+            "type": "event",
+            "name": "Funeral Pyre",
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 0,
+            "traits": [],
+            "text": "<b>Reaction:</b> After a <i>Lord</i> or <i>Lady</i> character is killed, kneel your faction card to draw 3 cards.",
+            "deckLimit": 3
+        },
+        {
+            "code": "02115",
+            "type": "character",
+            "name": "Tyene Sand",
+            "unique": true,
+            "faction": "martell",
+            "loyal": true,
+            "cost": 6,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Bastard",
+                "Sand Snake"
+            ],
+            "text": "<b>Reaction:</b> After you win an [intrigue] challenge in which Tyene Sand is participating as an attacker, place a poison token on a character without an [intrigue] icon. At the end of the phase, if that character still has the poison token, remove it and kill that character.",
+            "deckLimit": 3
+        },
+        {
+            "code": "02116",
+            "type": "attachment",
+            "name": "Imprisoned",
+            "unique": false,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Condition"
+            ],
+            "text": "Opponent's character only.\nAttached character loses a [military] icon.",
+            "deckLimit": 3
+        },
+        {
+            "code": "02117",
+            "type": "attachment",
+            "name": "Maester's Chain",
+            "unique": false,
+            "faction": "neutral",
+            "cost": 1,
+            "traits": [
+                "Item"
+            ],
+            "text": "<i>Maester</i> character only.\n<b>Dominance Action:</b> Kneel Maester's Chain to choose a <i>Condition</i> attachment, and discard it from play.",
+            "deckLimit": 3
+        },
+        {
+            "code": "02118",
+            "type": "location",
+            "name": "Street of Silk",
+            "unique": true,
+            "faction": "neutral",
+            "cost": 1,
+            "traits": [
+                "King's Landing"
+            ],
+            "text": "<b>Reaction:</b> After you win a challenge in which you control a participating <i>Lord</i> or <i>Lady</i> character, kneel your faction card to search the top 5 cards of your deck for an <i>Ally</i> or <i>Companion</i> card, reveal it, and add it to your hand. Shuffle your deck.",
+            "deckLimit": 3
+        },
+        {
+            "code": "02119",
+            "type": "plot",
+            "name": "Forgotten Plans",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 4,
+                "initiative": 2,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "Scheme"
+            ],
+            "text": "While it is not the plot phase, treat the text box of each revealed non-<i>Scheme</i> plot card as if it were blank (except for <i>Traits</i>).",
+            "deckLimit": 1
+        },
+        {
+            "code": "02120",
+            "type": "plot",
+            "name": "Close Call",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 5,
+                "initiative": 0,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "Summer"
+            ],
+            "text": "<b>When Revealed:</b> Move a character from your dead pile to your discard pile. Then, if there are no <i>Winter</i> plot cards in play, draw 1 card.",
+            "deckLimit": 2
+        }
+    ]
+}

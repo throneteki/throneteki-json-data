@@ -18,7 +18,9 @@ for(let file of packFiles) {
     }
 }
 
-// console.log(`Validation complete: ${errorCards.length} invalid cards`)
-if(!valid) {
+if(valid) {
+    console.log("Validation complete, no errors.");
+} else {
+    console.log("Validation complete, please correct the above errors.");
     process.exit(1);
 }

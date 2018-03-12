@@ -1,0 +1,345 @@
+{
+    "cgdbId": 3,
+    "code": "TRtW",
+    "name": "The Road to Winterfell",
+    "releaseDate": "2016-01-29",
+    "cards": [
+        {
+            "code": "02021",
+            "type": "character",
+            "name": "Winterfell Kennel Master",
+            "unique": false,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 1,
+            "traits": [
+                "Ally"
+            ],
+            "text": "<b>Challenges Action:</b> If you control a participating [stark] character, kneel a <i>Direwolf</i> character or a character with a <i>Direwolf</i> attachment to have it participate in the current challenge on your side. (Limit once per phase.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "02022",
+            "type": "location",
+            "name": "Winterfell Castle",
+            "unique": true,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 3,
+            "traits": [
+                "Stronghold",
+                "Winterfell"
+            ],
+            "text": "During a [military] or [power] challenge in which you control 2 or more unique participating [stark] characters, each of those characters gets +2 STR.",
+            "deckLimit": 3
+        },
+        {
+            "code": "02023",
+            "type": "character",
+            "name": "Lady-in-Waiting",
+            "unique": false,
+            "faction": "tyrell",
+            "loyal": true,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 1,
+            "traits": [
+                "Companion"
+            ],
+            "text": "Lady-in-Waiting may be marshaled as a duplicate <em>(at no cost)</em> on a <i>Lady</i> character you own and control.",
+            "deckLimit": 3
+        },
+        {
+            "code": "02024",
+            "type": "event",
+            "name": "Lady Sansa's Rose",
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 1,
+            "traits": [],
+            "text": "<b>Reaction:</b> After you win a challenge in which you control a <i>Knight</i> character that is attacking or defending alone, that character gains 1 power. (3 power instead if you control a <i>Lady</i> character.) (Max 1 per challenge.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "02025",
+            "type": "character",
+            "name": "Unsworn Apprentice",
+            "unique": false,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Companion"
+            ],
+            "text": "No attachments except <i>Weapon</i>.\n<b>Challenges Action:</b> Unsworn Apprentice gains a challenge icon of your choice until the end of the phase. (Limit once per phase.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "02026",
+            "type": "location",
+            "name": "Brandon's Gift",
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "The North"
+            ],
+            "text": "<b>Reaction:</b> After you marshal a <i>Builder</i> character, reduce the cost of the next [thenightswatch] card you marshal this phase by 1. (Limit 3 times per phase.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "02027",
+            "type": "character",
+            "name": "Royal Entourage",
+            "unique": false,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Ally"
+            ],
+            "text": "<b>Forced Reaction:</b> After you lose an [intrigue] challenge, kneel Royal Entourage.",
+            "deckLimit": 3
+        },
+        {
+            "code": "02028",
+            "type": "event",
+            "name": "In the Name of Your King!",
+            "faction": "baratheon",
+            "loyal": true,
+            "cost": 1,
+            "traits": [],
+            "text": "Play only during a [military] challenge in which you are the defending player.\n<b>Action:</b> Kneel your faction card to end this challenge with no winner or loser. Until the end of the phase, you cannot initiate [military] challenges.",
+            "deckLimit": 3
+        },
+        {
+            "code": "02029",
+            "type": "character",
+            "name": "Brothel Madame",
+            "unique": false,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Companion"
+            ],
+            "text": "<b>Reaction:</b> After the challenges phase begins, choose a player. That player may give you 1 gold from his or her gold pool. Until the end of the phase, if that player has not given you gold this phase, he or she cannot initiate [military] challenges against you.",
+            "deckLimit": 3
+        },
+        {
+            "code": "02030",
+            "type": "plot",
+            "name": "Wardens of the West",
+            "faction": "lannister",
+            "loyal": true,
+            "plotStats": {
+                "income": 5,
+                "initiative": 4,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "Scheme"
+            ],
+            "text": "<b>Reaction:</b> After you win an [intrigue] challenge, pay 2 gold to have the losing opponent choose and discard 2 cards from his or her hand.",
+            "deckLimit": 1
+        },
+        {
+            "code": "02031",
+            "type": "character",
+            "name": "The Reader",
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": true,
+            "cost": 5,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "House Harlaw",
+                "Lord"
+            ],
+            "text": "<b>Reaction:</b> After you win an unopposed challenge in which a unique [greyjoy] character is participating, either: draw 1 card, or discard the top 3 cards from each opponent's deck. (Limit once per phase.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "02032",
+            "type": "location",
+            "name": "Raiding Longship",
+            "unique": false,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "Warship"
+            ],
+            "text": "<b>Challenges Action:</b> If you are the first player, kneel Raiding Longship to choose a defending character without attachments. That character does not contribute its STR to this challenge.",
+            "deckLimit": 3
+        },
+        {
+            "code": "02033",
+            "type": "character",
+            "name": "Rakharo",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 6,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Bloodrider",
+                "Dothraki"
+            ],
+            "text": "While you control another <i>Bloodrider</i> character, Rakharo gains intimidate.\n<b>Reaction:</b> After a character is killed to satisfy claim during a challenge you initiated, Rakharo gains 1 power.",
+            "deckLimit": 3
+        },
+        {
+            "code": "02034",
+            "type": "attachment",
+            "name": "Crown of Gold",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 4,
+            "traits": [
+                "Item"
+            ],
+            "text": "Terminal.\nAttached character gains the <i>King</i> trait.\nAttached character gets -4 STR and is killed if its STR is 0.",
+            "deckLimit": 1
+        },
+        {
+            "code": "02035",
+            "type": "character",
+            "name": "Nymeria Sand",
+            "unique": true,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 5,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 4,
+            "traits": [
+                "Bastard",
+                "Sand Snake"
+            ],
+            "text": "<b>Challenges Action:</b> Choose an opponent's character. Until the end of the phase, that character loses a challenge icon of your choice, and each <i>Sand Snake</i> character you control gains that challenge icon. (Limit once per phase.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "02036",
+            "type": "event",
+            "name": "In Doran's Name",
+            "faction": "martell",
+            "loyal": false,
+            "cost": 0,
+            "traits": [],
+            "text": "<b>Action:</b> Kneel your faction card to gain X gold. X is the number of plot cards in your used pile.",
+            "deckLimit": 3
+        },
+        {
+            "code": "02037",
+            "type": "character",
+            "name": "Syrio Forel",
+            "unique": true,
+            "faction": "neutral",
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Companion"
+            ],
+            "text": "Stealth.\n<b>Challenges Action:</b> Choose a character. Until the end of the phase, that character gains a [military] icon and stealth. (Limit once per phase.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "02038",
+            "type": "location",
+            "name": "Shadowblack Lane",
+            "unique": true,
+            "faction": "neutral",
+            "cost": 1,
+            "traits": [
+                "King's Landing"
+            ],
+            "text": "<b>Reaction:</b> After you win an [intrigue] challenge, kneel your faction card to search the top 10 cards of your deck for an in-faction event, reveal it, and add it to your hand. Shuffle your deck.",
+            "deckLimit": 3
+        },
+        {
+            "code": "02039",
+            "type": "plot",
+            "name": "Trading with the Pentoshi",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 10,
+                "initiative": 2,
+                "claim": 1,
+                "reserve": 5
+            },
+            "traits": [
+                "Kingdom"
+            ],
+            "text": "<b>When Revealed:</b> Each opponent gains 3 gold. (Cannot be canceled.)",
+            "deckLimit": 1
+        },
+        {
+            "code": "02040",
+            "type": "plot",
+            "name": "Political Disaster",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 4,
+                "initiative": 3,
+                "claim": 1,
+                "reserve": 4
+            },
+            "traits": [
+                "Edict"
+            ],
+            "text": "<b>When Revealed:</b> Each player chooses up to 2 locations he or she controls. Each location not chosen is discarded from play.",
+            "deckLimit": 1
+        }
+    ]
+}

@@ -1,0 +1,347 @@
+{
+    "cgdbId": 25,
+    "code": "Km",
+    "name": "Kingsmoot",
+    "releaseDate": "2018-01-18",
+    "cards": [
+        {
+            "code": "08041",
+            "type": "character",
+            "name": "Ramsay Snow",
+            "unique": true,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Bastard",
+                "House Bolton"
+            ],
+            "text": "<b>Forced Reaction:</b> After Ramsay Snow enters play, each player sacrifices a character, if able.",
+            "deckLimit": 3
+        },
+        {
+            "code": "08042",
+            "type": "location",
+            "name": "The Dreadfort",
+            "unique": true,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "House Bolton",
+                "The North"
+            ],
+            "text": "<b>Reaction:</b> After a character you control is sacrificed, kneel The Dreadfort to choose and stand a <i>House Bolton</i> or non-[stark] character.",
+            "deckLimit": 3
+        },
+        {
+            "code": "08043",
+            "type": "character",
+            "name": "Ser Hyle Hunt",
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Knight"
+            ],
+            "text": "<b>Action:</b> During a challenge in which Ser Hyle Hunt is participating, pay 1 gold to choose a participating character with a lower STR than his. Stand that character and remove it from the challenge. (Limit once per challenge.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "08044",
+            "type": "event",
+            "name": "The Bounty of Highgarden",
+            "faction": "tyrell",
+            "loyal": true,
+            "cost": 2,
+            "traits": [],
+            "text": "Limited.\n<b>Action:</b> Gain 5 gold. (Cannot be canceled.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "08045",
+            "type": "character",
+            "name": "Haunted Forest Scout",
+            "unique": false,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Ally",
+                "Ranger"
+            ],
+            "text": "No attachments except <i>Weapon</i>.\nHaunted Forest Scout cannot be declared as a defender.\nWhile you control 3 or more <i>Ranger</i> characters, Haunted Forest Scout does not kneel when declared as an attacker.",
+            "deckLimit": 3
+        },
+        {
+            "code": "08046",
+            "type": "location",
+            "name": "Mole's Town",
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": true,
+            "cost": 1,
+            "traits": [
+                "The North"
+            ],
+            "text": "Bestow (4).\n<b>Challenges Action:</b> Kneel Mole's Town to choose a character without gold. Move 1 gold from Mole's Town to that character. Then, that character cannot be declared as an attacker until the end of the phase.",
+            "deckLimit": 3
+        },
+        {
+            "code": "08047",
+            "type": "character",
+            "name": "Lyseni Pirate",
+            "unique": false,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Raider",
+                "Smuggler"
+            ],
+            "text": "While you control a <i>Warship</i> location, Lyseni Pirate gains stealth.\n<b>Reaction:</b> After you win a challenge in which Lyseni Pirate is attacking, move 1 gold from the losing opponent’s gold pool or a card that player controls to your gold pool.",
+            "deckLimit": 3
+        },
+        {
+            "code": "08048",
+            "type": "location",
+            "name": "Laughing Lord",
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "Warship"
+            ],
+            "text": "<b>Reaction:</b> After you initiate a challenge, kneel Laughing Lord to choose an attacking [baratheon] character. Until the end of the challenge, that character gains intimidate.",
+            "deckLimit": 3
+        },
+        {
+            "code": "08049",
+            "type": "character",
+            "name": "Raff the Sweetling",
+            "unique": true,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 4,
+            "traits": [
+                "Ally"
+            ],
+            "text": "Pillage.\n<b>Reaction:</b> After Raff the Sweetling discards a character using pillage, choose a character with printed cost 2 or lower and return it to its owner’s hand.",
+            "deckLimit": 3
+        },
+        {
+            "code": "08050",
+            "type": "event",
+            "name": "Sparring in Secret",
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 1,
+            "traits": [],
+            "text": "<b>Action:</b> Kneel a <i>Knight</i> character to choose and stand another <i>Knight</i> character.",
+            "deckLimit": 3
+        },
+        {
+            "code": "08051",
+            "type": "character",
+            "name": "Asha Greyjoy",
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": true,
+            "cost": 7,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "Captain",
+                "Ironborn",
+                "Lady"
+            ],
+            "text": "Pillage. Stealth.\n<b>Reaction:</b> After Asha Greyjoy discards a card using pillage, search the top X cards of your deck for a card and add it to your hand. Shuffle your deck. X is the number of cards in the losing opponent's discard pile.",
+            "deckLimit": 3
+        },
+        {
+            "code": "08052",
+            "type": "event",
+            "name": "Kingsmoot",
+            "faction": "greyjoy",
+            "loyal": true,
+            "cost": 2,
+            "traits": [],
+            "text": "<b>Reaction:</b> After you win dominance, choose a unique [greyjoy] character you control. That character gains 1 power for each unique [greyjoy] character you control. (Max 1 per round.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "08053",
+            "type": "character",
+            "name": "Jhiqui",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "Companion",
+                "Dothraki"
+            ],
+            "text": "<b>Reaction:</b> After you win a challenge, discard 1 card from your hand to have a participating <i>Lord</i> or <i>Lady</i> character gain 1 power.",
+            "deckLimit": 3
+        },
+        {
+            "code": "08054",
+            "type": "location",
+            "name": "The Skahazadhan",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 2,
+            "traits": [
+                "Essos"
+            ],
+            "text": "<b>Reaction:</b> After you reveal a plot card, kneel The Skahazadhan and discard 1 card from your hand to gain 2 gold. (3 gold instead if that plot card has the <i>Summer</i> trait.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "08055",
+            "type": "character",
+            "name": "Darkstar",
+            "unique": true,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 4,
+            "traits": [
+                "House Dayne",
+                "Knight"
+            ],
+            "text": "Stealth.\n<b>Reaction:</b> After Darkstar bypasses a character using stealth, that character loses a challenge icon of your choice until the end of the phase.",
+            "deckLimit": 3
+        },
+        {
+            "code": "08056",
+            "type": "attachment",
+            "name": "Sand Steed",
+            "unique": false,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Warhorse"
+            ],
+            "text": "Limit 1 copy per character.\n<b>Reaction:</b> After a <i>Summer</i> plot card enters your used pile, attached character gains 1 power.",
+            "deckLimit": 3
+        },
+        {
+            "code": "08057",
+            "type": "character",
+            "name": "Tom of Sevenstreams",
+            "unique": true,
+            "faction": "neutral",
+            "cost": 4,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Brotherhood",
+                "Minstrel",
+                "R'hllor"
+            ],
+            "text": "<b>Reaction:</b> After you play a <i>Song</i> event, choose and stand a non-loyal character you control. (Limit once per phase.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "08058",
+            "type": "character",
+            "name": "Lem Lemoncloak",
+            "unique": true,
+            "faction": "neutral",
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Brotherhood",
+                "R'hllor"
+            ],
+            "text": "While you control no loyal characters, Lem Lemoncloak gets +2 STR and gains a [power] icon.",
+            "deckLimit": 3
+        },
+        {
+            "code": "08059",
+            "type": "event",
+            "name": "Forgotten By History",
+            "faction": "neutral",
+            "cost": 3,
+            "traits": [],
+            "text": "<b>Dominance Action:</b> Kneel your faction card to choose a character with printed cost X or lower, and shuffle it into its owner's deck. X is the amount of power on the faction card of that character's controller.",
+            "deckLimit": 3
+        },
+        {
+            "code": "08060",
+            "type": "plot",
+            "name": "The Withering Cold",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 5,
+                "initiative": 6,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "Winter"
+            ],
+            "text": "Skip the standing phase this round.",
+            "deckLimit": 1
+        }
+    ]
+}

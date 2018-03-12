@@ -1,0 +1,3568 @@
+{
+    "cgdbId": 1,
+    "code": "Core",
+    "name": "Core Set",
+    "releaseDate": "2015-10-08",
+    "cards": [
+        {
+            "code": "01001",
+            "type": "plot",
+            "name": "A Clash of Kings",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 4,
+                "initiative": 9,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "Noble"
+            ],
+            "text": "<b>Reaction:</b> After you win a [power] challenge, move 1 power from the losing opponent's faction card to your own.",
+            "deckLimit": 2
+        },
+        {
+            "code": "01002",
+            "type": "plot",
+            "name": "A Feast for Crows",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 6,
+                "initiative": 1,
+                "claim": 1,
+                "reserve": 4
+            },
+            "traits": [
+                "Edict"
+            ],
+            "text": "<b>Reaction:</b> After you win dominance, gain 2 power for your faction.",
+            "deckLimit": 1
+        },
+        {
+            "code": "01003",
+            "type": "plot",
+            "name": "A Game of Thrones",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 4,
+                "initiative": 2,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "Scheme"
+            ],
+            "text": "A player cannot initiate a [military] or [power] challenge unless he or she has won an [intrigue] challenge that phase.",
+            "deckLimit": 1
+        },
+        {
+            "code": "01004",
+            "type": "plot",
+            "name": "A Noble Cause",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 5,
+                "initiative": 0,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "Kingdom",
+                "Noble"
+            ],
+            "text": "Reduce the cost of the first <i>Lord</i> or <i>Lady</i> character you marshal this round by 2.",
+            "deckLimit": 2
+        },
+        {
+            "code": "01005",
+            "type": "plot",
+            "name": "A Storm of Swords",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 3,
+                "initiative": 8,
+                "claim": 1,
+                "reserve": 5
+            },
+            "traits": [
+                "War"
+            ],
+            "text": "You may initiate an additional [military] challenge during the challenges phase.",
+            "deckLimit": 2
+        },
+        {
+            "code": "01006",
+            "type": "plot",
+            "name": "Building Orders",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 4,
+                "initiative": 1,
+                "claim": 1,
+                "reserve": 7
+            },
+            "traits": [
+                "Kingdom"
+            ],
+            "text": "<b>When Revealed:</b> Search the top 10 cards of your deck for an attachment or a location, reveal it, and add it to your hand. Shuffle your deck.",
+            "deckLimit": 2
+        },
+        {
+            "code": "01007",
+            "type": "plot",
+            "name": "Calling the Banners",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 3,
+                "initiative": 6,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "Kingdom"
+            ],
+            "text": "<b>When Revealed:</b> Choose an opponent. Gain 1 gold for each character that player controls.",
+            "deckLimit": 2
+        },
+        {
+            "code": "01008",
+            "type": "plot",
+            "name": "Calm Over Westeros",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 5,
+                "initiative": 3,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "Summer"
+            ],
+            "text": "<b>When Revealed:</b> Name a challenge type. Until you reveal a new plot card, reduce the claim value on the attacking player's revealed plot card by 1 during challenges of that type in which you are the defending player.",
+            "deckLimit": 1
+        },
+        {
+            "code": "01009",
+            "type": "plot",
+            "name": "Confiscation",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 4,
+                "initiative": 5,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "Edict"
+            ],
+            "text": "<b>When Revealed:</b> Choose an attachment, and discard it from play.",
+            "deckLimit": 2
+        },
+        {
+            "code": "01010",
+            "type": "plot",
+            "name": "Counting Coppers",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 2,
+                "initiative": 3,
+                "claim": 1,
+                "reserve": 10
+            },
+            "traits": [
+                "Kingdom"
+            ],
+            "text": "<b>When Revealed:</b> Draw 3 cards.",
+            "deckLimit": 2
+        },
+        {
+            "code": "01011",
+            "type": "plot",
+            "name": "Filthy Accusations",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 4,
+                "initiative": 4,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "Scheme"
+            ],
+            "text": "<b>When Revealed:</b> Choose and kneel a character.",
+            "deckLimit": 2
+        },
+        {
+            "code": "01012",
+            "type": "plot",
+            "name": "Fortified Position",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 5,
+                "initiative": 1,
+                "claim": 1,
+                "reserve": 5
+            },
+            "traits": [
+                "Siege",
+                "War"
+            ],
+            "text": "Treat each character as if its printed text box were blank (except for <i>Traits</i>).",
+            "deckLimit": 1
+        },
+        {
+            "code": "01013",
+            "type": "plot",
+            "name": "Heads on Spikes",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 4,
+                "initiative": 6,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "Edict",
+                "War"
+            ],
+            "text": "<b>When Revealed:</b> Choose an opponent. Discard 1 card at random from that player's hand. If that card is a character, gain 2 power for your faction and place the discarded character in its owner's dead pile.",
+            "deckLimit": 2
+        },
+        {
+            "code": "01014",
+            "type": "plot",
+            "name": "Jousting Contest",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 4,
+                "initiative": 3,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "War"
+            ],
+            "text": "Each player cannot declare more than 1 character as an attacker or defender in each challenge.",
+            "deckLimit": 2
+        },
+        {
+            "code": "01015",
+            "type": "plot",
+            "name": "Marched to the Wall",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 4,
+                "initiative": 8,
+                "claim": 1,
+                "reserve": 5
+            },
+            "traits": [
+                "Edict"
+            ],
+            "text": "<b>When Revealed:</b> Each player chooses a character he or she controls (if able), and discards it from play (cannot be saved).",
+            "deckLimit": 2
+        },
+        {
+            "code": "01016",
+            "type": "plot",
+            "name": "Marching Orders",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 9,
+                "initiative": 3,
+                "claim": 1,
+                "reserve": 4
+            },
+            "traits": [
+                "Edict",
+                "War"
+            ],
+            "text": "You cannot marshal locations or attachments, or play events.",
+            "deckLimit": 2
+        },
+        {
+            "code": "01017",
+            "type": "plot",
+            "name": "Naval Superiority",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 2,
+                "initiative": 7,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "Siege",
+                "War"
+            ],
+            "text": "Treat the base gold value on each revealed <i>Kingdom</i> and each revealed <i>Edict</i> plot card as if it were 0.",
+            "deckLimit": 1
+        },
+        {
+            "code": "01018",
+            "type": "plot",
+            "name": "Power Behind the Throne",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 3,
+                "initiative": 1,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "Noble",
+                "Scheme"
+            ],
+            "text": "<b>When Revealed:</b> Place 1 stand token on Power Behind the Throne.\n<b>Action:</b> Discard 1 stand token from Power Behind the Throne to choose and stand a character.",
+            "deckLimit": 2
+        },
+        {
+            "code": "01019",
+            "type": "plot",
+            "name": "Rebuilding",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 5,
+                "initiative": 5,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "Kingdom"
+            ],
+            "text": "<b>When Revealed:</b> Choose up to 3 cards in your discard pile, and shuffle them into your deck.",
+            "deckLimit": 2
+        },
+        {
+            "code": "01020",
+            "type": "plot",
+            "name": "Reinforcements",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 1,
+                "initiative": 0,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "Kingdom",
+                "War"
+            ],
+            "text": "<b>When Revealed:</b> Choose a character with printed cost 5 or lower in your hand or discard pile, and put it into play.",
+            "deckLimit": 2
+        },
+        {
+            "code": "01021",
+            "type": "plot",
+            "name": "Sneak Attack",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 5,
+                "initiative": 11,
+                "claim": 2,
+                "reserve": 5
+            },
+            "traits": [
+                "Scheme"
+            ],
+            "text": "You cannot initiate more than 1 challenge during the challenges phase.",
+            "deckLimit": 2
+        },
+        {
+            "code": "01022",
+            "type": "plot",
+            "name": "Summons",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 4,
+                "initiative": 0,
+                "claim": 1,
+                "reserve": 7
+            },
+            "traits": [
+                "Kingdom"
+            ],
+            "text": "<b>When Revealed:</b> Search the top 10 cards of your deck for a character, reveal it, and add it to your hand. Shuffle your deck.",
+            "deckLimit": 2
+        },
+        {
+            "code": "01023",
+            "type": "plot",
+            "name": "Supporting the Faith",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 6,
+                "initiative": 2,
+                "claim": 1,
+                "reserve": 4
+            },
+            "traits": [
+                "Edict",
+                "The Seven"
+            ],
+            "text": "<b>Forced Reaction:</b> After the challenges phase begins, each player returns all gold in his or her gold pool to the treasury.",
+            "deckLimit": 2
+        },
+        {
+            "code": "01024",
+            "type": "plot",
+            "name": "Taxation",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 5,
+                "initiative": 6,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "Edict",
+                "Kingdom"
+            ],
+            "text": "You may marshal or play 1 additional limited card this round.",
+            "deckLimit": 2
+        },
+        {
+            "code": "01025",
+            "type": "plot",
+            "name": "The Winds of Winter",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 3,
+                "initiative": 4,
+                "claim": 2,
+                "reserve": 5
+            },
+            "traits": [
+                "Winter"
+            ],
+            "text": "",
+            "deckLimit": 2
+        },
+        {
+            "code": "01026",
+            "type": "plot",
+            "name": "Wildfire Assault",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 4,
+                "initiative": 7,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "Scheme",
+                "War"
+            ],
+            "text": "<b>When Revealed:</b> Each player chooses up to 3 characters he or she controls. Kill each character not chosen (cannot be saved).",
+            "deckLimit": 2
+        },
+        {
+            "code": "01027",
+            "type": "agenda",
+            "name": "Fealty",
+            "faction": "neutral",
+            "traits": [],
+            "text": "You cannot include more than 15 neutral cards in your deck.\n<b>Action:</b> Kneel your faction card to reduce the cost of the next loyal card you marshal or play this phase by 1.",
+            "deckLimit": 1
+        },
+        {
+            "code": "01028",
+            "type": "character",
+            "name": "Littlefinger",
+            "unique": true,
+            "faction": "neutral",
+            "cost": 5,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Ally",
+                "Lord",
+                "Small Council"
+            ],
+            "text": "<b>Reaction:</b> After you marshal Littlefinger, draw 2 cards.\n+1 Income.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01029",
+            "type": "character",
+            "name": "Varys",
+            "unique": true,
+            "faction": "neutral",
+            "cost": 6,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Lord",
+                "Small Council",
+                "Spy"
+            ],
+            "text": "Stealth.\n<b>Interrupt:</b> When the dominance phase ends, remove Varys from the game to discard each character from play.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01030",
+            "type": "character",
+            "name": "Rattleshirt's Raiders",
+            "unique": false,
+            "faction": "neutral",
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Raider",
+                "Wildling"
+            ],
+            "text": "No attachments.\n<b>Reaction:</b> After you win a challenge in which Rattleshirt's Raiders is participating as an attacker, choose an attachment controlled by the losing opponent, and discard it from play.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01031",
+            "type": "character",
+            "name": "Wildling Horde",
+            "unique": false,
+            "faction": "neutral",
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "Army",
+                "Wildling"
+            ],
+            "text": "No attachments. Pillage.\n<b>Challenges Action:</b> Kneel your faction card to choose a participating Wildling character you control. Until the end of the challenge, that character gets +2 STR.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01032",
+            "type": "attachment",
+            "name": "Seal of the Hand",
+            "unique": true,
+            "faction": "neutral",
+            "cost": 3,
+            "traits": [
+                "Item"
+            ],
+            "text": "<i>Lord</i> or <i>Lady</i> character only.\n<b>Action:</b> Kneel Seal of the Hand to stand attached character.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01033",
+            "type": "attachment",
+            "name": "Bodyguard",
+            "unique": false,
+            "faction": "neutral",
+            "cost": 1,
+            "traits": [
+                "Condition"
+            ],
+            "text": "<i>Lord</i> or <i>Lady</i> character only.\n<b>Interrupt:</b> When attached character would be killed or discarded from play, sacrifice Bodyguard to save that character.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01034",
+            "type": "attachment",
+            "name": "Little Bird",
+            "unique": false,
+            "faction": "neutral",
+            "cost": 1,
+            "traits": [
+                "Condition"
+            ],
+            "text": "Attached character gains an [intrigue] icon.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01035",
+            "type": "attachment",
+            "name": "Milk of the Poppy",
+            "unique": false,
+            "faction": "neutral",
+            "cost": 1,
+            "traits": [
+                "Condition"
+            ],
+            "text": "Terminal.\nTreat attached character's printed text box as if it were blank (except for <i>Traits</i>).",
+            "deckLimit": 3
+        },
+        {
+            "code": "01036",
+            "type": "attachment",
+            "name": "Noble Lineage",
+            "unique": false,
+            "faction": "neutral",
+            "cost": 0,
+            "traits": [
+                "Condition"
+            ],
+            "text": "Attached character gains a [power] icon.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01037",
+            "type": "attachment",
+            "name": "Syrio's Training",
+            "unique": false,
+            "faction": "neutral",
+            "cost": 1,
+            "traits": [
+                "Condition",
+                "Skill"
+            ],
+            "text": "Attached character gains a [military] icon.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01038",
+            "type": "location",
+            "name": "The Iron Throne",
+            "unique": true,
+            "faction": "neutral",
+            "cost": 2,
+            "traits": [
+                "King's Landing"
+            ],
+            "text": "The Iron Throne contributes 8 STR to your total for dominance.\n+1 Reserve.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01039",
+            "type": "location",
+            "name": "The Kingsroad",
+            "unique": false,
+            "faction": "neutral",
+            "cost": 1,
+            "traits": [
+                "Westeros"
+            ],
+            "text": "Limited.\n<b>Marshaling Action:</b> Kneel and sacrifice The Kingsroad to reduce the cost of the next character you marshal this phase by 3.\n+1 Initiative.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01040",
+            "type": "location",
+            "name": "The Roseroad",
+            "unique": false,
+            "faction": "neutral",
+            "cost": 0,
+            "traits": [
+                "Westeros"
+            ],
+            "text": "Limited.\n+1 Income.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01041",
+            "type": "event",
+            "name": "Put to the Sword",
+            "faction": "neutral",
+            "cost": 2,
+            "traits": [],
+            "text": "<b>Reaction:</b> After you win a [military] challenge by 5 or more STR as the attacking player, choose and kill a character controlled by the losing opponent. (Max 1 per challenge.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "01042",
+            "type": "event",
+            "name": "Put to the Torch",
+            "faction": "neutral",
+            "cost": 1,
+            "traits": [],
+            "text": "<b>Reaction:</b> After you win a [military] challenge by 5 or more STR as the attacking player, choose a location controlled by the losing opponent, and discard it from play. (Max 1 per challenge.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "01043",
+            "type": "event",
+            "name": "Superior Claim",
+            "faction": "neutral",
+            "cost": 0,
+            "traits": [],
+            "text": "<b>Reaction:</b> After you win a [power] challenge by 5 or more STR, gain 2 power for your faction. (Max 1 per challenge.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "01044",
+            "type": "event",
+            "name": "Tears of Lys",
+            "faction": "neutral",
+            "cost": 1,
+            "traits": [
+                "Poison"
+            ],
+            "text": "<b>Reaction:</b> After you win an [intrigue] challenge as the attacking player, place a poison token on a character without an [intrigue] icon controlled by the losing opponent. At the end of the phase, if that character still has the poison token, remove it and kill that character. (Max 1 per challenge.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "01045",
+            "type": "event",
+            "name": "The Hand's Judgment",
+            "faction": "neutral",
+            "cost": "X",
+            "traits": [],
+            "text": "<b>Interrupt:</b> When the effects of an opponent's event would initiate, cancel those effects. X is that event's printed cost.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01046",
+            "type": "character",
+            "name": "Maester Cressen",
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Maester"
+            ],
+            "text": "<b>Marshaling Action:</b> Kneel Maester Cressen to choose a <i>Condition</i> attachment, and discard it from play.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01047",
+            "type": "character",
+            "name": "Melisandre",
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 5,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Lady",
+                "R'hllor"
+            ],
+            "text": "<b>Reaction:</b> After you marshal or play a <i>R'hllor</i> card, choose and kneel a character. (Limit once per round.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "01048",
+            "type": "character",
+            "name": "Robert Baratheon",
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": true,
+            "cost": 7,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "King",
+                "Lord"
+            ],
+            "text": "Intimidate. Renown.\nRobert Baratheon gets +1 STR for each other kneeling character in play.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01049",
+            "type": "character",
+            "name": "Selyse Baratheon",
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "House Florent",
+                "Lady",
+                "R'hllor"
+            ],
+            "text": "<b>Challenges Action:</b> Pay 1 gold to choose a [baratheon] character. Until the end of the phase, that character gains an [intrigue] icon.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01050",
+            "type": "character",
+            "name": "Ser Davos Seaworth",
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Knight",
+                "Smuggler"
+            ],
+            "text": "Stealth.\n<b>Interrupt:</b> When Ser Davos Seaworth is killed, return him to your hand instead of placing him in your dead pile.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01051",
+            "type": "character",
+            "name": "Shireen Baratheon",
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 1,
+            "traits": [
+                "Lady"
+            ],
+            "text": "<b>Interrupt:</b> When Shireen Baratheon is killed, choose and kneel a character.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01052",
+            "type": "character",
+            "name": "Stannis Baratheon",
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": true,
+            "cost": 6,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "Lord",
+                "Small Council"
+            ],
+            "text": "Each player cannot stand more than 2 characters during the standing phase.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01053",
+            "type": "character",
+            "name": "Bastard in Hiding",
+            "unique": false,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "Bastard"
+            ],
+            "text": "",
+            "deckLimit": 3
+        },
+        {
+            "code": "01054",
+            "type": "character",
+            "name": "Fiery Followers",
+            "unique": false,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "R'hllor"
+            ],
+            "text": "<b>Reaction:</b> After the dominance phase begins, stand Fiery Followers.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01055",
+            "type": "character",
+            "name": "King's Hunting Party",
+            "unique": false,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 6,
+            "traits": [
+                "Army"
+            ],
+            "text": "No attachments.\nWhile an opponent controls a <i>King</i> character, King's Hunting Party gains an [intrigue] icon .",
+            "deckLimit": 3
+        },
+        {
+            "code": "01056",
+            "type": "character",
+            "name": "Dragonstone Faithful",
+            "unique": false,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 1,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 1,
+            "traits": [
+                "Ally"
+            ],
+            "text": "<b>Marshaling Action:</b> Kneel Dragonstone Faithful to reduce the cost of the next [baratheon] character you marshal this phase by 1.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01057",
+            "type": "character",
+            "name": "Vanguard Lancer",
+            "unique": false,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 1,
+            "traits": [
+                "House Florent",
+                "Knight"
+            ],
+            "text": "<b>Reaction:</b> After Vanguard Lancer enters play, choose an opponent's character or faction card, and discard 1 power from that card.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01058",
+            "type": "attachment",
+            "name": "Lightbringer",
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": true,
+            "cost": 2,
+            "traits": [
+                "R'hllor",
+                "Weapon"
+            ],
+            "text": "[baratheon] character only.\nIf attached character is Stannis Baratheon, he gains renown.\n<b>Reaction:</b> After attached character gains 1 or more power, stand it. (Limit once per phase.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "01059",
+            "type": "location",
+            "name": "Dragonstone Port",
+            "unique": false,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 0,
+            "traits": [
+                "Dragonstone"
+            ],
+            "text": "Limited.\n<b>Marshaling Action:</b> Kneel Dragonstone Port to reduce the cost of the next [baratheon] card you marshal this phase by 1.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01060",
+            "type": "location",
+            "name": "Chamber of the Painted Table",
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "Dragonstone"
+            ],
+            "text": "<b>Reaction:</b> After you win dominance, kneel Chamber of the Painted Table to move 1 power from an opponent's faction card to your own.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01061",
+            "type": "location",
+            "name": "The Red Keep",
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": true,
+            "cost": 3,
+            "traits": [
+                "King's Landing"
+            ],
+            "text": "The Red Keep contributes 2 STR to your side during any [power] challenge in which you control a participating character.\n<b>Interrupt:</b> When the challenges phase ends, if you have not lost a [power] challenge this round, kneel The Red Keep to draw 2 cards.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01062",
+            "type": "event",
+            "name": "Consolidation of Power",
+            "faction": "baratheon",
+            "loyal": true,
+            "cost": 1,
+            "traits": [],
+            "text": "<b>Marshaling Action:</b> Choose and kneel up to 4 total STR worth of characters controlled by the same player. Then, choose one of those characters, and have it gain 1 power.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01063",
+            "type": "event",
+            "name": "Ours is the Fury",
+            "faction": "baratheon",
+            "loyal": true,
+            "cost": 2,
+            "traits": [],
+            "text": "Play only during a challenge in which you are the defending player.\n<b>Action:</b> Choose a kneeling [baratheon] character you control. That character is now participating as a defender. If you win this challenge, stand that character.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01064",
+            "type": "event",
+            "name": "Seen In Flames",
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "R'hllor"
+            ],
+            "text": "Play only if you control a <i>R'hllor</i> character.\n<b>Challenges Action:</b> Choose an opponent, and look at his or her hand. Then, choose and discard 1 card from that hand.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01065",
+            "type": "character",
+            "name": "Aeron Damphair",
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Drowned God",
+                "Ironborn",
+                "Lord"
+            ],
+            "text": "<b>Reaction:</b> After you win dominance, put an <i>Ironborn</i> character into play from your dead pile.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01066",
+            "type": "character",
+            "name": "Alannys Greyjoy",
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "House Harlaw",
+                "Lady"
+            ],
+            "text": "While you are the first player, reduce the reserve value on each opponent's revealed plot card by 1.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01067",
+            "type": "character",
+            "name": "Asha Greyjoy",
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Ironborn",
+                "Lady"
+            ],
+            "text": "Stealth.\n<b>Reaction:</b> After you win an unopposed challenge in which Asha Greyjoy is participating, stand her.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01068",
+            "type": "character",
+            "name": "Balon Greyjoy",
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": true,
+            "cost": 6,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "Ironborn",
+                "Lord"
+            ],
+            "text": "Renown.\nWhile Balon Greyjoy is attacking, each defending character with a lower STR than his does not contribute its STR to that challenge.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01069",
+            "type": "character",
+            "name": "Euron Crow's Eye",
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": true,
+            "cost": 7,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 6,
+            "traits": [
+                "Ironborn",
+                "Lord",
+                "Raider"
+            ],
+            "text": "Pillage. Renown.\n<b>Reaction:</b> After Euron Crow's Eye discards a card using pillage, put a location from the losing opponent's discard pile into play under your control.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01070",
+            "type": "character",
+            "name": "Maester Wendamyr",
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "Maester"
+            ],
+            "text": "Stealth.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01071",
+            "type": "character",
+            "name": "Theon Greyjoy",
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Ally",
+                "Ironborn",
+                "Lord"
+            ],
+            "text": "Stealth.\n<b>Reaction:</b> After you win an unopposed challenge in which Theon Greyjoy is participating, he gains 1 power.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01072",
+            "type": "character",
+            "name": "Black Wind's Crew",
+            "unique": false,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Ironborn",
+                "Raider"
+            ],
+            "text": "Pillage.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01073",
+            "type": "character",
+            "name": "Drowned Men",
+            "unique": false,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Army",
+                "Drowned God"
+            ],
+            "text": "No attachments.\nDrowned Men gets +1 STR for each <i>Warship</i> location you control.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01074",
+            "type": "character",
+            "name": "Iron Islands Fishmonger",
+            "unique": false,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 1,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 1,
+            "traits": [
+                "Ally",
+                "Merchant"
+            ],
+            "text": "<b>Marshaling Action:</b> Kneel Iron Islands Fishmonger to reduce the cost of the next [greyjoy] character you marshal this phase by 1.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01075",
+            "type": "character",
+            "name": "Lordsport Shipwright",
+            "unique": false,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 1,
+            "traits": [
+                "Ally",
+                "Ironborn"
+            ],
+            "text": "<b>Marshaling Action:</b> Kneel Lordsport Shipwright to choose and kneel a location with printed cost 2 or lower. (Printed cost 3 or lower instead if you are the first player.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "01076",
+            "type": "character",
+            "name": "Salty Navigator",
+            "unique": false,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Ironborn"
+            ],
+            "text": "+1 Initiative.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01077",
+            "type": "attachment",
+            "name": "Throwing Axe",
+            "unique": false,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Weapon"
+            ],
+            "text": "<i>Ironborn</i> character only.\n<b>Reaction:</b> After you win a challenge in which attached character is participating as an attacker, sacrifice Throwing Axe to choose and kill a defending character.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01078",
+            "type": "location",
+            "name": "Great Kraken",
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": true,
+            "cost": 3,
+            "traits": [
+                "Warship"
+            ],
+            "text": "While you control Balon Greyjoy, he gains stealth.\n<b>Reaction:</b> After you win an unopposed challenge, either: draw 1 card, or gain 1 power for your faction. (Limit twice per round.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "01079",
+            "type": "location",
+            "name": "Iron Fleet Scout",
+            "unique": false,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 0,
+            "traits": [
+                "Warship"
+            ],
+            "text": "<b>Challenges Action:</b> Kneel Iron Fleet Scout to choose a participating [greyjoy] character. Until the end of the challenge, that character gets +1 STR. (+2 STR instead if you are the first player.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "01080",
+            "type": "location",
+            "name": "Sea Tower",
+            "unique": false,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 0,
+            "traits": [
+                "Iron Islands"
+            ],
+            "text": "Limited.\n<b>Marshaling Action:</b> Kneel Sea Tower to reduce the cost of the next [greyjoy] card you marshal this phase by 1.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01081",
+            "type": "event",
+            "name": "Risen from the Sea",
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 0,
+            "traits": [],
+            "text": "<b>Interrupt:</b> When a [greyjoy] character would be killed, save it. Then, attach Risen from the Sea to that character as a <i>Condition</i> attachment with the text: \"Terminal. Attached character gets +1 STR.\"",
+            "deckLimit": 3
+        },
+        {
+            "code": "01082",
+            "type": "event",
+            "name": "The Kraken's Grasp",
+            "faction": "greyjoy",
+            "loyal": true,
+            "cost": 0,
+            "traits": [],
+            "text": "Play only if you are the first player.\n<b>Challenges Action:</b> Choose a defending character with STR 5 or lower. That character does not contribute is STR to this challenge.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01083",
+            "type": "event",
+            "name": "We Do Not Sow",
+            "faction": "greyjoy",
+            "loyal": true,
+            "cost": 1,
+            "traits": [],
+            "text": "<b>Reaction:</b> After you win an unopposed challenge, choose an attachment or location controlled by the losing opponent, and discard it from play. (Max 1 per challenge.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "01084",
+            "type": "character",
+            "name": "Cersei Lannister",
+            "unique": true,
+            "faction": "lannister",
+            "loyal": true,
+            "cost": 4,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Lady",
+                "Queen"
+            ],
+            "text": "While Cersei Lannister is attacking during an [intrigue] challenge, raise the claim value on your revealed plot card by 1.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01085",
+            "type": "character",
+            "name": "Grand Maester Pycelle",
+            "unique": true,
+            "faction": "lannister",
+            "loyal": true,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "Maester",
+                "Small Council"
+            ],
+            "text": "Insight.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01086",
+            "type": "character",
+            "name": "Joffrey Baratheon",
+            "unique": true,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Lord"
+            ],
+            "text": "<b>Reaction:</b> After a <i>Lord</i> or <i>Lady</i> character is killed, Joffrey Baratheon gains 1 power. (Limit 3 times per round.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "01087",
+            "type": "character",
+            "name": "Ser Jaime Lannister",
+            "unique": true,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 6,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 5,
+            "traits": [
+                "Knight",
+                "Lord"
+            ],
+            "text": "Ser Jaime Lannister does not kneel when declared as an attacker in a [military] challenge, and gains renown while participating in a [military] challenge.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01088",
+            "type": "character",
+            "name": "The Tickler",
+            "unique": true,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Ally"
+            ],
+            "text": "<b>Dominance Action:</b> Kneel The Tickler to discard the top card of an opponent's deck. Then, you may choose 1 copy of that card, and discard it from play.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01089",
+            "type": "character",
+            "name": "Tyrion Lannister",
+            "unique": true,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 5,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Lord"
+            ],
+            "text": "Stealth.\n<b>Reaction:</b> After an [intrigue] challenge is initiated, gain 2 gold. (Limit twice per round.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "01090",
+            "type": "character",
+            "name": "Tywin Lannister",
+            "unique": true,
+            "faction": "lannister",
+            "loyal": true,
+            "cost": 7,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 6,
+            "traits": [
+                "Lord"
+            ],
+            "text": "Renown.\nTywin Lannister gets +1 STR for each gold in your gold pool.\n+2 Income.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01091",
+            "type": "character",
+            "name": "Burned Men",
+            "unique": false,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Clansman"
+            ],
+            "text": "Ambush (2).",
+            "deckLimit": 3
+        },
+        {
+            "code": "01092",
+            "type": "character",
+            "name": "Gold Cloaks",
+            "unique": false,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Ally",
+                "Army"
+            ],
+            "text": "Ambush (2).\n<b>Forced Interrupt:</b> When a phase ends in which Gold Cloaks entered play using ambush, discard it from play (cannot be saved).",
+            "deckLimit": 3
+        },
+        {
+            "code": "01093",
+            "type": "character",
+            "name": "Lannisport Moneylender",
+            "unique": false,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Merchant"
+            ],
+            "text": "Limited.\n+1 Income.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01094",
+            "type": "character",
+            "name": "Lannisport Merchant",
+            "unique": false,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 1,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 1,
+            "traits": [
+                "Ally",
+                "Steward"
+            ],
+            "text": "<b>Marshaling Action:</b> Kneel Lannisport Merchant to reduce the cost of the next [lannister] character you marshal this phase by 1.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01095",
+            "type": "character",
+            "name": "The Queen's Assassin",
+            "unique": false,
+            "faction": "lannister",
+            "loyal": true,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Spy"
+            ],
+            "text": "Ambush (4).\n<b>Reaction:</b> After The Queen's Assassin enters play using ambush, choose an opponent. If you have more cards in hand than that player, he or she must choose and kill a character he or she controls.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01096",
+            "type": "attachment",
+            "name": "Widow's Wail",
+            "unique": true,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Valyrian Steel",
+                "Weapon"
+            ],
+            "text": "Ambush (1).\nAttached character gets +2 STR.\nIf attached character is Joffrey Baratheon, he gains a [military] icon.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01097",
+            "type": "location",
+            "name": "Casterly Rock",
+            "unique": true,
+            "faction": "lannister",
+            "loyal": true,
+            "cost": 2,
+            "traits": [
+                "Stronghold",
+                "The Westerlands"
+            ],
+            "text": "You may initiate an additional [intrigue] challenge during the challenges phase.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01098",
+            "type": "location",
+            "name": "Lannisport",
+            "unique": true,
+            "faction": "lannister",
+            "loyal": true,
+            "cost": 3,
+            "traits": [
+                "The Westerlands"
+            ],
+            "text": "<b>Reaction:</b> After you win an [intrigue] challenge, draw 1 card.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01099",
+            "type": "location",
+            "name": "Western Fiefdom",
+            "unique": false,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 0,
+            "traits": [
+                "The Westerlands"
+            ],
+            "text": "Limited.\n<b>Marshaling Action:</b> Kneel Western Fiefdom to reduce the cost of the next [lannister] card you marshal this phase by 1.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01100",
+            "type": "event",
+            "name": "Hear Me Roar!",
+            "faction": "lannister",
+            "loyal": true,
+            "cost": 1,
+            "traits": [],
+            "text": "<b>Action:</b> Put a [lannister] character into play from your hand. At the end of the phase, if that card is still in play, discard it from play (cannot be saved).",
+            "deckLimit": 3
+        },
+        {
+            "code": "01101",
+            "type": "event",
+            "name": "The Things I Do For Love",
+            "faction": "lannister",
+            "loyal": false,
+            "cost": "X",
+            "traits": [],
+            "text": "Play only if you control a [lannister] <i>Lord</i> or <i>Lady</i> character.\n<b>Challenges Action:</b> Kneel your faction card to choose a character with printed cost X or lower controlled by an opponent, and return it to its owner's hand.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01102",
+            "type": "event",
+            "name": "Treachery",
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 1,
+            "traits": [],
+            "text": "Play only if you control a unique [lannister] character.\n<b>Interrupt:</b> When the effects of a triggered character, location, or attachment ability would initiate, cancel those effects.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01103",
+            "type": "character",
+            "name": "Areo Hotah",
+            "unique": true,
+            "faction": "martell",
+            "loyal": true,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 5,
+            "traits": [
+                "Guard"
+            ],
+            "text": "Ambush (5).\n<b>Reaction:</b> After Areo Hotah enters play during a challenge, choose a participating character, and remove it from the challenge.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01104",
+            "type": "character",
+            "name": "Arianne Martell",
+            "unique": true,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 5,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Lady"
+            ],
+            "text": "<b>Action:</b> Put a character with printed cost 5 or lower into play from your hand. Then, return Arianne Martell to your hand (cannot be saved). (Limit once per phase.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "01105",
+            "type": "character",
+            "name": "Doran Martell",
+            "unique": true,
+            "faction": "martell",
+            "loyal": true,
+            "cost": 6,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Lord"
+            ],
+            "text": "Insight.\nEach other [martell] <i>Lord</i> and <i>Lady</i> character you control gets +1 STR for each plot card in your used pile.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01106",
+            "type": "character",
+            "name": "Edric Dayne",
+            "unique": true,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 1,
+            "traits": [
+                "Brotherhood",
+                "House Dayne",
+                "Lord"
+            ],
+            "text": "Stealth.\n<b>Action:</b> Pay 1 gold to give Edric Dayne a challenge icon of your choice until the end of the phase.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01107",
+            "type": "character",
+            "name": "Maester Caleotte",
+            "unique": true,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "Maester"
+            ],
+            "text": "<b>Reaction:</b> After you lose a challenge in which Maester Caleotte is participating, choose a character. That character loses a challenge icon of your choice until the end of the phase.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01108",
+            "type": "character",
+            "name": "Obara Sand",
+            "unique": true,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Bastard",
+                "Sand Snake"
+            ],
+            "text": "Obara Sand may be declared as a defender during [power] challenges in which you are the defending player, even while kneeling.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01109",
+            "type": "character",
+            "name": "The Red Viper",
+            "unique": true,
+            "faction": "martell",
+            "loyal": true,
+            "cost": 7,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 7,
+            "traits": [
+                "Lord"
+            ],
+            "text": "<b>Reaction:</b> After you win a challenge in which The Red Viper is participating as an attacker, he gains 1 power for every 5 STR by which you won the challenge.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01110",
+            "type": "character",
+            "name": "Desert Scavenger",
+            "unique": false,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 1,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 1,
+            "traits": [
+                "Ally"
+            ],
+            "text": "<b>Marshaling Action:</b> Kneel Desert Scavenger to reduce the cost of the next [martell] character you marshal this phase by 1.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01111",
+            "type": "character",
+            "name": "Dornish Paramour",
+            "unique": false,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Companion"
+            ],
+            "text": "<b>Reaction:</b> After Dornish Paramour is declared as an attacker, choose a character controlled by the defending player. That character must be declared as a defender for this challenge, if able.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01112",
+            "type": "character",
+            "name": "Greenblood Trader",
+            "unique": false,
+            "faction": "martell",
+            "loyal": true,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 1,
+            "traits": [
+                "Ally"
+            ],
+            "text": "<b>Reaction:</b> After Greenblood Trader enters play, look at the top 2 cards of your deck. Add up to 1 of those cards to your hand, and place the others on the bottom of your deck in any order.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01113",
+            "type": "character",
+            "name": "House Dayne Knight",
+            "unique": false,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "House Dayne",
+                "Knight"
+            ],
+            "text": "",
+            "deckLimit": 3
+        },
+        {
+            "code": "01114",
+            "type": "character",
+            "name": "Palace Spearman",
+            "unique": false,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Guard"
+            ],
+            "text": "No attachments.\nWhile you are not the first player, Palace Spearman gains an [intrigue] icon.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01115",
+            "type": "attachment",
+            "name": "Dawn",
+            "unique": true,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "Weapon"
+            ],
+            "text": "Attached character gets +1 STR for each plot card in your used pile.\nWhile attached character has the <i>House Dayne</i> trait, it gains intimidate.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01116",
+            "type": "location",
+            "name": "Ghaston Grey",
+            "unique": true,
+            "faction": "martell",
+            "loyal": true,
+            "cost": 2,
+            "traits": [
+                "Dorne"
+            ],
+            "text": "<b>Reaction:</b> After you lose a challenge as the defending player, kneel and sacrifice Ghaston Grey to return an attacking character to its owner's hand (cannot be saved).",
+            "deckLimit": 3
+        },
+        {
+            "code": "01117",
+            "type": "location",
+            "name": "Sunspear",
+            "unique": true,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "Dorne"
+            ],
+            "text": "<b>Reaction:</b> After you lose a challenge as the defending player, kneel Sunspear to raise the claim value on your revealed plot card by 1 during challenges of this same type until the end of the phase.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01118",
+            "type": "location",
+            "name": "Blood Orange Grove",
+            "unique": false,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 0,
+            "traits": [
+                "Dorne"
+            ],
+            "text": "Limited.\n<b>Marshaling Action:</b> Kneel Blood Orange Grove to reduce the cost of the next [martell] card you marshal this phase by 1.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01119",
+            "type": "event",
+            "name": "Doran's Game",
+            "faction": "martell",
+            "loyal": true,
+            "cost": 1,
+            "traits": [],
+            "text": "<b>Reaction:</b> After you win an [intrigue] challenge by 5 or more STR, gain X power for your faction. X is the number of plot cards in your used pile. (Max 1 per challenge.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "01120",
+            "type": "event",
+            "name": "Unbowed, Unbent, Unbroken",
+            "faction": "martell",
+            "loyal": false,
+            "cost": 0,
+            "traits": [],
+            "text": "Play only if you are not the first player.\n<b>Reaction:</b> After you lose a challenge as the defending player, name a challenge type. Until the end of the phase, the winner of the challenge cannot initiate challenges of that type. (Max 1 per challenge.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "01121",
+            "type": "event",
+            "name": "Confinement",
+            "faction": "martell",
+            "loyal": false,
+            "cost": 1,
+            "traits": [],
+            "text": "<b>Action:</b> Choose a character with STR 4 or lower. Until the end of the phase, that character loses a [military], an [intrigue], and a [power] icon.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01122",
+            "type": "character",
+            "name": "Benjen Stark",
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Ranger"
+            ],
+            "text": "Each <i>Ranger</i> character you control cannot be bypassed by stealth.\n<b>Interrupt:</b> When Benjen Stark is killed, gain 2 power for your faction. Then, shuffle him back into your deck instead of placing him in your dead pile.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01123",
+            "type": "character",
+            "name": "Ghost",
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Direwolf"
+            ],
+            "text": "No attachments. Stealth.\n<b>Reaction:</b> After Ghost bypasses a character using stealth, that character cannot be declared as a defender for any challenges until the end of the phase.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01124",
+            "type": "character",
+            "name": "Jon Snow",
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 6,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 4,
+            "traits": [
+                "Bastard",
+                "Steward"
+            ],
+            "text": "No attachments except <i>Weapon</i>.\nWhile Jon Snow is standing, he is considered to be participating in each challenge in which you control another attacking [thenightswatch] character.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01125",
+            "type": "character",
+            "name": "Maester Aemon",
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Maester",
+                "Steward"
+            ],
+            "text": "No attachments.\n<b>Interrupt:</b> When a [thenightswatch] character would be killed, kneel Master Aemon to save it.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01126",
+            "type": "character",
+            "name": "Old Bear Mormont",
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": true,
+            "cost": 7,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 6,
+            "traits": [
+                "Commander",
+                "Lord"
+            ],
+            "text": "While you control The Wall, Old Bear Mormont does not kneel when declared as a defender.\n<b>Interrupt:</b> When the challenges phase ends, if you have not lost a challenge as the defending player this phase, put a [thenightswatch] card into play from your hand.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01127",
+            "type": "character",
+            "name": "Samwell Tarly",
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": true,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 1,
+            "traits": [
+                "Steward"
+            ],
+            "text": "Insight.\n+1 Reserve.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01128",
+            "type": "character",
+            "name": "Ser Waymar Royce",
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Knight",
+                "Ranger"
+            ],
+            "text": "No attachments except <i>Weapon</i>.\n<b>Interrupt:</b> When Ser Waymar Royce is killed, discard 1 card at random from each opponent's hand.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01129",
+            "type": "character",
+            "name": "Yoren",
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": true,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Wandering Crow"
+            ],
+            "text": "<b>Reaction:</b> After you marshal Yoren, choose a character with printed cost 3 or lower in an opponent's discard pile, and put it into play under your control.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01130",
+            "type": "character",
+            "name": "Messenger Raven",
+            "unique": false,
+            "faction": "thenightswatch",
+            "loyal": true,
+            "cost": 1,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 1,
+            "traits": [
+                "Raven"
+            ],
+            "text": "No attachments.\n<b>Dominance Action:</b> Return Messenger Raven to your hand to draw 1 card.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01131",
+            "type": "character",
+            "name": "Old Forest Hunter",
+            "unique": false,
+            "faction": "thenightswatch",
+            "loyal": true,
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 1,
+            "traits": [
+                "Ranger"
+            ],
+            "text": "No attachments except <i>Weapon</i>.\n<b>Action:</b> Discard 1 card from your hand to gain 1 gold. (Limit once per phase.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "01132",
+            "type": "character",
+            "name": "Ranging Party",
+            "unique": false,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "Army",
+                "Ranger"
+            ],
+            "text": "No attachments except <i>Weapon</i>.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01133",
+            "type": "character",
+            "name": "Steward at the Wall",
+            "unique": false,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 1,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 1,
+            "traits": [
+                "Ally",
+                "Steward"
+            ],
+            "text": "<b>Marshaling Action:</b> Kneel Steward at the Wall to reduce the cost of the next [thenightswatch] character you marshal this phase by 1.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01134",
+            "type": "character",
+            "name": "Veteran Builder",
+            "unique": false,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Builder"
+            ],
+            "text": "No attachments except <i>Weapon</i>.\n<b>Action:</b> Sacrifice Veteran Builder to choose and stand a location.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01135",
+            "type": "attachment",
+            "name": "Longclaw",
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "Valyrian Steel",
+                "Weapon"
+            ],
+            "text": "[thenightswatch] character only.\nAttached character gets +1 STR and gains renown.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01136",
+            "type": "location",
+            "name": "Castle Black",
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "The North"
+            ],
+            "text": "<b>Action:</b> Kneel Castle Black to choose and stand a defending [thenightswatch] character. Until the end of the challenge, that character gets +2 STR.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01137",
+            "type": "location",
+            "name": "The Wall",
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 4,
+            "traits": [
+                "Stronghold",
+                "The North"
+            ],
+            "text": "Each [thenightswatch] character you control gets +1 STR.\n<b>Forced Reaction:</b> After you lose an unopposed challenge, kneel The Wall.\n<b>Interrupt:</b> When the challenges phase ends, kneel The Wall to gain 2 power for your faction.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01138",
+            "type": "event",
+            "name": "A Meager Contribution",
+            "faction": "thenightswatch",
+            "loyal": true,
+            "cost": 0,
+            "traits": [],
+            "text": "<b>Reaction:</b> After an opponent collects income, move 1 gold from that player's gold pool to your own. (Max 1 per round.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "01139",
+            "type": "event",
+            "name": "Take the Black",
+            "faction": "thenightswatch",
+            "loyal": true,
+            "cost": 3,
+            "traits": [],
+            "text": "<b>Dominance Action:</b> Choose a non-unique character with printed cost 6 or lower. Take control of that character. (Max 1 per round.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "01140",
+            "type": "event",
+            "name": "The Sword in the Darkness",
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 1,
+            "traits": [],
+            "text": "Play only during a challenge in which you control a participating [thenightswatch] character.\n<b>Reaction:</b> After you win a challenge by 5 or more STR as the defending player, the losing opponent cannot initiate challenges against you this round.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01141",
+            "type": "character",
+            "name": "Arya Stark",
+            "unique": true,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "Lady"
+            ],
+            "text": "Stealth.\nWhile Arya Stark has a duplicate, she gains a [military] icon.\n<b>Reaction:</b> After Arya Stark enters play, place the top card of your deck on her facedown as a duplicate.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01142",
+            "type": "character",
+            "name": "Bran Stark",
+            "unique": true,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 1,
+            "traits": [
+                "Lord"
+            ],
+            "text": "<b>Interrupt:</b> When the effects of an opponent's event would initiate, sacrifice Bran Stark to cancel those effects.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01143",
+            "type": "character",
+            "name": "Catelyn Stark",
+            "unique": true,
+            "faction": "stark",
+            "loyal": true,
+            "cost": 4,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "House Tully",
+                "Lady",
+                "The Seven"
+            ],
+            "text": "While Catelyn Stark is participating in a challenge, your opponents cannot trigger card abilities.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01144",
+            "type": "character",
+            "name": "Eddard Stark",
+            "unique": true,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 7,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "Lord",
+                "Small Council"
+            ],
+            "text": "Renown.\n<b>Reaction:</b> After a challenge is initiated against you, stand Eddard Stark.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01145",
+            "type": "character",
+            "name": "Grey Wind",
+            "unique": true,
+            "faction": "stark",
+            "loyal": true,
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 4,
+            "traits": [
+                "Direwolf"
+            ],
+            "text": "Intimidate. No attachments.\n<b>Challenges Action:</b> Kneel Grey Wind to choose and kill a character with STR 1 or lower. (STR 2 or lower instead if you control Robb Stark).",
+            "deckLimit": 3
+        },
+        {
+            "code": "01146",
+            "type": "character",
+            "name": "Robb Stark",
+            "unique": true,
+            "faction": "stark",
+            "loyal": true,
+            "cost": 6,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "Lord"
+            ],
+            "text": "Renown.\n<b>Reaction:</b> After a [stark] character you control is sacrificed or killed, stand each character you control. (Limit once per round.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "01147",
+            "type": "character",
+            "name": "Sansa Stark",
+            "unique": true,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "Lady"
+            ],
+            "text": "Sansa Stark enters play knelt.\n<b>Reaction:</b> After Sansa Stark stands, gain 1 power for your faction. (Limit once per round.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "01148",
+            "type": "character",
+            "name": "Summer",
+            "unique": true,
+            "faction": "stark",
+            "loyal": true,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Direwolf"
+            ],
+            "text": "No attachments.\nWhile you control Bran Stark, he gains insight.\n<b>Reaction:</b> After Summer enters play, return a [stark] character with printed STR 2 or lower from your discard or dead pile to your hand.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01149",
+            "type": "character",
+            "name": "Direwolf Pup",
+            "unique": false,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 1,
+            "traits": [
+                "Direwolf"
+            ],
+            "text": "No attachments.\nDirewolf Pup gets +1 STR for each other <i>Direwolf</i> card you control.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01150",
+            "type": "character",
+            "name": "Tumblestone Knight",
+            "unique": false,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "House Tully",
+                "Knight"
+            ],
+            "text": "",
+            "deckLimit": 3
+        },
+        {
+            "code": "01151",
+            "type": "character",
+            "name": "Vanguard of the North",
+            "unique": false,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 4,
+            "traits": [
+                "Army"
+            ],
+            "text": "No attachments.\nWhile a player has a <i>War</i> plot revealed, Vanguard of the North does not kneel when declared as an attacker in a [military] challenge.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01152",
+            "type": "character",
+            "name": "Winterfell Steward",
+            "unique": false,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 1,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 1,
+            "traits": [
+                "Ally",
+                "Steward"
+            ],
+            "text": "<b>Marshaling Action:</b> Kneel Winterfell Steward to reduce the cost of the next [stark] character you marshal this phase by 1.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01153",
+            "type": "attachment",
+            "name": "Ice",
+            "unique": true,
+            "faction": "stark",
+            "loyal": true,
+            "cost": 3,
+            "traits": [
+                "Valyrian Steel",
+                "Weapon"
+            ],
+            "text": "[stark] character only. \nAttached character gets +2 STR.\n<b>Reaction:</b> After you win a [military] challenge in which attached character is participating, sacrifice Ice to choose and kill a character controlled by the losing opponent.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01154",
+            "type": "location",
+            "name": "Gates of Winterfell",
+            "unique": true,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "The North",
+                "Winterfell"
+            ],
+            "text": "<b>Challenges Action:</b> Kneel Gates of Winterfell to reveal the top card of your deck. If it is a [stark] card, draw it.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01155",
+            "type": "location",
+            "name": "The Wolfswood",
+            "unique": true,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "The North"
+            ],
+            "text": "Each <i>Direwolf</i> card in your hand gains ambush (X). X is that card's printed cost.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01156",
+            "type": "location",
+            "name": "Heart Tree Grove",
+            "unique": false,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 0,
+            "traits": [
+                "Old Gods",
+                "Winterfell"
+            ],
+            "text": "Limited.\n<b>Marshaling Action:</b> Kneel Heart Tree Grove to reduce the cost of the next [stark] card you marshal this phase by 1.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01157",
+            "type": "event",
+            "name": "For the North!",
+            "faction": "stark",
+            "loyal": false,
+            "cost": 0,
+            "traits": [],
+            "text": "Play only during a [military] challenge.\n<b>Action:</b> Choose a participating [stark] character. Until the end of the challenge, that character gets +2 STR. If you win the challenge, draw 1 card.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01158",
+            "type": "event",
+            "name": "Like Warm Rain",
+            "faction": "stark",
+            "loyal": false,
+            "cost": 1,
+            "traits": [],
+            "text": "<b>Reaction:</b> After you lose an [intrigue] challenge as the defending player, kneel a <i>Direwolf</i> character to choose and kill an attacking character. (Max 1 per challenge.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "01159",
+            "type": "event",
+            "name": "Winter Is Coming",
+            "faction": "stark",
+            "loyal": true,
+            "cost": 1,
+            "traits": [],
+            "text": "Play only during a challenge.\n<b>Action:</b> Until the end of the challenge, raise the claim value on your revealed plot card by 1. (Max 1 per challenge.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "01160",
+            "type": "character",
+            "name": "Daenerys Targaryen",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 7,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "Lady",
+                "Stormborn"
+            ],
+            "text": "Insight.\nWhile Daenerys Targaryen is standing, each character participating on an opponent's side in a challenge against you gets -1 STR.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01161",
+            "type": "character",
+            "name": "Drogon",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 4,
+            "traits": [
+                "Dragon",
+                "Hatchling"
+            ],
+            "text": "No attachments.\nEach <i>Stormborn</i> character you control gains renown.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01162",
+            "type": "character",
+            "name": "Khal Drogo",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 6,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "Dothraki",
+                "Lord"
+            ],
+            "text": "Renown.\nYou may initiate an additional [military] challenge during the challenges phase.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01163",
+            "type": "character",
+            "name": "Magister Illyrio",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 5,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Lord",
+                "Merchant"
+            ],
+            "text": "<b>Action:</b> Pay 2 gold to choose and stand a character. (Limit once per phase.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "01164",
+            "type": "character",
+            "name": "Rhaegal",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Dragon",
+                "Hatchling"
+            ],
+            "text": "No attachments.\n<b>Reaction:</b> After you win a challenge in which a <i>Stormborn</i> character you control is participating, choose and stand a <i>Stormborn</i> character. (Limit once per phase.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "01165",
+            "type": "character",
+            "name": "Ser Jorah Mormont",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 4,
+            "traits": [
+                "Companion",
+                "Knight"
+            ],
+            "text": "Renown.\nIf Ser Jorah Mormont has 3 or more betrayal tokens on him, sacrifice him.\n<b>Forced Reaction:</b> After you win a challenge in which Ser Jorah Mormont is participating, place 1 betrayal token on him.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01166",
+            "type": "character",
+            "name": "Viserion",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "Dragon",
+                "Hatchling"
+            ],
+            "text": "No attachments.\nEach <i>Stormborn</i> character you control gains stealth.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01167",
+            "type": "character",
+            "name": "Viserys Targaryen",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 1,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 1,
+            "traits": [
+                "Lord"
+            ],
+            "text": "<b>Interrupt:</b> When Viserys Targaryen leaves play, choose an attachment, and discard it from play.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01168",
+            "type": "character",
+            "name": "Braided Warrior",
+            "unique": false,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Dothraki"
+            ],
+            "text": "No attachments except <i>Weapon</i>.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01169",
+            "type": "character",
+            "name": "Handmaiden",
+            "unique": false,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 1,
+            "traits": [
+                "Ally",
+                "Companion"
+            ],
+            "text": "<b>Action:</b> Sacrifice Handmaiden to choose and stand a <i>Lady</i> character.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01170",
+            "type": "character",
+            "name": "Targaryen Loyalist",
+            "unique": false,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 1,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 1,
+            "traits": [
+                "Ally"
+            ],
+            "text": "<b>Marshaling Action:</b> Kneel Targaryen Loyalist to reduce the cost of the next [targaryen] character you marshal this phase by 1.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01171",
+            "type": "character",
+            "name": "Unsullied",
+            "unique": false,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Army"
+            ],
+            "text": "No attachments except <i>Weapon</i>.\nWhile Unsullied is attacking, each defending character gets -1 STR.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01172",
+            "type": "attachment",
+            "name": "Drogo's Arakh",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "Weapon"
+            ],
+            "text": "<i>Dothraki</i> character only.\nAttached character gets +2 STR.\nIf attached character is Khal Drogo, he does not kneel when declared as an attacker in the first [military] challenge you initiate each round.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01173",
+            "type": "location",
+            "name": "Plaza of Punishment",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 3,
+            "traits": [
+                "Astapor"
+            ],
+            "text": "<b>Reaction:</b> After you win a [power] challenge, kneel Plaza of Punishment to choose a character without attachments. Until the end of the phase, that character gets -2 STR and is killed if its STR is 0.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01174",
+            "type": "location",
+            "name": "Dothraki Sea",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Essos"
+            ],
+            "text": "<b>Reaction:</b> After you win a [power] challenge, sacrifice Dothraki Sea to put a <i>Dothraki</i> character into play from your hand. At the end of the phase, if that card is still in play, return it to your hand (cannot be saved).",
+            "deckLimit": 3
+        },
+        {
+            "code": "01175",
+            "type": "location",
+            "name": "Illyrio's Estate",
+            "unique": false,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 0,
+            "traits": [
+                "Pentos"
+            ],
+            "text": "Limited.\n<b>Marshaling Action:</b> Kneel Illyrio's Estate to reduce the cost of the next [targaryen] card you marshal this phase by 1.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01176",
+            "type": "event",
+            "name": "Dracarys!",
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 1,
+            "traits": [],
+            "text": "<b>Action:</b> Kneel a <i>Dragon</i> character or Daenerys Targaryen to choose a participating character. Until the end of the phase, that character gets -4 STR and is killed if its STR is 0.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01177",
+            "type": "event",
+            "name": "Fire and Blood",
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 1,
+            "traits": [],
+            "text": "<b>Challenges Action:</b> Choose a unique [targaryen] character in your dead pile, and shuffle it back into your deck. If that character is a <i>Hatchling</i>, you may put it into play instead.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01178",
+            "type": "event",
+            "name": "Waking the Dragon",
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 0,
+            "traits": [],
+            "text": "<b>Action:</b> Choose and stand a unique [targaryen] character you control. At the end of the phase, if that character is still in play, return it to your hand.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01179",
+            "type": "character",
+            "name": "Left",
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Guard"
+            ],
+            "text": "No attachments except <i>Weapon</i>.\nWhile you control Right, Left gets +1 STR, gains a [power] icon, and does not kneel when declared as a defender.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01180",
+            "type": "character",
+            "name": "Maester Lomys",
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Maester"
+            ],
+            "text": "<b>Reaction:</b> After you win an [intrigue] challenge as the defending player, discard 1 card at random from the attacking player's hand.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01181",
+            "type": "character",
+            "name": "Margaery Tyrell",
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Lady"
+            ],
+            "text": "<b>Challenges Action:</b> Kneel Margaery Tyrell to choose a character. Until the end of the phase, that character gets +3 STR.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01182",
+            "type": "character",
+            "name": "Paxter Redwyne",
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": true,
+            "cost": 4,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "House Redwyne",
+                "Lord"
+            ],
+            "text": "Reduce the cost of the first event you play each round by 1.\n+1 Income.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01183",
+            "type": "character",
+            "name": "Randyll Tarly",
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 6,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "House Tarly",
+                "Lord"
+            ],
+            "text": "Renown.\n<b>Reaction:</b> After Randyll Tarly's STR is increased by a card effect, stand him. (Limit twice per phase.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "01184",
+            "type": "character",
+            "name": "Right",
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Guard"
+            ],
+            "text": "No attachments except <i>Weapon</i>.\nWhile you control Left, Right gets +1 STR, gains an [intrigue] icon, and does not kneel when declared as a defender.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01185",
+            "type": "character",
+            "name": "The Knight of Flowers",
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "Knight",
+                "Lord"
+            ],
+            "text": "Renown.\nWhile The Knight of Flowers is attacking alone, the defending player cannot declare more than 1 character as a defender.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01186",
+            "type": "character",
+            "name": "The Queen of Thorns",
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": true,
+            "cost": 7,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "Lady"
+            ],
+            "text": "<b>Reaction:</b> After you win an [intrigue] challenge in which The Queen of Thorns is participating, put a [tyrell] character with printed cost 6 or lower into play from your hand.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01187",
+            "type": "character",
+            "name": "Courtesan of the Rose",
+            "unique": false,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "Companion",
+                "Spy"
+            ],
+            "text": "",
+            "deckLimit": 3
+        },
+        {
+            "code": "01188",
+            "type": "character",
+            "name": "Garden Caretaker",
+            "unique": false,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 1,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 1,
+            "traits": [
+                "Ally"
+            ],
+            "text": "<b>Marshaling Action:</b> Kneel Garden Caretaker to reduce the cost of the next [tyrell] character you marshal this phase by 1.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01189",
+            "type": "character",
+            "name": "Olenna's Informant",
+            "unique": false,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "Ally",
+                "Spy"
+            ],
+            "text": "Ambush (4).\n<b>Reaction:</b> After Olenna's Informant enters play during the challenges phase, name a challenge type. You may initiate an additional challenge of that type this phase.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01190",
+            "type": "character",
+            "name": "Wardens of the Reach",
+            "unique": false,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Army"
+            ],
+            "text": "No attachments.\nWardens of the Reach gets +1 STR for each <i>The Reach</i> location you control.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01191",
+            "type": "attachment",
+            "name": "Heartsbane",
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Valyrian Steel",
+                "Weapon"
+            ],
+            "text": "[tyrell] character only.\n<b>Action:</b> While attached character is participating in a challenge, kneel Heartsbane to give that character +3 STR until the end of the challenge.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01192",
+            "type": "location",
+            "name": "Highgarden",
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": true,
+            "cost": 3,
+            "traits": [
+                "Stronghold",
+                "The Reach"
+            ],
+            "text": "<b>Challenges Action:</b> Kneel Highgarden and pay 1 gold to choose an attacking character. Stand that character and remove it from the challenge.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01193",
+            "type": "location",
+            "name": "The Mander",
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": true,
+            "cost": 3,
+            "traits": [
+                "The Reach"
+            ],
+            "text": "<b>Reaction:</b> After you win a challenge by 5 or more STR, kneel The Mander to draw 2 cards.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01194",
+            "type": "location",
+            "name": "Rose Garden",
+            "unique": false,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 0,
+            "traits": [
+                "The Reach"
+            ],
+            "text": "Limited.\n<b>Marshaling Action:</b> Kneel Rose Garden to reduce the cost of the next [tyrell] card you marshal this phase by 1.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01195",
+            "type": "event",
+            "name": "Growing Strong",
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 1,
+            "traits": [],
+            "text": "<b>Challenges Action:</b> Choose up to three [tyrell] characters. Until the end of the phase, each of the chosen characters gets +2 STR.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01196",
+            "type": "event",
+            "name": "Olenna's Cunning",
+            "faction": "tyrell",
+            "loyal": true,
+            "cost": 2,
+            "traits": [],
+            "text": "<b>Reaction:</b> After you win an [intrigue] or [power] challenge, the losing opponent names a cardtype (character, location, attachment, or event). Search your deck for a card with a different cardtype, reveal it, and add it to your hand. Shuffle your deck.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01197",
+            "type": "event",
+            "name": "\"The Bear and the Maiden Fair\"",
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 0,
+            "traits": [
+                "Song"
+            ],
+            "text": "<b>Action:</b> Choose a player. Look at the top 5 cards of that player's deck. Place up to 3 of those cards on the bottom of that deck, and the others on top, in any order.",
+            "deckLimit": 3
+        },
+        {
+            "code": "01198",
+            "type": "agenda",
+            "name": "Banner of the Stag",
+            "faction": "neutral",
+            "traits": [
+                "Banner"
+            ],
+            "text": "You may include non-loyal [baratheon] cards in your deck.\nYou must include at least 12 [baratheon] cards in your deck.",
+            "deckLimit": 1
+        },
+        {
+            "code": "01199",
+            "type": "agenda",
+            "name": "Banner of the Kraken",
+            "faction": "neutral",
+            "traits": [
+                "Banner"
+            ],
+            "text": "You may include non-loyal [greyjoy] cards in your deck.\nYou must include at least 12 [greyjoy] cards in your deck.",
+            "deckLimit": 1
+        },
+        {
+            "code": "01200",
+            "type": "agenda",
+            "name": "Banner of the Lion",
+            "faction": "neutral",
+            "traits": [
+                "Banner"
+            ],
+            "text": "You may include non-loyal [lannister] cards in your deck.\nYou must include at least 12 [lannister] cards in your deck.",
+            "deckLimit": 1
+        },
+        {
+            "code": "01201",
+            "type": "agenda",
+            "name": "Banner of the Sun",
+            "faction": "neutral",
+            "traits": [
+                "Banner"
+            ],
+            "text": "You may include non-loyal [martell] cards in your deck.\nYou must include at least 12 [martell] cards in your deck.",
+            "deckLimit": 1
+        },
+        {
+            "code": "01202",
+            "type": "agenda",
+            "name": "Banner of the Watch",
+            "faction": "neutral",
+            "traits": [
+                "Banner"
+            ],
+            "text": "You may include non-loyal [thenightswatch] cards in your deck.\nYou must include at least 12 [thenightswatch] cards in your deck.",
+            "deckLimit": 1
+        },
+        {
+            "code": "01203",
+            "type": "agenda",
+            "name": "Banner of the Wolf",
+            "faction": "neutral",
+            "traits": [
+                "Banner"
+            ],
+            "text": "You may include non-loyal [stark] cards in your deck.\nYou must include at least 12 [stark] cards in your deck.",
+            "deckLimit": 1
+        },
+        {
+            "code": "01204",
+            "type": "agenda",
+            "name": "Banner of the Dragon",
+            "faction": "neutral",
+            "traits": [
+                "Banner"
+            ],
+            "text": "You may include non-loyal [targaryen] cards in your deck.\nYou must include at least 12 [targaryen] cards in your deck.",
+            "deckLimit": 1
+        },
+        {
+            "code": "01205",
+            "type": "agenda",
+            "name": "Banner of the Rose",
+            "faction": "neutral",
+            "traits": [
+                "Banner"
+            ],
+            "text": "You may include non-loyal [tyrell] cards in your deck.\nYou must include at least 12 [tyrell] cards in your deck.",
+            "deckLimit": 1
+        },
+        {
+            "code": "01206",
+            "type": "title",
+            "name": "Master of Whispers",
+            "faction": "neutral",
+            "traits": [],
+            "text": "Supported by Master of Ships\nSupports: Hand of the King\nRivals: Master of Laws, Master of Coin\nYou may resolve your [intrigue] claim against any number of opponents of your choice.\n+1 STR [intrigue]",
+            "deckLimit": 1
+        },
+        {
+            "code": "01207",
+            "type": "title",
+            "name": "Master of Ships",
+            "faction": "neutral",
+            "traits": [],
+            "text": "Supported by Master of Coin\nSupports: Master of Whispers\nRivals: Master of Laws, Hand of the King\nRaise the claim value on your revealed plot card by 1 during [military] challenges in which you are attacking a rival.\n+1 STR [military]",
+            "deckLimit": 1
+        },
+        {
+            "code": "01208",
+            "type": "title",
+            "name": "Hand of the King",
+            "faction": "neutral",
+            "traits": [],
+            "text": "Supported by Master of Whispers.\nSupports: Master of Laws.\nRivals: Master of Coin, Master of Ships.\nYou may initiate an additional [power] challenge during the challenges phase, against a different opponent.\n+1 STR [power]",
+            "deckLimit": 1
+        },
+        {
+            "code": "01209",
+            "type": "title",
+            "name": "Master of Coin",
+            "faction": "neutral",
+            "traits": [],
+            "text": "Supported by Master of Laws.\nSupports: Master of Ships\nRivals: Hand of the King, Master of Whispers\n+2 Income.",
+            "deckLimit": 1
+        },
+        {
+            "code": "01210",
+            "type": "title",
+            "name": "Master of Laws",
+            "faction": "neutral",
+            "traits": [],
+            "text": "Supported by Hand of the King\nSupports: Master of Coin\nRivals: Master of Whispers, Master of Ships\nIncrease the number of cards you draw in the draw phase by 1.\n+1 Reserve.",
+            "deckLimit": 1
+        },
+        {
+            "code": "01211",
+            "type": "title",
+            "name": "Crown Regent",
+            "faction": "neutral",
+            "traits": [],
+            "text": "Supported by None\nSupports: None\nRivals: None\nYou may redirect 1 challenge this round.\n+2 STR for Dominance",
+            "deckLimit": 1
+        }
+    ]
+}

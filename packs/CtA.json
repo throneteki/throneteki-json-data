@@ -1,0 +1,332 @@
+{
+    "cgdbId": 10,
+    "code": "CtA",
+    "name": "Called to Arms",
+    "releaseDate": "2016-08-18",
+    "cards": [
+        {
+            "code": "04021",
+            "type": "character",
+            "name": "Donella Hornwood",
+            "unique": true,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "House Hornwood",
+                "Lady"
+            ],
+            "text": "Reduce the cost of the first loyal card you marshal or play each round by 1.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04022",
+            "type": "event",
+            "name": "Fear Cuts Deeper Than Swords",
+            "faction": "stark",
+            "loyal": true,
+            "cost": 2,
+            "traits": [],
+            "text": "<b>Interrupt:</b> When the effects of an ability that chooses a [stark] character you control as its only target would initiate, cancel those effects and stand that character.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04023",
+            "type": "character",
+            "name": "Knight of Summer",
+            "unique": false,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Knight"
+            ],
+            "text": "While there are more <i>Summer</i> plot cards than <i>Winter</i> plot cards revealed, Knight of Summer gets +2 STR and gains renown.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04024",
+            "type": "event",
+            "name": "There Is My Claim",
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 0,
+            "traits": [],
+            "text": "Play only during a challenge.\n<b>Challenges Action:</b> Reveal 4 [tyrell] characters from your hand to raise the claim value on your revealed plot card by 1 until the end of the challenge. (Max 1 per challenge.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "04025",
+            "type": "character",
+            "name": "Dolorous Edd",
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Steward"
+            ],
+            "text": "<b>Action:</b> During an [intrigue] challenge in which you are the defending player, kneel your faction card to put Dolorous Edd into play from your hand knelt, participating as a defender. If you win the challenge, you may return him to your hand.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04026",
+            "type": "attachment",
+            "name": "Craven",
+            "unique": false,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Condition"
+            ],
+            "text": "Terminal.\nAttached character cannot be declared as an attacker.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04027",
+            "type": "character",
+            "name": "Maester Pylos",
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Maester"
+            ],
+            "text": "Stealth.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04028",
+            "type": "location",
+            "name": "The Stone Drum",
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": true,
+            "cost": 0,
+            "traits": [
+                "Dragonstone"
+            ],
+            "text": "While there is a <i>Kingdom</i> plot card revealed, increase the gold value on your revealed plot card by 1.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04029",
+            "type": "character",
+            "name": "Shae",
+            "unique": true,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "Ally",
+                "Companion"
+            ],
+            "text": "<b>Challenges Action:</b> Pay 1 gold to stand Shae. (Limit twice per phase.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "04030",
+            "type": "attachment",
+            "name": "The Boy King",
+            "unique": true,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Title"
+            ],
+            "text": "<i>Lord</i> character only.\nAttached character gains the <i>King</i> trait.\n<b>Reaction:</b> After a character with printed cost 3 or lower is killed, kneel The Boy King to have attached character gain 1 power.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04031",
+            "type": "character",
+            "name": "Balon Greyjoy",
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": true,
+            "cost": 7,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "Ironborn",
+                "King",
+                "Lord"
+            ],
+            "text": "Renown.\nBalon Greyjoy does not kneel when declared as an attacker in a [military] challenge against an opponent who does not control a <i>King</i> character.\n<b>Action:</b> Kneel a [greyjoy] location to give each loyal character you control +1 STR until the end of the challenge. (Limit once per challenge.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "04032",
+            "type": "event",
+            "name": "Ours is the Old Way",
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 4,
+            "traits": [],
+            "text": "<b>Challenges Action:</b> Until the end of the phase, either: each [greyjoy] character you control gains stealth, or each non-[greyjoy] character loses stealth.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04033",
+            "type": "character",
+            "name": "Doreah",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "Companion"
+            ],
+            "text": "During a challenge in which you control a participating <i>Lord</i> or <i>Lady</i> character, Doreah gains insight.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04034",
+            "type": "attachment",
+            "name": "Beggar King",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 1,
+            "traits": [
+                "Title"
+            ],
+            "text": "[targaryen] character only.\nAttached character gains the <i>King</i> trait.\n<b>Reaction:</b> After an opponent reveals a plot card with a higher printed gold value than yours, kneel Beggar King to gain 1 gold. (2 gold instead if no opponent controls a <i>King</i> character.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "04035",
+            "type": "character",
+            "name": "Starfall Cavalry",
+            "unique": false,
+            "faction": "martell",
+            "loyal": true,
+            "cost": 6,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 4,
+            "traits": [
+                "Army",
+                "House Dayne"
+            ],
+            "text": "No attachments except <i>Weapon</i>.\n<b>Reaction:</b> After Starfall Cavalry enters play, draw 1 card. (3 cards instead if there are 3 or more plot cards in your used pile.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "04036",
+            "type": "attachment",
+            "name": "Venomous Blade",
+            "unique": false,
+            "faction": "martell",
+            "loyal": true,
+            "cost": 3,
+            "traits": [
+                "Weapon"
+            ],
+            "text": "[martell] character you control only. Ambush (3).\nAttached character gets +1 STR.\n<b>Reaction:</b> After Venomous Blade enters play, place a poison token on a character with printed STR 2 or lower. At the end of the phase, if that character still has that poison token, remove it and kill that character.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04037",
+            "type": "agenda",
+            "name": "Kings of Summer",
+            "faction": "neutral",
+            "traits": [
+                "Summer"
+            ],
+            "text": "You cannot include <i>Winter</i> plot cards in your plot deck.\nIncrease the reserve value on each player's revealed plot card by 1. While there are no <i>Winter</i> plot cards revealed, increase the gold value on your revealed <i>Summer</i> plot card by 1.",
+            "deckLimit": 1
+        },
+        {
+            "code": "04038",
+            "type": "agenda",
+            "name": "Kings of Winter",
+            "faction": "neutral",
+            "traits": [
+                "Winter"
+            ],
+            "text": "You cannot include <i>Summer</i> plot cards in your plot deck.\nReduce the reserve value on each player's revealed plot card by 1. While you have a <i>Winter</i> plot card revealed, reduce the gold value on each opponent's non-<i>Summer</i> plot card by 1.",
+            "deckLimit": 1
+        },
+        {
+            "code": "04039",
+            "type": "plot",
+            "name": "Summer Harvest",
+            "faction": "neutral",
+            "plotStats": {
+                "income": "X",
+                "initiative": 4,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "Summer"
+            ],
+            "text": "<b>When Revealed:</b> Choose an opponent. X is 2 higher than the printed gold value on that player's revealed plot card.",
+            "deckLimit": 2
+        },
+        {
+            "code": "04040",
+            "type": "plot",
+            "name": "Winter Festival",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 5,
+                "initiative": 2,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "Winter"
+            ],
+            "text": "<b>Interrupt:</b> When the challenges phase ends, if there are no <i>Summer</i> plot cards revealed, gain 2 power for your faction.",
+            "deckLimit": 2
+        }
+    ]
+}

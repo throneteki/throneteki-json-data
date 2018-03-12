@@ -1,0 +1,919 @@
+{
+    "cgdbId": 15,
+    "code": "LoCR",
+    "name": "Lions of Casterly Rock",
+    "releaseDate": "2016-11-03",
+    "cards": [
+        {
+            "code": "05001",
+            "type": "character",
+            "name": "Cersei Lannister",
+            "unique": true,
+            "faction": "lannister",
+            "loyal": true,
+            "cost": 7,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 6,
+            "traits": [
+                "Lady",
+                "Queen"
+            ],
+            "text": "Cersei Lannister does not kneel when declared as an attacker in an [intrigue] challenge.\n<b>Reaction:</b> After 1 or more cards are discarded from an opponent's hand, if you do not support that player, Cersei Lannister gains 1 power. (Limit 3 times per round.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "05002",
+            "type": "character",
+            "name": "Tyrion Lannister",
+            "unique": true,
+            "faction": "lannister",
+            "loyal": true,
+            "cost": 7,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "Lord"
+            ],
+            "text": "<b>Reaction:</b> After you win a challenge, return an attacking <i>Clansman</i> character to your hand to (choose one): draw 2 cards, gain 3 gold, or raise the claim value on your revealed plot card by 1 until the end of the challenge. (Limit twice per phase.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "05003",
+            "type": "character",
+            "name": "Ser Kevan Lannister",
+            "unique": true,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 6,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Knight",
+                "Lord",
+                "Small Council"
+            ],
+            "text": "<b>Reaction:</b> After you marshal Ser Kevan Lannister, choose a [lannister] or neutral location or attachment in your discard pile and put it into play.",
+            "deckLimit": 3
+        },
+        {
+            "code": "05004",
+            "type": "character",
+            "name": "Timett Son of Timett",
+            "unique": true,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 6,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Clansman"
+            ],
+            "text": "<b>Reaction:</b> After you win a challenge in which Timett Son of Timett is attacking, choose and kill a character with printed cost X or lower. X is the number of <i>Clansman</i> characters you control.",
+            "deckLimit": 3
+        },
+        {
+            "code": "05005",
+            "type": "character",
+            "name": "Ser Jaime Lannister",
+            "unique": true,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 4,
+            "traits": [
+                "Kingsguard",
+                "Knight"
+            ],
+            "text": "Each <i>Knight</i> character you control gains renown while attacking alone.\n<b>Challenges Action:</b> Choose a <i>Kingsguard</i> character. Until the end of the phase, that character gains an [intrigue] icon. (Limit once per phase.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "05006",
+            "type": "character",
+            "name": "Tywin Lannister",
+            "unique": true,
+            "faction": "lannister",
+            "loyal": true,
+            "cost": 5,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "Lord",
+                "Small Council"
+            ],
+            "text": "Pillage.\n<b>Interrupt:</b> When exactly 1 card is discarded from a player's deck, instead look at the top 2 cards of that player's deck and discard 1.",
+            "deckLimit": 3
+        },
+        {
+            "code": "05007",
+            "type": "character",
+            "name": "Chella Daughter of Cheyk",
+            "unique": true,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Clansman"
+            ],
+            "text": "Chella Daughter of Cheyk gets +1 STR for each ear token she has. While she has 3 or more ear tokens, she gains intimidate and renown.\n<b>Reaction:</b> After a character is killed during a challenge in which Chella Daughter of Cheyk is attacking, place an ear token on her.",
+            "deckLimit": 3
+        },
+        {
+            "code": "05008",
+            "type": "character",
+            "name": "Ser Gregor's Marauders",
+            "unique": false,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 4,
+            "traits": [
+                "House Clegane",
+                "Raider"
+            ],
+            "text": "Pillage.\n<b>Reaction:</b> After Ser Gregor's Marauders discards an event using pillage, stand Ser Gregor's Marauders.",
+            "deckLimit": 3
+        },
+        {
+            "code": "05009",
+            "type": "character",
+            "name": "Shagga Son of Dolf",
+            "unique": true,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 4,
+            "traits": [
+                "Clansman"
+            ],
+            "text": "While Shagga Son of Dolf is in your hand, he gains ambush (0) if you control a <i>Clansman</i> character or Tyrion Lannister.\n<b>Forced Reaction:</b> After Shagga Son of Dolf enters play using ambush, choose and kill a [lannister] character you control.",
+            "deckLimit": 3
+        },
+        {
+            "code": "05010",
+            "type": "character",
+            "name": "Taena Merryweather",
+            "unique": true,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "Companion",
+                "Lady"
+            ],
+            "text": "<b>Reaction:</b> After you play an event, choose and discard 1 card from your hand to draw 1 card.",
+            "deckLimit": 3
+        },
+        {
+            "code": "05011",
+            "type": "character",
+            "name": "Moon Brothers",
+            "unique": false,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Clansman"
+            ],
+            "text": "<b>Action:</b> During a challenge in which you control an attacking <i>Clansman</i> character, kneel your faction card to put Moon Brothers into play from your hand (standing), participating as an attacker.",
+            "deckLimit": 3
+        },
+        {
+            "code": "05012",
+            "type": "character",
+            "name": "Red Keep Spy",
+            "unique": false,
+            "faction": "lannister",
+            "loyal": true,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Ally",
+                "Spy"
+            ],
+            "text": "Ambush (4).\n<b>Reaction:</b> After Red Keep Spy enters play using ambush, choose a character with printed cost 3 or lower. If you have more cards in hand than that character's controller, return it to its owner's hand.",
+            "deckLimit": 3
+        },
+        {
+            "code": "05013",
+            "type": "character",
+            "name": "Alayaya",
+            "unique": true,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Companion"
+            ],
+            "text": "<b>Reaction:</b> After you win a challenge in which Alayaya is participating, move 1 gold from the losing opponent's gold pool to your own.",
+            "deckLimit": 3
+        },
+        {
+            "code": "05014",
+            "type": "character",
+            "name": "Ser Lancel Lannister",
+            "unique": true,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 0,
+            "traits": [
+                "Knight",
+                "Lord"
+            ],
+            "text": "While you control exactly 1 other [lannister] <i>Lord</i> or <i>Lady</i> character, Ser Lancel Lannister gets +X STR, where X is that character's STR.",
+            "deckLimit": 3
+        },
+        {
+            "code": "05015",
+            "type": "character",
+            "name": "Tommen Baratheon",
+            "unique": true,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "King",
+                "Lord"
+            ],
+            "text": "Each player with no cards in his or her hand cannot gain power from challenge bonuses (unopposed and rivals).",
+            "deckLimit": 3
+        },
+        {
+            "code": "05016",
+            "type": "character",
+            "name": "Lannisport Guard",
+            "unique": false,
+            "faction": "lannister",
+            "loyal": true,
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Ally",
+                "Guard"
+            ],
+            "text": "<b>Reaction:</b> After you marshal Lannisport Guard, each player draws 1 card.",
+            "deckLimit": 3
+        },
+        {
+            "code": "05017",
+            "type": "location",
+            "name": "Golden Tooth",
+            "unique": true,
+            "faction": "lannister",
+            "loyal": true,
+            "cost": 2,
+            "traits": [
+                "Stronghold",
+                "The Westerlands"
+            ],
+            "text": "Limited.\n<b>Action:</b> Kneel Golden Tooth to gain 1 gold. (3 gold instead if an opponent has no cards in his or her hand.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "05018",
+            "type": "location",
+            "name": "Mountains of the Moon",
+            "unique": true,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Westeros"
+            ],
+            "text": "<b>Reaction:</b> After a <i>Clansman</i> character enters play, that character gains a challenge icon of your choice until the end of the phase.",
+            "deckLimit": 3
+        },
+        {
+            "code": "05019",
+            "type": "location",
+            "name": "Lannisport Treasury",
+            "unique": false,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "The Westerlands"
+            ],
+            "text": "<b>Reaction:</b> After the taxation phase begins, place 1 gold from your gold pool on Lannisport Treasury.\n<b>Marshaling Action:</b> Kneel Lannisport Treasury to move any number of gold from Lannisport Treasury to your gold pool.",
+            "deckLimit": 3
+        },
+        {
+            "code": "05020",
+            "type": "attachment",
+            "name": "Shield of Lannisport",
+            "unique": true,
+            "faction": "lannister",
+            "loyal": true,
+            "cost": 3,
+            "traits": [
+                "Title"
+            ],
+            "text": "[lannister] <i>Lord</i> or <i>Lady</i> character only.\nWhile you control no <i>Lord</i> or <i>Lady</i> characters with printed cost 4 or higher other than attached character, attached character gets +2 STR and gains renown.\n+1 Income.",
+            "deckLimit": 3
+        },
+        {
+            "code": "05021",
+            "type": "attachment",
+            "name": "Valyrian Steel Dagger",
+            "unique": false,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "Valyrian Steel",
+                "Weapon"
+            ],
+            "text": "During [intrigue] challenges, attached character gets +2 STR and gains stealth.",
+            "deckLimit": 3
+        },
+        {
+            "code": "05022",
+            "type": "event",
+            "name": "A Lannister Always Pays His Debts",
+            "faction": "lannister",
+            "loyal": true,
+            "cost": 3,
+            "traits": [],
+            "text": "<b>Challenges Action:</b> Choose an opponent who has won a challenge against you this phase. You may initiate an additional [military] and [intrigue] challenge against that player this phase. (Max 1 per phase.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "05023",
+            "type": "event",
+            "name": "Insidious Scheme",
+            "faction": "lannister",
+            "loyal": true,
+            "cost": 1,
+            "traits": [],
+            "text": "<b>Reaction:</b> After claim is applied for an [intrigue] challenge you won by 5 or more STR, draw 2 cards. (4 cards instead if the losing opponent has no cards in his or her hand.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "05024",
+            "type": "event",
+            "name": "Daring Rescue",
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 1,
+            "traits": [],
+            "text": "Play only if you control a <i>Knight</i> character.\n<b>Challenges Action:</b> Return a character you control to its owner's hand. Then, have a <i>Knight</i> character you control gain 1 power.",
+            "deckLimit": 3
+        },
+        {
+            "code": "05025",
+            "type": "character",
+            "name": "Edric Storm",
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "Bastard"
+            ],
+            "text": "<b>Reaction:</b> After the dominance phase begins, choose a character. That character does not contribute its STR to its controller's total for dominance this phase.",
+            "deckLimit": 3
+        },
+        {
+            "code": "05026",
+            "type": "attachment",
+            "name": "Disputed Claim",
+            "unique": false,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Condition"
+            ],
+            "text": "<i>Bastard</i>, <i>Lord</i>, or <i>Lady</i> character only.\nWhile you have more power on your faction card than each opponent, attached character gets +2 STR and gains renown.",
+            "deckLimit": 3
+        },
+        {
+            "code": "05027",
+            "type": "character",
+            "name": "Victarion Greyjoy",
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 6,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "Captain",
+                "Ironborn",
+                "Lord"
+            ],
+            "text": "Intimidate. Renown.\n<b>Interrupt:</b> When Victarion Greyjoy would be killed, discard 2 power from him to save him.",
+            "deckLimit": 3
+        },
+        {
+            "code": "05028",
+            "type": "location",
+            "name": "Old Wyk",
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "Iron Islands"
+            ],
+            "text": "<b>Reaction:</b> After you initiate a [power] challenge, kneel Old Wyk to put the top <i>Drowned God</i> character in your dead pile into play knelt, participating as an attacker. If you win the challenge by 5 or more STR, return that character to your hand. Otherwise, place it on the bottom of your deck.",
+            "deckLimit": 3
+        },
+        {
+            "code": "05029",
+            "type": "character",
+            "name": "Trystane Martell",
+            "unique": true,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Lord"
+            ],
+            "text": "<b>Reaction:</b> After you lose a challenge in which Trystane Martell is participating, choose a character with lower STR than his. Until the end of the phase, that character cannot be declared as a defender.",
+            "deckLimit": 3
+        },
+        {
+            "code": "05030",
+            "type": "event",
+            "name": "You Murdered Her Children",
+            "faction": "martell",
+            "loyal": false,
+            "cost": 2,
+            "traits": [],
+            "text": "<b>Challenges Action:</b> Choose a [martell] character you control. Until the end of the phase, double that character's STR. At the end of the phase, if that character is still in play, kill it.",
+            "deckLimit": 3
+        },
+        {
+            "code": "05031",
+            "type": "character",
+            "name": "Sweet Donnel Hill",
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Bastard",
+                "Steward"
+            ],
+            "text": "No attachments except <i>Weapon</i>.\nWhile Sweet Donnel Hill is defending, each attacking character loses all keywords.",
+            "deckLimit": 3
+        },
+        {
+            "code": "05032",
+            "type": "location",
+            "name": "Bridge of Skulls",
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "The North"
+            ],
+            "text": "<b>Interrupt:</b> When the challenges phase ends, choose an opponent who did not initiate a military challenge against you this phase. That player discards one card at random from his or her hand.",
+            "deckLimit": 3
+        },
+        {
+            "code": "05033",
+            "type": "character",
+            "name": "Jeyne Westerling",
+            "unique": true,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 1,
+            "traits": [
+                "Lady",
+                "Queen"
+            ],
+            "text": "<b>Action:</b> Kneel Jeyne Westerling to choose and stand a [stark] <i>King</i> or <i>Lord</i> character.",
+            "deckLimit": 3
+        },
+        {
+            "code": "05034",
+            "type": "character",
+            "name": "Last Hearth Scouts",
+            "unique": false,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "House Umber"
+            ],
+            "text": "<b>Forced Reaction:</b> After a character enters play during the challenges phase, kneel that character.",
+            "deckLimit": 3
+        },
+        {
+            "code": "05035",
+            "type": "character",
+            "name": "Ser Barristan Selmy",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Knight"
+            ],
+            "text": "<b>Reaction:</b> After you win a challenge in which Ser Barristan Selmy is participating, if you have fewer cards in hand than the losing opponent, stand him.",
+            "deckLimit": 3
+        },
+        {
+            "code": "05036",
+            "type": "attachment",
+            "name": "Daenerys's Favor",
+            "unique": false,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "Condition"
+            ],
+            "text": "[targaryen] character only.\nWhile attached character is participating in a challenge, each other participating character gets -1 STR.",
+            "deckLimit": 3
+        },
+        {
+            "code": "05037",
+            "type": "character",
+            "name": "Alerie Tyrell",
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "House Hightower",
+                "Lady"
+            ],
+            "text": "<b>Reaction:</b> After Alerie Tyrell enters play, search the top 10 cards of your deck for a [tyrell] character with printed cost 3 or lower, reveal it, and add it to your hand. Shuffle your deck.",
+            "deckLimit": 3
+        },
+        {
+            "code": "05038",
+            "type": "event",
+            "name": "\"A Rose of Gold\"",
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Song"
+            ],
+            "text": "<b>Challenges Action:</b> Look at the top 3 cards of your deck. Add 1 to your hand, and place the others on the bottom of your deck in any order.",
+            "deckLimit": 3
+        },
+        {
+            "code": "05039",
+            "type": "character",
+            "name": "High Septon",
+            "unique": true,
+            "faction": "neutral",
+            "cost": 6,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "The Seven"
+            ],
+            "text": "<b>Interrupt:</b> When an opponent chooses a character you control as the only target of a triggered ability, choose an eligible <i>The Seven</i> character you control to become the target of that triggered ability instead. (Limit once per phase.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "05040",
+            "type": "character",
+            "name": "Devout Freerider",
+            "unique": false,
+            "faction": "neutral",
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Ally",
+                "Mercenary",
+                "The Seven"
+            ],
+            "text": "During the challenges phase, each player cannot gain gold.",
+            "deckLimit": 3
+        },
+        {
+            "code": "05041",
+            "type": "character",
+            "name": "Wildling Bandit",
+            "unique": false,
+            "faction": "neutral",
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 1,
+            "traits": [
+                "Wildling"
+            ],
+            "text": "While Wildling Bandit is attacking an opponent with more gold in his or her gold pool than you, it gets +2 STR.",
+            "deckLimit": 3
+        },
+        {
+            "code": "05042",
+            "type": "location",
+            "name": "Ocean Road",
+            "unique": false,
+            "faction": "neutral",
+            "cost": 0,
+            "traits": [
+                "Westeros"
+            ],
+            "text": "Limited.\n<b>Marshaling Action:</b> Kneel Ocean Road to reduce the cost of the next neutral or out-of-faction card you marshal this phase by 1.",
+            "deckLimit": 3
+        },
+        {
+            "code": "05043",
+            "type": "attachment",
+            "name": "Appointed",
+            "unique": false,
+            "faction": "neutral",
+            "cost": 1,
+            "traits": [
+                "Title"
+            ],
+            "text": "Unique character only.\nAttached character gains an [intrigue] icon and the <i>Small Council</i> trait.",
+            "deckLimit": 3
+        },
+        {
+            "code": "05044",
+            "type": "event",
+            "name": "The Council Consents",
+            "faction": "neutral",
+            "cost": 1,
+            "traits": [
+                "Small Council"
+            ],
+            "text": "<b>Reaction:</b> After a player wins an [intrigue] challenge by 5 or more STR, stand each <i>Small Council</i> character.",
+            "deckLimit": 3
+        },
+        {
+            "code": "05045",
+            "type": "agenda",
+            "name": "\"The Rains of Castamere\"",
+            "faction": "neutral",
+            "traits": [
+                "Song"
+            ],
+            "text": "Your plot deck must be 12 cards, including exactly 5 different <i>Scheme</i> cards. During the plot phase, <i>Scheme</i> cards are not considered to be in your plot deck.\n<b>Reaction:</b> After you win an [intrigue] challenge by 5 or more STR, kneel your faction card to reveal a <i>Scheme</i> plot. If that card leaves play, remove it from the game.",
+            "deckLimit": 1
+        },
+        {
+            "code": "05046",
+            "type": "plot",
+            "name": "Lions of the Rock",
+            "faction": "lannister",
+            "loyal": true,
+            "plotStats": {
+                "income": 4,
+                "initiative": 4,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "Kingdom"
+            ],
+            "text": "<b>Reaction:</b> After the challenges phase begins, gain 3 gold.",
+            "deckLimit": 2
+        },
+        {
+            "code": "05047",
+            "type": "plot",
+            "name": "Unexpected Delay",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 3,
+                "initiative": 1,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "House Frey"
+            ],
+            "text": "<b>Forced Reaction:</b> After the challenges phase begins, each player chooses a character without attachments or power. Return each of those characters to its owner's hand.",
+            "deckLimit": 2
+        },
+        {
+            "code": "05048",
+            "type": "plot",
+            "name": "Summoned to Court",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 5,
+                "initiative": 2,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "Edict",
+                "Kingdom"
+            ],
+            "text": "<b>Forced Interrupt:</b> When the draw phase ends, each player chooses a card in his or her hand, if able. Then, reveal the chosen cards. Each player who revealed a character with the lowest printed cost may put that character into play.",
+            "deckLimit": 2
+        },
+        {
+            "code": "05049",
+            "type": "plot",
+            "name": "Littlefinger's Meddling",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 4,
+                "initiative": 1,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "Kingdom",
+                "Scheme"
+            ],
+            "text": "Reduce the cost of each event you play by 2.",
+            "deckLimit": 2
+        },
+        {
+            "code": "05050",
+            "type": "plot",
+            "name": "Gossip and Lies",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 3,
+                "initiative": 8,
+                "claim": 1,
+                "reserve": 5
+            },
+            "traits": [
+                "Scheme"
+            ],
+            "text": "Each character you control does not kneel when declared as an attacker in the first [intrigue] challenge you initiate during the challenges phase.",
+            "deckLimit": 2
+        },
+        {
+            "code": "05051",
+            "type": "plot",
+            "name": "Time of Plenty",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 6,
+                "initiative": 1,
+                "claim": 1,
+                "reserve": 7
+            },
+            "traits": [
+                "Summer"
+            ],
+            "text": "Increase the number of cards each player draws in the draw phase by 1.",
+            "deckLimit": 2
+        },
+        {
+            "code": "05052",
+            "type": "plot",
+            "name": "Early Frost",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 3,
+                "initiative": 4,
+                "claim": 2,
+                "reserve": 4
+            },
+            "traits": [
+                "Winter"
+            ],
+            "text": "Reduce the number of cards each player draws in the draw phase by 1.",
+            "deckLimit": 2
+        }
+    ]
+}

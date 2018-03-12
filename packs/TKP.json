@@ -1,0 +1,341 @@
+{
+    "cgdbId": 4,
+    "code": "TKP",
+    "name": "The King's Peace",
+    "releaseDate": "2016-02-25",
+    "cards": [
+        {
+            "code": "02041",
+            "type": "character",
+            "name": "Ser Rodrik Cassel",
+            "unique": true,
+            "faction": "stark",
+            "loyal": true,
+            "cost": 6,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Knight"
+            ],
+            "text": "No attachments except <i>Weapon</i>.\nWhile Ser Rodrik Cassel is attacking in a [military] challenge, each unique [stark] character you control gains insight.",
+            "deckLimit": 3
+        },
+        {
+            "code": "02042",
+            "type": "event",
+            "name": "Wolf Dreams",
+            "faction": "stark",
+            "loyal": false,
+            "cost": 0,
+            "traits": [
+                "Dream"
+            ],
+            "text": "<b>Action:</b> Kneel your faction card to search your deck for a <i>Direwolf</i> card, reveal it, and add it to your hand. Shuffle your deck.",
+            "deckLimit": 3
+        },
+        {
+            "code": "02043",
+            "type": "character",
+            "name": "Ser Hobber Redwyne",
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "House Redwyne",
+                "Knight"
+            ],
+            "text": "<b>Reaction:</b> After you marshal Ser Hobber Redwyne, search your deck for a <i>Lady</i> character, reveal it, and add it to your hand. Shuffle your deck.",
+            "deckLimit": 3
+        },
+        {
+            "code": "02044",
+            "type": "attachment",
+            "name": "Mare in Heat",
+            "unique": false,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "Warhorse"
+            ],
+            "text": "<i>Knight</i> character only.\nWhile attached character is attacking or defending alone, Mare in Heat gains: \"<b>Action:</b> Kneel Mare in Heat to choose a participating character with STR higher than that of attached character, and remove that character from the challenge.\"",
+            "deckLimit": 3
+        },
+        {
+            "code": "02045",
+            "type": "character",
+            "name": "Ser Alliser Thorne",
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 6,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Knight",
+                "Ranger"
+            ],
+            "text": "While you are the defending player, each [thenightswatch] character you control gains a [military] icon.\n<b>Reaction:</b> After a [military] challenge is initiated against you, kneel your faction card and pay 4 gold to put Ser Alliser Thorne into play from your hand.",
+            "deckLimit": 3
+        },
+        {
+            "code": "02046",
+            "type": "attachment",
+            "name": "Practice Blade",
+            "unique": false,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Weapon"
+            ],
+            "text": "[thenightswatch] character only. Ambush (2).\nAttached character gets +1 STR and gains a [military] icon.",
+            "deckLimit": 3
+        },
+        {
+            "code": "02047",
+            "type": "character",
+            "name": "Moon Boy",
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": true,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "Fool"
+            ],
+            "text": "Insight.\n<b>Forced Reaction:</b> After you lose a challenge in which Moon Boy is participating, discard 1 card at random from your hand.",
+            "deckLimit": 3
+        },
+        {
+            "code": "02048",
+            "type": "plot",
+            "name": "The King's Peace",
+            "faction": "baratheon",
+            "loyal": true,
+            "plotStats": {
+                "income": 4,
+                "initiative": 0,
+                "claim": 1,
+                "reserve": 5
+            },
+            "traits": [
+                "Edict",
+                "Scheme"
+            ],
+            "text": "<b>Reaction:</b> After a [military] or [power] challenge is initiated against you, the attacking player may either: kneel his or her faction card, or move 1 power from that faction card to yours. If that player does not, the challenge immediately ends with no winner or loser.",
+            "deckLimit": 1
+        },
+        {
+            "code": "02049",
+            "type": "character",
+            "name": "Ser Gregor Clegane",
+            "unique": true,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 7,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 10,
+            "traits": [
+                "House Clegane",
+                "Knight",
+                "Lord"
+            ],
+            "text": "Pillage. Renown.\n<b>Reaction:</b> After Ser Gregor Clegane discards a character using pillage, place that card in its owner's dead pile. Then, you may choose and kill a character with printed cost equal to that card's printed cost.",
+            "deckLimit": 3
+        },
+        {
+            "code": "02050",
+            "type": "event",
+            "name": "I Never Bet Against My Family",
+            "faction": "lannister",
+            "loyal": true,
+            "cost": 0,
+            "traits": [],
+            "text": "<b>Challenges Action:</b> Kneel your faction card to reveal the bottom 5 cards of your deck. You may put 1 unique [lannister] character revealed by this effect into play; return the other cards to the bottom of your deck in any order. At the end of the phase, if that card is still in play, discard it from play (cannot be saved).",
+            "deckLimit": 3
+        },
+        {
+            "code": "02051",
+            "type": "character",
+            "name": "Newly-Made Lord",
+            "unique": false,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Lord"
+            ],
+            "text": "<b>Reaction:</b> After you marshal Newly-Made Lord, choose a non-limited location with printed cost 3 or lower, and discard it from play.",
+            "deckLimit": 3
+        },
+        {
+            "code": "02052",
+            "type": "attachment",
+            "name": "Fishing Net",
+            "unique": false,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Condition",
+                "Item",
+                "Weapon"
+            ],
+            "text": "Opponent's character only.\nAttached character cannot be declared as a defender.",
+            "deckLimit": 3
+        },
+        {
+            "code": "02053",
+            "type": "character",
+            "name": "Crone of Vaes Dothrak",
+            "unique": false,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Dothraki"
+            ],
+            "text": "<b>Reaction:</b> After a character is discarded from an opponent's hand or deck, kneel a <i>Dothraki</i> character to place that card in its owner's dead pile.",
+            "deckLimit": 3
+        },
+        {
+            "code": "02054",
+            "type": "attachment",
+            "name": "The Silver Steed",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Warhorse"
+            ],
+            "text": "<i>Dothraki</i> character or Daenerys Targaryen only.\nWhile attached character is participating in a [power] challenge, it gains renown.\n<b>Reaction:</b> After attached character gains power using renown, sacrifice The Silver Steed. You may initiate an additional [power] challenge this phase.",
+            "deckLimit": 3
+        },
+        {
+            "code": "02055",
+            "type": "attachment",
+            "name": "Attainted",
+            "unique": false,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Condition"
+            ],
+            "text": "Opponent's character only.\nAttached character loses an [intrigue] icon.",
+            "deckLimit": 3
+        },
+        {
+            "code": "02056",
+            "type": "location",
+            "name": "The Boneway",
+            "unique": true,
+            "faction": "martell",
+            "loyal": true,
+            "cost": 2,
+            "traits": [
+                "Dorne"
+            ],
+            "text": "<b>Reaction:</b> After you lose a challenge, place 1 vengeance token on The Boneway.\n<b>Dominance Action:</b> Kneel The Boneway and discard 6 vengeance tokens from it to gain 3 power for your faction.",
+            "deckLimit": 3
+        },
+        {
+            "code": "02057",
+            "type": "character",
+            "name": "Hedge Knight",
+            "unique": false,
+            "faction": "neutral",
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Knight"
+            ],
+            "text": "While you control another <i>Knight</i> character, Hedge Knight gets +1 STR and gains a [power] icon.",
+            "deckLimit": 3
+        },
+        {
+            "code": "02058",
+            "type": "attachment",
+            "name": "Knighted",
+            "unique": false,
+            "faction": "neutral",
+            "cost": 1,
+            "traits": [
+                "Title"
+            ],
+            "text": "Attached character gets +1 STR and gains the <i>Knight</i> trait.",
+            "deckLimit": 3
+        },
+        {
+            "code": "02059",
+            "type": "plot",
+            "name": "A Tourney for the King",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 3,
+                "initiative": 8,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "Summer"
+            ],
+            "text": "Each<i> Knight</i> character you control gains renown and \"immune to opponents' events.\"",
+            "deckLimit": 2
+        },
+        {
+            "code": "02060",
+            "type": "agenda",
+            "name": "The Lord of the Crossing",
+            "faction": "neutral",
+            "traits": [
+                "House Frey"
+            ],
+            "text": "During the first challenge you initiate each phase, each of your participating characters gets -1 STR.\nDuring the third challenge you initiate each phase, each of your participating characters gets +2 STR. If you win this challenge, gain 1 power for your faction.",
+            "deckLimit": 1
+        }
+    ]
+}

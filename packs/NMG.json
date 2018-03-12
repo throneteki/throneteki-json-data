@@ -1,0 +1,360 @@
+{
+    "cgdbId": 5,
+    "code": "NMG",
+    "name": "No Middle Ground",
+    "releaseDate": "2016-03-24",
+    "cards": [
+        {
+            "code": "02061",
+            "type": "character",
+            "name": "Hodor",
+            "unique": true,
+            "faction": "stark",
+            "loyal": true,
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Companion"
+            ],
+            "text": "No attachments.\nHodor cannot be declared as an attacker unless you control Bran Stark.\nHodor does not contribute his STR to your total for dominance.",
+            "deckLimit": 3
+        },
+        {
+            "code": "02062",
+            "type": "plot",
+            "name": "Wardens of the North",
+            "faction": "stark",
+            "loyal": true,
+            "plotStats": {
+                "income": 5,
+                "initiative": 5,
+                "claim": 1,
+                "reserve": 5
+            },
+            "traits": [
+                "War"
+            ],
+            "text": "<b>Challenges Action:</b> During a challenge in which you control a participating [stark] character, kneel another [stark] character to have it participate in that challenge on your side. (Limit twice per round.)",
+            "deckLimit": 1
+        },
+        {
+            "code": "02063",
+            "type": "character",
+            "name": "Ser Horas Redwyne",
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "House Redwyne",
+                "Knight"
+            ],
+            "text": "<b>Reaction:</b> After Ser Horas Redwyne is knelt, choose and stand a <i>Lady</i> character.",
+            "deckLimit": 3
+        },
+        {
+            "code": "02064",
+            "type": "location",
+            "name": "The Arbor",
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": true,
+            "cost": 4,
+            "traits": [
+                "House Redwyne"
+            ],
+            "text": "Limited.\n+3 Income.",
+            "deckLimit": 3
+        },
+        {
+            "code": "02065",
+            "type": "character",
+            "name": "Halder",
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "Builder"
+            ],
+            "text": "No attachments except <i>Weapon</i>.\n<b>Action:</b> Kneel a [thenightswatch] location or attachment to choose a [thenightswatch] character. Until the end of the phase, that character gets +1 STR.",
+            "deckLimit": 3
+        },
+        {
+            "code": "02066",
+            "type": "event",
+            "name": "The Watcher on the Walls",
+            "faction": "thenightswatch",
+            "loyal": true,
+            "cost": 1,
+            "traits": [
+                "Ranger"
+            ],
+            "text": "Play only during a [military] challenge.\n<b>Challenges Action:</b> Kneel 2 <i>Ranger</i> characters to kill each attacking character.",
+            "deckLimit": 3
+        },
+        {
+            "code": "02067",
+            "type": "plot",
+            "name": "For the Watch!",
+            "faction": "thenightswatch",
+            "loyal": true,
+            "plotStats": {
+                "income": 4,
+                "initiative": 6,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "Siege"
+            ],
+            "text": "You cannot lose <em>(and your opponent cannot win)</em> the first challenge initiated against you each phase.",
+            "deckLimit": 1
+        },
+        {
+            "code": "02068",
+            "type": "character",
+            "name": "Gendry",
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Bastard"
+            ],
+            "text": "<b>Reaction:</b> After you win dominance, Gendry gains 1 power.\n<b>Forced Reaction:</b> After an opponent wins dominance, you may discard 1 power from Gendry. If you do not, sacrifice a <i>Bastard</i> character.",
+            "deckLimit": 3
+        },
+        {
+            "code": "02069",
+            "type": "location",
+            "name": "Tobho Mott's Armory",
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": true,
+            "cost": 2,
+            "traits": [
+                "King's Landing"
+            ],
+            "text": "<b>Reaction:</b> After you win dominance, kneel Tobho Mott's Armory to draw 1 card.",
+            "deckLimit": 3
+        },
+        {
+            "code": "02070",
+            "type": "character",
+            "name": "Red Cloaks",
+            "unique": false,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Army",
+                "Mercenary"
+            ],
+            "text": "During [intrigue] challenges, Red Cloaks gets +1 STR for each gold on it.\n<b>Action:</b> Move 1 gold from your gold pool to Red Cloaks. (Limit once per phase.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "02071",
+            "type": "attachment",
+            "name": "Paid Off",
+            "unique": false,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Condition"
+            ],
+            "text": "Opponent's character only. Ambush (1). \n<b>Reaction:</b> After you win an [intrigue] challenge, kneel attached character. Then, that character's controller may give you 1 gold from his or her gold pool to stand that character.",
+            "deckLimit": 3
+        },
+        {
+            "code": "02072",
+            "type": "character",
+            "name": "Priest of the Drowned God",
+            "unique": false,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "Drowned God"
+            ],
+            "text": "Each <i>Drowned God</i> character you control gets +1 STR.",
+            "deckLimit": 3
+        },
+        {
+            "code": "02073",
+            "type": "event",
+            "name": "Loot",
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": "X",
+            "traits": [],
+            "text": "You may only use gold from the losing opponent's gold pool to pay for Loot.\n<b>Reaction:</b> After you win an unopposed challenge, discard the top X cards from the losing opponent's deck.",
+            "deckLimit": 3
+        },
+        {
+            "code": "02074",
+            "type": "character",
+            "name": "Dothraki Outriders",
+            "unique": false,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 8,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 7,
+            "traits": [
+                "Army",
+                "Dothraki"
+            ],
+            "text": "No attachments. Pillage.\nReduce the cost to marshal Dothraki Outriders by 1 for each <i>Dothraki</i> character you control.",
+            "deckLimit": 3
+        },
+        {
+            "code": "02075",
+            "type": "plot",
+            "name": "Blood of the Dragon",
+            "faction": "targaryen",
+            "loyal": true,
+            "plotStats": {
+                "income": 2,
+                "initiative": 2,
+                "claim": 1,
+                "reserve": 5
+            },
+            "traits": [
+                "Legacy"
+            ],
+            "text": "Each non-<i>Dragon</i> character gets -1 STR and is killed if its STR is 0.",
+            "deckLimit": 1
+        },
+        {
+            "code": "02076",
+            "type": "character",
+            "name": "Maester of Starfall",
+            "unique": false,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "House Dayne",
+                "Maester"
+            ],
+            "text": "<b>Challenges Action:</b> Kneel Maester of Starfall to choose a character. Until the end of the phase, that character loses (choose one): insight, intimidate, pillage, or renown.",
+            "deckLimit": 3
+        },
+        {
+            "code": "02077",
+            "type": "attachment",
+            "name": "Condemned",
+            "unique": false,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Condition"
+            ],
+            "text": "Opponent's character only.\nAttached character loses a [power] icon.",
+            "deckLimit": 3
+        },
+        {
+            "code": "02078",
+            "type": "character",
+            "name": "Wildling Scout",
+            "unique": false,
+            "faction": "neutral",
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Wildling"
+            ],
+            "text": "<b>Action:</b> Sacrifice Wildling Scout to choose a character. Until the end of the phase, that character gains stealth.",
+            "deckLimit": 3
+        },
+        {
+            "code": "02079",
+            "type": "plot",
+            "name": "The First Snow of Winter",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 3,
+                "initiative": 5,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "Omen",
+                "Winter"
+            ],
+            "text": "<b>Forced Reaction:</b> After the challenges phase begins, return each character with printed cost 3 or lower to its owner's hand.",
+            "deckLimit": 1
+        },
+        {
+            "code": "02080",
+            "type": "plot",
+            "name": "Wraiths in Their Midst",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 4,
+                "initiative": 1,
+                "claim": 1,
+                "reserve": 5
+            },
+            "traits": [
+                "Winter"
+            ],
+            "text": "Reduce the reserve value on each opponent's revealed plot card by 2 (to a minimum of 2).",
+            "deckLimit": 2
+        }
+    ]
+}

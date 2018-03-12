@@ -1,0 +1,337 @@
+{
+    "cgdbId": 11,
+    "code": "FFH",
+    "name": "For Family Honor",
+    "releaseDate": "2016-10-06",
+    "cards": [
+        {
+            "code": "04041",
+            "type": "character",
+            "name": "Ser Edmure Tully",
+            "unique": true,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "House Tully",
+                "Knight"
+            ],
+            "text": "<b>Reaction:</b> After a character gains power, move 1 power from that character to a <i>House Tully</i> character. (Limit once per round.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "04042",
+            "type": "location",
+            "name": "Bear Island",
+            "unique": true,
+            "faction": "stark",
+            "loyal": true,
+            "cost": 3,
+            "traits": [
+                "The North"
+            ],
+            "text": "<b>Reaction:</b> After you marshal a loyal card, gain 1 gold. (Limit twice per phase.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "04043",
+            "type": "character",
+            "name": "Renly Baratheon",
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": true,
+            "cost": 7,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 6,
+            "traits": [
+                "King",
+                "Lord"
+            ],
+            "text": "Insight. Renown.\nWhile an opponent controls a <i>King</i> character, Renly Baratheon cannot be saved.\n<b>Reaction:</b> After you draw a loyal card using insight, reveal it to draw 1 card.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04044",
+            "type": "attachment",
+            "name": "Crown of Golden Roses",
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Crown",
+                "Item"
+            ],
+            "text": "<i>Lord</i> character only.\nAttached character gains the <i>King</i> trait.\n<b>Action:</b> Discard 1 card from your hand to give attached character +X STR until the end of the phase. X is the number of challenge icons attached character has. (Limit twice per round.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "04045",
+            "type": "character",
+            "name": "Thoren Smallwood",
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 4,
+            "traits": [
+                "Ranger"
+            ],
+            "text": "No attachments except <i>Weapon</i>.\n<b>Reaction:</b> After you win a challenge as the defending player, gain 1 power for your faction.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04046",
+            "type": "event",
+            "name": "Night Gathers...",
+            "faction": "thenightswatch",
+            "loyal": true,
+            "cost": 1,
+            "traits": [],
+            "text": "<b>Marshaling Action:</b> Choose an opponent whose reserve value is lower than yours. Until the end of the phase, you may marshal characters from that player's discard pile as if they were in your hand.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04047",
+            "type": "character",
+            "name": "Asshai Priestess",
+            "unique": false,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Ally",
+                "R'hllor"
+            ],
+            "text": "<b>Reaction:</b> After you marshal Asshai Priestess, choose and kneel a character with STR 2 or lower.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04048",
+            "type": "attachment",
+            "name": "Visited by Shadows",
+            "unique": false,
+            "faction": "baratheon",
+            "loyal": true,
+            "cost": 0,
+            "traits": [
+                "Condition"
+            ],
+            "text": "Opponent's character only.\nAttached character gets -1 STR.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04049",
+            "type": "character",
+            "name": "Ser Amory Lorch",
+            "unique": true,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Knight"
+            ],
+            "text": "While an opponent controls 3 or fewer characters, Ser Amory Lorch gains renown.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04050",
+            "type": "location",
+            "name": "Harrenhal",
+            "unique": true,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 4,
+            "traits": [
+                "Contested",
+                "Stronghold"
+            ],
+            "text": "<b>Challenges Action:</b> Kneel Harrenhal to put a [lannister] or <i>House Bolton</i> character into play from your hand. At the end of the phase, if that character is still in play, kill it (cannot be saved).",
+            "deckLimit": 3
+        },
+        {
+            "code": "04051",
+            "type": "character",
+            "name": "Lordsport Fisherman",
+            "unique": false,
+            "faction": "greyjoy",
+            "loyal": true,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "Ally",
+                "Merchant"
+            ],
+            "text": "<b>Reaction:</b> After you marshal Lordsport Fisherman, add the bottom card of your deck to your hand.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04052",
+            "type": "attachment",
+            "name": "King of Salt and Rock",
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Title"
+            ],
+            "text": "<i>Ironborn</i> character only.\nAttached character gains the <i>King</i> trait and pillage.\n<b>Reaction:</b> After an attachment or location is discarded using pillage, attached character gains 1 power.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04053",
+            "type": "character",
+            "name": "Devoted Bloodrider",
+            "unique": false,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Bloodrider",
+                "Dothraki"
+            ],
+            "text": "Each <i>Bloodrider</i> character you control gets +1 STR.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04054",
+            "type": "event",
+            "name": "Blood of My Blood",
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 3,
+            "traits": [],
+            "text": "<b>Challenges Action:</b> Search your deck for a <i>Bloodrider</i> character and put it into play. Shuffle your deck. At the end of the phase, if that card is still in play, return it to your hand.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04055",
+            "type": "character",
+            "name": "Spearmaiden",
+            "unique": false,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 4,
+            "traits": [
+                "Ally"
+            ],
+            "text": "<b>Reaction:</b> After Spearmaiden is declared as an attacker in a [military] challenge, choose a character controlled by the defending player. If you win the challenge by 5 or more STR, that character must be chosen for claim during this challenge, if able.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04056",
+            "type": "event",
+            "name": "The Scorpion's Sting",
+            "faction": "martell",
+            "loyal": false,
+            "cost": 1,
+            "traits": [],
+            "text": "<b>Reaction:</b> After you lose a challenge, choose up to X [martell] characters. Each of those characters gains renown until the end of the phase. X is the number of plot cards in your used pile.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04057",
+            "type": "character",
+            "name": "Hot Pie",
+            "unique": true,
+            "faction": "neutral",
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Companion"
+            ],
+            "text": "<b>Marshaling Action:</b> Kneel a <i>Companion</i> character to reduce the cost of the next unique character you marshal this phase by 1.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04058",
+            "type": "location",
+            "name": "The God's Eye",
+            "unique": true,
+            "faction": "neutral",
+            "cost": 3,
+            "traits": [
+                "Westeros"
+            ],
+            "text": "The God's Eye cannot be discarded from play.\n+1 Income\n+1 Reserve.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04059",
+            "type": "event",
+            "name": "Dissension",
+            "faction": "neutral",
+            "cost": 2,
+            "traits": [],
+            "text": "<b>Marshaling Action:</b> Choose an <i>Ally</i> character, and discard it from play.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04060",
+            "type": "plot",
+            "name": "Battle of Oxcross",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 3,
+                "initiative": 7,
+                "claim": 1,
+                "reserve": 5
+            },
+            "traits": [
+                "War"
+            ],
+            "text": "Each character with printed cost 4 or higher cannot be declared as a defender during the first challenge you initiate this round.",
+            "deckLimit": 2
+        }
+    ]
+}

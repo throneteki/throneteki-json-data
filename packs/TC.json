@@ -1,0 +1,338 @@
+{
+    "cgdbId": 14,
+    "code": "TC",
+    "name": "Tyrion's Chain",
+    "releaseDate": "2017-02-02",
+    "cards": [
+        {
+            "code": "04101",
+            "type": "character",
+            "name": "House Manderly Knight",
+            "unique": false,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 1,
+            "traits": [
+                "House Manderly",
+                "Knight"
+            ],
+            "text": "While there is a <i>Winter</i> plot card revealed, House Manderly Knight gets +2 STR.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04102",
+            "type": "event",
+            "name": "\"Wolf in the Night\"",
+            "faction": "stark",
+            "loyal": true,
+            "cost": 1,
+            "traits": [
+                "Song"
+            ],
+            "text": "<b>Action:</b> Choose a [stark] character that is attacking alone. Until the end of the challenge, that character gets +3 STR and gains renown.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04103",
+            "type": "character",
+            "name": "Ser Robar Royce",
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 4,
+            "traits": [
+                "Knight"
+            ],
+            "text": "<b>Reaction:</b> After a <i>Summer</i> plot card is revealed, Ser Robar Royce gains 1 power. (Limit once per phase).\n<b>Forced Reaction:</b> After a <i>Winter</i> plot card is revealed, kneel Ser Robar Royce.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04104",
+            "type": "location",
+            "name": "Renly's Pavilion",
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": true,
+            "cost": 2,
+            "traits": [
+                "Westeros"
+            ],
+            "text": "<b>Action:</b> Kneel Renly's Pavilion to choose 2 characters. Until the end of the phase, one of those characters gets -1 STR, and the other gets +1 STR.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04105",
+            "type": "character",
+            "name": "Qhorin Halfhand",
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 6,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "Ranger"
+            ],
+            "text": "Renown. No attachments except <i>Weapon</i>.\n<b>Reaction:</b> After you win a [military] challenge in which Qhorin Halfhand is participating, choose and kill a non-unique character with lower STR than his controlled by the losing opponent.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04106",
+            "type": "location",
+            "name": "Fist of the First Men",
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "The North"
+            ],
+            "text": "While your reserve value is higher than an opponent's, each <i>Ranger</i> character you control gets +1 STR and cannot be bypassed by stealth.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04107",
+            "type": "character",
+            "name": "Salladhor Saan",
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Mercenary",
+                "Raider",
+                "Smuggler"
+            ],
+            "text": "<b>Reaction:</b> After you win a challenge in which Salladhor Saan is participating, put a <i>Warship</i> location or <i>Weapon</i> attachment into play from your hand.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04108",
+            "type": "location",
+            "name": "The Valyrian",
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Warship"
+            ],
+            "text": "Ambush (2).\n<b>Action:</b> Kneel The Valyrian to give an attacking character +X STR until the end of the challenge. X is the number of gold in the defending player's gold pool.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04109",
+            "type": "character",
+            "name": "Podrick Payne",
+            "unique": true,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 1,
+            "traits": [
+                "Companion"
+            ],
+            "text": "<b>Interrupt:</b> When a character would be killed for [military] claim, pay 2 gold and put Podrick Payne into play from your hand to save it. Then, if that character was Tyrion Lannister, you may pay 2 gold to choose and kill an attacking character.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04110",
+            "type": "event",
+            "name": "Tyrion's Chain",
+            "faction": "lannister",
+            "loyal": true,
+            "cost": 1,
+            "traits": [],
+            "text": "<b>Reaction:</b> After you win a challenge in which you control a participating unique [lannister] character, choose a revealed <i>War</i> plot card. Initiate the when revealed ability on that plot card as if you had just revealed it. (Max 1 per phase.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "04111",
+            "type": "character",
+            "name": "Esgred",
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "Ironborn"
+            ],
+            "text": "Stealth.\nIf you control Asha Greyjoy, sacrifice Esgred and have your Asha Greyjoy gain 1 power.\nEsgred may bypass an additional character using stealth.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04112",
+            "type": "location",
+            "name": "Sea Bitch",
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Warship"
+            ],
+            "text": "<b>Action:</b> Sacrifice Sea Bitch to choose a non-limited location. Take control of that location until the end of the phase.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04113",
+            "type": "character",
+            "name": "Quaithe of the Shadow",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Companion"
+            ],
+            "text": "Ambush (3).\n<b>Reaction:</b> After Quaithe of the Shadow enters play during a challenge, remove each character with STR 2 or lower from the challenge.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04114",
+            "type": "location",
+            "name": "House of the Undying",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 6,
+            "traits": [
+                "Qarth"
+            ],
+            "text": "<b>Challenges Action:</b> Remove House of the Undying from the game to choose an opponent. Put each character in that player's dead pile into play under your control. At the end of the phase, return each of those cards to its owner's dead pile (cannot be saved).",
+            "deckLimit": 3
+        },
+        {
+            "code": "04115",
+            "type": "character",
+            "name": "Ser Arys Oakheart",
+            "unique": true,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Kingsguard",
+                "Knight"
+            ],
+            "text": "No attachments except <i>Weapon</i>.\n<b>Reaction:</b> After Ser Arys Oakheart enters play, pay 2 gold to choose an <i>Ally</i> character, and discard it from play.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04116",
+            "type": "location",
+            "name": "The Greenblood",
+            "unique": true,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 3,
+            "traits": [
+                "Dorne"
+            ],
+            "text": "Each [martell] character you control gets +1 STR for each <i>Summer</i> plot card revealed.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04117",
+            "type": "character",
+            "name": "Northern Refugee",
+            "unique": false,
+            "faction": "neutral",
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 1,
+            "traits": [
+                "Ally",
+                "Wildling"
+            ],
+            "text": "While there is a <i>Winter</i> plot card revealed, reduce the cost to marshal Northern Refugee by 1.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04118",
+            "type": "event",
+            "name": "Relentless Assault",
+            "faction": "neutral",
+            "cost": 0,
+            "traits": [],
+            "text": "<b>Reaction:</b> After you win a challenge by 5 or more STR as the attacking player, kneel your faction card. Then, you may initiate an additional challenge of that type this phase.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04119",
+            "type": "event",
+            "name": "Tarred Heads",
+            "faction": "neutral",
+            "cost": 1,
+            "traits": [],
+            "text": "<b>Reaction:</b> After you win a [power] challenge, discard 1 card at random from the losing opponent's hand. If that card is a character, place it in its owner's dead pile.",
+            "deckLimit": 3
+        },
+        {
+            "code": "04120",
+            "type": "plot",
+            "name": "Battle of the Blackwater",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 4,
+                "initiative": 6,
+                "claim": 1,
+                "reserve": 5
+            },
+            "traits": [
+                "Siege",
+                "War"
+            ],
+            "text": "<b>When Revealed:</b> Choose an opponent. Discard each duplicate you control and each duplicate controlled by that opponent from play.",
+            "deckLimit": 2
+        }
+    ]
+}
