@@ -102,8 +102,10 @@
     "required": [
         "code",
         "deckLimit",
+        "faction",
         "name",
         "text",
+        "traits",
         "type"
     ],
     "if": {
