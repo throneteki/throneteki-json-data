@@ -1,6 +1,6 @@
 # throneteki-json-data
 
-Card data use by The Iron Throne / throneteki. Each JSON file in the `packs` directory should correspond to a pack or expansion for A Game of Thrones: The Card Game 2nd Edition. Initial data set pulled from https://github.com/Alsciende/thronesdb-json-data
+Card data used by The Iron Throne / throneteki. Each JSON file in the `packs` directory should correspond to a pack or expansion for A Game of Thrones: The Card Game 2nd Edition. Initial data set pulled from https://github.com/Alsciende/thronesdb-json-data
 
 ## Getting started
 
