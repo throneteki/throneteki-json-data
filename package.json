@@ -8,8 +8,11 @@
   },
   "license": "MIT",
   "scripts": {
-    "import": "node scripts/import.js"
+    "import": "node scripts/import.js",
+    "test": "node scripts/validate.js"
   },
   "dependencies": {},
-  "devDependencies": {}
+  "devDependencies": {
+    "jsonschema": "^1.2.2"
+  }
 }

@@ -1,0 +1,41 @@
+{
+    "additionalProperties": false,
+    "properties": {
+        "cards": {
+            "type": "array",
+            "items": {
+                "$ref": "card.schema.json"
+            }
+        },
+        "cgdbId": {
+            "type": ["null", "integer"]
+        },
+        "code": {
+            "minLength": 1,
+            "type": "string"
+        },
+        "name": {
+            "minLength": 1,
+            "type": "string"
+        },
+        "releaseDate": {
+            "oneOf": [
+                {
+                    "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$",
+                    "type": "string"
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        }
+    },
+    "required": [
+        "cards",
+        "cgdbId",
+        "code",
+        "name",
+        "releaseDate"
+    ],
+    "type": "object"
+}

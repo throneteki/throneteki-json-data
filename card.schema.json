@@ -1,0 +1,117 @@
+{
+    "additionalProperties": false,
+    "definitions": {
+        "cardCode": {
+            "pattern": "^[0-9]{5}$",
+            "type": "string"
+        },
+        "intOrX": {
+            "anyOf": [
+                {
+                    "minimum": 0,
+                    "type": "integer"
+                },
+                {
+                    "enum": ["X"]
+                }
+            ]
+        }
+    },
+    "properties": {
+        "code": {
+            "$ref": "#/definitions/cardCode"
+        },
+        "cost": {
+            "$ref": "#/definitions/intOrX"
+        },
+        "deckLimit": {
+            "minimum": 1,
+            "type": "integer"
+        },
+        "faction": {
+            "enum": [
+                "baratheon",
+                "greyjoy",
+                "lannister",
+                "martell",
+                "neutral",
+                "stark",
+                "targaryen",
+                "thenightswatch",
+                "tyrell"
+            ]
+        },
+        "icons": {
+            "properties": {
+                "intrigue": {
+                    "type": "boolean"
+                },
+                "military": {
+                    "type": "boolean"
+                },
+                "power": {
+                    "type": "boolean"
+                }
+            },
+            "required": ["intrigue", "military", "power"]
+        },
+        "loyal": {
+            "type": "boolean"
+        },
+        "name": {
+            "minLength": 1,
+            "type": "string"
+        },
+        "plotStats": {
+            "properties": {
+                "claim": {
+                    "$ref": "#/definitions/intOrX"
+                },
+                "income": {
+                    "$ref": "#/definitions/intOrX"
+                },
+                "initiative": {
+                    "$ref": "#/definitions/intOrX"
+                },
+                "reserve": {
+                    "$ref": "#/definitions/intOrX"
+                }
+            },
+            "required": ["claim", "income", "initiative", "reserve"]
+        },
+        "strength": {
+            "$ref": "#/definitions/intOrX"
+        },
+        "traits": {
+            "items": {
+                "minLength": 1,
+                "type": "string"
+            },
+            "type": "array"
+        },
+        "text": {
+            "type": "string"
+        },
+        "type": {
+            "enum": ["agenda", "attachment", "character", "event", "location", "plot", "title"]
+        },
+        "unique": {
+            "type": "boolean"
+        }
+    },
+    "required": [
+        "code",
+        "deckLimit",
+        "name",
+        "text",
+        "type"
+    ],
+    "if": {
+        "properties": {
+            "type": { "enum": "character" }
+        }
+    },
+    "then": {
+        "required": ["strength"]
+    }
+}
