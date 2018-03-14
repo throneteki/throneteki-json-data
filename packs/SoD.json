@@ -25,6 +25,68 @@
             "deckLimit": 3
         },
         {
+            "code": "10002",
+            "type": "character",
+            "name": "Ellaria Sand",
+            "unique": true,
+            "faction": "martell",
+            "loyal": true,
+            "cost": 6,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "Bastard",
+                "Companion"
+            ],
+            "text": "<b>Reaction:</b> After Ellaria Sand is declared as an attacker, choose up to 3 characters controlled by the defending player. Each of those characters must be declared as a defender for this challenge, if able.",
+            "deckLimit": 3
+        },
+        {
+            "code": "10003",
+            "type": "character",
+            "name": "The Red Viper",
+            "unique": true,
+            "faction": "martell",
+            "loyal": true,
+            "cost": 6,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Lord"
+            ],
+            "text": "Intimidate.\nThe Red Viper gets +1 STR for each power he has.\n<b>Reaction:</b> After you win a challenge in which you control an attacking <i>Bastard</i> character, The Red Viper gains 1 power.",
+            "deckLimit": 3
+        },
+        {
+            "code": "10004",
+            "type": "character",
+            "name": "Darkstar",
+            "unique": true,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 5,
+            "traits": [
+                "House Dayne",
+                "Knight"
+            ],
+            "text": "Intimidate.\n<b>Action:</b> During a challenge in which Darkstar is attacking, sacrifice him to return each participating character to its owner's hand.",
+            "deckLimit": 3
+        },
+        {
             "code": "10005",
             "type": "character",
             "name": "Obara Sand",
@@ -66,6 +128,27 @@
             "deckLimit": 3
         },
         {
+            "code": "10007",
+            "type": "character",
+            "name": "Nymeria Sand",
+            "unique": true,
+            "faction": "martell",
+            "loyal": true,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 4,
+            "traits": [
+                "Bastard",
+                "Sand Snake"
+            ],
+            "text": "<b>Reaction:</b> After you lose dominance, discard 1 card at random from the winning opponent's hand and draw 1 card.",
+            "deckLimit": 3
+        },
+        {
             "code": "10008",
             "type": "character",
             "name": "Tyene Sand",
@@ -84,6 +167,27 @@
                 "Sand Snake"
             ],
             "text": "Stealth.\n<b>Reaction:</b> After you lose a challenge as the defending player, kneel a <i>Sand Snake</i> character to put Tyene Sand into play from your hand.",
+            "deckLimit": 3
+        },
+        {
+            "code": "10009",
+            "type": "character",
+            "name": "Nymeria's Guard",
+            "unique": false,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Army",
+                "Guard"
+            ],
+            "text": "No attachments.\n<b>Challenges Action:</b> Pay 4 gold and stand a <i>Sand Snake</i> character to put Nymeria's Guard into play from your hand.",
             "deckLimit": 3
         },
         {
@@ -108,6 +212,27 @@
             "deckLimit": 3
         },
         {
+            "code": "10011",
+            "type": "character",
+            "name": "Quentyn Martell",
+            "unique": true,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "Knight",
+                "Lord"
+            ],
+            "text": "Renown.\n<b>Forced Reaction:</b> After the challenges phase begins, if there are fewer than 3 plot cards in your used pile, kneel Quentyn Martell.",
+            "deckLimit": 3
+        },
+        {
             "code": "10012",
             "type": "character",
             "name": "Ser Cletus Yronwood",
@@ -126,6 +251,68 @@
                 "Knight"
             ],
             "text": "No attachments except <i>Weapon</i>.\nIncrease the initiative value on your revealed plot card by 1 for each plot card in your used pile.",
+            "deckLimit": 3
+        },
+        {
+            "code": "10013",
+            "type": "character",
+            "name": "Loreza Sand",
+            "unique": true,
+            "faction": "martell",
+            "loyal": true,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Bastard",
+                "Sand Snake"
+            ],
+            "text": "<b>Interrupt:</b> When a unique [[martell]] character you control is killed, draw 1 card. (Limit once per phase.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "10014",
+            "type": "character",
+            "name": "Maester Kedry",
+            "unique": true,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 1,
+            "traits": [
+                "Maester"
+            ],
+            "text": "<b>Action:</b> Kneel Maester Kedry to reduce the gold cost of the next event you play this phase by 2.",
+            "deckLimit": 3
+        },
+        {
+            "code": "10015",
+            "type": "character",
+            "name": "House Dayne Escort",
+            "unique": false,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "Ally",
+                "House Dayne"
+            ],
+            "text": "While there are 3 or more plot cards in your used pile, you may marshal House Dayne Escort from your discard pile as if it were in your hand.",
             "deckLimit": 3
         },
         {
@@ -163,6 +350,21 @@
             "deckLimit": 3
         },
         {
+            "code": "10018",
+            "type": "location",
+            "name": "Starfall",
+            "unique": true,
+            "faction": "martell",
+            "loyal": true,
+            "cost": 3,
+            "traits": [
+                "Dorne",
+                "House Dayne"
+            ],
+            "text": "<b>Challenges Action:</b> Kneel Starfall to choose a character. Until the end of the phase, that character loses a challenge icon of your choice.",
+            "deckLimit": 3
+        },
+        {
             "code": "10019",
             "type": "attachment",
             "name": "Hotah's Axe",
@@ -191,6 +393,31 @@
             "deckLimit": 3
         },
         {
+            "code": "10021",
+            "type": "attachment",
+            "name": "Beguiled",
+            "unique": false,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 0,
+            "traits": [
+                "Condition"
+            ],
+            "text": "Terminal.\n<b>Challenges Action:</b> Kneel Beguiled to have attached character lose a challenge icon of your choice until the end of the phase.",
+            "deckLimit": 3
+        },
+        {
+            "code": "10022",
+            "type": "event",
+            "name": "No Use For Grief",
+            "faction": "martell",
+            "loyal": true,
+            "cost": 2,
+            "traits": [],
+            "text": "Play only if a [[martell]] character was killed under your control this round.\n<b>Action:</b> Search your deck for a <i>Sand Snake</i> character with printed cost 3 or lower, put it into play, and shuffle your deck. (Printed cost 6 or lower instead if The Red Viper is in your dead pile.)",
+            "deckLimit": 3
+        },
+        {
             "code": "10023",
             "type": "event",
             "name": "False Plans",
@@ -199,6 +426,17 @@
             "cost": 1,
             "traits": [],
             "text": "<b>Challenges Action:</b> Choose an opponent. That player discards 1 card at random from his or her hand.\n<b>Reaction:</b> After False Plans is discarded for [intrigue] claim, the winning opponent discards 2 cards at random from his or her hand.",
+            "deckLimit": 3
+        },
+        {
+            "code": "10024",
+            "type": "event",
+            "name": "To The Spears!",
+            "faction": "martell",
+            "loyal": false,
+            "cost": 0,
+            "traits": [],
+            "text": "Play only if there are 3 or more plot cards in your used pile.\n<b>Challenges Action:</b> Each [[martell]] character you control does not kneel when declared as an attacker in the next challenge you initiate this phase.",
             "deckLimit": 3
         },
         {
