@@ -25,4 +25,4 @@ npm run export path/to/thronesdb-json-data
 
 This will create any new pack files necessary as well as update existing packs with missing card data. Fields that are not included in this schema (such as `flavor` and `illustrator`) will need to be manually updated in the exported data. Additionally, if it is a new pack, you'll need to add the pack info to `packs.json` for thronesdb-json-data.
 
-[![Travis Build](https://travis-ci.org/ystros/throneteki-json-data.svg?branch=master)] (https://travis-ci.org/ystros/throneteki-json-data)
+[![Travis Build](https://travis-ci.org/ystros/throneteki-json-data.svg?branch=master)](https://travis-ci.org/ystros/throneteki-json-data)
