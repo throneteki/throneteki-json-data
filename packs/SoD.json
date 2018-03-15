@@ -271,7 +271,7 @@
                 "Bastard",
                 "Sand Snake"
             ],
-            "text": "<b>Interrupt:</b> When a unique [[martell]] character you control is killed, draw 1 card. (Limit once per phase.)",
+            "text": "<b>Interrupt:</b> When a unique [martell] character you control is killed, draw 1 card. (Limit once per phase.)",
             "deckLimit": 3
         },
         {
@@ -414,7 +414,7 @@
             "loyal": true,
             "cost": 2,
             "traits": [],
-            "text": "Play only if a [[martell]] character was killed under your control this round.\n<b>Action:</b> Search your deck for a <i>Sand Snake</i> character with printed cost 3 or lower, put it into play, and shuffle your deck. (Printed cost 6 or lower instead if The Red Viper is in your dead pile.)",
+            "text": "Play only if a [martell] character was killed under your control this round.\n<b>Action:</b> Search your deck for a <i>Sand Snake</i> character with printed cost 3 or lower, put it into play, and shuffle your deck. (Printed cost 6 or lower instead if The Red Viper is in your dead pile.)",
             "deckLimit": 3
         },
         {
@@ -436,7 +436,7 @@
             "loyal": false,
             "cost": 0,
             "traits": [],
-            "text": "Play only if there are 3 or more plot cards in your used pile.\n<b>Challenges Action:</b> Each [[martell]] character you control does not kneel when declared as an attacker in the next challenge you initiate this phase.",
+            "text": "Play only if there are 3 or more plot cards in your used pile.\n<b>Challenges Action:</b> Each [martell] character you control does not kneel when declared as an attacker in the next challenge you initiate this phase.",
             "deckLimit": 3
         },
         {
