@@ -476,7 +476,7 @@
         {
             "code": "10027",
             "type": "character",
-            "name": "Fleet From Pike",
+            "name": "Fleet From Pyke",
             "unique": false,
             "faction": "greyjoy",
             "loyal": false,
@@ -490,7 +490,7 @@
             "traits": [
                 "Army"
             ],
-            "text": "No attachments. Pillage.\n<b>Reaction:</b> After a character you control discards a location or attachment using pillage, Fleet From Pike gains a challenge icon of your choice until the end of the phase.",
+            "text": "No attachments. Pillage.\n<b>Reaction:</b> After a character you control discards a location or attachment using pillage, Fleet From Pyke gains a challenge icon of your choice until the end of the phase.",
             "deckLimit": 3
         },
         {
