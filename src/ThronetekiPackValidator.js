@@ -1,4 +1,5 @@
 const Validator = require('jsonschema').Validator;
+const ValidTextReplacements = require('./ValidTextReplacements.js');
 
 class ThronetekiPackValidator {
     constructor() {
@@ -55,6 +56,13 @@ class ThronetekiPackValidator {
             if(card.faction !== 'neutral') {
                 if(card.loyal === undefined) {
                     errors.push(`'${card.name} (${card.code})' - loyal is required when faction is non-neutral`);
+                }
+            }
+            let replacements = card.text.match(/\[(.+?)\]/gm);
+            if(replacements) {
+                let unknownReplacements = replacements.map(r => r.slice(1, -1)).filter(r => !ValidTextReplacements.includes(r));
+                if(unknownReplacements.length !== 0) {
+                    errors.push(`'${card.name} (${card.code})' - text contains unknown replacement values: ${unknownReplacements.join(', ')}`);
                 }
             }
         }
