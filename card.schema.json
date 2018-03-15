@@ -107,13 +107,5 @@
         "text",
         "traits",
         "type"
-    ],
-    "if": {
-        "properties": {
-            "type": { "enum": "character" }
-        }
-    },
-    "then": {
-        "required": ["strength"]
-    }
+    ]
 }

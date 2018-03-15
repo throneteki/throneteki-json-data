@@ -18,10 +18,48 @@ class ThronetekiPackValidator {
 
     validate(pack) {
         let results = this.validator.validate(pack, this.packSchema, { nestedErrors: true });
+        let manualCardErrors = this.getErrorsForCards(pack.cards);
         return {
-            errors: results.errors.map(error => this.addCardInfoToError(pack, error)),
-            valid: results.valid
+            errors: manualCardErrors.concat(results.errors.map(error => this.addCardInfoToError(pack, error))),
+            valid: results.valid && manualCardErrors.length === 0
         };
+    }
+
+    getErrorsForCards(cards) {
+        let errors = [];
+
+        for(let card of cards) {
+            if(card.type === 'character') {
+                if(card.strength === undefined) {
+                    errors.push(`'${card.name} (${card.code})' - strength is required for characters`);
+                }
+                if(card.icons === undefined) {
+                    errors.push(`'${card.name} (${card.code})' - icons is required for characters`);
+                }
+            }
+            if(card.type === 'plot') {
+                if(card.plotStats === undefined) {
+                    errors.push(`'${card.name} (${card.code})' - plotStats is required for plots`);
+                }
+            }
+            if(['attachment', 'character', 'event', 'location'].includes(card.type)) {
+                if(card.cost === undefined) {
+                    errors.push(`'${card.name} (${card.code})' - cost is required for draw cards`);
+                }
+            }
+            if(['attachment', 'character', 'location'].includes(card.type)) {
+                if(card.unique === undefined) {
+                    errors.push(`'${card.name} (${card.code})' - unique is required for attachments, characters, and locations`);
+                }
+            }
+            if(card.faction !== 'neutral') {
+                if(card.loyal === undefined) {
+                    errors.push(`'${card.name} (${card.code})' - loyal is required when faction is non-neutral`);
+                }
+            }
+        }
+
+        return errors;
     }
 
     addCardInfoToError(pack, error) {
