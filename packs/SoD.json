@@ -440,6 +440,243 @@
             "deckLimit": 3
         },
         {
+            "code": "10025",
+            "type": "character",
+            "name": "Ser Cortnay Penrose",
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Knight"
+            ],
+            "text": "<b>Reaction:</b> After you win a [power] challenge in which Ser Cortnay Penrose is participating, stand him.",
+            "deckLimit": 3
+        },
+        {
+            "code": "10026",
+            "type": "location",
+            "name": "Sea Dragon Tower",
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Dragonstone"
+            ],
+            "text": "<b>Challenges Action:</b> Kneel Sea Dragon Tower to choose a character. Until the end of the phase, that character gains a [power] icon.",
+            "deckLimit": 3
+        },
+        {
+            "code": "10027",
+            "type": "character",
+            "name": "Fleet From Pyke",
+            "unique": false,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Army"
+            ],
+            "text": "No attachments. Pillage.\n<b>Reaction:</b> After a character you control discards a location or attachment using pillage, Fleet From Pyke gains a challenge icon of your choice until the end of the phase.",
+            "deckLimit": 3
+        },
+        {
+            "code": "10028",
+            "type": "attachment",
+            "name": "Plundered",
+            "unique": false,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Condition"
+            ],
+            "text": "Opponent's location only. Terminal.\n<b>Reaction:</b> After attached location's controller loses a challenge as the defending player, kneel attached location. Then, you may sacrifice Plundered to gain 3 gold.",
+            "deckLimit": 3
+        },
+        {
+            "code": "10029",
+            "type": "character",
+            "name": "Myrcella Baratheon",
+            "unique": true,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Lady"
+            ],
+            "text": "Myrcella Baratheon does not kneel when declared as an attacker against an opponent with fewer cards in his or her hand than you.",
+            "deckLimit": 3
+        },
+        {
+            "code": "10030",
+            "type": "event",
+            "name": "Extortion",
+            "unique": false,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 0,
+            "traits": [],
+            "text": "<b>Reaction:</b> After you win an [intrigue] challenge as the attacking player, gain 3 gold and return up to 3 gold from the losing opponent's gold pool to the treasury.",
+            "deckLimit": 3
+        },
+        {
+            "code": "10031",
+            "type": "character",
+            "name": "Spare Boot",
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "Builder"
+            ],
+            "text": "<b>Challenges Action:</b> Choose an attachment attached to a character you control. Stand that attachment and move it to Spare Boot. (Limit once per phase.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "10032",
+            "type": "attachment",
+            "name": "Turncloak",
+            "unique": false,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "Condition"
+            ],
+            "text": "Non-loyal character only. Terminal.\n<b>Reaction:</b> After you win a challenge in which attached character is participating, take control of attached character. (Any player may initiate this ability.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "10033",
+            "type": "character",
+            "name": "Greatjon Umber",
+            "unique": true,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "House Umber",
+                "Lord"
+            ],
+            "text": "Intimidate.\n<b>Reaction:</b> After you win a [military] challenge in which Greatjon Umber is attacking, if there are fewer than 3 plot cards in your used pile, stand him.",
+            "deckLimit": 3
+        },
+        {
+            "code": "10034",
+            "type": "event",
+            "name": "Taste For Flesh",
+            "unique": false,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 0,
+            "traits": [],
+            "text": "<b>Reaction:</b> After you win a challenge in which you control an attacking <i>Direwolf</i> character or an attacking character with a <i>Direwolf</i> attachment, choose and kill a defending character.",
+            "deckLimit": 3
+        },
+        {
+            "code": "10035",
+            "type": "character",
+            "name": "Missandei",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "Companion"
+            ],
+            "text": "<b>Interrupt:</b> When Missandei is discarded from your hand or deck, put her into play instead of placing her in your discard pile.",
+            "deckLimit": 3
+        },
+        {
+            "code": "10036",
+            "type": "location",
+            "name": "Qarth",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "Essos",
+                "Qarth"
+            ],
+            "text": "<b>Action:</b> Kneel Qarth and pay 1 gold to choose an attachment attached to a card you control and discard it from play.",
+            "deckLimit": 3
+        },
+        {
+            "code": "10037",
+            "type": "character",
+            "name": "Leyton Hightower",
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 5,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "House Hightower",
+                "Lord"
+            ],
+            "text": "<b>Action:</b> Kneel Leyton Hightower to put a non-limited [tyrell] card with printed cost 4 or lower into play from your hand knelt.",
+            "deckLimit": 3
+        },
+        {
+            "code": "10038",
+            "type": "attachment",
+            "name": "Beacon of the South",
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Title"
+            ],
+            "text": "[tyrell] character only.\n<b>Reaction:</b> After you win a challenge by 5 or more STR in which attached character is attacking, it gains 1 power.",
+            "deckLimit": 3
+        },
+        {
             "code": "10039",
             "type": "character",
             "name": "Val",
@@ -456,6 +693,83 @@
                 "Wildling"
             ],
             "text": "<b>Reaction:</b> After Val is declared as an attacker, put a <i>Wildling</i> character with printed cost 4 or lower into play from your hand knelt, participating as an attacker.",
+            "deckLimit": 3
+        },
+        {
+            "code": "10040",
+            "type": "character",
+            "name": "Septon Meribald",
+            "unique": true,
+            "faction": "neutral",
+            "cost": 4,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "The Seven"
+            ],
+            "text": "<b>Action:</b> Kneel Septon Meribald to choose and stand up to 3 characters with printed STR 1 or lower. (Limit once per round.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "10041",
+            "type": "character",
+            "name": "Oldtown Scholar",
+            "unique": false,
+            "faction": "neutral",
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Maester"
+            ],
+            "text": "<b>Reaction:</b> After an opponent draws 1 or more cards, if it is not the draw phase, kneel Oldtown Scholar to draw that many cards.",
+            "deckLimit": 3
+        },
+        {
+            "code": "10042",
+            "type": "location",
+            "name": "Jade Sea Dromond",
+            "unique": false,
+            "faction": "neutral",
+            "cost": 2,
+            "traits": [
+                "Warship"
+            ],
+            "text": "Limited.\n<b>Dominance Action:</b> Kneel and sacrifice Jade Sea Dromond to choose a non-limited location with printed cost 3 or lower and discard it from play.\n+1 Income.",
+            "deckLimit": 3
+        },
+        {
+            "code": "10043",
+            "type": "attachment",
+            "name": "Brother's Robes",
+            "unique": false,
+            "faction": "neutral",
+            "cost": 1,
+            "traits": [
+                "The Seven"
+            ],
+            "text": "<i>The Seven</i> character only.\n<b>Reaction:</b> After attached character is knelt, choose a location or attachment. Until the end of the phase, treat that card as if its printed text box were blank (except for <i>Traits</i>).",
+            "deckLimit": 3
+        },
+        {
+            "code": "10044",
+            "type": "event",
+            "name": "\"Off To Gulltown\"",
+            "unique": false,
+            "faction": "neutral",
+            "cost": 1,
+            "traits": [
+                "Song"
+            ],
+            "text": "<b>Challenges Action:</b> Choose a character. Until the end of the phase, that character gains a [military], an [intrigue], and a [power] icon. Draw 1 card.",
             "deckLimit": 3
         },
         {
@@ -488,6 +802,41 @@
             "deckLimit": 1
         },
         {
+            "code": "10047",
+            "type": "plot",
+            "name": "Peace and Prosperity",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 2,
+                "initiative": 3,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "Kingdom"
+            ],
+            "text": "Reduce the cost of the first character you marshal this round by 3, the first location your marshal this round by 2, and the first attachment you marshal this round by 1.",
+            "deckLimit": 2
+        },
+        {
+            "code": "10048",
+            "type": "plot",
+            "name": "Forced March",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 4,
+                "initiative": 9,
+                "claim": 1,
+                "reserve": 5
+            },
+            "traits": [
+                "Edict",
+                "War"
+            ],
+            "text": "<b>When Revealed:</b> Each opponent kneels 1 character he or she controls with a [military] icon. Then, you may kneel a character with a [military] icon to initiate this effect again.",
+            "deckLimit": 2
+        },
+        {
             "code": "10049",
             "type": "plot",
             "name": "Beyond Reproach",
@@ -503,6 +852,58 @@
             ],
             "text": "<b>When Revealed:</b> Each player sacrifices each attachment that is attached to a character he or she does not control.",
             "deckLimit": 2
+        },
+        {
+            "code": "10050",
+            "type": "plot",
+            "name": "Breaking Ties",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 4,
+                "initiative": 7,
+                "claim": 1,
+                "reserve": 4
+            },
+            "traits": [
+                "House Frey",
+                "Scheme"
+            ],
+            "text": "<b>Action:</b> Sacrifice a loyal character to choose a non-loyal character or location and return it to its owner's hand. (Limit twice per round.)",
+            "deckLimit": 1
+        },
+        {
+            "code": "10051",
+            "type": "plot",
+            "name": "Grand Melee",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 4,
+                "initiative": 5,
+                "claim": 1,
+                "reserve": 5
+            },
+            "traits": [
+                "Summer"
+            ],
+            "text": "Each character that is attacking or defending alone does not contribute its STR to the challenge.",
+            "deckLimit": 2
+        },
+        {
+            "code": "10052",
+            "type": "plot",
+            "name": "False Spring",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 5,
+                "initiative": 3,
+                "claim": 1,
+                "reserve": 5
+            },
+            "traits": [
+                "Winter"
+            ],
+            "text": "<b>When Revealed:</b> Each opponent chooses and reveals 3 cards from his or her hand, if able. You may choose and discard 1 revealed card from any number of those hands.",
+            "deckLimit": 1
         }
     ]
 }
