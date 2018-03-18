@@ -1,0 +1,53 @@
+{
+    "cgdbId": 31,
+    "code": "TSC",
+    "name": "The Shadow City",
+    "releaseDate": null,
+    "cards": [
+        {
+            "code": "11011",
+            "type": "event",
+            "name": "Beneath the Bridge of Dream",
+            "faction": "lannister",
+            "loyal": true,
+            "cost": "-",
+            "traits": [],
+            "text": "Shadow (0).\n<b>Interrupt:</b> When you choose a plot card to reveal in the plot phase, instead shuffle your used pile into your plot deck and choose a plot card to reveal at random. Until the end of the round, increase the gold value on your revealed plot card by 2.",
+            "deckLimit": 3
+        },
+        {
+            "code": "11016",
+            "type": "character",
+            "name": "Ser Gerris Drinkwater",
+            "unique": true,
+            "faction": "martell",
+            "loyal": true,
+            "cost": 6,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 5,
+            "traits": [
+                "Knight"
+            ],
+            "text": "Renown. Shadow (5).\n<b>Reaction:</b> After Ser Gerris Drinkwater comes out of shadows, choose a card in your plot deck and switch it with a card in your used pile.",
+            "deckLimit": 3
+        },
+        {
+            "code": "11017",
+            "type": "location",
+            "name": "The Shadow City",
+            "unique": true,
+            "faction": "martell",
+            "loyal": true,
+            "cost": 3,
+            "traits": [
+                "Dorne"
+            ],
+            "text": "Shadow (2).\nReduce the cost to marshal each of your cards into shadows by 1.\n<b>Challenges Action:</b> Kneel The Shadow City and discard 1 card from shadows to draw 2 cards.",
+            "deckLimit": 3
+        }
+    ]
+}
