@@ -12,7 +12,7 @@
                     "type": "integer"
                 },
                 {
-                    "enum": ["X"]
+                    "enum": ["X", "-"]
                 }
             ]
         }

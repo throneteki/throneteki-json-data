@@ -89,7 +89,7 @@ class ThronetekiToThronesDbConverter {
     }
 
     convertXValue(value) {
-        if(value === 'X') {
+        if(['X', '-'].includes(value)) {
             return null;
         }
 
