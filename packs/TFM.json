@@ -45,6 +45,27 @@
             "deckLimit": 3
         },
         {
+            "code": "08093",
+            "type": "character",
+            "name": "Daenerys Targaryen",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 5,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Lady",
+                "Queen"
+            ],
+            "text": "",
+            "deckLimit": 3
+        },
+        {
             "code": "08097",
             "type": "character",
             "name": "The High Sparrow",
