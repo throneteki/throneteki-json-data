@@ -288,7 +288,7 @@
             "traits": [
                 "Dorne"
             ],
-            "text": "<b>Action:</b> Kneel The Water Gardens to reduce the cost of the next non-character you marshal, play, or ambush this phase by X. X is the number of plot cards in your used pile.",
+            "text": "<b>Action:</b> Kneel The Water Gardens to reduce the cost of the next non-character card you marshal, play, or ambush this phase by X. X is the number of plot cards in your used pile.",
             "deckLimit": 3
         },
         {
