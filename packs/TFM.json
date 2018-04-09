@@ -5,6 +5,71 @@
     "releaseDate": null,
     "cards": [
         {
+            "code": "08081",
+            "type": "character",
+            "name": "Arya Stark",
+            "unique": true,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Lady"
+            ],
+            "text": "While Arya Stark is standing, characters cannot be saved.",
+            "deckLimit": 3
+        },
+        {
+            "code": "08082",
+            "type": "event",
+            "name": "I Am No One",
+            "faction": "stark",
+            "loyal": true,
+            "cost": 1,
+            "traits": [],
+            "text": "<b>Action:</b> Choose a character you control with printed cost 3 or lower. Until the end of the phase, that character loses all faction affiliations and <i>Traits</i>, gains insight and stealth, and does not kneel when declared as an attacker.",
+            "deckLimit": 3
+        },
+        {
+            "code": "08083",
+            "type": "character",
+            "name": "Highgarden Refugee",
+            "unique": false,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 1,
+            "traits": [
+                "Ally"
+            ],
+            "text": "While there is a <i>Summer</i> plot card revealed, reduce the cost to marshal Highgarden Refugee by 1.",
+            "deckLimit": 3
+        },
+        {
+            "code": "08084",
+            "type": "location",
+            "name": "Arbor Queen",
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "Warship"
+            ],
+            "text": "<b>Action:</b> Kneel Arbor Queen to choose a [tyrell] character and a non-[tyrell] character. Until the end of the phase, each of those characters gets +2 STR.",
+            "deckLimit": 3
+        },
+        {
             "code": "08085",
             "type": "character",
             "name": "Coldhands",
@@ -22,6 +87,54 @@
                 "The North"
             ],
             "text": "Coldhands cannot be saved.\n<b>Reaction:</b> After you marshal Coldhands, choose another non-<i>Army</i> character controlled by each player. Remove each of those characters from the game until Coldhands leaves play.",
+            "deckLimit": 3
+        },
+        {
+            "code": "08086",
+            "type": "location",
+            "name": "The Bay of Seals",
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "The North"
+            ],
+            "text": "<b>Action:</b> Kneel The Bay of Seals to choose and stand a character owned by an opponent.",
+            "deckLimit": 3
+        },
+        {
+            "code": "08087",
+            "type": "character",
+            "name": "King's Men",
+            "unique": false,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "Ally",
+                "The Seven"
+            ],
+            "text": "<b>Reaction:</b> After a phase begins, choose a kneeling character. Until the end of the phase, treat that character as if its printed text box were blank (except for <i>Traits</i>). (Limit once per round.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "08088",
+            "type": "event",
+            "name": "Sacrificed to the Red God",
+            "faction": "baratheon",
+            "loyal": true,
+            "cost": 0,
+            "traits": [
+                "R'hllor"
+            ],
+            "text": "Play only if you control a <i>R'hllor</i> character.\n<b>Marshaling Action:</b> Sacrifice a character to search your deck for a <i>R'hllor</i> character with equal or lower printed cost and add it to your hand.",
             "deckLimit": 3
         },
         {
@@ -45,6 +158,55 @@
             "deckLimit": 3
         },
         {
+            "code": "08090",
+            "type": "attachment",
+            "name": "Ser Pounce",
+            "unique": true,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Cat",
+                "Knight"
+            ],
+            "text": "Unique character with printed cost 3 or lower only. Ambush (1).\nAttached character gains an [intrigue] icon and does not kneel when declared as an attacker in an [intrigue] challenge.",
+            "deckLimit": 3
+        },
+        {
+            "code": "08091",
+            "type": "character",
+            "name": "Tarle the Thrice-Drowned",
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": true,
+            "cost": 5,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Drowned God",
+                "Ironborn"
+            ],
+            "text": "You may marshal non-unique <i>Drowned God</i> characters from your dead pile as if they were in your hand.",
+            "deckLimit": 3
+        },
+        {
+            "code": "08092",
+            "type": "event",
+            "name": "Given to the Drowned God",
+            "faction": "greyjoy",
+            "loyal": true,
+            "cost": 1,
+            "traits": [
+                "Drowned God"
+            ],
+            "text": "<b>Action:</b> Kill a <i>Drowned God</i> character to draw X cards. X is that character's printed cost.",
+            "deckLimit": 3
+        },
+        {
             "code": "08093",
             "type": "character",
             "name": "Daenerys Targaryen",
@@ -62,7 +224,56 @@
                 "Lady",
                 "Queen"
             ],
-            "text": "",
+            "text": "<b>Reaction:</b> After you play a [targaryen] event, choose a character. Until the end of the phase, that character gets -1 STR and is killed if its STR is 0. (Limit 3 times per round.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "08094",
+            "type": "attachment",
+            "name": "Mhysa",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "Title"
+            ],
+            "text": "<i>Lady</i> character only.\nDuring the first [power] challenge you initiate each round, attached character does not kneel when declared as an attacker and gets +1 STR for each attacking character.",
+            "deckLimit": 3
+        },
+        {
+            "code": "08095",
+            "type": "character",
+            "name": "House Yronwood Knight",
+            "unique": false,
+            "faction": "martell",
+            "loyal": true,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "House Yronwood",
+                "Knight"
+            ],
+            "text": "<b>Reaction:</b> After you lose a challenge in which House Yronwood Knight is participating, discard 1 card at random from the winning opponent's hand.",
+            "deckLimit": 3
+        },
+        {
+            "code": "08096",
+            "type": "attachment",
+            "name": "Secret Pact",
+            "unique": true,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "Condition"
+            ],
+            "text": "Non-[martell] character only. Ambush (3).\nAttached character gains renown.\nAttached character cannot be declared as an attacker in challenges against you.",
             "deckLimit": 3
         },
         {
@@ -107,6 +318,23 @@
             ],
             "text": "Non-<i>The Seven</i> characters and locations you control cannot gain power.\n<b>Reaction:</b> After you win a chalenge, kneel your faction card to move 1 power from the losing opponent's faction card to a participating <i>The Seven</i> character you control.",
             "deckLimit": 1
+        },
+        {
+            "code": "08100",
+            "type": "plot",
+            "name": "Compelled by the Faith",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 6,
+                "initiative": 3,
+                "claim": 1,
+                "reserve": 4
+            },
+            "traits": [
+                "The Seven"
+            ],
+            "text": "<b>When Revealed:</b> Move each power from each card in play to its controller's faction card.",
+            "deckLimit": 2
         }
     ]
 }
