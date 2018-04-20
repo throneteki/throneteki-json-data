@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 const ThronetekiPackValidator = require('../src/ThronetekiPackValidator.js');
-const ThronetekiRestrictedListValidator = require('../src/ThronetekiRestrictedListValidator.js');
+const BasicValidator = require('../src/BasicValidator.js');
 
 let validator = new ThronetekiPackValidator();
 let directory = path.join(__dirname, '../packs');
@@ -18,7 +18,7 @@ for(let file of packFiles) {
     }
 }
 
-let restrictedListValidator = new ThronetekiRestrictedListValidator();
+let restrictedListValidator = new BasicValidator(require('../restricted-list.schema.json'));
 let restrictedList = require('../restricted-list.json');
 let restrictedListResult = restrictedListValidator.validate(restrictedList);
 
