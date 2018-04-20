@@ -1,0 +1,308 @@
+[
+    {
+        "id": "CHP05",
+        "name": "2016 World Championship Deck",
+        "releaseDate": "2017-06-01",
+        "faction": "lannister",
+        "agenda": "01203",
+        "cards": [
+            {
+                "code": "01004",
+                "count": 1
+            },
+            {
+                "code": "01007",
+                "count": 1
+            },
+            {
+                "code": "01009",
+                "count": 1
+            },
+            {
+                "code": "01010",
+                "count": 1
+            },
+            {
+                "code": "01015",
+                "count": 1
+            },
+            {
+                "code": "01033",
+                "count": 2
+            },
+            {
+                "code": "01035",
+                "count": 3
+            },
+            {
+                "code": "01039",
+                "count": 3
+            },
+            {
+                "code": "01040",
+                "count": 3
+            },
+            {
+                "code": "01041",
+                "count": 2
+            },
+            {
+                "code": "01044",
+                "count": 3
+            },
+            {
+                "code": "01084",
+                "count": 1
+            },
+            {
+                "code": "01087",
+                "count": 2
+            },
+            {
+                "code": "01088",
+                "count": 1
+            },
+            {
+                "code": "01089",
+                "count": 3
+            },
+            {
+                "code": "01090",
+                "count": 3
+            },
+            {
+                "code": "01091",
+                "count": 3
+            },
+            {
+                "code": "01094",
+                "count": 3
+            },
+            {
+                "code": "01099",
+                "count": 2
+            },
+            {
+                "code": "01101",
+                "count": 1
+            },
+            {
+                "code": "01102",
+                "count": 3
+            },
+            {
+                "code": "01141",
+                "count": 2
+            },
+            {
+                "code": "01142",
+                "count": 3
+            },
+            {
+                "code": "01152",
+                "count": 3
+            },
+            {
+                "code": "02009",
+                "count": 3
+            },
+            {
+                "code": "02049",
+                "count": 1
+            },
+            {
+                "code": "02070",
+                "count": 2
+            },
+            {
+                "code": "02079",
+                "count": 1
+            },
+            {
+                "code": "02099",
+                "count": 2
+            },
+            {
+                "code": "02102",
+                "count": 2
+            },
+            {
+                "code": "03003",
+                "count": 3
+            },
+            {
+                "code": "04039",
+                "count": 1
+            },
+            {
+                "code": "04049",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "uCHP07",
+        "name": "2017 World Championship Deck",
+        "releaseDate": "2018-04-05",
+        "faction": "targaryen",
+        "agenda": "02060",
+        "cards": [
+            {
+                "code": "01010",
+                "count": 1
+            },
+            {
+                "code": "01013",
+                "count": 2
+            },
+            {
+                "code": "01015",
+                "count": 1
+            },
+            {
+                "code": "01028",
+                "count": 1
+            },
+            {
+                "code": "01035",
+                "count": 2
+            },
+            {
+                "code": "01039",
+                "count": 2
+            },
+            {
+                "code": "01040",
+                "count": 3
+            },
+            {
+                "code": "01045",
+                "count": 2
+            },
+            {
+                "code": "01160",
+                "count": 3
+            },
+            {
+                "code": "01161",
+                "count": 2
+            },
+            {
+                "code": "01162",
+                "count": 3
+            },
+            {
+                "code": "01164",
+                "count": 3
+            },
+            {
+                "code": "01165",
+                "count": 2
+            },
+            {
+                "code": "01166",
+                "count": 3
+            },
+            {
+                "code": "01167",
+                "count": 3
+            },
+            {
+                "code": "01168",
+                "count": 1
+            },
+            {
+                "code": "01169",
+                "count": 1
+            },
+            {
+                "code": "01170",
+                "count": 2
+            },
+            {
+                "code": "01175",
+                "count": 2
+            },
+            {
+                "code": "01176",
+                "count": 3
+            },
+            {
+                "code": "01177",
+                "count": 2
+            },
+            {
+                "code": "02034",
+                "count": 1
+            },
+            {
+                "code": "02037",
+                "count": 1
+            },
+            {
+                "code": "02039",
+                "count": 1
+            },
+            {
+                "code": "02053",
+                "count": 1
+            },
+            {
+                "code": "02078",
+                "count": 1
+            },
+            {
+                "code": "02093",
+                "count": 1
+            },
+            {
+                "code": "02099",
+                "count": 3
+            },
+            {
+                "code": "02113",
+                "count": 1
+            },
+            {
+                "code": "04033",
+                "count": 1
+            },
+            {
+                "code": "04040",
+                "count": 1
+            },
+            {
+                "code": "04080",
+                "count": 1
+            },
+            {
+                "code": "04113",
+                "count": 1
+            },
+            {
+                "code": "06033",
+                "count": 2
+            },
+            {
+                "code": "06038",
+                "count": 2
+            },
+            {
+                "code": "06093",
+                "count": 1
+            },
+            {
+                "code": "06098",
+                "count": 2
+            },
+            {
+                "code": "06099",
+                "count": 1
+            },
+            {
+                "code": "07036",
+                "count": 2
+            }
+        ]
+    }
+]

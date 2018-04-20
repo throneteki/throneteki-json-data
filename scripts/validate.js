@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 const ThronetekiPackValidator = require('../src/ThronetekiPackValidator.js');
-const ThronetekiRestrictedListValidator = require('../src/ThronetekiRestrictedListValidator.js');
+const BasicValidator = require('../src/BasicValidator.js');
 
 let validator = new ThronetekiPackValidator();
 let directory = path.join(__dirname, '../packs');
@@ -18,12 +18,21 @@ for(let file of packFiles) {
     }
 }
 
-let restrictedListValidator = new ThronetekiRestrictedListValidator();
+let restrictedListValidator = new BasicValidator(require('../restricted-list.schema.json'));
 let restrictedList = require('../restricted-list.json');
 let restrictedListResult = restrictedListValidator.validate(restrictedList);
 
 if(!restrictedListResult.valid) {
     console.error(`Errors in restricted-list.json:\n${restrictedListResult.errors.join('\n')}`);
+    valid = false;
+}
+
+let standaloneDecksValidator = new BasicValidator(require('../standalone-decks.schema.json'));
+let standaloneDecks = require('../standalone-decks.json');
+let standaloneDecksResult = standaloneDecksValidator.validate(standaloneDecks);
+
+if(!standaloneDecksResult.valid) {
+    console.error(`Errors in standalone-decks.json:\n${standaloneDecksResult.errors.join('\n')}`);
     valid = false;
 }
 

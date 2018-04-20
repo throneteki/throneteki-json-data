@@ -1,0 +1,61 @@
+{
+    "additionalProperties": false,
+    "type": "array",
+    "items": {
+        "properties": {
+            "id": {
+                "type": "string"
+            },
+            "name": {
+                "type": "string"
+            },
+            "releaseDate": {
+                "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$",
+                "type": "string"
+            },
+            "faction": {
+                "enum": [
+                    "baratheon",
+                    "greyjoy",
+                    "lannister",
+                    "martell",
+                    "neutral",
+                    "stark",
+                    "targaryen",
+                    "thenightswatch",
+                    "tyrell"
+                ]
+            },
+            "agenda": {
+                "type": "string",
+                "pattern": "^[0-9]{5}$"
+            },
+            "cards": {
+                "type": "array",
+                "items": {
+                    "additionalProperties": false,
+                    "properties": {
+                        "count": {
+                            "type": "integer"
+                        },
+                        "code": {
+                            "type": "string",
+                            "pattern": "^[0-9]{5}$"
+                        }
+                    },
+                    "required": [
+                        "code",
+                        "count"
+                    ]
+                }
+            }
+        },
+        "required": [
+            "id",
+            "name",
+            "releaseDate",
+            "faction",
+            "cards"
+        ]
+    }
+}
