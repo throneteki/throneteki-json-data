@@ -27,6 +27,15 @@ if(!restrictedListResult.valid) {
     valid = false;
 }
 
+let standaloneDecksValidator = new BasicValidator(require('../standalone-decks.schema.json'));
+let standaloneDecks = require('../standalone-decks.json');
+let standaloneDecksResult = standaloneDecksValidator.validate(standaloneDecks);
+
+if(!standaloneDecksResult.valid) {
+    console.error(`Errors in standalone-decks.json:\n${standaloneDecksResult.errors.join('\n')}`);
+    valid = false;
+}
+
 if(valid) {
     console.log('Validation complete, no errors.');
 } else {
