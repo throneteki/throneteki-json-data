@@ -1,0 +1,80 @@
+{
+    "cgdbId": 32,
+    "code": "TMoW",
+    "name": "The March on Winterfell",
+    "releaseDate": null,
+    "cards": [
+        {
+            "code": "11021",
+            "type": "character",
+            "name": "Wyman Manderly",
+            "unique": true,
+            "faction": "stark",
+            "loyal": true,
+            "cost": 6,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "House Manderly",
+                "Lord"
+            ],
+            "text": "<b>Action:</b> Sacrifice a character.\n<b>Reaction:</b> After 1 or more characters you control are sacrificed or killed, stand Wyman Manderly and draw 1 card. (Limit 3 times per round.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "11023",
+            "type": "character",
+            "name": "The Queen of Thorns",
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": true,
+            "cost": 5,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Lady"
+            ],
+            "text": "Shadow (4). Stealth.\n<b>Reaction:</b> After you win a challenge in which The Queen of Thorns is participating, choose a card you control in shadows and put it into play.",
+            "deckLimit": 3
+        },
+        {
+            "code": "11027",
+            "type": "character",
+            "name": "Ser Justin Massey",
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Knight"
+            ],
+            "text": "While you control a <i>King</i> character, Ser Justin Massey gains renown.\n<b>Reaction:</b> After a [baratheon] character gains power, stand it. (Limit once per phase.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "11028",
+            "type": "event",
+            "name": "March on Winterfell",
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 2,
+            "traits": [],
+            "text": "Play only during a challenge you initiated.\n<b>Action:</b> End the challenge with no winner or loser. You may initiate an additional [power] challenge this phase.",
+            "deckLimit": 3
+        }
+    ]
+}
