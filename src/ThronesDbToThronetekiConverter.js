@@ -29,7 +29,11 @@ class ThronesDbToThronetekiConverter {
             properties.loyal = card.is_loyal;
         }
 
-        properties.cost = card.cost;
+        if(['X', '-'].includes(card.cost)) {
+            properties.cost = card.cost;
+        } else if(card.cost) {
+            properties.cost = parseInt(card.cost);
+        }
 
         if(card.type_code === 'character') {
             properties.icons = {

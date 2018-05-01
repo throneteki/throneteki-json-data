@@ -39,7 +39,7 @@ class ThronetekiToThronesDbConverter {
         }
         thronesDbCard.code = thronetekiCard.code;
         if(['attachment', 'character', 'event', 'location'].includes(thronetekiCard.type)) {
-            thronesDbCard.cost = this.convertXValue(thronetekiCard.cost);
+            thronesDbCard.cost = thronetekiCard.cost.toString();
         }
         thronesDbCard.deck_limit = thronetekiCard.deckLimit;
         thronesDbCard.faction_code = thronetekiCard.faction;
