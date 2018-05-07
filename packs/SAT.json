@@ -11,7 +11,7 @@
             "unique": false,
             "faction": "stark",
             "loyal": false,
-            "cost": 4,
+            "cost": 5,
             "icons": {
                 "military": true,
                 "intrigue": false,
@@ -313,8 +313,8 @@
             "loyal": false,
             "cost": 1,
             "traits": [
-                "The Seven",
-                "Item"
+                "Item",
+                "The Seven"
             ],
             "text": "Attached character gains <i>The Seven</i> trait.\n<b>Marshaling Action:</b> Kneel attached character to reduce the cost of the next <i>The Seven</i> card you marshal this phase by 2.",
             "deckLimit": 3
