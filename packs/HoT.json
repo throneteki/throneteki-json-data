@@ -868,7 +868,7 @@
                 "War"
             ],
             "text": "<b>Forced Interrupt:</b> When claim is applied for an [intrigue] or [power] challenge, the attacking player may choose to apply [military] claim instead.",
-            "deckLimit": 1
+            "deckLimit": 2
         },
         {
             "code": "09051",
