@@ -331,7 +331,7 @@
                 "Summer"
             ],
             "text": "<b>When Revealed:</b> Choose an opponent and reveal the top 10 cards of your deck. That opponent chooses 1 character, 1 location, 1 attachment, and 1 event revealed this way, if able, and adds them to your hand. Shuffle your deck.",
-            "deckLimit": 3
+            "deckLimit": 2
         }
     ]
 }
