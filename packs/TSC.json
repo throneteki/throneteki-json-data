@@ -5,6 +5,181 @@
     "releaseDate": null,
     "cards": [
         {
+            "code": "11001",
+            "type": "character",
+            "name": "Varamyr Sixskins",
+            "unique": true,
+            "faction": "neutral",
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Wildling"
+            ],
+            "text": "<b>Reaction:</b> After the challenges phase begins, until the end of the phase, Varamyr Sixskins gains (choose one):\n- the <i>Bear</i> trait and gets +5 STR.\n- the <i>Eagle</i> trait, an [intrigue] icon, and insight.\n- the <i>Cat</i> trait, a [power] icon, and stealth.\n- the <i>Wolf</i> trait and intimidate, and gets +2 STR.",
+            "deckLimit": 3
+        },
+        {
+            "code": "11002",
+            "type": "character",
+            "name": "Bolton Flayer",
+            "unique": false,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Ally",
+                "House Bolton"
+            ],
+            "text": "Shadow (2).\n<b>Forced Interrupt:</b> When the challenges phase ends, choose and kill a character with the lowest printed cost (cannot be saved).",
+            "deckLimit": 3
+        },
+        {
+            "code": "11003",
+            "type": "location",
+            "name": "Northern Armory",
+            "unique": false,
+            "faction": "stark",
+            "loyal": true,
+            "cost": 2,
+            "traits": [
+                "The North"
+            ],
+            "text": "Northern Armory cannot stand.\n<b>Action:</b> Kneel Northern Armory to choose and stand a [stark] character.\n+1 Income.",
+            "deckLimit": 3
+        },
+        {
+            "code": "11004",
+            "type": "character",
+            "name": "Scheming Septon",
+            "unique": false,
+            "faction": "tyrell",
+            "loyal": true,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "The Seven"
+            ],
+            "text": "Shadow (2).\n<b>Challenges Action:</b> Draw 1 card and gain 2 gold. Then, place Scheming Septon on top of your deck. (Limit once per phase.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "11005",
+            "type": "attachment",
+            "name": "Margaery's Influence",
+            "unique": false,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Condition"
+            ],
+            "text": "Terminal.\n<b>Action:</b> While attached character is participating in a challenge, kneel Margaery's Influence and pay 1 gold to stand attached character and remove it from the challenge.",
+            "deckLimit": 3
+        },
+        {
+            "code": "11006",
+            "type": "character",
+            "name": "Janos Slynt",
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 6,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "Ally"
+            ],
+            "text": "Shadow (0).\n<b>Forced Reaction:</b> After Janos Slynt comes out of shadows, sacrifice a [thenightswatch] character.",
+            "deckLimit": 3
+        },
+        {
+            "code": "11007",
+            "type": "event",
+            "name": "Fresh Recruits",
+            "faction": "thenightswatch",
+            "loyal": true,
+            "cost": 3,
+            "traits": [],
+            "text": "<b>Action:</b> Search your deck for a <i>Ranger</i> character, a <i>Builder</i> character, and a <i>Steward</i> character, reveal them, and add them to your hand. Shuffle your deck.",
+            "deckLimit": 3
+        },
+        {
+            "code": "11008",
+            "type": "character",
+            "name": "Shadow Priestess",
+            "unique": false,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Ally",
+                "R'hllor"
+            ],
+            "text": "Shadow (3).\n<b>Reaction:</b> After Shadow Priestess comes out of shadows, choose and kneel a character without attachments.",
+            "deckLimit": 3
+        },
+        {
+            "code": "11009",
+            "type": "location",
+            "name": "Stormlands Fiefdom",
+            "unique": false,
+            "faction": "baratheon",
+            "loyal": true,
+            "cost": 2,
+            "traits": [
+                "Westeros"
+            ],
+            "text": "<b>Action:</b> Kneel Stormlands Fiefdom to move 1 power from a character or location to its owner's faction card.\n+1 Income.",
+            "deckLimit": 3
+        },
+        {
+            "code": "11010",
+            "type": "character",
+            "name": "Ser Robert Strong",
+            "unique": true,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 6,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 8,
+            "traits": [
+                "Kingsguard",
+                "Knight"
+            ],
+            "text": "Shadow (5).\n<b>Reaction:</b> After Ser Robert Strong comes out of shadows, choose and kill a kneeling character with printed cost 5 or lower.",
+            "deckLimit": 3
+        },
+        {
             "code": "11011",
             "type": "event",
             "name": "Beneath the Bridge of Dream",
@@ -13,6 +188,68 @@
             "cost": "-",
             "traits": [],
             "text": "Shadow (0).\n<b>Interrupt:</b> When you choose a plot card to reveal in the plot phase, instead shuffle your used pile into your plot deck and choose a plot card to reveal at random. Until the end of the round, increase the gold value on your revealed plot card by 2.",
+            "deckLimit": 3
+        },
+        {
+            "code": "11012",
+            "type": "character",
+            "name": "Nighttime Marauders",
+            "unique": false,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Raider"
+            ],
+            "text": "Pillage. Shadow (3).\n<b>Reaction:</b> After Nighttime Marauders comes out of shadows, choose a card in an opponent's discard pile. That player reveals his or her hand and discards from it each card with the same printed cost as the chosen card.",
+            "deckLimit": 3
+        },
+        {
+            "code": "11013",
+            "type": "event",
+            "name": "Seize the Initiative",
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": "X",
+            "traits": [],
+            "text": "X is the number of opponents you have.\n<b>Interrupt:</b> When the marshaling phase ends, you become the first player.",
+            "deckLimit": 3
+        },
+        {
+            "code": "11014",
+            "type": "character",
+            "name": "Aegon Targaryen",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Lord"
+            ],
+            "text": "Shadow (3).\n<b>Reaction:</b> After Aegon Targaryen enters play, search your deck for an <i>Army</i> or <i>Mercenary</i> character, put it into play, and shuffle your deck. At the end of the phase, if that card is still in play, return it to your hand.",
+            "deckLimit": 3
+        },
+        {
+            "code": "11015",
+            "type": "event",
+            "name": "Unexpected Return",
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 5,
+            "traits": [],
+            "text": "<b>Challenges Action:</b> Choose a character in your discard pile and put it into play.",
             "deckLimit": 3
         },
         {
@@ -47,6 +284,53 @@
                 "Dorne"
             ],
             "text": "Shadow (2).\nReduce the cost to marshal each of your cards into shadows by 1.\n<b>Challenges Action:</b> Kneel The Shadow City and discard 1 card from shadows to draw 2 cards.",
+            "deckLimit": 3
+        },
+        {
+            "code": "11018",
+            "type": "character",
+            "name": "Nefarious Acolyte",
+            "unique": false,
+            "faction": "neutral",
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "Maester"
+            ],
+            "text": "Shadow (2).\n<b>Action:</b> Kneel Nefarious Acolyte and pay 1 gold to choose a plot card. Until the end of the phase, treat it as if its printed text box were blank (except for <i>Traits</i>).",
+            "deckLimit": 3
+        },
+        {
+            "code": "11019",
+            "type": "event",
+            "name": "Burning the Dead",
+            "faction": "neutral",
+            "cost": 1,
+            "traits": [],
+            "text": "<b>Action:</b> Remove each non-unique character in each player's dead pile from the game. Draw 1 card.",
+            "deckLimit": 3
+        },
+        {
+            "code": "11020",
+            "type": "plot",
+            "name": "Exchange of Information",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 3,
+                "initiative": 4,
+                "claim": 1,
+                "reserve": 8
+            },
+            "traits": [
+                "Kingdom",
+                "Summer"
+            ],
+            "text": "<b>When Revealed:</b> Choose an opponent and reveal the top 10 cards of your deck. That opponent chooses 1 character, 1 location, 1 attachment, and 1 event revealed this way, if able, and adds them to your hand. Shuffle your deck.",
             "deckLimit": 3
         }
     ]
