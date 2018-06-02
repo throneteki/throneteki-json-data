@@ -11,6 +11,9 @@ pipeline {
         stage('Checkout') {
             steps {
                 checkout scm
+                sh 'node -v'
+                sh 'npm prune'
+                sh 'npm install'
             }
         }
 
