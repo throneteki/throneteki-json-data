@@ -1,0 +1,53 @@
+{
+    "cgdbId": 33,
+    "code": "SoKL",
+    "name": "Streets of King's Landing",
+    "releaseDate": null,
+    "cards": [
+        {
+            "code": "11044",
+            "type": "event",
+            "name": "Growing Ambition",
+            "faction": "tyrell",
+            "loyal": true,
+            "cost": "-",
+            "traits": [],
+            "text": "Shadow (X).\n<b>Challenges Action:</b> Search your deck for X different cards and place them in your discard pile. Shuffle your deck. Then, choose an opponent. Return X cards of that opponent's choice from your discard pile to your hand.",
+            "deckLimit": 3
+        },
+        {
+            "code": "11057",
+            "type": "character",
+            "name": "Poor Fellows",
+            "unique": false,
+            "faction": "neutral",
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 1,
+            "traits": [
+                "Army",
+                "The Seven"
+            ],
+            "text": "No attachments.\n<b>Reaction:</b> After you win a challenge in which Poor Fellows is attacking, the losing opponent chooses, either: Poor Fellows gains 1 power, or you draw 1 card.",
+            "deckLimit": 3
+        },
+        {
+            "code": "11059",
+            "type": "attachment",
+            "name": "Glass Candle",
+            "unique": false,
+            "faction": "neutral",
+            "cost": 1,
+            "traits": [
+                "Item",
+                "The Citadel"
+            ],
+            "text": "Character you control only.\nIf attached character has the <i>Maester</i> trait, it gains insight.\n<b>Challenges Action:</b> Kneel Glass Candle to look at the top card of any player's deck. You may discard that card.",
+            "deckLimit": 3
+        }
+    ]
+}
