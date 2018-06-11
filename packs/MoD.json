@@ -1,0 +1,89 @@
+{
+    "cgdbId": 34,
+    "code": "MoD",
+    "name": "Music of Dragons",
+    "releaseDate": null,
+    "cards": [
+        {
+            "code": "11062",
+            "type": "attachment",
+            "name": "Shaggydog",
+            "unique": true,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 3,
+            "traits": [
+                "Direwolf"
+            ],
+            "text": "[stark] character you control only.\n<b>Reaction:</b> After you win a challenge in which attached character is attacking, the losing opponent must choose and kill a defending character.\n<b>Action:</b> Pay 1 gold to attach Shaggydog to a different character. (Limit once per phase.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "11065",
+            "type": "character",
+            "name": "Jon Snow",
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": true,
+            "cost": 7,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 6,
+            "traits": [
+                "Bastard",
+                "Commander",
+                "Lord"
+            ],
+            "text": "While you control a:\n- <i>Builder</i> character, Jon Snow gains stealth.\n- <i>Ranger</i> character, Jon Snow gains intimidate.\n- <i>Steward</i> character, Jon Snow gains insight.",
+            "deckLimit": 3
+        },
+        {
+            "code": "11066",
+            "type": "attachment",
+            "name": "Lord Commander",
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 3,
+            "traits": [
+                "Title"
+            ],
+            "text": "[thenightswatch] character with printed cost 5 or higher only.\n<b>Reaction:</b> After you win a challenge in which you control a participating [thenightswatch] character, attached character gains 1 power.",
+            "deckLimit": 3
+        },
+        {
+            "code": "11070",
+            "type": "event",
+            "name": "Clever Feint",
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 0,
+            "traits": [],
+            "text": "<b>Action:</b> Kneel your faction card to choose any number of cards you control with shadow. Return each of those cards to shadows.",
+            "deckLimit": 3
+        },
+        {
+            "code": "11071",
+            "type": "character",
+            "name": "Rhaegal",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 4,
+            "traits": [
+                "Dragon"
+            ],
+            "text": "Ambush (5). No attachments.\n<b>Reaction:</b> After an opponent's character is killed by a card effect, stand Rhaegal.",
+            "deckLimit": 3
+        }
+    ]
+}
