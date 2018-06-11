@@ -16,6 +16,26 @@
             "deckLimit": 3
         },
         {
+            "code": "11049",
+            "type": "character",
+            "name": "Catspaw",
+            "unique": false,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 1,
+            "traits": [
+                "Ally"
+            ],
+            "text": "Shadow (2).\n<b>Reaction:</b> After Catspaw comes out of shadows, pay X gold to choose another character with printed cost X or lower and return it to its owner's hand.",
+            "deckLimit": 3
+        },
+        {
             "code": "11057",
             "type": "character",
             "name": "Poor Fellows",
