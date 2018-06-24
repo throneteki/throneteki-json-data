@@ -101,7 +101,7 @@
             "traits": [
                 "Barge"
             ],
-            "text": "Immune to card effects.\n<b>Reaction:</b> After you marshal Pleasure Barge, if you have not yet drawn any cards this phase, draw 3 cards.\n-1 Income",
+            "text": "Immune to card effects.\n<b>Reaction:</b> After you marshal Pleasure Barge, if you have not yet drawn any cards this phase, draw 3 cards.\n-1 Income.",
             "deckLimit": 3
         },
         {
@@ -170,7 +170,7 @@
             "traits": [
                 "Vehicle"
             ],
-            "text": "<b>Reaction:</b> After you become the first player, either: gain 1 gold, or draw 1 card.\n-1 Initiative",
+            "text": "<b>Reaction:</b> After you become the first player, either: gain 1 gold, or draw 1 card.\n-1 Initiative.",
             "deckLimit": 3
         },
         {

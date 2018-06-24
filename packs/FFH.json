@@ -303,7 +303,7 @@
             "traits": [
                 "Westeros"
             ],
-            "text": "The God's Eye cannot be discarded from play.\n+1 Income\n+1 Reserve.",
+            "text": "The God's Eye cannot be discarded from play.\n+1 Income.\n+1 Reserve.",
             "deckLimit": 3
         },
         {

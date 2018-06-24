@@ -1,0 +1,104 @@
+{
+    "cgdbId": 35,
+    "code": "IDP",
+    "name": "In Daznak's Pit",
+    "releaseDate": null,
+    "cards": [
+        {
+            "code": "11085",
+            "type": "character",
+            "name": "Three-Finger Hobb",
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": true,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 1,
+            "traits": [
+                "Steward"
+            ],
+            "text": "No attachments except <i>Weapon</i>.\n<b>Reaction:</b> After you check reserve, if your hand size is lower than your reserve value, draw 2 cards.",
+            "deckLimit": 3
+        },
+        {
+            "code": "11087",
+            "type": "character",
+            "name": "Storm's End Maester",
+            "unique": false,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 1,
+            "traits": [
+                "Maester"
+            ],
+            "text": "<b>Challenges Action:</b> Kneel Storm's End Maester to choose an opponent. If you have more power on your faction card than that player, draw ? cards.",
+            "deckLimit": 3
+        },
+        {
+            "code": "11092",
+            "type": "location",
+            "name": "Refurbished Hulk",
+            "unique": false,
+            "faction": "greyjoy",
+            "loyal": true,
+            "cost": 2,
+            "traits": [
+                "Warship"
+            ],
+            "text": "+1 Income.\n+1 Initiative.",
+            "deckLimit": 3
+        },
+        {
+            "code": "11093",
+            "type": "character",
+            "name": "Drogon",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 6,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 6,
+            "traits": [
+                "Dragon"
+            ],
+            "text": "Ambush (6). No attachments.\n<b>Reaction:</b> After you win a challenge in which Drogon is attacking, choose a character controlled by the losing opponent. Until the end of the phase, that character gets -4 STR and is killed if its STR is 0.",
+            "deckLimit": 3
+        },
+        {
+            "code": "11094",
+            "type": "event",
+            "name": "In Daznak's Pit",
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": "-",
+            "traits": [],
+            "text": "Shadow (3).\n<b>Interrupt:</b> When the challenges phase ends, stand each character. Following this phase, there is an additional challenges phase. (Max 1 per round.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "11096",
+            "type": "event",
+            "name": "He Calls It Thinking",
+            "faction": "martell",
+            "loyal": true,
+            "cost": 0,
+            "traits": [],
+            "text": "<b>Interrupt:</b> When the effects of an opponent's non-agenda, non-plot triggered ability would initiate, cancel those effects unless that player pays 1 gold.",
+            "deckLimit": 3
+        }
+    ]
+}
