@@ -2,7 +2,7 @@
     "cgdbId": 32,
     "code": "TMoW",
     "name": "The March on Winterfell",
-    "releaseDate": "2016-07-05",
+    "releaseDate": "2018-07-05",
     "cards": [
         {
             "code": "11021",
@@ -187,7 +187,7 @@
             },
             "strength": 2,
             "traits": [
-                "IronBorn"
+                "Ironborn"
             ],
             "text": "Shadow (2).\n<b>Interrupt:</b> When Hagen’s Daughter would be killed, save her and return her to shadows.",
             "deckLimit": 3
@@ -197,7 +197,7 @@
             "type": "event",
             "name": "\"Steel Rain\"",
             "faction": "greyjoy",
-            "loyal": false,
+            "loyal": true,
             "cost": "-",
             "traits": [
                 "Song"
