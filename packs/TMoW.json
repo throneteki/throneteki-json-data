@@ -202,7 +202,7 @@
             "traits": [
                 "Song"
             ],
-            "text": "<b>Action:</b> Sacrifice any number of [greyjoy] locations. For each location sacrificed, search your deck for a different [greyjoy] location with equal or lower printed cost and put it into play. Shuffle your deck.",
+            "text": "Shadow (2).\n<b>Action:</b> Sacrifice any number of [greyjoy] locations. For each location sacrificed, search your deck for a different [greyjoy] location with equal or lower printed cost and put it into play. Shuffle your deck.",
             "deckLimit": 3
         },
         {
