@@ -2,7 +2,7 @@
     "cgdbId": 32,
     "code": "TMoW",
     "name": "The March on Winterfell",
-    "releaseDate": null,
+    "releaseDate": "2016-07-05",
     "cards": [
         {
             "code": "11021",
@@ -26,6 +26,20 @@
             "deckLimit": 3
         },
         {
+            "code": "11022",
+            "type": "attachment",
+            "name": "Honor-Bound",
+            "unique": false,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Condition"
+            ],
+            "text": "During [military] challenges, attached character gets +2 STR.\nAttached character cannot be declared as an attacker or defender in [intrigue] challenges.",
+            "deckLimit": 3
+        },
+        {
             "code": "11023",
             "type": "character",
             "name": "The Queen of Thorns",
@@ -43,6 +57,54 @@
                 "Lady"
             ],
             "text": "Shadow (4). Stealth.\n<b>Reaction:</b> After you win a challenge in which The Queen of Thorns is participating, choose a card you control in shadows and put it into play.",
+            "deckLimit": 3
+        },
+        {
+            "code": "11024",
+            "type": "location",
+            "name": "Oldtown Undercity",
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": true,
+            "cost": 3,
+            "traits": [
+                "Oldtown"
+            ],
+            "text": "Shadow (2).\n<b>Reaction:</b> After a card you control comes out of shadows, look at the top 3 cards of your deck. Add 1 to your hand, place 1 on the bottom of your deck, and place the other on top of your deck. (Limit once per phase.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "11025",
+            "type": "character",
+            "name": "Cunning Steward",
+            "unique": false,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Steward"
+            ],
+            "text": "Shadow (3).\nWhile you are the defending player, Cunning Steward gains a [military] and a [power] icon.",
+            "deckLimit": 3
+        },
+        {
+            "code": "11026",
+            "type": "location",
+            "name": "The Wall",
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": true,
+            "cost": 6,
+            "traits": [
+                "The North"
+            ],
+            "text": "Each character you control gains the [thenightswatch] affiliation and loses all other faction affiliations.\n<b>Action:</b> Kneel The Wall to choose an opponent. Put an eligible character of that player’s choice from his or her discard pile into play under your control.",
             "deckLimit": 3
         },
         {
@@ -75,6 +137,201 @@
             "traits": [],
             "text": "Play only during a challenge you initiated.\n<b>Action:</b> End the challenge with no winner or loser. You may initiate an additional [power] challenge this phase.",
             "deckLimit": 3
+        },
+        {
+            "code": "11029",
+            "type": "character",
+            "name": "Penny",
+            "unique": true,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "Fool"
+            ],
+            "text": "Shadow (1).\nWhile you control more cards in shadows than each opponent, Penny gains an [intrigue] icon and stealth.",
+            "deckLimit": 3
+        },
+        {
+            "code": "11030",
+            "type": "location",
+            "name": "Bowels of Casterly Rock",
+            "unique": true,
+            "faction": "lannister",
+            "loyal": true,
+            "cost": 3,
+            "traits": [
+                "The Westerlands"
+            ],
+            "text": "<b>Reaction:</b> After a card you control comes out of shadows, either: gain 2 gold, or draw 1 card. (Limit once per phase.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "11031",
+            "type": "character",
+            "name": "Hagen's Daughter",
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "IronBorn"
+            ],
+            "text": "Shadow (2).\n<b>Interrupt:</b> When Hagen’s Daughter would be killed, save her and return her to shadows.",
+            "deckLimit": 3
+        },
+        {
+            "code": "11032",
+            "type": "event",
+            "name": "\"Steel Rain\"",
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": "-",
+            "traits": [
+                "Song"
+            ],
+            "text": "<b>Action:</b> Sacrifice any number of [greyjoy] locations. For each location sacrificed, search your deck for a different [greyjoy] location with equal or lower printed cost and put it into play. Shuffle your deck.",
+            "deckLimit": 3
+        },
+        {
+            "code": "11033",
+            "type": "character",
+            "name": "Hizdahr zo Loraq",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 6,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "King"
+            ],
+            "text": "<b>Action:</b> Discard 1 card from your hand to reduce the cost of the next card you marshal, ambush, or bring out of shadows this phase by 3. (Limit once per phase.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "11034",
+            "type": "location",
+            "name": "Meereen",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 3,
+            "traits": [
+                "Meereen"
+            ],
+            "text": "<b>Action:</b> Kneel Meereen to place each card in your hand facedown under Meereen and draw 3 cards. At the end of the phase, or if Meereen leaves play, discard your hand and return each card you placed under Meereen to your hand.",
+            "deckLimit": 3
+        },
+        {
+            "code": "11035",
+            "type": "character",
+            "name": "Maiden of Poisons",
+            "unique": false,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 1,
+            "traits": [
+                "Bastard",
+                "Sand Snake"
+            ],
+            "text": "Shadow (2).\n<b>Reaction:</b> After you lose a challenge in which Maiden of Poisons is participating, sacrifice it to choose a participating character with fewer than 2 challenge icons and return it to its owner’s hand.",
+            "deckLimit": 3
+        },
+        {
+            "code": "11036",
+            "type": "event",
+            "name": "Serve. Obey. Protect.",
+            "faction": "martell",
+            "loyal": false,
+            "cost": 0,
+            "traits": [],
+            "text": "Play only if you have lost a challenge as the defending player this phase.\n<b>Reaction:</b> After an opponent initiates a challenge against you, return a [martell] character to your hand to put a different [martell] character with printed cost 5 or lower into play from your hand.",
+            "deckLimit": 3
+        },
+        {
+            "code": "11037",
+            "type": "character",
+            "name": "Tycho Nestoris",
+            "unique": true,
+            "faction": "neutral",
+            "loyal": false,
+            "cost": 6,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Ally"
+            ],
+            "text": "You cannot win the game.\n<b>Action:</b> Pay 6 gold to treat Tycho Nestoris’s printed text box as if it were blank (except for <i>Traits</i>) until the end of the phase.\n+3 Income.",
+            "deckLimit": 3
+        },
+        {
+            "code": "11038",
+            "type": "location",
+            "name": "City Gates",
+            "unique": false,
+            "faction": "neutral",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "King's Landing"
+            ],
+            "text": "Limited.\n<b>Action:</b> Pay 1 gold and discard City Gates from your hand to draw 1 card.",
+            "deckLimit": 3
+        },
+        {
+            "code": "11039",
+            "type": "agenda",
+            "name": "Trading With Qohor",
+            "faction": "neutral",
+            "traits": [
+                "Banner"
+            ],
+            "text": "While you control no attachments, increase the gold value on each opponent’s revealed plot card by 1.\n<b>Reaction:</b> After claim is applied for a challenge you won, sacrifice an attachment to search your deck for a different attachment with equal or lower printed cost and put it into play.",
+            "deckLimit": 1
+        },
+        {
+            "code": "11040",
+            "type": "plot",
+            "name": "The Bloody Flux",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 4,
+                "initiative": 8,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "Omen"
+            ],
+            "text": "Characters cannot be saved.",
+            "deckLimit": 2
         }
     ]
 }
