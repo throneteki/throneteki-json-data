@@ -302,7 +302,7 @@
             "traits": [
                 "King's Landing"
             ],
-            "text": "Limited.\n<b>Action:</b> Pay 1 gold and discard City Gates from your hand to draw 1 card.",
+            "text": "Limited.\n<b>Action:</b> Pay 1 gold and discard City Gates from your hand to draw 1 card.\n+1 Income.",
             "deckLimit": 3
         },
         {
