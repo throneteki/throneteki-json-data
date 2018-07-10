@@ -1,0 +1,127 @@
+{
+    "cgdbId": 36,
+    "code": "DitD",
+    "name": "Daggers in the Dark",
+    "releaseDate": null,
+    "cards": [
+        {
+            "code": "11106",
+            "type": "event",
+            "name": "Daggers in the Dark",
+            "faction": "thenightswatch",
+            "loyal": true,
+            "cost": "-",
+            "traits": [],
+            "text": "Shadow (2).\n<b>Reaction:</b> After you win a challenge as the defending player, choose and kill an attacking character. The attacking player may sacrifice 2 characters to cancel this effect.",
+            "deckLimit": 3
+        },
+        {
+            "code": "11107",
+            "type": "character",
+            "name": "Red Ronnet",
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "House Connington",
+                "Knight"
+            ],
+            "text": "No attachments except <i>Weapon</i>.\nWhile Red Ronnet is attacking, if the defending player controls a card in shadows, raise the claim value on your revealed plot card by 1.",
+            "deckLimit": 3
+        },
+        {
+            "code": "11108",
+            "type": "event",
+            "name": "Banished from the Light",
+            "faction": "baratheon",
+            "loyal": true,
+            "cost": "-",
+            "traits": [],
+            "text": "Shadow (2).\n<b>Reaction:</b> After you win a [power] challenge, choose a character. Place it in shadows with a shadow token on it. While that card is in shadows, it gains shadow (X). X is its printed cost.",
+            "deckLimit": 3
+        },
+        {
+            "code": "11109",
+            "type": "character",
+            "name": "Cersei Lannister",
+            "unique": true,
+            "faction": "lannister",
+            "loyal": true,
+            "cost": 6,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "Lady"
+            ],
+            "text": "Shadow (5).\n<b>Reaction:</b> After a card you control comes out of shadows during the challenges phase, each opponent discards 1 card at random from his or her hand. (Limit 3 times per phase.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "11110",
+            "type": "attachment",
+            "name": "Underhand Methods",
+            "unique": false,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Skill"
+            ],
+            "text": "Shadow (0).\nAttached character gets +1 STR for each card you control in shadows.",
+            "deckLimit": 3
+        },
+        {
+            "code": "11111",
+            "type": "character",
+            "name": "Moqorro",
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Ally",
+                "R'hllor"
+            ],
+            "text": "Shadow (5).\n<b>Reaction:</b> After Moqorro comes out of shadows during a challenge, choose a defending character and place it on top of its owner's deck.",
+            "deckLimit": 3
+        },
+        {
+            "code": "11119",
+            "type": "character",
+            "name": "Varys",
+            "unique": true,
+            "faction": "neutral",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 4,
+            "traits": [
+                "Ally",
+                "Lord"
+            ],
+            "text": "Shadow (5). Stealth.\nReduce the cost to bring Varys out of shadows by 1 for each other card in shadows.\n<b>Reaction:</b> After Varys comes out of shadows, choose and kill a character with power.",
+            "deckLimit": 3
+        }
+    ]
+}
