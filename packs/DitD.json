@@ -78,7 +78,7 @@
             "traits": [
                 "Skill"
             ],
-            "text": "Shadow (0).\nAttached characters gets +1 STR for each card you control in shadows.",
+            "text": "Shadow (0).\nAttached character gets +1 STR for each card you control in shadows.",
             "deckLimit": 3
         },
         {
@@ -120,7 +120,7 @@
                 "Ally",
                 "Lord"
             ],
-            "text": "Shadow (5). Stealth.\nReduce the cost to bring Varys out of shadows by 1 for each other card in shadows.\n<b>Reaction:</b> After Varys comes out of shadowa, choose and kill a character with power.",
+            "text": "Shadow (5). Stealth.\nReduce the cost to bring Varys out of shadows by 1 for each other card in shadows.\n<b>Reaction:</b> After Varys comes out of shadows, choose and kill a character with power.",
             "deckLimit": 3
         }
     ]
