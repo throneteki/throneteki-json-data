@@ -33,7 +33,7 @@
                 "Mercenary",
                 "Smuggler"
             ],
-            "text": "Stealth.\nYou may marshal or play facedown cards attached to Valyrian's Crew as if they were in your hand.<b>Reaction:</b> After you win a challenge in which Valyrian's Crew is attacking, attach the top card of the losing opponent's deck to Valyrian's Crew facedown under your control, as an attachment with terminal.",
+            "text": "Stealth.\nYou may marshal or play facedown cards attached to Valyrian's Crew as if they were in your hand.\n<b>Reaction:</b> After you win a challenge in which Valyrian's Crew is attacking, attach the top card of the losing opponent's deck to Valyrian's Crew facedown under your control, as an attachment with terminal.",
             "deckLimit": 3
         },
         {
