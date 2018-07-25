@@ -16,6 +16,27 @@
             "deckLimit": 3
         },
         {
+            "code": "11047",
+            "type": "character",
+            "name": "Valyrian's Crew",
+            "unique": false,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 6,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 5,
+            "traits": [
+                "Mercenary",
+                "Smuggler"
+            ],
+            "text": "Stealth.\nYou may marshal or play facedown cards attached to Valyrian's Crew as if they were in your hand.\n<b>Reaction:</b> After you win a challenge in which Valyrian's Crew is attacking, attach the top card of the losing opponent's deck to Valyrian's Crew facedown under your control, as an attachment with terminal.",
+            "deckLimit": 3
+        },
+        {
             "code": "11049",
             "type": "character",
             "name": "Catspaw",
