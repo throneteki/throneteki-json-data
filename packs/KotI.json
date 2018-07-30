@@ -68,27 +68,6 @@
             "deckLimit": 3
         },
         {
-            "code": "12014",
-            "type": "character",
-            "name": "Eager Deckhand",
-            "unique": false,
-            "faction": "greyjoy",
-            "loyal": false,
-            "cost": 2,
-            "icons": {
-                "military": true,
-                "intrigue": false,
-                "power": false
-            },
-            "strength": 2,
-            "traits": [
-                "Ally",
-                "Raider"
-            ],
-            "text": "<b>Reaction:</b> After a <i>Warship</i> location enters play under your control, put Eager Deckhand into play from your hand.",
-            "deckLimit": 3
-        },
-        {
             "code": "12015",
             "type": "character",
             "name": "Orkmont Reaver",
@@ -142,7 +121,7 @@
             "type": "event",
             "name": "When I Woke...",
             "faction": "neutral",
-            "cost": 3,
+            "cost": 2,
             "traits": [],
             "text": "<b>Reaction:</b> After a player loses a [military] challenge, that player chooses a participating character and places it on top of its owner's deck. (Max 1 per challenge.)",
             "deckLimit": 3
