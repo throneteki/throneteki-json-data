@@ -1,0 +1,197 @@
+{
+    "cgdbId": 45,
+    "code": "KotI",
+    "name": "King of the Isles",
+    "releaseDate": null,
+    "cards": [
+        {
+            "code": "12001",
+            "type": "character",
+            "name": "Balon Greyjoy",
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": true,
+            "cost": 7,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "Ironborn",
+                "Lord"
+            ],
+            "text": "Pillage. Renown.\n<b>Action:</b> Kneel your faction card to choose a card in an opponent's discard pile and put it into play under your control. At the end of the phase, shuffle that card into its owner's deck.",
+            "deckLimit": 3
+        },
+        {
+            "code": "12003",
+            "type": "character",
+            "name": "Asha Greyjoy",
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 6,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "Captain",
+                "Ironborn",
+                "Lady"
+            ],
+            "text": "Pillage. Stealth.\nEach other unique <i>Ironborn</i> character you control gains stealth.",
+            "deckLimit": 3
+        },
+        {
+            "code": "12012",
+            "type": "character",
+            "name": "Priest of Old Wyk",
+            "unique": false,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Drowned God"
+            ],
+            "text": "While there is a <i>Drowned God</i> character in your dead pile, Priest of Old Wyk contributes its STR to your total for dominance even while kneeling.",
+            "deckLimit": 3
+        },
+        {
+            "code": "12014",
+            "type": "character",
+            "name": "Eager Deckhand",
+            "unique": false,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Ally",
+                "Raider"
+            ],
+            "text": "<b>Reaction:</b> After a <i>Warship</i> location enters play under your control, put Eager Deckhand into play from your hand.",
+            "deckLimit": 3
+        },
+        {
+            "code": "12015",
+            "type": "character",
+            "name": "Orkmont Reaver",
+            "unique": false,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 1,
+            "traits": [
+                "Ironborn",
+                "Raider"
+            ],
+            "text": "Pillage.\nWhile an opponent has 10 or more cards in his or her discard pile, Orkmont Reaver gains stealth.",
+            "deckLimit": 3
+        },
+        {
+            "code": "10017",
+            "type": "location",
+            "name": "Great Wyk",
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": true,
+            "cost": 3,
+            "traits": [
+                "Drowned God",
+                "Iron Islands"
+            ],
+            "text": "<b>Reaction:</b> After a character enters play from your dead pile, each opponent chooses and discards 1 card from his or her hand. (Limit once per phase.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "12023",
+            "type": "event",
+            "name": "What Is Dead May Never Die",
+            "faction": "greyjoy",
+            "loyal": true,
+            "cost": 3,
+            "traits": [
+                "Drowned God"
+            ],
+            "text": "<b>Reaction:</b> After you win dominance, choose a [greyjoy] character in your dead pile and put it into play.",
+            "deckLimit": 3
+        },
+        {
+            "code": "12044",
+            "type": "event",
+            "name": "When I Woke...",
+            "faction": "neutral",
+            "cost": 3,
+            "traits": [],
+            "text": "<b>Reaction:</b> After a player loses a [military] challenge, that player chooses a participating character and places it on top of its owner's deck. (Max 1 per challenge.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "12045",
+            "type": "agenda",
+            "name": "Sea of Blood",
+            "faction": "neutral",
+            "traits": [
+                "Prophecy"
+            ],
+            "text": "During [military] challenges, reduce the cost of each event you play by 1 for each blood token on Sea of Blood. You cannot play events during [intrigue] or [power] challenges.\n<b>Reaction:</b> After you win a [military] challenge by 5 or more STR, kneel your faction card to place a blood token on Sea of Blood. Then, search your deck for an event, reveal it, and add it to your hand. Shuffle your deck.",
+            "deckLimit": 1
+        },
+        {
+            "code": "12046",
+            "type": "plot",
+            "name": "We Take Westeros!",
+            "faction": "greyjoy",
+            "loyal": true,
+            "plotStats": {
+                "income": 5,
+                "initiative": 9,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "War"
+            ],
+            "text": "<b>When Revealed:</b> Choose a location in a discard pile and put it into play under your control.",
+            "deckLimit": 1
+        },
+        {
+            "code": "12050",
+            "type": "plot",
+            "name": "Stolen Message",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 5,
+                "initiative": 7,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "Scheme"
+            ],
+            "text": "Each opponent plays with the top card of his or her deck revealed.\n<b>Action:</b> Pay 1 gold to place the top card of an opponent's deck on the bottom of that player's deck. (Limit 3 times per round.)",
+            "deckLimit": 1
+        }
+    ]
+}
