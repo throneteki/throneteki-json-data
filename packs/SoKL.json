@@ -36,7 +36,7 @@
                 "House Manderly",
                 "The North"
             ],
-            "text": "<b>Reaction:</b> After you win a challenge, reveal the top 2 cards of your deck. The losing opponent adds 1 of those cards to your hand. Place the other on the bottom of your deck.",
+            "text": "<b>Reaction:</b> After you win a challenge, reveal the top 2 cards of your deck. The losing opponent chooses 1 of those cards. Add that card to your hand, and place the other on the bottom of your deck.",
             "deckLimit": 3
         },
         {
@@ -158,7 +158,7 @@
             "traits": [
                 "Ally"
             ],
-            "text": "Shadow (2).\n<b>Reaction:</b> After Catspaw comes out of shadows, pay X gold to choose a character with printed cost X or lower and return it to its owner's hand.",
+            "text": "Shadow (2).\n<b>Reaction:</b> After Catspaw comes out of shadows, pay X gold to choose another character with printed cost X or lower and return it to its owner's hand.",
             "deckLimit": 3
         },
         {
@@ -224,7 +224,6 @@
             },
             "strength": 1,
             "traits": [
-                "Assassin",
                 "Mercenary"
             ],
             "text": "Shadow (2).\n<b>Reaction:</b> After Hired Assassin comes out of shadows, look at a card in shadows. If it is a character, you may place it in its owner's dead pile.",
@@ -276,7 +275,7 @@
             "traits": [
                 "Dorne"
             ],
-            "text": "+1 Income.+1 Reserve.",
+            "text": "+1 Income. +1 Reserve.",
             "deckLimit": 3
         },
         {
@@ -338,8 +337,7 @@
                 "reserve": 5
             },
             "traits": [
-                "Edict",
-                "Summer"
+                "Edict"
             ],
             "text": "Each player cannot gain power for his or her faction except during challenges.\n<b>Forced Reaction:</b> After a challenge is initiated, move 1 power from the attacking player's faction card to the defending player's faction card.",
             "deckLimit": 1
