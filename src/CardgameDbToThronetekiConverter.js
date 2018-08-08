@@ -9,7 +9,7 @@ class CardgameDbToThronetekiConverter {
 
         return this.getCGDBData(pack.cgdbId)
             .then(cards => {
-                let currentPackCards = cards.filter(card => card.setname === pack.name).map(card => this.convertCard(card));
+                let currentPackCards = cards.filter(card => this.cleanUpField(card.setname) === pack.name).map(card => this.convertCard(card));
                 currentPackCards.sort((a, b) => a.code < b.code ? -1 : 1);
 
                 if(currentPackCards.length == 0) {
@@ -166,7 +166,8 @@ class CardgameDbToThronetekiConverter {
             { original: /&ldquo;/g, replace: '"' },
             { original: /&rdquo;/g, replace: '"' },
             { original: /’/g, replace: '\'' },
-            { original: /&rsquo;/g, replace: '\'' }
+            { original: /&rsquo;/g, replace: '\'' },
+            { original: /&#39;/g, replace: '\'' }
         ];
 
         return replacements.reduce((text, r) => text.replace(r.original, r.replace), text).trim();
