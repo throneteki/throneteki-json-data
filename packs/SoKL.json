@@ -2,8 +2,63 @@
     "cgdbId": 33,
     "code": "SoKL",
     "name": "Streets of King's Landing",
-    "releaseDate": null,
+    "releaseDate": "2018-08-09",
     "cards": [
+        {
+            "code": "11041",
+            "type": "character",
+            "name": "Umber Loyalist",
+            "unique": false,
+            "faction": "stark",
+            "loyal": true,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "House Umber"
+            ],
+            "text": "<b>Reaction:</b> After Umber Loyalist enters play, draw 2 cards.\n<b>Forced Interrupt:</b> When Umber Loyalist leaves play, choose and discard 2 cards from your hand.",
+            "deckLimit": 3
+        },
+        {
+            "code": "11042",
+            "type": "location",
+            "name": "White Harbor",
+            "unique": true,
+            "faction": "stark",
+            "loyal": true,
+            "cost": 3,
+            "traits": [
+                "House Manderly",
+                "The North"
+            ],
+            "text": "<b>Reaction:</b> After you win a challenge, reveal the top 2 cards of your deck. The losing opponent chooses 1 of those cards. Add that card to your hand, and place the other on the bottom of your deck.",
+            "deckLimit": 3
+        },
+        {
+            "code": "11043",
+            "type": "character",
+            "name": "Lazy Leo",
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Maester"
+            ],
+            "text": "Shadow (2).\n<b>Reaction:</b> After Lazy Leo comes out of shadows, choose a player. Shuffle any number of events from that player's discard pile into his or her deck.",
+            "deckLimit": 3
+        },
         {
             "code": "11044",
             "type": "event",
@@ -13,6 +68,42 @@
             "cost": "-",
             "traits": [],
             "text": "Shadow (X).\n<b>Challenges Action:</b> Search your deck for X different cards and place them in your discard pile. Shuffle your deck. Then, choose an opponent. Return X cards of that opponent's choice from your discard pile to your hand.",
+            "deckLimit": 3
+        },
+        {
+            "code": "11045",
+            "type": "character",
+            "name": "Naive Scout",
+            "unique": false,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 4,
+            "traits": [
+                "Ally",
+                "Ranger"
+            ],
+            "text": "No attachments except <i>Weapon</i>.\nWhile there is a card in shadows, Naive Scout cannot be declared as a defender.",
+            "deckLimit": 3
+        },
+        {
+            "code": "11046",
+            "type": "attachment",
+            "name": "Miner's Pick",
+            "unique": false,
+            "faction": "thenightswatch",
+            "loyal": true,
+            "cost": 1,
+            "traits": [
+                "Item",
+                "Weapon"
+            ],
+            "text": "<i>Builder</i> or <i>Steward</i> character only.\nAttached character gets +1 STR.\n+1 Income.",
             "deckLimit": 3
         },
         {
@@ -37,6 +128,20 @@
             "deckLimit": 3
         },
         {
+            "code": "11048",
+            "type": "location",
+            "name": "Blackwater Bay",
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": true,
+            "cost": 3,
+            "traits": [
+                "Westeros"
+            ],
+            "text": "<b>Reaction:</b> After the challenges phase begins, kneel Blackwater Bay to choose an opponent. Draw 1 card for each kneeling character that player controls.",
+            "deckLimit": 3
+        },
+        {
             "code": "11049",
             "type": "character",
             "name": "Catspaw",
@@ -54,6 +159,123 @@
                 "Ally"
             ],
             "text": "Shadow (2).\n<b>Reaction:</b> After Catspaw comes out of shadows, pay X gold to choose another character with printed cost X or lower and return it to its owner's hand.",
+            "deckLimit": 3
+        },
+        {
+            "code": "11050",
+            "type": "location",
+            "name": "Gold Mine",
+            "unique": false,
+            "faction": "lannister",
+            "loyal": true,
+            "cost": 2,
+            "traits": [
+                "The Westerlands"
+            ],
+            "text": "<b>Action:</b> Kneel Gold Mine and discard 1 card from your hand to draw 1 card.\n+1 Income.",
+            "deckLimit": 3
+        },
+        {
+            "code": "11051",
+            "type": "character",
+            "name": "Drowned God Fanatic",
+            "unique": false,
+            "faction": "greyjoy",
+            "loyal": true,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Drowned God"
+            ],
+            "text": "<b>Action:</b> Kill a character to put Drowned God Fanatic into play from your dead pile. (Max once per round.)\n<b>Interrupt:</b> When the effects of an opponent's triggered character ability would initiate, place Drowned God Fanatic into your dead pile from your hand to cancel those effects.",
+            "deckLimit": 3
+        },
+        {
+            "code": "11052",
+            "type": "attachment",
+            "name": "Dragonbinder",
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 3,
+            "traits": [
+                "Item"
+            ],
+            "text": "Character you control only.\nAttached character gains intimidate.\n<b>Reaction:</b> After you win dominance, kill attached character to, either: choose and take control of a <i>Dragon</i> character, or search the top 10 cards of your deck for a [greyjoy] character, put into play, and shuffle your deck.",
+            "deckLimit": 3
+        },
+        {
+            "code": "11053",
+            "type": "character",
+            "name": "Hired Assassin",
+            "unique": false,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 1,
+            "traits": [
+                "Mercenary"
+            ],
+            "text": "Shadow (2).\n<b>Reaction:</b> After Hired Assassin comes out of shadows, look at a card in shadows. If it is a character, you may place it in its owner's dead pile.",
+            "deckLimit": 3
+        },
+        {
+            "code": "11054",
+            "type": "attachment",
+            "name": "Queensguard",
+            "unique": false,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 3,
+            "traits": [
+                "Title"
+            ],
+            "text": "Non-<i>Lady</i> character only. Shadow (2).\n<b>Action:</b> Discard 1 card from your hand to stand attached character. (Limit 3 times per round.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "11055",
+            "type": "character",
+            "name": "Ser Archibald Yronwood",
+            "unique": true,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 5,
+            "traits": [
+                "House Yronwood",
+                "Knight"
+            ],
+            "text": "Shadow (4). No attachments except <i>Weapon</i>.\n<b>Reaction:</b> After you lose dominance, the winning opponent must choose and kill a character he or she controls.",
+            "deckLimit": 3
+        },
+        {
+            "code": "11056",
+            "type": "location",
+            "name": "Summer Sea Port",
+            "unique": false,
+            "faction": "martell",
+            "loyal": true,
+            "cost": 2,
+            "traits": [
+                "Dorne"
+            ],
+            "text": "+1 Income. +1 Reserve.",
             "deckLimit": 3
         },
         {
@@ -77,6 +299,19 @@
             "deckLimit": 3
         },
         {
+            "code": "11058",
+            "type": "location",
+            "name": "King's Landing",
+            "unique": true,
+            "faction": "neutral",
+            "cost": 4,
+            "traits": [
+                "King's Landing"
+            ],
+            "text": "Once per marshaling phase, you may marshal a location from your discard pile as if it were in your hand.\n<b>Challenges Action:</b> Kneel King's Landing and discard 1 location from your hand to draw 1 card.",
+            "deckLimit": 3
+        },
+        {
             "code": "11059",
             "type": "attachment",
             "name": "Glass Candle",
@@ -89,6 +324,23 @@
             ],
             "text": "Character you control only.\nIf attached character has the <i>Maester</i> trait, it gains insight.\n<b>Challenges Action:</b> Kneel Glass Candle to look at the top card of any player's deck. You may discard that card.",
             "deckLimit": 3
+        },
+        {
+            "code": "11060",
+            "type": "plot",
+            "name": "Uneasy Truce",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 4,
+                "initiative": 5,
+                "claim": 1,
+                "reserve": 5
+            },
+            "traits": [
+                "Edict"
+            ],
+            "text": "Each player cannot gain power for his or her faction except during challenges.\n<b>Forced Reaction:</b> After a challenge is initiated, move 1 power from the attacking player's faction card to the defending player's faction card.",
+            "deckLimit": 1
         }
     ]
 }
