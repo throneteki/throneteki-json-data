@@ -308,7 +308,7 @@
     {
         "id": "GT37",
         "name": "House Stark Intro Deck",
-        "releaseDate": "2018-09-01",
+        "releaseDate": "2018-08-23",
         "faction": "stark",
         "agenda": "01027",
         "cards": [
@@ -485,7 +485,7 @@
     {
         "id": "GT38",
         "name": "House Lannister Intro Deck",
-        "releaseDate": "2018-09-01",
+        "releaseDate": "2018-08-23",
         "faction": "lannister",
         "agenda": "01027",
         "cards": [
@@ -662,7 +662,7 @@
     {
         "id": "GT39",
         "name": "House Greyjoy Intro Deck",
-        "releaseDate": "2018-09-01",
+        "releaseDate": "2018-08-23",
         "faction": "greyjoy",
         "agenda": "01027",
         "cards": [
@@ -827,7 +827,7 @@
     {
         "id": "GT40",
         "name": "House Baratheon Intro Deck",
-        "releaseDate": "2018-09-01",
+        "releaseDate": "2018-08-23",
         "faction": "baratheon",
         "agenda": "01027",
         "cards": [
@@ -1000,7 +1000,7 @@
     {
         "id": "GT41",
         "name": "House Tyrell Intro Deck",
-        "releaseDate": "2018-09-01",
+        "releaseDate": "2018-08-23",
         "faction": "tyrell",
         "agenda": "01027",
         "cards": [
@@ -1185,7 +1185,7 @@
     {
         "id": "GT42",
         "name": "House Martell Intro Deck",
-        "releaseDate": "2018-09-01",
+        "releaseDate": "2018-08-23",
         "faction": "martell",
         "agenda": "01027",
         "cards": [
@@ -1362,7 +1362,7 @@
     {
         "id": "GT43",
         "name": "House Targaryen Intro Deck",
-        "releaseDate": "2018-09-01",
+        "releaseDate": "2018-08-23",
         "faction": "targaryen",
         "agenda": "01027",
         "cards": [
@@ -1531,7 +1531,7 @@
     {
         "id": "GT44",
         "name": "Night's Watch Intro Deck",
-        "releaseDate": "2018-09-01",
+        "releaseDate": "2018-08-23",
         "faction": "thenightswatch",
         "agenda": "01027",
         "cards": [
