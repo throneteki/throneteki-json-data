@@ -2,8 +2,74 @@
     "cgdbId": 35,
     "code": "IDP",
     "name": "In Daznak's Pit",
-    "releaseDate": null,
+    "releaseDate": "2018-10-04",
     "cards": [
+        {
+            "code": "11081",
+            "type": "character",
+            "name": "Bear Island Scout",
+            "unique": false,
+            "faction": "stark",
+            "loyal": true,
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 1,
+            "traits": [
+                "House Mormont"
+            ],
+            "text": "<b>Reaction:</b> After you marshal Bear Island Scout, if each character you control has the [stark] affiliation, search your deck for a <i>House Mormont</i> card, reveal it, and add it to your hand. Shuffle your deck.",
+            "deckLimit": 3
+        },
+        {
+            "code": "11082",
+            "type": "location",
+            "name": "Skagos",
+            "unique": true,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "The North"
+            ],
+            "text": "Shadow (1).\n<b>Action:</b> Kneel Skagos and sacrifice a standing [stark] card to search your deck for a card with the same title as the sacrificed card and put it into play. Shuffle your deck.",
+            "deckLimit": 3
+        },
+        {
+            "code": "11083",
+            "type": "character",
+            "name": "Brightwater Host",
+            "unique": false,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 6,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "Army",
+                "House Florent"
+            ],
+            "text": "No attachments.\n<b>Reaction:</b> After you win a challenge in which Brightwater Host is attacking, choose 1 card in shadows and return it to its owner's hand. Then, a unique [tyrell] character you control gains 2 power.",
+            "deckLimit": 3
+        },
+        {
+            "code": "11084",
+            "type": "event",
+            "name": "The Might of the Reach",
+            "faction": "tyrell",
+            "loyal": true,
+            "cost": 3,
+            "traits": [],
+            "text": "<b>Challenges Action:</b> Choose a participating character. Until the end of the challenge, that character gets +10 STR.",
+            "deckLimit": 3
+        },
         {
             "code": "11085",
             "type": "character",
@@ -25,12 +91,26 @@
             "deckLimit": 3
         },
         {
+            "code": "11086",
+            "type": "location",
+            "name": "Hardhome",
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "The North"
+            ],
+            "text": "Shadow (2).\n<b>Dominance Action:</b> Kneel and sacrifice Hardhome to choose an opponent. That player sacrifices a standing character.",
+            "deckLimit": 3
+        },
+        {
             "code": "11087",
             "type": "character",
             "name": "Storm's End Maester",
             "unique": false,
             "faction": "baratheon",
-            "loyal": false,
+            "loyal": true,
             "cost": 2,
             "icons": {
                 "military": false,
@@ -41,7 +121,76 @@
             "traits": [
                 "Maester"
             ],
-            "text": "<b>Challenges Action:</b> Kneel Storm's End Maester to choose an opponent. If you have more power on your faction card than that player, draw ? cards.",
+            "text": "<b>Challenges Action:</b> Kneel Storm's End Maester to choose an opponent. If you have more power on your faction card than that player, draw 1 card.",
+            "deckLimit": 3
+        },
+        {
+            "code": "11088",
+            "type": "attachment",
+            "name": "Glamor",
+            "unique": false,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 3,
+            "traits": [
+                "Item",
+                "R'hllor"
+            ],
+            "text": "Character you control only. Shadow (2). Terminal.\nAttached character gets +2 STR.\n<b>Action:</b> Kill attached character to choose a character in your dead pile that was killed this phase. Return the chosen character to play.",
+            "deckLimit": 3
+        },
+        {
+            "code": "11089",
+            "type": "character",
+            "name": "Painted Dogs",
+            "unique": false,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Clansman"
+            ],
+            "text": "Ambush (4).\n<b>Challenges Action:</b> Return Painted Dogs to your hand to choose and stand a <i>Clansman</i> character or Tyrion Lannister.",
+            "deckLimit": 3
+        },
+        {
+            "code": "11090",
+            "type": "event",
+            "name": "Walk of Atonement",
+            "faction": "lannister",
+            "loyal": true,
+            "cost": 2,
+            "traits": [
+                "The Seven"
+            ],
+            "text": "<b>Dominance Action:</b> Discard any amount of power from a character you control. For each power discarded, discard 1 card at random from each opponent's hand and draw 1 card.",
+            "deckLimit": 3
+        },
+        {
+            "code": "11091",
+            "type": "character",
+            "name": "Iron Victory's Crew",
+            "unique": false,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Ironborn",
+                "Raider"
+            ],
+            "text": "No attachments.\n<b>Reaction:</b> After Iron Victory's Crew enters play, search your deck for a <i>Warship</i> location, reveal it, and add it to your hand (put it into play instead if it is Iron Victory). Shuffle your deck.",
             "deckLimit": 3
         },
         {
@@ -90,6 +239,26 @@
             "deckLimit": 3
         },
         {
+            "code": "11095",
+            "type": "character",
+            "name": "Maester Myles",
+            "unique": true,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Maester"
+            ],
+            "text": "<b>Challenges Action:</b> Kneel Maester Myles to choose a character with printed cost equal to or lower than the number of plot cards in your used pile. Until the end of the phase, that character loses a challenge icon of your choice.",
+            "deckLimit": 3
+        },
+        {
             "code": "11096",
             "type": "event",
             "name": "He Calls It Thinking",
@@ -99,6 +268,69 @@
             "traits": [],
             "text": "<b>Interrupt:</b> When the effects of an opponent's non-agenda, non-plot triggered ability would initiate, cancel those effects unless that player pays 1 gold.",
             "deckLimit": 3
+        },
+        {
+            "code": "11097",
+            "type": "character",
+            "name": "Old Bill Bone",
+            "unique": true,
+            "faction": "neutral",
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Mercenary"
+            ],
+            "text": "Shadow (1).\n<b>Reaction:</b> After Old Bill Bone comes out of shadows, kneel each opponent's faction card.",
+            "deckLimit": 3
+        },
+        {
+            "code": "11098",
+            "type": "location",
+            "name": "The Inn at the Crossroads",
+            "unique": true,
+            "faction": "neutral",
+            "cost": 2,
+            "traits": [
+                "Riverlands"
+            ],
+            "text": "Shadow (1).\n<b>Dominance Action:</b> Kneel The Inn at the Crossroads to draw 3 cards and choose an opponent. Give control of The Inn at the Crossroads to that player.",
+            "deckLimit": 3
+        },
+        {
+            "code": "11099",
+            "type": "attachment",
+            "name": "A Pinch of Powder",
+            "unique": false,
+            "faction": "neutral",
+            "cost": "-",
+            "traits": [
+                "Item",
+                "Weapon"
+            ],
+            "text": "Shadow (1).\n<b>Reaction:</b> After you win an [intrigue] or [power] challenge by 5 or more STR as the attacking player, return attached character to its owner's hand.",
+            "deckLimit": 3
+        },
+        {
+            "code": "11100",
+            "type": "plot",
+            "name": "Double-Dealing",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 5,
+                "initiative": 7,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "Scheme"
+            ],
+            "text": "<b>Plot Action:</b> Choose a plot card in an opponent's used pile. Double-Dealing gains that plot card's printed text box (except for <i>Traits</i>) until you reveal a new plot card. (Limit once per round.)",
+            "deckLimit": 2
         }
     ]
 }

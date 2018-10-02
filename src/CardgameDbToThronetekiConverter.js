@@ -28,10 +28,11 @@ class CardgameDbToThronetekiConverter {
         const url = `http://www.cardgamedb.com/deckbuilders/gameofthrones2ndedition/database/GT${id}-db.jgz`;
 
         return new Promise((resolve, reject) => {
-            request.get(url, function(error, res, body) {
+            request.get(url, { gzip: true }, function(error, res, body) {
                 if(error) {
                     return reject(error);
                 }
+
                 // Get rid of the preceding 'cards = ' and trailing semi-colon
                 let jsonText = body.substr(8, body.length - 9);
                 resolve(JSON.parse(jsonText));
