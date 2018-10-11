@@ -1,7 +1,7 @@
 {
     "cgdbId": 45,
     "code": "KotI",
-    "name": "King of the Isles",
+    "name": "Kings of the Isles",
     "releaseDate": null,
     "cards": [
         {
@@ -23,6 +23,29 @@
                 "Lord"
             ],
             "text": "Pillage. Renown.\n<b>Action:</b> Kneel your faction card to choose a card in an opponent's discard pile and put it into play under your control. At the end of the phase, if that card is still in play, shuffle it into its owner's deck.",
+            "deckLimit": 3
+        },
+        {
+            "code": "12002",
+            "type": "character",
+            "name": "Euron Crow's Eye",
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": true,
+            "cost": 6,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Captain",
+                "Ironborn",
+                "Lord",
+                "Raider"
+            ],
+            "text": "Intimidate.\n<b>Reaction:</b> After you marshal Euron Crow's Eye, search your hand, deck, and discard pile for Silence and put it into play. Shuffle your deck.",
             "deckLimit": 3
         },
         {
@@ -68,6 +91,27 @@
             "deckLimit": 3
         },
         {
+            "code": "12014",
+            "type": "character",
+            "name": "Eager Deckhand",
+            "unique": false,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Ally",
+                "Raider"
+            ],
+            "text": "<b>Reaction:</b> After a <i>Warship</i> location enters play under your control, put Eager Deckhand into play from your hand.",
+            "deckLimit": 3
+        },
+        {
             "code": "12015",
             "type": "character",
             "name": "Orkmont Reaver",
@@ -89,6 +133,20 @@
             "deckLimit": 3
         },
         {
+            "code": "12016",
+            "type": "location",
+            "name": "Silence",
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": true,
+            "cost": 4,
+            "traits": [
+                "Warship"
+            ],
+            "text": "<b>Challenges Action:</b> Kneel Silence to put a <i>Warship</i> location into play from your hand. Then, if you control Euron Crow's Eye, stand him.\n+2 Initiative.",
+            "deckLimit": 3
+        },
+        {
             "code": "12017",
             "type": "location",
             "name": "Great Wyk",
@@ -101,6 +159,48 @@
                 "Iron Islands"
             ],
             "text": "<b>Reaction:</b> After a character enters play from your dead pile, each opponent chooses and discards 1 card from his or her hand. (Limit once per phase.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "12018",
+            "type": "location",
+            "name": "Golden Storm",
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "Warship"
+            ],
+            "text": "<b>Reaction:</b> After you win a [military] challenge as the attacking player, kneel Golden Storm to choose and kill a participating character. Then, if you control a participating <i>Raider</i> character, stand Golden Storm.",
+            "deckLimit": 3
+        },
+        {
+            "code": "12020",
+            "type": "location",
+            "name": "Scouting Vessel",
+            "unique": false,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 0,
+            "traits": [
+                "Warship"
+            ],
+            "text": "<b>Interrupt:</b> When a character you control discards a card using pillage, kneel and sacrifice Scouting Vessel to discard 3 cards instead.",
+            "deckLimit": 3
+        },
+        {
+            "code": "12022",
+            "type": "attachment",
+            "name": "Fleet Captain",
+            "unique": false,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Title"
+            ],
+            "text": "Attached character gains the <i>Captain</i> trait and gets +1 STR. (+3 STR instead if you control 3 or more <i>Warship</i> locations.)",
             "deckLimit": 3
         },
         {
