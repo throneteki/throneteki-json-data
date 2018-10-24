@@ -71,6 +71,27 @@
             "deckLimit": 3
         },
         {
+            "code": "12008",
+            "type": "character",
+            "name": "Andrik the Unsmiling",
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 5,
+            "traits": [
+                "Ironborn",
+                "Raider"
+            ],
+            "text": "Pillage.\n<b>Reaction</b>: After Andrik the Unsmiling discards a card using pillage, choose a non-limited location or attachment in the losing opponent's discard pile. Discard 1 copy of that card from play.",
+            "deckLimit": 3
+        },
+        {
             "code": "12012",
             "type": "character",
             "name": "Priest of Old Wyk",
@@ -217,6 +238,61 @@
             "deckLimit": 3
         },
         {
+            "code": "12024",
+            "type": "event",
+            "name": "Nighttime Raid",
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 1,
+            "traits": [],
+            "text": "<b>Action:</b> Choose up to 3 characters with pillage and/or the <i>Raider</i> trait. Until the end of the phase, each of those characters gains stealth.",
+            "deckLimit": 3
+        },
+        {
+            "code": "12025",
+            "type": "character",
+            "name": "Khorane Sathmantes",
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Captain",
+                "Raider",
+                "Smuggler"
+            ],
+            "text": "<b>Action:</b> Kneel Khorane Sathmantes and a <i>Warship</i> location to choose and kneel 1 character and 1 location.",
+            "deckLimit": 3
+        },
+        {
+            "code": "12029",
+            "type": "character",
+            "name": "Desert Raider",
+            "unique": false,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Ally",
+                "House Dayne",
+                "Raider"
+            ],
+            "text": "<b>Reaction:</b> After you lose a challenge, put Desert Raider into play from your dead pile and choose a character controlled by the winning opponent. That character gains 1 power. Until the end of the phase, that character loses an [intrigue] or [power] icon and Desert Raider gains that icon.",
+            "deckLimit": 3
+        },
+        {
             "code": "12044",
             "type": "event",
             "name": "When I Woke...",
@@ -256,6 +332,23 @@
             "deckLimit": 1
         },
         {
+            "code": "12049",
+            "type": "plot",
+            "name": "Coordinated Attack",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 3,
+                "initiative": 8,
+                "claim": 1,
+                "reserve": 4
+            },
+            "traits": [
+                "War"
+            ],
+            "text": "<b>Reaction:</b> After you win a challenge as the attacking player, choose a different challenge type. You may initiate an additional challenge of the chosen type this phase. (Limit once per phase.)",
+            "deckLimit": 2
+        },
+        {
             "code": "12050",
             "type": "plot",
             "name": "Stolen Message",
@@ -270,6 +363,23 @@
                 "Scheme"
             ],
             "text": "Each opponent plays with the top card of his or her deck revealed.\n<b>Action:</b> Pay 1 gold to place the top card of an opponent's deck on the bottom of that player's deck. (Limit 3 times per round.)",
+            "deckLimit": 1
+        },
+        {
+            "code": "12052",
+            "type": "plot",
+            "name": "Vanquish the Unbelievers",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 5,
+                "initiative": 8,
+                "claim": 2,
+                "reserve": 5
+            },
+            "traits": [
+                "Edict"
+            ],
+            "text": "<b>Forced Reaction:</b> After the challenges phase begins, choose a <i>Trait</i>. Kill each character you control that does not have that <i>Trait</i> (cannot be saved).",
             "deckLimit": 1
         }
     ]
