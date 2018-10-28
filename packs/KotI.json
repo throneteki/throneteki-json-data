@@ -89,7 +89,7 @@
             "deckLimit": 3
         },
         {
-            "code": "10017",
+            "code": "12017",
             "type": "location",
             "name": "Great Wyk",
             "unique": true,
