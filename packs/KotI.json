@@ -1,7 +1,7 @@
 {
     "cgdbId": 45,
     "code": "KotI",
-    "name": "King of the Isles",
+    "name": "Kings of the Isles",
     "releaseDate": null,
     "cards": [
         {
@@ -23,6 +23,29 @@
                 "Lord"
             ],
             "text": "Pillage. Renown.\n<b>Action:</b> Kneel your faction card to choose a card in an opponent's discard pile and put it into play under your control. At the end of the phase, if that card is still in play, shuffle it into its owner's deck.",
+            "deckLimit": 3
+        },
+        {
+            "code": "12002",
+            "type": "character",
+            "name": "Euron Crow's Eye",
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": true,
+            "cost": 6,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Captain",
+                "Ironborn",
+                "Lord",
+                "Raider"
+            ],
+            "text": "Intimidate.\n<b>Reaction:</b> After you marshal Euron Crow's Eye, search your hand, deck, and discard pile for Silence and put it into play. Shuffle your deck.",
             "deckLimit": 3
         },
         {
@@ -48,6 +71,27 @@
             "deckLimit": 3
         },
         {
+            "code": "12008",
+            "type": "character",
+            "name": "Andrik the Unsmiling",
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 5,
+            "traits": [
+                "Ironborn",
+                "Raider"
+            ],
+            "text": "Pillage.\n<b>Reaction</b>: After Andrik the Unsmiling discards a card using pillage, choose a non-limited location or attachment in the losing opponent's discard pile. Discard 1 copy of that card from play.",
+            "deckLimit": 3
+        },
+        {
             "code": "12012",
             "type": "character",
             "name": "Priest of Old Wyk",
@@ -65,6 +109,27 @@
                 "Drowned God"
             ],
             "text": "While there is a <i>Drowned God</i> character in your dead pile, Priest of Old Wyk contributes its STR to your total for dominance even while kneeling.",
+            "deckLimit": 3
+        },
+        {
+            "code": "12014",
+            "type": "character",
+            "name": "Eager Deckhand",
+            "unique": false,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Ally",
+                "Raider"
+            ],
+            "text": "<b>Reaction:</b> After a <i>Warship</i> location enters play under your control, put Eager Deckhand into play from your hand.",
             "deckLimit": 3
         },
         {
@@ -89,6 +154,20 @@
             "deckLimit": 3
         },
         {
+            "code": "12016",
+            "type": "location",
+            "name": "Silence",
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": true,
+            "cost": 4,
+            "traits": [
+                "Warship"
+            ],
+            "text": "<b>Challenges Action:</b> Kneel Silence to put a <i>Warship</i> location into play from your hand. Then, if you control Euron Crow's Eye, stand him.\n+2 Initiative.",
+            "deckLimit": 3
+        },
+        {
             "code": "12017",
             "type": "location",
             "name": "Great Wyk",
@@ -104,6 +183,48 @@
             "deckLimit": 3
         },
         {
+            "code": "12018",
+            "type": "location",
+            "name": "Golden Storm",
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "Warship"
+            ],
+            "text": "<b>Reaction:</b> After you win a [military] challenge as the attacking player, kneel Golden Storm to choose and kill a participating character. Then, if you control a participating <i>Raider</i> character, stand Golden Storm.",
+            "deckLimit": 3
+        },
+        {
+            "code": "12020",
+            "type": "location",
+            "name": "Scouting Vessel",
+            "unique": false,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 0,
+            "traits": [
+                "Warship"
+            ],
+            "text": "<b>Interrupt:</b> When a character you control discards a card using pillage, kneel and sacrifice Scouting Vessel to discard 3 cards instead.",
+            "deckLimit": 3
+        },
+        {
+            "code": "12022",
+            "type": "attachment",
+            "name": "Fleet Captain",
+            "unique": false,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Title"
+            ],
+            "text": "Attached character gains the <i>Captain</i> trait and gets +1 STR. (+3 STR instead if you control 3 or more <i>Warship</i> locations.)",
+            "deckLimit": 3
+        },
+        {
             "code": "12023",
             "type": "event",
             "name": "What Is Dead May Never Die",
@@ -114,6 +235,61 @@
                 "Drowned God"
             ],
             "text": "<b>Reaction:</b> After you win dominance, choose a [greyjoy] character in your dead pile and put it into play.",
+            "deckLimit": 3
+        },
+        {
+            "code": "12024",
+            "type": "event",
+            "name": "Nighttime Raid",
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 1,
+            "traits": [],
+            "text": "<b>Action:</b> Choose up to 3 characters with pillage and/or the <i>Raider</i> trait. Until the end of the phase, each of those characters gains stealth.",
+            "deckLimit": 3
+        },
+        {
+            "code": "12025",
+            "type": "character",
+            "name": "Khorane Sathmantes",
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Captain",
+                "Raider",
+                "Smuggler"
+            ],
+            "text": "<b>Action:</b> Kneel Khorane Sathmantes and a <i>Warship</i> location to choose and kneel 1 character and 1 location.",
+            "deckLimit": 3
+        },
+        {
+            "code": "12029",
+            "type": "character",
+            "name": "Desert Raider",
+            "unique": false,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Ally",
+                "House Dayne",
+                "Raider"
+            ],
+            "text": "<b>Reaction:</b> After you lose a challenge, put Desert Raider into play from your dead pile and choose a character controlled by the winning opponent. That character gains 1 power. Until the end of the phase, that character loses an [intrigue] or [power] icon and Desert Raider gains that icon.",
             "deckLimit": 3
         },
         {
@@ -156,6 +332,23 @@
             "deckLimit": 1
         },
         {
+            "code": "12049",
+            "type": "plot",
+            "name": "Coordinated Attack",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 3,
+                "initiative": 8,
+                "claim": 1,
+                "reserve": 4
+            },
+            "traits": [
+                "War"
+            ],
+            "text": "<b>Reaction:</b> After you win a challenge as the attacking player, choose a different challenge type. You may initiate an additional challenge of the chosen type this phase. (Limit once per phase.)",
+            "deckLimit": 2
+        },
+        {
             "code": "12050",
             "type": "plot",
             "name": "Stolen Message",
@@ -170,6 +363,23 @@
                 "Scheme"
             ],
             "text": "Each opponent plays with the top card of his or her deck revealed.\n<b>Action:</b> Pay 1 gold to place the top card of an opponent's deck on the bottom of that player's deck. (Limit 3 times per round.)",
+            "deckLimit": 1
+        },
+        {
+            "code": "12052",
+            "type": "plot",
+            "name": "Vanquish the Unbelievers",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 5,
+                "initiative": 8,
+                "claim": 2,
+                "reserve": 5
+            },
+            "traits": [
+                "Edict"
+            ],
+            "text": "<b>Forced Reaction:</b> After the challenges phase begins, choose a <i>Trait</i>. Kill each character you control that does not have that <i>Trait</i> (cannot be saved).",
             "deckLimit": 1
         }
     ]
