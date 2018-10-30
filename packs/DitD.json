@@ -5,6 +5,96 @@
     "releaseDate": null,
     "cards": [
         {
+            "code": "11101",
+            "type": "character",
+            "name": "Ser Jason Mallister",
+            "unique": true,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "House Tully",
+                "Knight",
+                "Lord"
+            ],
+            "text": "While there are no cards in shadows, Ser Jason Mallister gains renown.\n<b>Reaction:</b> After you win a challenge in which Ser Jason Mallister is attacking, choose a card in shadows controlled by the losing opponent, and discard it.",
+            "deckLimit": 3
+        },
+        {
+            "code": "11102",
+            "type": "event",
+            "name": "The Bastard's Letter",
+            "faction": "stark",
+            "loyal": true,
+            "cost": "-",
+            "traits": [
+                "House Bolton"
+            ],
+            "text": "Shadow (3).\n<b>Reaction:</b> After an opponent initiates a [military] challenge against you, stand any number of characters you control with a [military] icon. If you win the challenge, kill each attacking character.",
+            "deckLimit": 3
+        },
+        {
+            "code": "11103",
+            "type": "character",
+            "name": "Shrewd Diplomat",
+            "unique": false,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Ally",
+                "Spy"
+            ],
+            "text": "Ambush (5). Shadow (3).\n<b>Reaction:</b> After Shrewd Diplomat enters play during a challenge, choose a participating character. Stand that character and remove it from the challenge.",
+            "deckLimit": 3
+        },
+        {
+            "code": "11104",
+            "type": "location",
+            "name": "Arbor Marketplace",
+            "unique": false,
+            "faction": "tyrell",
+            "loyal": true,
+            "cost": 2,
+            "traits": [
+                "House Redwyne"
+            ],
+            "text": "<b>Challenges Action:</b> Kneel Arbor Marketplace to choose a participating character. Until the end of the challenge, that character gets +1 STR.\n+1 Income.",
+            "deckLimit": 3
+        },
+        {
+            "code": "11105",
+            "type": "character",
+            "name": "Nightfort Builder",
+            "unique": false,
+            "faction": "thenightswatch",
+            "loyal": true,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "Builder"
+            ],
+            "text": "<b>Reaction:</b> After Nightfort Builder is knelt, reveal the top card of your deck. If it is a [thenightswatch] location or attachment, draw it.",
+            "deckLimit": 3
+        },
+        {
             "code": "11106",
             "type": "event",
             "name": "Daggers in the Dark",
@@ -70,7 +160,7 @@
         {
             "code": "11110",
             "type": "attachment",
-            "name": "Underhand Methods",
+            "name": "Underhanded Methods",
             "unique": false,
             "faction": "lannister",
             "loyal": false,
@@ -103,12 +193,109 @@
             "deckLimit": 3
         },
         {
+            "code": "11112",
+            "type": "event",
+            "name": "Rhymes With Meek",
+            "faction": "greyjoy",
+            "loyal": true,
+            "cost": 1,
+            "traits": [],
+            "text": "Shadow (0).\n<b>Reaction:</b> After you win an unopposed challenge, draw 2 cards (3 cards instead if you played this event from shadows).",
+            "deckLimit": 3
+        },
+        {
+            "code": "11113",
+            "type": "character",
+            "name": "Brazen Beast",
+            "unique": false,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 4,
+            "traits": [
+                "Guard"
+            ],
+            "text": "No attachments. Shadow (3).\n<b>Marshaling Action:</b> Pay 3 gold to put Brazen Beast into shadows from your discard pile.",
+            "deckLimit": 3
+        },
+        {
+            "code": "11114",
+            "type": "event",
+            "name": "Gifts for the Widow",
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": "X",
+            "traits": [],
+            "text": "<b>Action:</b> Search your deck for an attachment with printed cost X or lower and put it into play attached to a character you control. Shuffle your deck.",
+            "deckLimit": 3
+        },
+        {
+            "code": "11115",
+            "type": "character",
+            "name": "Starfall Spy",
+            "unique": false,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "House Dayne",
+                "Spy"
+            ],
+            "text": "Shadow (3).\n<b>Reaction:</b> After you win a challenge in which Starfall Spy is participating, return it to shadows to choose another card you control in shadows and put it into play.",
+            "deckLimit": 3
+        },
+        {
+            "code": "11116",
+            "type": "attachment",
+            "name": "Blood of the Viper",
+            "unique": false,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Legacy"
+            ],
+            "text": "<i>Sand Snake</i> character only. Ambush (2).\n<b>Reaction:</b> After you lose a challenge in which attached character is participating, stand it.",
+            "deckLimit": 3
+        },
+        {
+            "code": "11117",
+            "type": "event",
+            "name": "\"On a Misty Morn\"",
+            "faction": "neutral",
+            "cost": 1,
+            "traits": [
+                "Song"
+            ],
+            "text": "<b>Action:</b> Choose up to 2 non-unique characters in your dead pile and return them to your hand.",
+            "deckLimit": 3
+        },
+        {
+            "code": "11118",
+            "type": "agenda",
+            "name": "Assault from the Shadows",
+            "faction": "neutral",
+            "traits": [],
+            "text": "Reduce the gold value on your revealed plot card by 1.\n<b>Marshaling Action:</b> Kneel your faction card to choose 1 card in your hand and place it facedown in shadows with a shadow token on it. While that card is in shadows, if it does not have the printed shadow keyword, it gains shadow (X). X is its printed cost.",
+            "deckLimit": 1
+        },
+        {
             "code": "11119",
             "type": "character",
             "name": "Varys",
             "unique": true,
             "faction": "neutral",
-            "loyal": false,
             "cost": 4,
             "icons": {
                 "military": false,
@@ -122,6 +309,23 @@
             ],
             "text": "Shadow (8). Stealth.\nReduce the cost to bring Varys out of shadows by 1 for each other card in shadows.\n<b>Reaction:</b> After Varys comes out of shadows, choose and kill a character with power.",
             "deckLimit": 3
+        },
+        {
+            "code": "11120",
+            "type": "plot",
+            "name": "Ravages of War",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 4,
+                "initiative": 6,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "War"
+            ],
+            "text": "<b>When Revealed:</b> Each player sacrifices a character or location, chooses and discards 1 card from his or her hand, and chooses and discards 1 card from his or her shadows area, if able.",
+            "deckLimit": 2
         }
     ]
 }
