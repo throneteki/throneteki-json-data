@@ -36,7 +36,7 @@
             "traits": [
                 "King's Landing"
             ],
-            "text": "Limited.\n<b>Challenges Action:</b> If each character you control has the [stark] affiliation, sacrifice Old Gate to draw 2 cards.",
+            "text": "Limited.\n<b>Challenges Action:</b> If each character you control has the [stark] affiliation, sacrifice Old Gate to draw 2 cards.\n+1 Income.",
             "deckLimit": 3
         },
         {
@@ -72,7 +72,7 @@
                 "King's Landing",
                 "The Seven"
             ],
-            "text": "Limited.\n<b>Challenges Action:</b> If you control a character with the highest STR in play, sacrifice Gate of the Gods to draw 2 cards.",
+            "text": "Limited.\n<b>Challenges Action:</b> If you control a character with the highest STR in play, sacrifice Gate of the Gods to draw 2 cards.\n+1 Income.",
             "deckLimit": 3
         },
         {
@@ -86,7 +86,7 @@
             "traits": [
                 "King's Landing"
             ],
-            "text": "Limited.\n<b>Challenges Action:</b> If you have 5 or more power on your faction card, sacrifice King's Gate to draw 2 cards.",
+            "text": "Limited.\n<b>Challenges Action:</b> If you have 5 or more power on your faction card, sacrifice King's Gate to draw 2 cards.\n+1 Income.",
             "deckLimit": 3
         },
         {
