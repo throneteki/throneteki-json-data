@@ -1,0 +1,152 @@
+{
+    "cgdbId": 46,
+    "code": "AtG",
+    "name": "At the Gates",
+    "releaseDate": null,
+    "cards": [
+        {
+            "code": "13001",
+            "type": "character",
+            "name": "Alysane Mormont",
+            "unique": true,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "House Mormont",
+                "Lady"
+            ],
+            "text": "No attachments except <i>Weapon</i>.\nWhile each character you control has the [stark] affiliation, Alysane Mormont gains stealth during [military] challenges and does not kneel when declared as an attacker in a [military] challenge.",
+            "deckLimit": 3
+        },
+        {
+            "code": "13002",
+            "type": "location",
+            "name": "Old Gate",
+            "unique": false,
+            "faction": "stark",
+            "loyal": true,
+            "cost": 1,
+            "traits": [
+                "King's Landing"
+            ],
+            "text": "Limited.\n<b>Challenges Action:</b> If each character you control has the [stark] affiliation, sacrifice Old Gate to draw 2 cards.\n+1 Income.",
+            "deckLimit": 3
+        },
+        {
+            "code": "13003",
+            "type": "character",
+            "name": "The Knight of Flowers",
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 6,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "Kingsguard",
+                "Knight"
+            ],
+            "text": "Shadow (5). Renown.\n<b>Reaction:</b> After a card you control comes out of shadows, choose and stand a <i>Kingsguard</i> character. (Limit twice per round.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "13004",
+            "type": "location",
+            "name": "Gate of the Gods",
+            "unique": false,
+            "faction": "tyrell",
+            "loyal": true,
+            "cost": 1,
+            "traits": [
+                "King's Landing",
+                "The Seven"
+            ],
+            "text": "Limited.\n<b>Challenges Action:</b> If you control a character with the highest STR in play, sacrifice Gate of the Gods to draw 2 cards.\n+1 Income.",
+            "deckLimit": 3
+        },
+        {
+            "code": "13008",
+            "type": "location",
+            "name": "King's Gate",
+            "unique": false,
+            "faction": "baratheon",
+            "loyal": true,
+            "cost": 1,
+            "traits": [
+                "King's Landing"
+            ],
+            "text": "Limited.\n<b>Challenges Action:</b> If you have 5 or more power on your faction card, sacrifice King's Gate to draw 2 cards.\n+1 Income.",
+            "deckLimit": 3
+        },
+        {
+            "code": "13013",
+            "type": "character",
+            "name": "Viserion",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Dragon"
+            ],
+            "text": "Ambush (5). No attachments.\n<b>Reaction:</b> After you win a challenge in which Viserion is attacking, discard 1 card from your hand to have Viserion gain intimidate until the end of the challenge.",
+            "deckLimit": 3
+        },
+        {
+            "code": "13017",
+            "type": "character",
+            "name": "Littlefinger",
+            "unique": true,
+            "faction": "neutral",
+            "cost": 6,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Ally",
+                "Lord",
+                "Small Council"
+            ],
+            "text": "Shadow (6). Stealth.\n<b>Reaction:</b> After a character you control comes out of shadows, place up to 3 cards from your hand on the bottom of your deck in any order. Then, draw that many cards. (Limit once per round.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "13020",
+            "type": "plot",
+            "name": "At the Gates",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 4,
+                "initiative": 0,
+                "claim": 1,
+                "reserve": 7
+            },
+            "traits": [
+                "City",
+                "Kingdom"
+            ],
+            "text": "<b>When Revealed:</b> Search your deck for a limited location with printed cost 1 or lower, reveal it, and add it to your hand (put it into play instead if there are no <i>City</i> plot cards in your used pile). Shuffle your deck.",
+            "deckLimit": 2
+        }
+    ]
+}
