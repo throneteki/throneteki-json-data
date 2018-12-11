@@ -71,6 +71,91 @@
             "deckLimit": 3
         },
         {
+            "code": "12004",
+            "type": "character",
+            "name": "The Knight",
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "House Harlaw",
+                "Knight"
+            ],
+            "text": "No attachments except <i>Weapon</i>.\nWhile The Knight is attacking alone, he gains stealth and renown.",
+            "deckLimit": 3
+        },
+        {
+            "code": "12005",
+            "type": "character",
+            "name": "Aeron Damphair",
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": true,
+            "cost": 5,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Drowned God",
+                "Ironborn",
+                "Lord"
+            ],
+            "text": "Insight.\n<b>Reaction:</b> After another <i>Drowned God</i> character you control is killed, draw a card. (Limit once per phase.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "12006",
+            "type": "character",
+            "name": "The Drumm",
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Captain",
+                "Lord"
+            ],
+            "text": "While The Drumm is attacking in a [military] or [power] challenge, each character with an [intrigue] icon cannot be declared as a defender.",
+            "deckLimit": 3
+        },
+        {
+            "code": "12007",
+            "type": "character",
+            "name": "Gwynesse Harlaw",
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": true,
+            "cost": 4,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "House Harlaw",
+                "Lady"
+            ],
+            "text": "<b>Action:</b> Choose 3 cards in an opponent's discard pile and place them on the bottom of his or her deck in any order. Then, gain 1 gold and draw 1 card. (Limit once per round.)",
+            "deckLimit": 3
+        },
+        {
             "code": "12008",
             "type": "character",
             "name": "Andrik the Unsmiling",
@@ -92,6 +177,67 @@
             "deckLimit": 3
         },
         {
+            "code": "12009",
+            "type": "character",
+            "name": "Qarl the Maid",
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Ironborn"
+            ],
+            "text": "<b>Reaction:</b> After you win a challenge in which Qarl the Maid is participating, either: stand a <i>Warship</i> location, or stand Asha Greyjoy.",
+            "deckLimit": 3
+        },
+        {
+            "code": "12010",
+            "type": "character",
+            "name": "Maester Murenmure",
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "Maester"
+            ],
+            "text": "<b>Interrupt:</b> When the effects of a triggered location ability would initiate, kneel Maester Murenmure to cancel those effects.",
+            "deckLimit": 3
+        },
+        {
+            "code": "12011",
+            "type": "character",
+            "name": "Old Grey Gull",
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": true,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "Drowned God",
+                "Ironborn"
+            ],
+            "text": "<b>Action:</b> Kneel Old Grey Gull to kill another [greyjoy] character you control. Then, you may return that character from your dead pile to your hand.",
+            "deckLimit": 3
+        },
+        {
             "code": "12012",
             "type": "character",
             "name": "Priest of Old Wyk",
@@ -109,6 +255,26 @@
                 "Drowned God"
             ],
             "text": "While there is a <i>Drowned God</i> character in your dead pile, Priest of Old Wyk contributes its STR to your total for dominance even while kneeling.",
+            "deckLimit": 3
+        },
+        {
+            "code": "12013",
+            "type": "character",
+            "name": "Drowned Prophet",
+            "unique": false,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "Drowned God"
+            ],
+            "text": "<b>Interrupt:</b> When Drowned Prophet is killed, search the top 5 cards of your deck for a [greyjoy] character and place it in your dead pile. Shuffle your deck.",
             "deckLimit": 3
         },
         {
@@ -197,6 +363,20 @@
             "deckLimit": 3
         },
         {
+            "code": "12019",
+            "type": "location",
+            "name": "Maiden's Bane",
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "Warship"
+            ],
+            "text": "<b>Reaction:</b> After you win an unopposed challenge, kneel Maiden's Bane to choose and stand an attacking character. Then, if that character is a <i>Captain</i>, stand Maiden's Bane.",
+            "deckLimit": 3
+        },
+        {
             "code": "12020",
             "type": "location",
             "name": "Scouting Vessel",
@@ -208,6 +388,21 @@
                 "Warship"
             ],
             "text": "<b>Interrupt:</b> When a character you control discards a card using pillage, kneel and sacrifice Scouting Vessel to discard 3 cards instead.",
+            "deckLimit": 3
+        },
+        {
+            "code": "12021",
+            "type": "attachment",
+            "name": "Red Rain",
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "Valyrian Steel",
+                "Weapon"
+            ],
+            "text": "Unique [greyjoy] character only.\nIf attached character is The Drumm, he gains stealth.\n<b>Reaction:</b> After you win an unopposed challenge in which attached character is attacking, it gains 2 power. (Limit once per phase.)",
             "deckLimit": 3
         },
         {
@@ -271,6 +466,51 @@
             "deckLimit": 3
         },
         {
+            "code": "12026",
+            "type": "location",
+            "name": "Fury",
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "Warship"
+            ],
+            "text": "While you control Stannis Baratheon, he gains intimidate.\n<b>Reaction:</b> After you win a [power] challenge, kneel Fury to choose a character or location. Move 1 power from that card to your faction card.",
+            "deckLimit": 3
+        },
+        {
+            "code": "12027",
+            "type": "character",
+            "name": "Gunthor Son of Gurn",
+            "unique": true,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Clansman"
+            ],
+            "text": "Ambush (4).\n<b>Reaction:</b> After you win a challenge in which Gunthor Son of Gurn is attacking, the losing opponent must choose and discard 1 card from his or her hand.",
+            "deckLimit": 3
+        },
+        {
+            "code": "12028",
+            "type": "event",
+            "name": "My Mind is My Weapon",
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 1,
+            "traits": [],
+            "text": "<b>Action:</b> During a [military] challenge, choose a character you control with an [intrigue] icon and have it participate in the challenge on your side.",
+            "deckLimit": 3
+        },
+        {
             "code": "12029",
             "type": "character",
             "name": "Desert Raider",
@@ -290,6 +530,244 @@
                 "Raider"
             ],
             "text": "<b>Reaction:</b> After you lose a challenge, put Desert Raider into play from your dead pile and choose a character controlled by the winning opponent. That character gains 1 power. Until the end of the phase, that character loses an [intrigue] or [power] icon and Desert Raider gains that icon.",
+            "deckLimit": 3
+        },
+        {
+            "code": "12030",
+            "type": "attachment",
+            "name": "The Bloodroyal",
+            "unique": true,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "House Yronwood",
+                "Title"
+            ],
+            "text": "[martell] character only.\nWhile you are not the first player, attached character gains stealth and renown.",
+            "deckLimit": 3
+        },
+        {
+            "code": "12031",
+            "type": "character",
+            "name": "Vindictive Ranger",
+            "unique": false,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Ranger"
+            ],
+            "text": "<b>Reaction:</b> After you lose a challenge as the defending player, Vindictive Ranger gains stealth and a challenge icon of your choice until the end of the phase.",
+            "deckLimit": 3
+        },
+        {
+            "code": "12032",
+            "type": "location",
+            "name": "Westwatch-by-the-Bridge",
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "The North"
+            ],
+            "text": "<b>Action:</b> Kneel Westwatch-by-the-Bridge to choose and stand another [thenightswatch] location with printed cost 1 or lower. (Printed cost 4 or lower instead if you control a <i>Ranger</i> character, a <i>Steward</i> character, and a <i>Builder</i> character.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "12033",
+            "type": "character",
+            "name": "Maester Vyman",
+            "unique": true,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "House Tully",
+                "Maester"
+            ],
+            "text": "<b>Reaction:</b> After you win a [military] or [power] challenge, kneel Maester Vyman to choose another character that shares a <i>Trait</i> with him. That character gains 1 power.",
+            "deckLimit": 3
+        },
+        {
+            "code": "12034",
+            "type": "location",
+            "name": "Karhold",
+            "unique": true,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "The North"
+            ],
+            "text": "While a player does not have a <i>Winter</i> plot card revealed, characters and locations he or she controls cannot gain power.",
+            "deckLimit": 3
+        },
+        {
+            "code": "12035",
+            "type": "character",
+            "name": "Cohollo",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 5,
+            "traits": [
+                "Bloodrider",
+                "Dothraki"
+            ],
+            "text": "Intimidate.\n<b>Action:</b> Kneel Cohollo and discard 1 card from your hand to have him participate in a challenge on your side.",
+            "deckLimit": 3
+        },
+        {
+            "code": "12036",
+            "type": "event",
+            "name": "\"Dance of the Dragons\"",
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Song"
+            ],
+            "text": "<b>Action:</b> Choose a non-event card with printed cost 3 or lower in your discard pile and return it to your hand.",
+            "deckLimit": 3
+        },
+        {
+            "code": "12037",
+            "type": "character",
+            "name": "Ser Talbert Serry",
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Knight"
+            ],
+            "text": "No attachments except <i>Weapon</i>.\n<b>Reaction:</b> After an opponent triggers a location ability, Ser Talbert Serry gets +2 STR until the end of the phase. (Limit 3 times per phase.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "12038",
+            "type": "location",
+            "name": "The Shield Islands",
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "The Reach"
+            ],
+            "text": "Increase the number of cards each player draws in the draw phase by 1.",
+            "deckLimit": 3
+        },
+        {
+            "code": "12039",
+            "type": "character",
+            "name": "Bronze Yohn Royce",
+            "unique": true,
+            "faction": "neutral",
+            "cost": 6,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "House Arryn",
+                "Lord"
+            ],
+            "text": "Renown.\n<b>Reaction:</b> After you win a challenge in which Bronze Yohn Royce is defending, kneel a neutral location with printed cost 1 or higher to stand him. (Limit twice per phase.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "12040",
+            "type": "character",
+            "name": "Rogue Wildling",
+            "unique": false,
+            "faction": "neutral",
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Raider",
+                "Wildling"
+            ],
+            "text": "Ambush (5).\n<b>Reaction:</b> After Rogue Wildling enters play, choose and stand a <i>Wildling</i> character you control.",
+            "deckLimit": 3
+        },
+        {
+            "code": "12041",
+            "type": "character",
+            "name": "Citadel Archivist",
+            "unique": false,
+            "faction": "neutral",
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 1,
+            "traits": [
+                "Maester"
+            ],
+            "text": "<b>Reaction:</b> After Citadel Archivist enters your discard pile, each player shuffles his or her discard pile into his or her deck.",
+            "deckLimit": 3
+        },
+        {
+            "code": "12042",
+            "type": "location",
+            "name": "The Starry Sept",
+            "unique": true,
+            "faction": "neutral",
+            "cost": 3,
+            "traits": [
+                "Oldtown",
+                "The Seven"
+            ],
+            "text": "<b>Action:</b> Move 1 power from The Starry Sept to a character. Until the end of the phase, treat that character as if its printed text box were blank (except for <i>Traits</i>).\n<b>Reaction:</b> After you win a [power] challenge, The Starry Sept gains 1 power.",
+            "deckLimit": 3
+        },
+        {
+            "code": "12043",
+            "type": "attachment",
+            "name": "Reckless",
+            "unique": false,
+            "faction": "neutral",
+            "cost": 0,
+            "traits": [
+                "Condition"
+            ],
+            "text": "Terminal.\nAttached character must be declared as an attacker or defender in each challenge, if able.",
             "deckLimit": 3
         },
         {
@@ -332,6 +810,40 @@
             "deckLimit": 1
         },
         {
+            "code": "12047",
+            "type": "plot",
+            "name": "Return to the Fields",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 4,
+                "initiative": 6,
+                "claim": 1,
+                "reserve": 7
+            },
+            "traits": [
+                "Edict"
+            ],
+            "text": "<b>When Revealed:</b> You may sacrifice up to 3 characters. For each character sacrificed this way, draw 1 card and gain 1 gold.",
+            "deckLimit": 2
+        },
+        {
+            "code": "12048",
+            "type": "plot",
+            "name": "Heir to the Iron Throne",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 4,
+                "initiative": 1,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "Kingdom"
+            ],
+            "text": "<b>When Revealed:</b> Search the top 10 cards of your deck for a <i>Lord</i> or <i>Lady</i> character and put it into play. Shuffle your deck. Then, sacrifice a <i>Lord</i> or <i>Lady</i> character.",
+            "deckLimit": 2
+        },
+        {
             "code": "12049",
             "type": "plot",
             "name": "Coordinated Attack",
@@ -363,7 +875,25 @@
                 "Scheme"
             ],
             "text": "Each opponent plays with the top card of his or her deck revealed.\n<b>Action:</b> Pay 1 gold to place the top card of an opponent's deck on the bottom of that player's deck. (Limit 3 times per round.)",
-            "deckLimit": 1
+            "deckLimit": 2
+        },
+        {
+            "code": "12051",
+            "type": "plot",
+            "name": "Secrets of the Conclave",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 4,
+                "initiative": 4,
+                "claim": 1,
+                "reserve": 7
+            },
+            "traits": [
+                "Conclave",
+                "Kingdom"
+            ],
+            "text": "<b>Reaction:</b> After the challenges phase begins, look at the top 5 cards of your deck. Add 1 to your hand, discard 1, and put the others back on top of your deck in any order.",
+            "deckLimit": 2
         },
         {
             "code": "12052",
