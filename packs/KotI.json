@@ -2,7 +2,7 @@
     "cgdbId": 45,
     "code": "KotI",
     "name": "Kings of the Isles",
-    "releaseDate": null,
+    "releaseDate": "2018-12-27",
     "cards": [
         {
             "code": "12001",
@@ -110,7 +110,7 @@
                 "Ironborn",
                 "Lord"
             ],
-            "text": "Insight.\n<b>Reaction:</b> After another <i>Drowned God</i> character you control is killed, draw a card. (Limit once per phase.)",
+            "text": "Insight.\n<b>Reaction:</b> After another <i>Drowned God</i> character you control is killed, draw 1 card. (Limit once per phase.)",
             "deckLimit": 3
         },
         {
@@ -173,7 +173,7 @@
                 "Ironborn",
                 "Raider"
             ],
-            "text": "Pillage.\n<b>Reaction</b>: After Andrik the Unsmiling discards a card using pillage, choose a non-limited location or attachment in the losing opponent's discard pile. Discard 1 copy of that card from play.",
+            "text": "Pillage.\n<b>Reaction:</b> After Andrik the Unsmiling discards a card using pillage, choose a non-limited location or attachment in the losing opponent's discard pile. Discard 1 copy of that card from play.",
             "deckLimit": 3
         },
         {
@@ -502,7 +502,7 @@
         {
             "code": "12028",
             "type": "event",
-            "name": "My Mind is My Weapon",
+            "name": "My Mind Is My Weapon",
             "faction": "lannister",
             "loyal": false,
             "cost": 1,
