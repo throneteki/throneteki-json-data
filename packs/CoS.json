@@ -44,7 +44,7 @@
             "loyal": true,
             "cost": "-",
             "traits": [],
-            "text": "Shadow (0).\n<b>Choose and stand a character with 1 or fewer challenge icons. If there is a <i>Winter</i> plot card revealed, return Shadow of the Wall to your hand instead of placing it in your discard pile.",
+            "text": "Shadow (0).\n<b>Action:</b> Choose and stand a character with 1 or fewer challenge icons. If there is a <i>Winter</i> plot card revealed, return Shadow of the Wall to your hand instead of placing it in your discard pile.",
             "deckLimit": 3
         },
         {
@@ -97,7 +97,7 @@
             "loyal": true,
             "cost": "-",
             "traits": [],
-            "text": "Shadow (0).\n<b>Choose an attachment and discard it from play. If there is a <i>Summer</i> plot card revealed, return Shadow of the East to your hand instead of placing it in your discard pile.",
+            "text": "Shadow (0).\n<b>Action:</b> Choose an attachment and discard it from play. If there is a <i>Summer</i> plot card revealed, return Shadow of the East to your hand instead of placing it in your discard pile.",
             "deckLimit": 3
         },
         {
@@ -108,7 +108,7 @@
             "loyal": true,
             "cost": "-",
             "traits": [],
-            "text": "Shadow (1).\n<b>Choose a character. Until the end of the phase, that character loses a challenge icon of your choice. If there is a <i>Scheme</i> plot card revealed, return Shadow of the South to your hand instead of placing it in your discard pile.",
+            "text": "Shadow (1).\n<b>Action:</b> Choose a character. Until the end of the phase, that character loses a challenge icon of your choice. If there is a <i>Scheme</i> plot card revealed, return Shadow of the South to your hand instead of placing it in your discard pile.",
             "deckLimit": 3
         },
         {
