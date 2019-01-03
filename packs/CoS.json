@@ -1,0 +1,125 @@
+{
+    "cgdbId": 47,
+    "code": "CoS",
+    "name": "City of Secrets",
+    "releaseDate": null,
+    "cards": [
+        {
+            "code": "13021",
+            "type": "character",
+            "name": "Smalljon Umber",
+            "unique": true,
+            "faction": "stark",
+            "loyal": true,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 6,
+            "traits": [
+                "House Umber",
+                "Lord"
+            ],
+            "text": "Renown.\nSmalljon Umber gets -1 STR for each plot card in your used pile.",
+            "deckLimit": 3
+        },
+        {
+            "code": "13022",
+            "type": "event",
+            "name": "No Surprises",
+            "faction": "stark",
+            "loyal": true,
+            "cost": 1,
+            "traits": [],
+            "text": "<b>Action:</b> Reveal your hand (of at least 1 card). Then, until the end of the phase, each opponent cannot play events or bring cards out of shadows.",
+            "deckLimit": 3
+        },
+        {
+            "code": "13026",
+            "type": "event",
+            "name": "Shadow of the Wall",
+            "faction": "thenightswatch",
+            "loyal": true,
+            "cost": "-",
+            "traits": [],
+            "text": "Shadow (0).\n<b>Choose and stand a character with 1 or fewer challenge icons. If there is a <i>Winter</i> plot card revealed, return Shadow of the Wall to your hand instead of placing it in your discard pile.",
+            "deckLimit": 3
+        },
+        {
+            "code": "13027",
+            "type": "character",
+            "name": "Red Keep Gaoler",
+            "unique": false,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Ally",
+                "Guard"
+            ],
+            "text": "Shadow (4).\n<b>Action:</b> Move 2 power from your faction card to a [baratheon] character to put Red Keep Gaoler into play from shadows.",
+            "deckLimit": 3
+        },
+        {
+            "code": "13029",
+            "type": "character",
+            "name": "The Regent's Guard",
+            "unique": false,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 4,
+            "traits": [
+                "Ally",
+                "Guard"
+            ],
+            "text": "Shadow (4).\n<b>Action:</b> Return a [lannister] non-<i>Ally</i> character with printed cost 4 or higher to your hand to put The Regent's Guard into play from shadows.",
+            "deckLimit": 3
+        },
+        {
+            "code": "13034",
+            "type": "event",
+            "name": "Shadow of the East",
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": "-",
+            "traits": [],
+            "text": "Shadow (0).\n<b>Choose an attachment and discard it from play. If there is a <i>Summer</i> plot card revealed, return Shadow of the East to your hand instead of placing it in your discard pile.",
+            "deckLimit": 3
+        },
+        {
+            "code": "13036",
+            "type": "event",
+            "name": "Shadow of the South",
+            "faction": "martell",
+            "loyal": true,
+            "cost": "-",
+            "traits": [],
+            "text": "Shadow (1).\n<b>Choose a character. Until the end of the phase, that character loses a challenge icon of your choice. If there is a <i>Scheme</i> plot card revealed, return Shadow of the South to your hand instead of placing it in your discard pile.",
+            "deckLimit": 3
+        },
+        {
+            "code": "13038",
+            "type": "event",
+            "name": "Shadow Politics",
+            "faction": "neutral",
+            "cost": "-",
+            "traits": [],
+            "text": "Shadow (1).\n<b>Action:</b> Choose one:\n- Choose and discard 1 card from shadows.\n- Choose up to 5 cards in a single discard pile and remove them from the game.\n- Look at an opponent's hand.",
+            "deckLimit": 3
+        }
+    ]
+}
