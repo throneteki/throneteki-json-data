@@ -190,7 +190,7 @@
             "traits": [
                 "Ironborn"
             ],
-            "text": "Stealth.\nIf you control Asha Greyjoy, sacrifice Esgred and have your Asha Greyjoy gain 1 power.\nEsgred may bypass an additional character using stealth.",
+            "text": "Stealth.\nIf you control Asha Greyjoy, sacrifice Esgred. Then, your Asha Greyjoy gains 1 power.\nEsgred may bypass an additional character using stealth.",
             "deckLimit": 3
         },
         {
