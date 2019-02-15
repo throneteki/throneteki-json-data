@@ -1,0 +1,208 @@
+{
+    "cgdbId": 52,
+    "code": "FotS",
+    "name": "Fury of the Storm",
+    "releaseDate": null,
+    "cards": [
+        {
+            "code": "14001",
+            "type": "character",
+            "name": "Robert Baratheon",
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": true,
+            "cost": 7,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "Lord",
+                "King"
+            ],
+            "text": "Renown.\n<b>Reaction:</b> After the standing phase begins (choose one):\n- other characters with printed cost 5 or higher cannot stand this phase.\n- characters with printed cost 4 or lower cannot stand this phase.\n- locations cannot stand this phase.",
+            "deckLimit": 3
+        },
+        {
+            "code": "14002",
+            "type": "character",
+            "name": "Stannis Baratheon",
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": true,
+            "cost": 7,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 7,
+            "traits": [
+                "Lord",
+                "King",
+                "R'hllor"
+            ],
+            "text": "Immune to opponents' events.\n<b>Reaction:</b> After you win a [power] challenge, draw X cards. X is the claim value on the attacking player's revealed plot card.",
+            "deckLimit": 3
+        },
+        {
+            "code": "14003",
+            "type": "character",
+            "name": "Melisandre",
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 6,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "Lady",
+                "R'hllor"
+            ],
+            "text": "Stealth.\n<b>Reaction:</b> After you win an [intrigue] challenge in which Melisandre is attacking, move 1 power from a character controlled by the losing opponent to Melisandre. Then, if that character has no power, kill it.",
+            "deckLimit": 3
+        },
+        {
+            "code": "14004",
+            "type": "character",
+            "name": "Renly Baratheon",
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 6,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Lord",
+                "King"
+            ],
+            "text": "Renown.\n<b>Action:</b> Kneel your faction card to put a non-[baratheon] character with printed cost X or lower into play from your hand. X is Renly Baratheon's STR.",
+            "deckLimit": 3
+        },
+        {
+            "code": "14012",
+            "type": "character",
+            "name": "Red Priest",
+            "unique": false,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "R'hllor"
+            ],
+            "text": "<b>Reaction:</b> After Red Priest enters play, look at an opponent's hand. Then, choose 1 card in that hand and remove it from the game until Red Priest leaves play.",
+            "deckLimit": 3
+        },
+        {
+            "code": "14014",
+            "type": "character",
+            "name": "Acolyte of the Flame",
+            "unique": false,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "Ally",
+                "R'hllor"
+            ],
+            "text": "<b>Reaction:</b> After the draw phase begins, kneel Acolyte of the Flame to look at the top 2 cards of an opponent's deck. You may put those cards on the bottom of that player's deck.",
+            "deckLimit": 3
+        },
+        {
+            "code": "14028",
+            "type": "location",
+            "name": "Lionstar",
+            "unique": true,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "Warship"
+            ],
+            "text": "<b>Action:</b> Kneel Lionstar to put a [lannister] character with printed cost 4 or lower into play from your hand. At the end of the phase, if that card is still in play, discard it from play.",
+            "deckLimit": 3
+        },
+        {
+            "code": "14043",
+            "type": "attachment",
+            "name": "Lady Forlorn",
+            "unique": true,
+            "faction": "neutral",
+            "cost": 2,
+            "traits": [
+                "Valyrian Steel",
+                "Weapon"
+            ],
+            "text": "Attached character gets +1 STR for each neutral location you control.\nIf attached character is Lyn Corbray, he gains a [power] icon.",
+            "deckLimit": 3
+        },
+        {
+            "code": "14044",
+            "type": "event",
+            "name": "Defiance",
+            "faction": "neutral",
+            "cost": 0,
+            "traits": [],
+            "text": "<b>Challenges Action:</b> Choose and stand a character that has not participated in a challenge this phase. (Max 1 per phase.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "14046",
+            "type": "plot",
+            "name": "Parley at Storm's End",
+            "faction": "baratheon",
+            "loyal": true,
+            "plotStats": {
+                "income": 4,
+                "initiative": 4,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "Siege",
+                "War"
+            ],
+            "text": "<b>When Revealed:</b> Name a challenge type. Until you reveal a new plot card, challenges of that type cannot be initiated.",
+            "deckLimit": 1
+        },
+        {
+            "code": "14047",
+            "type": "plot",
+            "name": "Outwit",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 3,
+                "initiative": 0,
+                "claim": 1,
+                "reserve": 5
+            },
+            "traits": [
+                "Scheme"
+            ],
+            "text": "<b>Interrupt:</b> When the effects of a when revealed ability would initiate, kneel your faction card and a unique <i>Maester</i> character to cancel those effects.",
+            "deckLimit": 1
+        }
+    ]
+}
