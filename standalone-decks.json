@@ -1704,5 +1704,158 @@
                 "count": 2
             }
         ]
+    },
+    {
+        "id": "uCHP10",
+        "name": "2018 World Championship Deck",
+        "releaseDate": "2019-04-04",
+        "faction": "martell",
+        "agenda": "01203",
+        "cards": [
+            {
+                "code": "01015",
+                "count": 2
+            },
+            {
+                "code": "01028",
+                "count": 1
+            },
+            {
+                "code": "01040",
+                "count": 3
+            },
+            {
+                "code": "01103",
+                "count": 3
+            },
+            {
+                "code": "01104",
+                "count": 1
+            },
+            {
+                "code": "01112",
+                "count": 3
+            },
+            {
+                "code": "01116",
+                "count": 1
+            },
+            {
+                "code": "01142",
+                "count": 3
+            },
+            {
+                "code": "02015",
+                "count": 2
+            },
+            {
+                "code": "02035",
+                "count": 1
+            },
+            {
+                "code": "02099",
+                "count": 2
+            },
+            {
+                "code": "02102",
+                "count": 3
+            },
+            {
+                "code": "03021",
+                "count": 2
+            },
+            {
+                "code": "04036",
+                "count": 1
+            },
+            {
+                "code": "04078",
+                "count": 1
+            },
+            {
+                "code": "04080",
+                "count": 1
+            },
+            {
+                "code": "06056",
+                "count": 3
+            },
+            {
+                "code": "06076",
+                "count": 2
+            },
+            {
+                "code": "06097",
+                "count": 1
+            },
+            {
+                "code": "06098",
+                "count": 3
+            },
+            {
+                "code": "06099",
+                "count": 2
+            },
+            {
+                "code": "06115",
+                "count": 3
+            },
+            {
+                "code": "07031",
+                "count": 1
+            },
+            {
+                "code": "08017",
+                "count": 2
+            },
+            {
+                "code": "08020",
+                "count": 1
+            },
+            {
+                "code": "08038",
+                "count": 1
+            },
+            {
+                "code": "08041",
+                "count": 2
+            },
+            {
+                "code": "08081",
+                "count": 2
+            },
+            {
+                "code": "08120",
+                "count": 1
+            },
+            {
+                "code": "09051",
+                "count": 1
+            },
+            {
+                "code": "10016",
+                "count": 3
+            },
+            {
+                "code": "10017",
+                "count": 2
+            },
+            {
+                "code": "10018",
+                "count": 1
+            },
+            {
+                "code": "11002",
+                "count": 2
+            },
+            {
+                "code": "11020",
+                "count": 1
+            },
+            {
+                "code": "11056",
+                "count": 3
+            }
+        ]
     }
 ]
