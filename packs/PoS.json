@@ -1,0 +1,142 @@
+{
+    "cgdbId": 48,
+    "code": "PoS",
+    "name": "Pit of Snakes",
+    "releaseDate": null,
+    "cards": [
+        {
+            "code": "13041",
+            "type": "character",
+            "name": "Eddard Stark",
+            "unique": true,
+            "faction": "stark",
+            "loyal": true,
+            "cost": 7,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 6,
+            "traits": [
+                "Lord",
+                "Small Council"
+            ],
+            "text": "Renown.\n<b>Dominance Action:</b> If each character you control has the [stark] affiliation, kneel Eddard Stark to choose and kill a character with a printed cost 4 or lower. (Limit once per phase.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "13042",
+            "type": "attachment",
+            "name": "Malleon's Tome",
+            "unique": true,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "Citadel",
+                "Item"
+            ],
+            "text": "Shadow (1).\nAttached character gains an [intrigue] icon.\n<b>Reaction:</b> After you win a challenge in which attached character is attacking, look at the losing opponent's hand. If attached character is Eddard Stark or has the <i>Maester</i> trait, stand it. (Limit once per phase.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "13043",
+            "type": "character",
+            "name": "Maester Gormon",
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "Maester"
+            ],
+            "text": "You may look at the top card of your deck.\nOnce per phase, if the top card of your deck is a non-[tyrell] card, you may marshal or play it as if it were in your hand.",
+            "deckLimit": 3
+        },
+        {
+            "code": "13050",
+            "type": "event",
+            "name": "\"Hands of Gold\"",
+            "faction": "lannister",
+            "loyal": true,
+            "cost": 2,
+            "traits": [
+                "Song"
+            ],
+            "text": "<b>Reaction:</b> After you win an [intrigue] challenge by 5 or more STR as the attacking player, choose a character controlled by the losing opponent and return it to its owner's hand. (Max 1 per challenge.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "13055",
+            "type": "character",
+            "name": "Arianne Martell",
+            "unique": true,
+            "faction": "martell",
+            "loyal": true,
+            "cost": 6,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "Lady"
+            ],
+            "text": "Shadow (5). Stealth.\n<b>Reaction:</b> After a card comes out of shadows under your control, choose a character. Until the end of the phase, that character loses a challenge icon of your choice. (Limit 3 times per round.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "13057",
+            "type": "character",
+            "name": "The Most Devout",
+            "unique": true,
+            "faction": "neutral",
+            "cost": 6,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "The Seven"
+            ],
+            "text": "No attachments except <i>The Seven</i>.\n<b>Reaction:</b> After a character enters play under an opponent's control, if another character has entered play under that player's control this phase, The Most Devout gains 1 power. (Limit once per phase.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "13058",
+            "type": "location",
+            "name": "Statue of Baelor",
+            "unique": true,
+            "faction": "neutral",
+            "cost": 2,
+            "traits": [
+                "King's Landing",
+                "The Seven"
+            ],
+            "text": "<b>Action:</b> Kneel Statue of Baelor and discard 1 power from another character or location you control to stand that character or location.",
+            "deckLimit": 3
+        },
+        {
+            "code": "13059",
+            "type": "event",
+            "name": "The Faith's Decree",
+            "faction": "neutral",
+            "cost": 0,
+            "traits": [
+                "The Seven"
+            ],
+            "text": "Play only if you control a <i>The Seven</i> character or location.\n<b>Action:</b> Name a non-agenda, non-plot card. Until the end of the phase, each opponent cannot trigger card abilities of cards with that name.",
+            "deckLimit": 3
+        }
+    ]
+}
