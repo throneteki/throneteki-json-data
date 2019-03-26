@@ -76,6 +76,61 @@
             "deckLimit": 3
         },
         {
+            "code": "13005",
+            "type": "character",
+            "name": "Aged Craftsman",
+            "unique": false,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 1,
+            "traits": [
+                "Builder"
+            ],
+            "text": "No attachments.\n<b>Reaction:</b> After Aged Craftsman enters play, search the top 10 cards of your deck for a [thenightswatch] location with printed cost 2 or lower and put it into play. Shuffle your deck.",
+            "deckLimit": 3
+        },
+        {
+            "code": "13006",
+            "type": "location",
+            "name": "Flea Bottom Alley",
+            "unique": false,
+            "faction": "thenightswatch",
+            "loyal": true,
+            "cost": 1,
+            "traits": [
+                "King's Landing"
+            ],
+            "text": "Limited.\n<b>Marshaling Action:</b> Kneel and sacrifice Flea Bottom Alley to put a [thenightswatch] character with printed cost 3 or lower into play from your hand. Then, draw 1 card.",
+            "deckLimit": 3
+        },
+        {
+            "code": "13007",
+            "type": "character",
+            "name": "R'hllor Infiltrator",
+            "unique": false,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 1,
+            "traits": [
+                "R'hllor",
+                "Spy"
+            ],
+            "text": "<b>Dominance Action:</b> Kneel R'hllor Infiltrator to choose an opponent. Give control of R'hllor Infiltrator to that player and gain 1 power for your faction.",
+            "deckLimit": 3
+        },
+        {
             "code": "13008",
             "type": "location",
             "name": "King's Gate",
@@ -87,6 +142,76 @@
                 "King's Landing"
             ],
             "text": "Limited.\n<b>Challenges Action:</b> If you have 5 or more power on your faction card, sacrifice King's Gate to draw 2 cards.\n+1 Income.",
+            "deckLimit": 3
+        },
+        {
+            "code": "13009",
+            "type": "character",
+            "name": "Ser Mandon Moore",
+            "unique": true,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 4,
+            "traits": [
+                "Kingsguard",
+                "Knight"
+            ],
+            "text": "Shadow (3).\n<b>Reaction:</b> After Ser Mandon Moore comes out of shadows, choose an opponent. That player must choose and kill a character he or she controls unless he or she chooses and discards 2 cards from his or her hand.",
+            "deckLimit": 3
+        },
+        {
+            "code": "13010",
+            "type": "location",
+            "name": "Lion Gate",
+            "unique": false,
+            "faction": "lannister",
+            "loyal": true,
+            "cost": 1,
+            "traits": [
+                "King's Landing"
+            ],
+            "text": "Limited.\n<b>Challenges Action:</b> If you control 2 or more cards in shadows, sacrifice Lion Gate to draw 2 cards.\n+1 Income.",
+            "deckLimit": 3
+        },
+        {
+            "code": "13011",
+            "type": "character",
+            "name": "Baelor Blacktyde",
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Captain",
+                "The Seven"
+            ],
+            "text": "Each opponent cannot play copies of events that are in his or her discard pile.",
+            "deckLimit": 3
+        },
+        {
+            "code": "13012",
+            "type": "location",
+            "name": "Iron Gate",
+            "unique": false,
+            "faction": "greyjoy",
+            "loyal": true,
+            "cost": 1,
+            "traits": [
+                "King's Landing"
+            ],
+            "text": "Limited.\n<b>Challenges Action:</b> If you are the first player, sacrifice Iron Gate to draw 2 cards.\n+1 Income.",
             "deckLimit": 3
         },
         {
@@ -110,6 +235,55 @@
             "deckLimit": 3
         },
         {
+            "code": "13014",
+            "type": "location",
+            "name": "Dragon Gate",
+            "unique": false,
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 1,
+            "traits": [
+                "King's Landing"
+            ],
+            "text": "Limited.\n<b>Challenges Action:</b> If you control 2 or more attachments, sacrifice Dragon Gate to draw 2 cards.\n+1 Income.",
+            "deckLimit": 3
+        },
+        {
+            "code": "13015",
+            "type": "character",
+            "name": "Southron Escort",
+            "unique": false,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 4,
+            "traits": [
+                "Ally",
+                "Guard"
+            ],
+            "text": "Shadow (4).\n<b>Action:</b> Discard another card from shadows to put Southron Escort into play from shadows.",
+            "deckLimit": 3
+        },
+        {
+            "code": "13016",
+            "type": "location",
+            "name": "River Gate",
+            "unique": false,
+            "faction": "martell",
+            "loyal": true,
+            "cost": 1,
+            "traits": [
+                "King's Landing"
+            ],
+            "text": "Limited.\n<b>Challenges Action:</b> If you have lost 2 or more challenges this phase, sacrifice River Gate to draw 2 cards.\n+1 Income.",
+            "deckLimit": 3
+        },
+        {
             "code": "13017",
             "type": "character",
             "name": "Littlefinger",
@@ -129,6 +303,36 @@
             ],
             "text": "Shadow (6). Stealth.\n<b>Reaction:</b> After a character you control comes out of shadows, place up to 3 cards from your hand on the bottom of your deck in any order. Then, draw that many cards. (Limit once per round.)",
             "deckLimit": 3
+        },
+        {
+            "code": "13018",
+            "type": "location",
+            "name": "White Sword Tower",
+            "unique": true,
+            "faction": "neutral",
+            "cost": 2,
+            "traits": [
+                "King's Landing"
+            ],
+            "text": "Each <i>Kingsguard</i> character you control gets +1 STR.\nEach player that does not control a <i>Kingsguard</i> character cannot play more than 1 event each phase.",
+            "deckLimit": 3
+        },
+        {
+            "code": "13019",
+            "type": "plot",
+            "name": "City of Secrets",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 4,
+                "initiative": 4,
+                "claim": 1,
+                "reserve": 8
+            },
+            "traits": [
+                "City"
+            ],
+            "text": "<b>When Revealed:</b> Each player draws 2 cards. Then, each player without a <i>City</i> plot card in his or her used pile chooses and discards 2 cards from his or her hand.",
+            "deckLimit": 2
         },
         {
             "code": "13020",
