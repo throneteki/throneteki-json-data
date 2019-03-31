@@ -277,7 +277,6 @@
             "name": "Tycho Nestoris",
             "unique": true,
             "faction": "neutral",
-            "loyal": false,
             "cost": 6,
             "icons": {
                 "military": false,
@@ -297,7 +296,6 @@
             "name": "City Gates",
             "unique": false,
             "faction": "neutral",
-            "loyal": false,
             "cost": 1,
             "traits": [
                 "King's Landing"

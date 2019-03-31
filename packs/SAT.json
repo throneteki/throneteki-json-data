@@ -275,7 +275,6 @@
             "name": "Mya Stone",
             "unique": true,
             "faction": "neutral",
-            "loyal": false,
             "cost": 4,
             "icons": {
                 "military": false,
@@ -295,7 +294,6 @@
             "name": "The Great Sept of Baelor",
             "unique": true,
             "faction": "neutral",
-            "loyal": false,
             "cost": 2,
             "traits": [
                 "King's Landing",
@@ -310,7 +308,6 @@
             "name": "The Seven-Pointed Star",
             "unique": false,
             "faction": "neutral",
-            "loyal": false,
             "cost": 1,
             "traits": [
                 "Item",
