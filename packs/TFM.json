@@ -134,7 +134,7 @@
             "traits": [
                 "R'hllor"
             ],
-            "text": "Play only if you control a <i>R'hllor</i> character.\n<b>Marshaling Action:</b> Sacrifice a character to search your deck for a <i>R'hllor</i> character with equal or lower printed cost and add it to your hand.",
+            "text": "Play only if you control a <i>R'hllor</i> character.\n<b>Marshaling Action:</b> Sacrifice a character to search your deck for a <i>R'hllor</i> character with equal or lower printed cost and add it to your hand. Shuffle your deck.",
             "deckLimit": 3
         },
         {
