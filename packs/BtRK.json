@@ -1,0 +1,70 @@
+{
+    "cgdbId": 49,
+    "code": "BtRK",
+    "name": "Beneath the Red Keep",
+    "releaseDate": null,
+    "cards": [
+        {
+            "code": "13062",
+            "type": "location",
+            "name": "Tower of the Hand",
+            "unique": true,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "King's Landing"
+            ],
+            "text": "<b>Reaction:</b> After a card you control comes out of shadows, if there is a <i>Winter</i> plot card revealed, choose and stand a [stark] character. (Limit once per phase.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "13064",
+            "type": "location",
+            "name": "The Maidenvault",
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "King's Landing"
+            ],
+            "text": "Shadow (1).\n<b>Reaction:</b> After The Maidenvault comes out of shadows, choose a participating <i>Lady</i> character. Stand it and remove it from the challenge.\n<b>Interrupt:</b> When the challenges phase ends, kneel The Maidenvault to return it to shadows.",
+            "deckLimit": 3
+        },
+        {
+            "code": "13070",
+            "type": "location",
+            "name": "Tunnels of the Red Keep",
+            "unique": true,
+            "faction": "lannister",
+            "loyal": true,
+            "cost": 3,
+            "traits": [
+                "King's Landing"
+            ],
+            "text": "Shadow (2).\n<b>Action:</b> Kneel Tunnels of the Red Keep to return it to shadows. Then, until the end of the phase, each character you control gets +1 STR for each card you control in shadows. (Max 1 per phase.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "13072",
+            "type": "event",
+            "name": "Shadow of the Isles",
+            "faction": "greyjoy",
+            "loyal": true,
+            "cost": "-",
+            "traits": [],
+            "text": "Shadow (1).\n<b>Action:</b> Each player chooses a non-limited location he or she controls and discards it from play. If there is a <i>War</i> plot card revealed, return Shadow of the Isles to your hand instead of placing it in your discard pile.",
+            "deckLimit": 3
+        },
+        {
+            "code": "13079",
+            "type": "agenda",
+            "name": "Kingdom of Shadows",
+            "faction": "neutral",
+            "traits": [],
+            "text": "You may include non-loyal characters with the printed shadow keyword from any faction in your deck.\nIncrease the cost of each character you marshal by 1. Reduce the cost of the first character you bring out of shadows each round by 2.",
+            "deckLimit": 1
+        }
+    ]
+}
