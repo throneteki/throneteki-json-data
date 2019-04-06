@@ -57,7 +57,7 @@
                 "Lord",
                 "Small Council"
             ],
-            "text": "<b>Reaction:</b> After Mace Tyrell is knelt, draw 2 cards. Then, choose a card in your hand and place it on top of your deck.",
+            "text": "<b>Reaction:</b> After Mace Tyrell is knelt, draw 2 cards. Then, choose a card in your hand and place it on top of your deck.\n+1 Income.",
             "deckLimit": 3
         },
         {
@@ -201,7 +201,7 @@
                 "Drowned God",
                 "Weapon"
             ],
-            "text": "<i>Drowned God</i> character only.\nAttached character gets +1 STR for each character in your dead pile.\n<b>Interrupt:</b> When attached character is killed, move Driftwood Cudgel to another eligible character. That character gains 1 power. (Limit once per phase.)",
+            "text": "<i>Drowned God</i> character only.\nAttached character gets +1 STR for each character in your dead pile.\n<b>Interrupt:</b> When attached character is killed, move Driftwood Cudgel to another eligible character. That character gains 1 power. (Limit once per phase.)\n<em>Errata from FAQ v1.4</em>",
             "deckLimit": 3
         },
         {
@@ -235,7 +235,7 @@
             "traits": [
                 "Prophecy"
             ],
-            "text": "<b>Dominance Action:</b> Each player may shuffle his or her hand (of at least 1 card) into his or her deck. Each player that does draws 5 cards.",
+            "text": "<b>Dominance Action:</b> Each player may shuffle his or her hand (of at least 1 card) into his or her deck. Each player that does draws 5 cards.\n<em>Errata from FAQ v1.4</em>",
             "deckLimit": 3
         },
         {
@@ -275,7 +275,6 @@
             "name": "Mya Stone",
             "unique": true,
             "faction": "neutral",
-            "loyal": false,
             "cost": 4,
             "icons": {
                 "military": false,
@@ -295,7 +294,6 @@
             "name": "The Great Sept of Baelor",
             "unique": true,
             "faction": "neutral",
-            "loyal": false,
             "cost": 2,
             "traits": [
                 "King's Landing",
@@ -310,7 +308,6 @@
             "name": "The Seven-Pointed Star",
             "unique": false,
             "faction": "neutral",
-            "loyal": false,
             "cost": 1,
             "traits": [
                 "Item",

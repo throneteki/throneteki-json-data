@@ -531,7 +531,6 @@
             "code": "10030",
             "type": "event",
             "name": "Extortion",
-            "unique": false,
             "faction": "lannister",
             "loyal": false,
             "cost": 0,
@@ -598,7 +597,6 @@
             "code": "10034",
             "type": "event",
             "name": "Taste For Flesh",
-            "unique": false,
             "faction": "stark",
             "loyal": false,
             "cost": 0,
@@ -763,7 +761,6 @@
             "code": "10044",
             "type": "event",
             "name": "\"Off To Gulltown\"",
-            "unique": false,
             "faction": "neutral",
             "cost": 1,
             "traits": [
