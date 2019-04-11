@@ -19,7 +19,8 @@
                 "Noble"
             ],
             "text": "<b>Reaction:</b> After you win a [power] challenge, move 1 power from the losing opponent's faction card to your own.",
-            "deckLimit": 2
+            "deckLimit": 2,
+            "illustrator": "Smirtouille"
         },
         {
             "code": "01002",
@@ -36,7 +37,8 @@
                 "Edict"
             ],
             "text": "<b>Reaction:</b> After you win dominance, gain 2 power for your faction.",
-            "deckLimit": 1
+            "deckLimit": 1,
+            "illustrator": "Tomasz Jedruszek"
         },
         {
             "code": "01003",
@@ -53,7 +55,8 @@
                 "Scheme"
             ],
             "text": "A player cannot initiate a [military] or [power] challenge unless he or she has won an [intrigue] challenge that phase.",
-            "deckLimit": 1
+            "deckLimit": 1,
+            "illustrator": "Tomasz Jedruszek"
         },
         {
             "code": "01004",
@@ -71,7 +74,8 @@
                 "Noble"
             ],
             "text": "Reduce the cost of the first <i>Lord</i> or <i>Lady</i> character you marshal this round by 2.",
-            "deckLimit": 2
+            "deckLimit": 2,
+            "illustrator": "Drazenka Kimpel"
         },
         {
             "code": "01005",
@@ -88,7 +92,8 @@
                 "War"
             ],
             "text": "You may initiate an additional [military] challenge during the challenges phase.",
-            "deckLimit": 2
+            "deckLimit": 2,
+            "illustrator": "Tomasz Jedruszek"
         },
         {
             "code": "01006",
@@ -105,7 +110,8 @@
                 "Kingdom"
             ],
             "text": "<b>When Revealed:</b> Search the top 10 cards of your deck for an attachment or a location, reveal it, and add it to your hand. Shuffle your deck.",
-            "deckLimit": 2
+            "deckLimit": 2,
+            "illustrator": "Tomasz Jedruszek"
         },
         {
             "code": "01007",
@@ -122,7 +128,8 @@
                 "Kingdom"
             ],
             "text": "<b>When Revealed:</b> Choose an opponent. Gain 1 gold for each character that player controls.",
-            "deckLimit": 2
+            "deckLimit": 2,
+            "illustrator": "Jason Engle"
         },
         {
             "code": "01008",
@@ -139,7 +146,8 @@
                 "Summer"
             ],
             "text": "<b>When Revealed:</b> Name a challenge type. Until you reveal a new plot card, reduce the claim value on the attacking player's revealed plot card by 1 during challenges of that type in which you are the defending player.",
-            "deckLimit": 1
+            "deckLimit": 1,
+            "illustrator": "Juan Carlos Barquet"
         },
         {
             "code": "01009",
@@ -156,7 +164,8 @@
                 "Edict"
             ],
             "text": "<b>When Revealed:</b> Choose an attachment, and discard it from play.",
-            "deckLimit": 2
+            "deckLimit": 2,
+            "illustrator": "Sebastian Giacobino"
         },
         {
             "code": "01010",
@@ -173,7 +182,8 @@
                 "Kingdom"
             ],
             "text": "<b>When Revealed:</b> Draw 3 cards.",
-            "deckLimit": 2
+            "deckLimit": 2,
+            "illustrator": "Antonio José Manzanedo"
         },
         {
             "code": "01011",
@@ -190,7 +200,8 @@
                 "Scheme"
             ],
             "text": "<b>When Revealed:</b> Choose and kneel a character.",
-            "deckLimit": 2
+            "deckLimit": 2,
+            "illustrator": "Ryan Barger"
         },
         {
             "code": "01012",
@@ -208,7 +219,8 @@
                 "War"
             ],
             "text": "Treat each character as if its printed text box were blank (except for <i>Traits</i>).",
-            "deckLimit": 1
+            "deckLimit": 1,
+            "illustrator": "Thomas Denmark"
         },
         {
             "code": "01013",
@@ -226,7 +238,8 @@
                 "War"
             ],
             "text": "<b>When Revealed:</b> Choose an opponent. Discard 1 card at random from that player's hand. If that card is a character, gain 2 power for your faction and place the discarded character in its owner's dead pile.",
-            "deckLimit": 2
+            "deckLimit": 2,
+            "illustrator": "Smirtouille"
         },
         {
             "code": "01014",
@@ -243,7 +256,8 @@
                 "War"
             ],
             "text": "Each player cannot declare more than 1 character as an attacker or defender in each challenge.",
-            "deckLimit": 2
+            "deckLimit": 2,
+            "illustrator": "John Gravato"
         },
         {
             "code": "01015",
@@ -260,7 +274,8 @@
                 "Edict"
             ],
             "text": "<b>When Revealed:</b> Each player chooses a character he or she controls (if able), and discards it from play (cannot be saved).",
-            "deckLimit": 2
+            "deckLimit": 2,
+            "illustrator": "Eva Maria Toker"
         },
         {
             "code": "01016",
@@ -278,7 +293,8 @@
                 "War"
             ],
             "text": "You cannot marshal locations or attachments, or play events.",
-            "deckLimit": 2
+            "deckLimit": 2,
+            "illustrator": "Tomasz Jedruszek"
         },
         {
             "code": "01017",
@@ -296,7 +312,8 @@
                 "War"
             ],
             "text": "Treat the base gold value on each revealed <i>Kingdom</i> and each revealed <i>Edict</i> plot card as if it were 0.",
-            "deckLimit": 1
+            "deckLimit": 1,
+            "illustrator": "Tomasz Jedruszek"
         },
         {
             "code": "01018",
@@ -314,7 +331,8 @@
                 "Scheme"
             ],
             "text": "<b>When Revealed:</b> Place 1 stand token on Power Behind the Throne.\n<b>Action:</b> Discard 1 stand token from Power Behind the Throne to choose and stand a character.",
-            "deckLimit": 2
+            "deckLimit": 2,
+            "illustrator": "Henning Ludvigsen"
         },
         {
             "code": "01019",
@@ -331,7 +349,8 @@
                 "Kingdom"
             ],
             "text": "<b>When Revealed:</b> Choose up to 3 cards in your discard pile, and shuffle them into your deck.",
-            "deckLimit": 2
+            "deckLimit": 2,
+            "illustrator": "Folko Streese"
         },
         {
             "code": "01020",
@@ -349,7 +368,8 @@
                 "War"
             ],
             "text": "<b>When Revealed:</b> Choose a character with printed cost 5 or lower in your hand or discard pile, and put it into play.",
-            "deckLimit": 2
+            "deckLimit": 2,
+            "illustrator": "Preston Stone"
         },
         {
             "code": "01021",
@@ -366,7 +386,8 @@
                 "Scheme"
             ],
             "text": "You cannot initiate more than 1 challenge during the challenges phase.",
-            "deckLimit": 2
+            "deckLimit": 2,
+            "illustrator": "Rafal Hrynkiewicz"
         },
         {
             "code": "01022",
@@ -383,7 +404,8 @@
                 "Kingdom"
             ],
             "text": "<b>When Revealed:</b> Search the top 10 cards of your deck for a character, reveal it, and add it to your hand. Shuffle your deck.",
-            "deckLimit": 2
+            "deckLimit": 2,
+            "illustrator": "Tomasz Jedruszek"
         },
         {
             "code": "01023",
@@ -401,7 +423,8 @@
                 "The Seven"
             ],
             "text": "<b>Forced Reaction:</b> After the challenges phase begins, each player returns all gold in his or her gold pool to the treasury.",
-            "deckLimit": 2
+            "deckLimit": 2,
+            "illustrator": "Gabrielle Portal"
         },
         {
             "code": "01024",
@@ -419,7 +442,8 @@
                 "Kingdom"
             ],
             "text": "You may marshal or play 1 additional limited card this round.",
-            "deckLimit": 2
+            "deckLimit": 2,
+            "illustrator": "Tomasz Jedruszek"
         },
         {
             "code": "01025",
@@ -436,7 +460,9 @@
                 "Winter"
             ],
             "text": "",
-            "deckLimit": 2
+            "flavor": "A cold wind was blowing out of the north, and it made the trees rustle like living things. All day, Will had felt as though something were watching him, something cold and implacable that loved him not.",
+            "deckLimit": 2,
+            "illustrator": "Tomasz Jedruszek"
         },
         {
             "code": "01026",
@@ -454,7 +480,8 @@
                 "War"
             ],
             "text": "<b>When Revealed:</b> Each player chooses up to 3 characters he or she controls. Kill each character not chosen (cannot be saved).",
-            "deckLimit": 2
+            "deckLimit": 2,
+            "illustrator": "Tomasz Jedruszek"
         },
         {
             "code": "01027",
@@ -463,7 +490,8 @@
             "faction": "neutral",
             "traits": [],
             "text": "You cannot include more than 15 neutral cards in your deck.\n<b>Action:</b> Kneel your faction card to reduce the cost of the next loyal card you marshal or play this phase by 1.",
-            "deckLimit": 1
+            "deckLimit": 1,
+            "illustrator": "Magali Villeneuve"
         },
         {
             "code": "01028",
@@ -484,7 +512,9 @@
                 "Small Council"
             ],
             "text": "<b>Reaction:</b> After you marshal Littlefinger, draw 2 cards.\n+1 Income.",
-            "deckLimit": 3
+            "flavor": "\"I did warn you not to trust me.\"",
+            "deckLimit": 3,
+            "illustrator": "Christopher Bradley"
         },
         {
             "code": "01029",
@@ -505,7 +535,9 @@
                 "Spy"
             ],
             "text": "Stealth.\n<b>Interrupt:</b> When the dominance phase ends, remove Varys from the game to discard each character from play.",
-            "deckLimit": 3
+            "flavor": "\"Why is it always the innocents who suffer most, when you high lords play your game of thrones?\"",
+            "deckLimit": 3,
+            "illustrator": "Mike Capprotti"
         },
         {
             "code": "01030",
@@ -525,7 +557,8 @@
                 "Wildling"
             ],
             "text": "No attachments.\n<b>Reaction:</b> After you win a challenge in which Rattleshirt's Raiders is participating as an attacker, choose an attachment controlled by the losing opponent, and discard it from play.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Dennis McElroy"
         },
         {
             "code": "01031",
@@ -545,7 +578,8 @@
                 "Wildling"
             ],
             "text": "No attachments. Pillage.\n<b>Challenges Action:</b> Kneel your faction card to choose a participating Wildling character you control. Until the end of the challenge, that character gets +2 STR.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Ryan Barger"
         },
         {
             "code": "01032",
@@ -558,7 +592,9 @@
                 "Item"
             ],
             "text": "<i>Lord</i> or <i>Lady</i> character only.\n<b>Action:</b> Kneel Seal of the Hand to stand attached character.",
-            "deckLimit": 3
+            "flavor": "The king eats, they say, and the Hand takes the shit.\" <cite>Robert Baratheon</cite>",
+            "deckLimit": 3,
+            "illustrator": "Mauro Dal Bo"
         },
         {
             "code": "01033",
@@ -571,7 +607,8 @@
                 "Condition"
             ],
             "text": "<i>Lord</i> or <i>Lady</i> character only.\n<b>Interrupt:</b> When attached character would be killed or discarded from play, sacrifice Bodyguard to save that character.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "J. Edwin Stevens"
         },
         {
             "code": "01034",
@@ -584,7 +621,9 @@
                 "Condition"
             ],
             "text": "Attached character gains an [intrigue] icon.",
-            "deckLimit": 3
+            "flavor": "\"He has informants everywhere. His little birds, he calls them.\" <cite>Littlefinger</cite>",
+            "deckLimit": 3,
+            "illustrator": "Melissa Findley"
         },
         {
             "code": "01035",
@@ -597,7 +636,9 @@
                 "Condition"
             ],
             "text": "Terminal.\nTreat attached character's printed text box as if it were blank (except for <i>Traits</i>).",
-            "deckLimit": 3
+            "flavor": "By the time the maester removed the funnel from his mouth, he was already spiralling back to sleep.",
+            "deckLimit": 3,
+            "illustrator": "Kara Williams"
         },
         {
             "code": "01036",
@@ -610,7 +651,9 @@
                 "Condition"
             ],
             "text": "Attached character gains a [power] icon.",
-            "deckLimit": 3
+            "flavor": "What had Jon Arryn wanted with a king's bastard, and why was it worth his life?",
+            "deckLimit": 3,
+            "illustrator": "JB Casacop"
         },
         {
             "code": "01037",
@@ -624,7 +667,9 @@
                 "Skill"
             ],
             "text": "Attached character gains a [military] icon.",
-            "deckLimit": 3
+            "flavor": "\"Now we will begin the dance.\" <cite>Syrio Forel</cite>",
+            "deckLimit": 3,
+            "illustrator": "Ryan Barger"
         },
         {
             "code": "01038",
@@ -637,7 +682,9 @@
                 "King's Landing"
             ],
             "text": "The Iron Throne contributes 8 STR to your total for dominance.\n+1 Reserve.",
-            "deckLimit": 3
+            "flavor": "\"…it is a monstruous uncomfortable chair. In more ways than one.\" <cite>Robert Baratheon</cite>",
+            "deckLimit": 3,
+            "illustrator": "Jacob Murray"
         },
         {
             "code": "01039",
@@ -650,7 +697,8 @@
                 "Westeros"
             ],
             "text": "Limited.\n<b>Marshaling Action:</b> Kneel and sacrifice The Kingsroad to reduce the cost of the next character you marshal this phase by 3.\n+1 Initiative.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Julepe"
         },
         {
             "code": "01040",
@@ -663,7 +711,8 @@
                 "Westeros"
             ],
             "text": "Limited.\n+1 Income.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Ted Nasmith"
         },
         {
             "code": "01041",
@@ -673,7 +722,8 @@
             "cost": 2,
             "traits": [],
             "text": "<b>Reaction:</b> After you win a [military] challenge by 5 or more STR as the attacking player, choose and kill a character controlled by the losing opponent. (Max 1 per challenge.)",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Allan Bednar"
         },
         {
             "code": "01042",
@@ -683,7 +733,8 @@
             "cost": 1,
             "traits": [],
             "text": "<b>Reaction:</b> After you win a [military] challenge by 5 or more STR as the attacking player, choose a location controlled by the losing opponent, and discard it from play. (Max 1 per challenge.)",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Katherine Dinger"
         },
         {
             "code": "01043",
@@ -693,7 +744,8 @@
             "cost": 0,
             "traits": [],
             "text": "<b>Reaction:</b> After you win a [power] challenge by 5 or more STR, gain 2 power for your faction. (Max 1 per challenge.)",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Jason Engle"
         },
         {
             "code": "01044",
@@ -705,7 +757,8 @@
                 "Poison"
             ],
             "text": "<b>Reaction:</b> After you win an [intrigue] challenge as the attacking player, place a poison token on a character without an [intrigue] icon controlled by the losing opponent. At the end of the phase, if that character still has the poison token, remove it and kill that character. (Max 1 per challenge.)",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Mike Capprotti"
         },
         {
             "code": "01045",
@@ -715,7 +768,8 @@
             "cost": "X",
             "traits": [],
             "text": "<b>Interrupt:</b> When the effects of an opponent's event would initiate, cancel those effects. X is that event's printed cost.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Tiziano Baracchi"
         },
         {
             "code": "01046",
@@ -735,7 +789,8 @@
                 "Maester"
             ],
             "text": "<b>Marshaling Action:</b> Kneel Maester Cressen to choose a <i>Condition</i> attachment, and discard it from play.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "J. Edwin Stevens"
         },
         {
             "code": "01047",
@@ -756,7 +811,9 @@
                 "R'hllor"
             ],
             "text": "<b>Reaction:</b> After you marshal or play a <i>R'hllor</i> card, choose and kneel a character. (Limit once per round.)",
-            "deckLimit": 3
+            "flavor": "\"It is not the foes who curse you to your face that you must fear, but those who smile when you are looking and sharpen their knives when you turn your back.\"",
+            "deckLimit": 3,
+            "illustrator": "Jacob Murray"
         },
         {
             "code": "01048",
@@ -777,7 +834,9 @@
                 "Lord"
             ],
             "text": "Intimidate. Renown.\nRobert Baratheon gets +1 STR for each other kneeling character in play.",
-            "deckLimit": 3
+            "flavor": "\"Fat? Fat, is it? Is that how your speak to your king? Ah, damn you, Ned, why are you always right?\"",
+            "deckLimit": 3,
+            "illustrator": "Joshua Cairós"
         },
         {
             "code": "01049",
@@ -799,7 +858,8 @@
                 "R'hllor"
             ],
             "text": "<b>Challenges Action:</b> Pay 1 gold to choose a [baratheon] character. Until the end of the phase, that character gains an [intrigue] icon.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Tawny Fritzinger"
         },
         {
             "code": "01050",
@@ -820,7 +880,9 @@
                 "Smuggler"
             ],
             "text": "Stealth.\n<b>Interrupt:</b> When Ser Davos Seaworth is killed, return him to your hand instead of placing him in your dead pile.",
-            "deckLimit": 3
+            "flavor": "\"King Stannis is my god. He made me and blessed me with his trust.\"",
+            "deckLimit": 3,
+            "illustrator": "Thomas Denmark"
         },
         {
             "code": "01051",
@@ -840,7 +902,9 @@
                 "Lady"
             ],
             "text": "<b>Interrupt:</b> When Shireen Baratheon is killed, choose and kneel a character.",
-            "deckLimit": 3
+            "flavor": "\"The grey death sleeps, only to wake again. The child is not clean!\" <cite>Val</cite>",
+            "deckLimit": 3,
+            "illustrator": "Sara Biddle"
         },
         {
             "code": "01052",
@@ -861,7 +925,9 @@
                 "Small Council"
             ],
             "text": "Each player cannot stand more than 2 characters during the standing phase.",
-            "deckLimit": 3
+            "flavor": "\"I shall bring justice to Westeros.\"",
+            "deckLimit": 3,
+            "illustrator": "Joshua Cairós"
         },
         {
             "code": "01053",
@@ -881,7 +947,9 @@
                 "Bastard"
             ],
             "text": "",
-            "deckLimit": 3
+            "flavor": "\"The seed is strong, he told me. His last words. He kept saying Robert's name, and he grabbed my arm so hard he left marks. Tell them, the seed is strong.\" <cite>Lysa Arryn</cite>",
+            "deckLimit": 3,
+            "illustrator": "Ryan Barger"
         },
         {
             "code": "01054",
@@ -901,7 +969,9 @@
                 "R'hllor"
             ],
             "text": "<b>Reaction:</b> After the dominance phase begins, stand Fiery Followers.",
-            "deckLimit": 3
+            "flavor": "\"The red priests have a great temple on Lys. Always they are burning this and burning that, crying out to their R'hllor. They bore me with their fires. Soon they will bore King Stannis too, it is to be hoped.\" <cite>Salladhor Saan</cite>",
+            "deckLimit": 3,
+            "illustrator": "Jarreau Wimberly"
         },
         {
             "code": "01055",
@@ -921,7 +991,9 @@
                 "Army"
             ],
             "text": "No attachments.\nWhile an opponent controls a <i>King</i> character, King's Hunting Party gains an [intrigue] icon .",
-            "deckLimit": 3
+            "flavor": "“Three of my men were cut down like dogs not a league from where we sit, and what does Robert do? He goes hunting.\" <cite>Eddard Stark</cite>",
+            "deckLimit": 3,
+            "illustrator": "Thomas Denmark"
         },
         {
             "code": "01056",
@@ -941,7 +1013,8 @@
                 "Ally"
             ],
             "text": "<b>Marshaling Action:</b> Kneel Dragonstone Faithful to reduce the cost of the next [baratheon] character you marshal this phase by 1.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Mike Capprotti"
         },
         {
             "code": "01057",
@@ -962,7 +1035,8 @@
                 "Knight"
             ],
             "text": "<b>Reaction:</b> After Vanguard Lancer enters play, choose an opponent's character or faction card, and discard 1 power from that card.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Emrah Elmasil"
         },
         {
             "code": "01058",
@@ -977,7 +1051,8 @@
                 "Weapon"
             ],
             "text": "[baratheon] character only.\nIf attached character is Stannis Baratheon, he gains renown.\n<b>Reaction:</b> After attached character gains 1 or more power, stand it. (Limit once per phase.)",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "John Matson"
         },
         {
             "code": "01059",
@@ -991,7 +1066,8 @@
                 "Dragonstone"
             ],
             "text": "Limited.\n<b>Marshaling Action:</b> Kneel Dragonstone Port to reduce the cost of the next [baratheon] card you marshal this phase by 1.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Tomasz Jedruszek"
         },
         {
             "code": "01060",
@@ -1005,7 +1081,8 @@
                 "Dragonstone"
             ],
             "text": "<b>Reaction:</b> After you win dominance, kneel Chamber of the Painted Table to move 1 power from an opponent's faction card to your own.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Mariusz Gandzel"
         },
         {
             "code": "01061",
@@ -1019,7 +1096,8 @@
                 "King's Landing"
             ],
             "text": "The Red Keep contributes 2 STR to your side during any [power] challenge in which you control a participating character.\n<b>Interrupt:</b> When the challenges phase ends, if you have not lost a [power] challenge this round, kneel The Red Keep to draw 2 cards.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Tomasz Jedruszek"
         },
         {
             "code": "01062",
@@ -1030,7 +1108,8 @@
             "cost": 1,
             "traits": [],
             "text": "<b>Marshaling Action:</b> Choose and kneel up to 4 total STR worth of characters controlled by the same player. Then, choose one of those characters, and have it gain 1 power.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Regis Moulun"
         },
         {
             "code": "01063",
@@ -1041,7 +1120,8 @@
             "cost": 2,
             "traits": [],
             "text": "Play only during a challenge in which you are the defending player.\n<b>Action:</b> Choose a kneeling [baratheon] character you control. That character is now participating as a defender. If you win this challenge, stand that character.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Joshua Cairós"
         },
         {
             "code": "01064",
@@ -1054,7 +1134,8 @@
                 "R'hllor"
             ],
             "text": "Play only if you control a <i>R'hllor</i> character.\n<b>Challenges Action:</b> Choose an opponent, and look at his or her hand. Then, choose and discard 1 card from that hand.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Nacho Molina"
         },
         {
             "code": "01065",
@@ -1076,7 +1157,9 @@
                 "Lord"
             ],
             "text": "<b>Reaction:</b> After you win dominance, put an <i>Ironborn</i> character into play from your dead pile.",
-            "deckLimit": 3
+            "flavor": "\"What is dead may never die, but rises again, harder and stronger.\"",
+            "deckLimit": 3,
+            "illustrator": "Anders Finer"
         },
         {
             "code": "01066",
@@ -1097,7 +1180,9 @@
                 "Lady"
             ],
             "text": "While you are the first player, reduce the reserve value on each opponent's revealed plot card by 1.",
-            "deckLimit": 3
+            "flavor": "Alannys never had the sort of beauty the singers cherished, but her daughter had loved her fierce strong face and the laughter in her eyes.",
+            "deckLimit": 3,
+            "illustrator": "Henning Ludvigsen"
         },
         {
             "code": "01067",
@@ -1118,7 +1203,9 @@
                 "Lady"
             ],
             "text": "Stealth.\n<b>Reaction:</b> After you win an unopposed challenge in which Asha Greyjoy is participating, stand her.",
-            "deckLimit": 3
+            "flavor": "\"I am Asha of House Greyjoy, aye. Opinions differ on whether I'm a lady.\"",
+            "deckLimit": 3,
+            "illustrator": "Mark Behm"
         },
         {
             "code": "01068",
@@ -1139,7 +1226,9 @@
                 "Lord"
             ],
             "text": "Renown.\nWhile Balon Greyjoy is attacking, each defending character with a lower STR than his does not contribute its STR to that challenge.",
-            "deckLimit": 3
+            "flavor": "\"I am the Greyjoy, Lord Reaper of Pyke, King of Salt and Rock, Son of the Sea Wind, and no man gives me a crown. I pay the iron price.\"",
+            "deckLimit": 3,
+            "illustrator": "Sebastian Ciaffaglione"
         },
         {
             "code": "01069",
@@ -1161,7 +1250,9 @@
                 "Raider"
             ],
             "text": "Pillage. Renown.\n<b>Reaction:</b> After Euron Crow's Eye discards a card using pillage, put a location from the losing opponent's discard pile into play under your control.",
-            "deckLimit": 3
+            "flavor": "\"The Crow's Eye worships naught but his own pride.\" <cite>Aeron Damphair</cite>",
+            "deckLimit": 3,
+            "illustrator": "JB Casacop"
         },
         {
             "code": "01070",
@@ -1181,7 +1272,9 @@
                 "Maester"
             ],
             "text": "Stealth.",
-            "deckLimit": 3
+            "flavor": "He wore about his neck a chain of many metals that marked him for a master of the Citadel.",
+            "deckLimit": 3,
+            "illustrator": "Aleksander Karcz"
         },
         {
             "code": "01071",
@@ -1203,7 +1296,9 @@
                 "Lord"
             ],
             "text": "Stealth.\n<b>Reaction:</b> After you win an unopposed challenge in which Theon Greyjoy is participating, he gains 1 power.",
-            "deckLimit": 3
+            "flavor": "\"Only a fool humbles himself when the world is so full of men eager to do that job for him.\"",
+            "deckLimit": 3,
+            "illustrator": "Aaron Riley"
         },
         {
             "code": "01072",
@@ -1224,7 +1319,8 @@
                 "Raider"
             ],
             "text": "Pillage.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Tomasz Jedruszek"
         },
         {
             "code": "01073",
@@ -1245,7 +1341,8 @@
                 "Drowned God"
             ],
             "text": "No attachments.\nDrowned Men gets +1 STR for each <i>Warship</i> location you control.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Tomasz Jedruszek"
         },
         {
             "code": "01074",
@@ -1266,7 +1363,8 @@
                 "Merchant"
             ],
             "text": "<b>Marshaling Action:</b> Kneel Iron Islands Fishmonger to reduce the cost of the next [greyjoy] character you marshal this phase by 1.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Preston Stone"
         },
         {
             "code": "01075",
@@ -1287,7 +1385,8 @@
                 "Ironborn"
             ],
             "text": "<b>Marshaling Action:</b> Kneel Lordsport Shipwright to choose and kneel a location with printed cost 2 or lower. (Printed cost 3 or lower instead if you are the first player.)",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Victor Garcia"
         },
         {
             "code": "01076",
@@ -1307,7 +1406,9 @@
                 "Ironborn"
             ],
             "text": "+1 Initiative.",
-            "deckLimit": 3
+            "flavor": "No man ever truly knows what he can do unless he dares to leap.\" <cite>Euron Crow's Eye</cite>",
+            "deckLimit": 3,
+            "illustrator": "Ryan Barger"
         },
         {
             "code": "01077",
@@ -1321,7 +1422,8 @@
                 "Weapon"
             ],
             "text": "<i>Ironborn</i> character only.\n<b>Reaction:</b> After you win a challenge in which attached character is participating as an attacker, sacrifice Throwing Axe to choose and kill a defending character.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Justin Adams"
         },
         {
             "code": "01078",
@@ -1335,7 +1437,8 @@
                 "Warship"
             ],
             "text": "While you control Balon Greyjoy, he gains stealth.\n<b>Reaction:</b> After you win an unopposed challenge, either: draw 1 card, or gain 1 power for your faction. (Limit twice per round.)",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Jacob Murray"
         },
         {
             "code": "01079",
@@ -1349,7 +1452,8 @@
                 "Warship"
             ],
             "text": "<b>Challenges Action:</b> Kneel Iron Fleet Scout to choose a participating [greyjoy] character. Until the end of the challenge, that character gets +1 STR. (+2 STR instead if you are the first player.)",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Tomasz Jedruszek"
         },
         {
             "code": "01080",
@@ -1363,7 +1467,8 @@
                 "Iron Islands"
             ],
             "text": "Limited.\n<b>Marshaling Action:</b> Kneel Sea Tower to reduce the cost of the next [greyjoy] card you marshal this phase by 1.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Martina Pilcerova"
         },
         {
             "code": "01081",
@@ -1374,7 +1479,8 @@
             "cost": 0,
             "traits": [],
             "text": "<b>Interrupt:</b> When a [greyjoy] character would be killed, save it. Then, attach Risen from the Sea to that character as a <i>Condition</i> attachment with the text: \"Terminal. Attached character gets +1 STR.\"",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Tommy Arnold"
         },
         {
             "code": "01082",
@@ -1385,7 +1491,8 @@
             "cost": 0,
             "traits": [],
             "text": "Play only if you are the first player.\n<b>Challenges Action:</b> Choose a defending character with STR 5 or lower. That character does not contribute is STR to this challenge.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Tomasz Jedruszek"
         },
         {
             "code": "01083",
@@ -1396,7 +1503,8 @@
             "cost": 1,
             "traits": [],
             "text": "<b>Reaction:</b> After you win an unopposed challenge, choose an attachment or location controlled by the losing opponent, and discard it from play. (Max 1 per challenge.)",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Tomasz Jedruszek"
         },
         {
             "code": "01084",
@@ -1417,7 +1525,9 @@
                 "Queen"
             ],
             "text": "While Cersei Lannister is attacking during an [intrigue] challenge, raise the claim value on your revealed plot card by 1.",
-            "deckLimit": 3
+            "flavor": "\"Love is poison. A sweet poison, but it will kill you all the same.\"",
+            "deckLimit": 3,
+            "illustrator": "Tommy Arnold"
         },
         {
             "code": "01085",
@@ -1438,7 +1548,9 @@
                 "Small Council"
             ],
             "text": "Insight.",
-            "deckLimit": 3
+            "flavor": "\"All I did, I did for House Lannister.\"",
+            "deckLimit": 3,
+            "illustrator": "Tiziano Baracchi"
         },
         {
             "code": "01086",
@@ -1458,7 +1570,9 @@
                 "Lord"
             ],
             "text": "<b>Reaction:</b> After a <i>Lord</i> or <i>Lady</i> character is killed, Joffrey Baratheon gains 1 power. (Limit 3 times per round.)",
-            "deckLimit": 3
+            "flavor": "\"My son. How could I have made a son like that, Ned?\" <cite>Robert Baratheon</cite>",
+            "deckLimit": 3,
+            "illustrator": "Magali Villeneuve"
         },
         {
             "code": "01087",
@@ -1479,7 +1593,9 @@
                 "Lord"
             ],
             "text": "Ser Jaime Lannister does not kneel when declared as an attacker in a [military] challenge, and gains renown while participating in a [military] challenge.",
-            "deckLimit": 3
+            "flavor": "\"There are no men like me. There's only me.\"",
+            "deckLimit": 3,
+            "illustrator": "Michael Komarck"
         },
         {
             "code": "01088",
@@ -1499,7 +1615,9 @@
                 "Ally"
             ],
             "text": "<b>Dominance Action:</b> Kneel The Tickler to discard the top card of an opponent's deck. Then, you may choose 1 copy of that card, and discard it from play.",
-            "deckLimit": 3
+            "flavor": "\"Tickler makes them howl so hard they piss themselves.\" <cite>Chiswyck</cite>",
+            "deckLimit": 3,
+            "illustrator": "David Demaret"
         },
         {
             "code": "01089",
@@ -1519,7 +1637,9 @@
                 "Lord"
             ],
             "text": "Stealth.\n<b>Reaction:</b> After an [intrigue] challenge is initiated, gain 2 gold. (Limit twice per round.)",
-            "deckLimit": 3
+            "flavor": "\"When you tear out a man's tongue, you are not proving him a liar, you're only telling the world that you fear what he might say.\"",
+            "deckLimit": 3,
+            "illustrator": "Jacob Murray"
         },
         {
             "code": "01090",
@@ -1539,7 +1659,8 @@
                 "Lord"
             ],
             "text": "Renown.\nTywin Lannister gets +1 STR for each gold in your gold pool.\n+2 Income.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Tommy Arnold"
         },
         {
             "code": "01091",
@@ -1559,7 +1680,9 @@
                 "Clansman"
             ],
             "text": "Ambush (2).",
-            "deckLimit": 3
+            "flavor": "Every clan in the Mountains of the Moon feared the Burned Men, who mortified their flesh with fire to prove their courage.",
+            "deckLimit": 3,
+            "illustrator": "Marc Scheff"
         },
         {
             "code": "01092",
@@ -1580,7 +1703,8 @@
                 "Army"
             ],
             "text": "Ambush (2).\n<b>Forced Interrupt:</b> When a phase ends in which Gold Cloaks entered play using ambush, discard it from play (cannot be saved).",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "David Demaret"
         },
         {
             "code": "01093",
@@ -1600,7 +1724,8 @@
                 "Merchant"
             ],
             "text": "Limited.\n+1 Income.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Marc Simonetti"
         },
         {
             "code": "01094",
@@ -1621,7 +1746,8 @@
                 "Steward"
             ],
             "text": "<b>Marshaling Action:</b> Kneel Lannisport Merchant to reduce the cost of the next [lannister] character you marshal this phase by 1.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Dleoblack"
         },
         {
             "code": "01095",
@@ -1641,7 +1767,8 @@
                 "Spy"
             ],
             "text": "Ambush (4).\n<b>Reaction:</b> After The Queen's Assassin enters play using ambush, choose an opponent. If you have more cards in hand than that player, he or she must choose and kill a character he or she controls.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Mike Capprotti"
         },
         {
             "code": "01096",
@@ -1656,7 +1783,8 @@
                 "Weapon"
             ],
             "text": "Ambush (1).\nAttached character gets +2 STR.\nIf attached character is Joffrey Baratheon, he gains a [military] icon.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Joshua Cairós"
         },
         {
             "code": "01097",
@@ -1671,7 +1799,9 @@
                 "The Westerlands"
             ],
             "text": "You may initiate an additional [intrigue] challenge during the challenges phase.",
-            "deckLimit": 3
+            "flavor": "\"They say there is naught but stone at the heart of Casterly Rock.\" <cite>Catelyn Stark</cite>",
+            "deckLimit": 3,
+            "illustrator": "Sergey Glushakov"
         },
         {
             "code": "01098",
@@ -1685,7 +1815,8 @@
                 "The Westerlands"
             ],
             "text": "<b>Reaction:</b> After you win an [intrigue] challenge, draw 1 card.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Juan Carlos Barquet"
         },
         {
             "code": "01099",
@@ -1699,7 +1830,8 @@
                 "The Westerlands"
             ],
             "text": "Limited.\n<b>Marshaling Action:</b> Kneel Western Fiefdom to reduce the cost of the next [lannister] card you marshal this phase by 1.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Andrew Hall"
         },
         {
             "code": "01100",
@@ -1710,7 +1842,8 @@
             "cost": 1,
             "traits": [],
             "text": "<b>Action:</b> Put a [lannister] character into play from your hand. At the end of the phase, if that card is still in play, discard it from play (cannot be saved).",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Cris Griffin"
         },
         {
             "code": "01101",
@@ -1721,7 +1854,8 @@
             "cost": "X",
             "traits": [],
             "text": "Play only if you control a [lannister] <i>Lord</i> or <i>Lady</i> character.\n<b>Challenges Action:</b> Kneel your faction card to choose a character with printed cost X or lower controlled by an opponent, and return it to its owner's hand.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Aaron Riley"
         },
         {
             "code": "01102",
@@ -1732,7 +1866,8 @@
             "cost": 1,
             "traits": [],
             "text": "Play only if you control a unique [lannister] character.\n<b>Interrupt:</b> When the effects of a triggered character, location, or attachment ability would initiate, cancel those effects.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Gabrielle Portal"
         },
         {
             "code": "01103",
@@ -1752,7 +1887,9 @@
                 "Guard"
             ],
             "text": "Ambush (5).\n<b>Reaction:</b> After Areo Hotah enters play during a challenge, choose a participating character, and remove it from the challenge.",
-            "deckLimit": 3
+            "flavor": "\"Someone told. Someone always tells.\"",
+            "deckLimit": 3,
+            "illustrator": "Aaron Riley"
         },
         {
             "code": "01104",
@@ -1772,7 +1909,8 @@
                 "Lady"
             ],
             "text": "<b>Action:</b> Put a character with printed cost 5 or lower into play from your hand. Then, return Arianne Martell to your hand (cannot be saved). (Limit once per phase.)",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Tiziano Baracchi"
         },
         {
             "code": "01105",
@@ -1792,7 +1930,9 @@
                 "Lord"
             ],
             "text": "Insight.\nEach other [martell] <i>Lord</i> and <i>Lady</i> character you control gets +1 STR for each plot card in your used pile.",
-            "deckLimit": 3
+            "flavor": "\"Who fears to walk upon the grass? But it is the grass that hides the viper from his enemies and shelters him until he strikes.\"",
+            "deckLimit": 3,
+            "illustrator": "Tawny Fritzinger"
         },
         {
             "code": "01106",
@@ -1814,7 +1954,8 @@
                 "Lord"
             ],
             "text": "Stealth.\n<b>Action:</b> Pay 1 gold to give Edric Dayne a challenge icon of your choice until the end of the phase.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Roman V. Papsuev"
         },
         {
             "code": "01107",
@@ -1834,7 +1975,8 @@
                 "Maester"
             ],
             "text": "<b>Reaction:</b> After you lose a challenge in which Maester Caleotte is participating, choose a character. That character loses a challenge icon of your choice until the end of the phase.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Joshua Cairós"
         },
         {
             "code": "01108",
@@ -1855,7 +1997,9 @@
                 "Sand Snake"
             ],
             "text": "Obara Sand may be declared as a defender during [power] challenges in which you are the defending player, even while kneeling.",
-            "deckLimit": 3
+            "flavor": "\"Cersei sent us a head. We should send her back a bag of them.\"",
+            "deckLimit": 3,
+            "illustrator": "Tristan Denecke"
         },
         {
             "code": "01109",
@@ -1875,7 +2019,9 @@
                 "Lord"
             ],
             "text": "<b>Reaction:</b> After you win a challenge in which The Red Viper is participating as an attacker, he gains 1 power for every 5 STR by which you won the challenge.",
-            "deckLimit": 3
+            "flavor": "\"Oberyn was ever the viper. Deadly, dangerous, unpredictable. No man dared tread on him.\" <cite>Doran Martell</cite>",
+            "deckLimit": 3,
+            "illustrator": "Smirtouille"
         },
         {
             "code": "01110",
@@ -1895,7 +2041,8 @@
                 "Ally"
             ],
             "text": "<b>Marshaling Action:</b> Kneel Desert Scavenger to reduce the cost of the next [martell] character you marshal this phase by 1.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Carlo Bocchio"
         },
         {
             "code": "01111",
@@ -1915,7 +2062,8 @@
                 "Companion"
             ],
             "text": "<b>Reaction:</b> After Dornish Paramour is declared as an attacker, choose a character controlled by the defending player. That character must be declared as a defender for this challenge, if able.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Sedone Thongvilay"
         },
         {
             "code": "01112",
@@ -1935,7 +2083,8 @@
                 "Ally"
             ],
             "text": "<b>Reaction:</b> After Greenblood Trader enters play, look at the top 2 cards of your deck. Add up to 1 of those cards to your hand, and place the others on the bottom of your deck in any order.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Drazenka Kimpel"
         },
         {
             "code": "01113",
@@ -1956,7 +2105,9 @@
                 "Knight"
             ],
             "text": "",
-            "deckLimit": 3
+            "flavor": "They came astride red horses and golden ones and a few as pale as snow...",
+            "deckLimit": 3,
+            "illustrator": "Mariana Vieira"
         },
         {
             "code": "01114",
@@ -1976,7 +2127,8 @@
                 "Guard"
             ],
             "text": "No attachments.\nWhile you are not the first player, Palace Spearman gains an [intrigue] icon.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Slawomir Maniak"
         },
         {
             "code": "01115",
@@ -1990,7 +2142,8 @@
                 "Weapon"
             ],
             "text": "Attached character gets +1 STR for each plot card in your used pile.\nWhile attached character has the <i>House Dayne</i> trait, it gains intimidate.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Henning Ludvigsen"
         },
         {
             "code": "01116",
@@ -2004,7 +2157,8 @@
                 "Dorne"
             ],
             "text": "<b>Reaction:</b> After you lose a challenge as the defending player, kneel and sacrifice Ghaston Grey to return an attacking character to its owner's hand (cannot be saved).",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Ignacio Bazán Lazcano"
         },
         {
             "code": "01117",
@@ -2018,7 +2172,8 @@
                 "Dorne"
             ],
             "text": "<b>Reaction:</b> After you lose a challenge as the defending player, kneel Sunspear to raise the claim value on your revealed plot card by 1 during challenges of this same type until the end of the phase.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Yoann Boissonnet"
         },
         {
             "code": "01118",
@@ -2032,7 +2187,8 @@
                 "Dorne"
             ],
             "text": "Limited.\n<b>Marshaling Action:</b> Kneel Blood Orange Grove to reduce the cost of the next [martell] card you marshal this phase by 1.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Sergey Glushakov"
         },
         {
             "code": "01119",
@@ -2043,7 +2199,8 @@
             "cost": 1,
             "traits": [],
             "text": "<b>Reaction:</b> After you win an [intrigue] challenge by 5 or more STR, gain X power for your faction. X is the number of plot cards in your used pile. (Max 1 per challenge.)",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Jean Tay"
         },
         {
             "code": "01120",
@@ -2054,7 +2211,8 @@
             "cost": 0,
             "traits": [],
             "text": "Play only if you are not the first player.\n<b>Reaction:</b> After you lose a challenge as the defending player, name a challenge type. Until the end of the phase, the winner of the challenge cannot initiate challenges of that type. (Max 1 per challenge.)",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Daniel Rudnicki"
         },
         {
             "code": "01121",
@@ -2065,7 +2223,8 @@
             "cost": 1,
             "traits": [],
             "text": "<b>Action:</b> Choose a character with STR 4 or lower. Until the end of the phase, that character loses a [military], an [intrigue], and a [power] icon.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Katherine Dinger"
         },
         {
             "code": "01122",
@@ -2085,7 +2244,8 @@
                 "Ranger"
             ],
             "text": "Each <i>Ranger</i> character you control cannot be bypassed by stealth.\n<b>Interrupt:</b> When Benjen Stark is killed, gain 2 power for your faction. Then, shuffle him back into your deck instead of placing him in your dead pile.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Tiziano Baracchi"
         },
         {
             "code": "01123",
@@ -2105,7 +2265,9 @@
                 "Direwolf"
             ],
             "text": "No attachments. Stealth.\n<b>Reaction:</b> After Ghost bypasses a character using stealth, that character cannot be declared as a defender for any challenges until the end of the phase.",
-            "deckLimit": 3
+            "flavor": "\"He's not like the others. He never makes a sound. That's why I named him Ghost.\" <cite>Jon Snow</cite>",
+            "deckLimit": 3,
+            "illustrator": "Jacob Murray"
         },
         {
             "code": "01124",
@@ -2126,7 +2288,9 @@
                 "Steward"
             ],
             "text": "No attachments except <i>Weapon</i>.\nWhile Jon Snow is standing, he is considered to be participating in each challenge in which you control another attacking [thenightswatch] character.",
-            "deckLimit": 3
+            "flavor": "\"Different roads sometimes lead to the same castle.\"",
+            "deckLimit": 3,
+            "illustrator": "Michael Komarck"
         },
         {
             "code": "01125",
@@ -2147,7 +2311,9 @@
                 "Steward"
             ],
             "text": "No attachments.\n<b>Interrupt:</b> When a [thenightswatch] character would be killed, kneel Master Aemon to save it.",
-            "deckLimit": 3
+            "flavor": "\"Kill the boy, Jon Snow. Winter is almost upon us. Kill the boy and let the man be born.\"",
+            "deckLimit": 3,
+            "illustrator": "Leonardo Borazio"
         },
         {
             "code": "01126",
@@ -2168,7 +2334,9 @@
                 "Lord"
             ],
             "text": "While you control The Wall, Old Bear Mormont does not kneel when declared as a defender.\n<b>Interrupt:</b> When the challenges phase ends, if you have not lost a challenge as the defending player this phase, put a [thenightswatch] card into play from your hand.",
-            "deckLimit": 3
+            "flavor": "\"The things we love destroy us every time, lad. Remember that.\"",
+            "deckLimit": 3,
+            "illustrator": "Antonio José Manzanedo"
         },
         {
             "code": "01127",
@@ -2188,7 +2356,9 @@
                 "Steward"
             ],
             "text": "Insight.\n+1 Reserve.",
-            "deckLimit": 3
+            "flavor": "The world was full of cravens who pretended to be heroes; it took a queer sort of courage to admit to cowardice as Samwell Tarly had.",
+            "deckLimit": 3,
+            "illustrator": "Thomas Denmark"
         },
         {
             "code": "01128",
@@ -2209,7 +2379,9 @@
                 "Ranger"
             ],
             "text": "No attachments except <i>Weapon</i>.\n<b>Interrupt:</b> When Ser Waymar Royce is killed, discard 1 card at random from each opponent's hand.",
-            "deckLimit": 3
+            "flavor": "\"Do the dead frighten you?\"",
+            "deckLimit": 3,
+            "illustrator": "Davis Engel"
         },
         {
             "code": "01129",
@@ -2229,7 +2401,9 @@
                 "Wandering Crow"
             ],
             "text": "<b>Reaction:</b> After you marshal Yoren, choose a character with printed cost 3 or lower in an opponent's discard pile, and put it into play under your control.",
-            "deckLimit": 3
+            "flavor": "\"I got thirty this time, men and boys all bound for the Wall…\"",
+            "deckLimit": 3,
+            "illustrator": "Dleoblack"
         },
         {
             "code": "01130",
@@ -2249,7 +2423,8 @@
                 "Raven"
             ],
             "text": "No attachments.\n<b>Dominance Action:</b> Return Messenger Raven to your hand to draw 1 card.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Zezhou Chen"
         },
         {
             "code": "01131",
@@ -2269,7 +2444,8 @@
                 "Ranger"
             ],
             "text": "No attachments except <i>Weapon</i>.\n<b>Action:</b> Discard 1 card from your hand to gain 1 gold. (Limit once per phase.)",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Taylor Ingvarsson"
         },
         {
             "code": "01132",
@@ -2290,7 +2466,9 @@
                 "Ranger"
             ],
             "text": "No attachments except <i>Weapon</i>.",
-            "deckLimit": 3
+            "flavor": "We have a long ride before us. Eight days, maybe nine. And night is falling.\" <cite>Gared of the Night's Watch</cite>",
+            "deckLimit": 3,
+            "illustrator": "Tomasz Jedruszek"
         },
         {
             "code": "01133",
@@ -2311,7 +2489,9 @@
                 "Steward"
             ],
             "text": "<b>Marshaling Action:</b> Kneel Steward at the Wall to reduce the cost of the next [thenightswatch] character you marshal this phase by 1.",
-            "deckLimit": 3
+            "flavor": "\"We hunt and farm, tend the horses, milk the cows, gather firewood, cook the meals. Who do you think makes your clothing? Who brings up supplies from the south? The stewards.\" <cite>Chett</cite>",
+            "deckLimit": 3,
+            "illustrator": "Tiziano Baracchi"
         },
         {
             "code": "01134",
@@ -2331,7 +2511,8 @@
                 "Builder"
             ],
             "text": "No attachments except <i>Weapon</i>.\n<b>Action:</b> Sacrifice Veteran Builder to choose and stand a location.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Mauro Dal Bo"
         },
         {
             "code": "01135",
@@ -2346,7 +2527,9 @@
                 "Weapon"
             ],
             "text": "[thenightswatch] character only.\nAttached character gets +1 STR and gains renown.",
-            "deckLimit": 3
+            "flavor": "\"I use Longclaw when I must, ser.\" <cite>Jon Snow</cite>",
+            "deckLimit": 3,
+            "illustrator": "Zezhou Chen"
         },
         {
             "code": "01136",
@@ -2360,7 +2543,8 @@
                 "The North"
             ],
             "text": "<b>Action:</b> Kneel Castle Black to choose and stand a defending [thenightswatch] character. Until the end of the challenge, that character gets +2 STR.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Lino Drieghe"
         },
         {
             "code": "01137",
@@ -2375,7 +2559,8 @@
                 "The North"
             ],
             "text": "Each [thenightswatch] character you control gets +1 STR.\n<b>Forced Reaction:</b> After you lose an unopposed challenge, kneel The Wall.\n<b>Interrupt:</b> When the challenges phase ends, kneel The Wall to gain 2 power for your faction.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Lino Drieghe"
         },
         {
             "code": "01138",
@@ -2386,7 +2571,9 @@
             "cost": 0,
             "traits": [],
             "text": "<b>Reaction:</b> After an opponent collects income, move 1 gold from that player's gold pool to your own. (Max 1 per round.)",
-            "deckLimit": 3
+            "flavor": "\"The Night's Watch is not proud. We take what is offered.\" <cite>Old Bear Mormont</cite>",
+            "deckLimit": 3,
+            "illustrator": "Chase Toole"
         },
         {
             "code": "01139",
@@ -2397,7 +2584,9 @@
             "cost": 3,
             "traits": [],
             "text": "<b>Dominance Action:</b> Choose a non-unique character with printed cost 6 or lower. Take control of that character. (Max 1 per round.)",
-            "deckLimit": 3
+            "flavor": "\"I pledge my life and honor to the Night's Watch, for this night and all the nights to come.\" <cite>from the Night's Watch vow</cite>",
+            "deckLimit": 3,
+            "illustrator": "Eva Maria Toker"
         },
         {
             "code": "01140",
@@ -2408,7 +2597,8 @@
             "cost": 1,
             "traits": [],
             "text": "Play only during a challenge in which you control a participating [thenightswatch] character.\n<b>Reaction:</b> After you win a challenge by 5 or more STR as the defending player, the losing opponent cannot initiate challenges against you this round.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Ryan Barger"
         },
         {
             "code": "01141",
@@ -2428,7 +2618,8 @@
                 "Lady"
             ],
             "text": "Stealth.\nWhile Arya Stark has a duplicate, she gains a [military] icon.\n<b>Reaction:</b> After Arya Stark enters play, place the top card of your deck on her facedown as a duplicate.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Joshua Cairós"
         },
         {
             "code": "01142",
@@ -2448,7 +2639,9 @@
                 "Lord"
             ],
             "text": "<b>Interrupt:</b> When the effects of an opponent's event would initiate, sacrifice Bran Stark to cancel those effects.",
-            "deckLimit": 3
+            "flavor": "\"Can a man still be brave if he's afraid?\"",
+            "deckLimit": 3,
+            "illustrator": "Smirtouille"
         },
         {
             "code": "01143",
@@ -2470,7 +2663,9 @@
                 "The Seven"
             ],
             "text": "While Catelyn Stark is participating in a challenge, your opponents cannot trigger card abilities.",
-            "deckLimit": 3
+            "flavor": "I take no joy in mead nor meat, and song and laughter have become suspicious strangers to me. I am a creature of grief and dust and bitter longings. There is an empty place within me where my heart was once.",
+            "deckLimit": 3,
+            "illustrator": "Tommy Arnold"
         },
         {
             "code": "01144",
@@ -2491,7 +2686,9 @@
                 "Small Council"
             ],
             "text": "Renown.\n<b>Reaction:</b> After a challenge is initiated against you, stand Eddard Stark.",
-            "deckLimit": 3
+            "flavor": "\"The winters are hard, but the Starks will endure. We always have.\"",
+            "deckLimit": 3,
+            "illustrator": "Jacob Murray"
         },
         {
             "code": "01145",
@@ -2511,7 +2708,8 @@
                 "Direwolf"
             ],
             "text": "Intimidate. No attachments.\n<b>Challenges Action:</b> Kneel Grey Wind to choose and kill a character with STR 1 or lower. (STR 2 or lower instead if you control Robb Stark).",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Brian Valenzuela"
         },
         {
             "code": "01146",
@@ -2531,7 +2729,9 @@
                 "Lord"
             ],
             "text": "Renown.\n<b>Reaction:</b> After a [stark] character you control is sacrificed or killed, stand each character you control. (Limit once per round.)",
-            "deckLimit": 3
+            "flavor": "\"I have won every battle, yet somehow I'm losing the war.\"",
+            "deckLimit": 3,
+            "illustrator": "Diego Gisbert Llorens"
         },
         {
             "code": "01147",
@@ -2551,7 +2751,9 @@
                 "Lady"
             ],
             "text": "Sansa Stark enters play knelt.\n<b>Reaction:</b> After Sansa Stark stands, gain 1 power for your faction. (Limit once per round.)",
-            "deckLimit": 3
+            "flavor": "\"Why would you want to ride a smelly old horse and get all sore and sweaty when you could recline on feather pillows and eat cakes with the queen?\"",
+            "deckLimit": 3,
+            "illustrator": "Michael Komarck"
         },
         {
             "code": "01148",
@@ -2571,7 +2773,8 @@
                 "Direwolf"
             ],
             "text": "No attachments.\nWhile you control Bran Stark, he gains insight.\n<b>Reaction:</b> After Summer enters play, return a [stark] character with printed STR 2 or lower from your discard or dead pile to your hand.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Smirtouille"
         },
         {
             "code": "01149",
@@ -2591,7 +2794,8 @@
                 "Direwolf"
             ],
             "text": "No attachments.\nDirewolf Pup gets +1 STR for each other <i>Direwolf</i> card you control.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Patrick McEvoy"
         },
         {
             "code": "01150",
@@ -2612,7 +2816,9 @@
                 "Knight"
             ],
             "text": "",
-            "deckLimit": 3
+            "flavor": "Riverrun is situated at the end of the point of land where the Tumblestone flows into the Red Fork of the Trident.",
+            "deckLimit": 3,
+            "illustrator": "Jonathan Standing"
         },
         {
             "code": "01151",
@@ -2632,7 +2838,8 @@
                 "Army"
             ],
             "text": "No attachments.\nWhile a player has a <i>War</i> plot revealed, Vanguard of the North does not kneel when declared as an attacker in a [military] challenge.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Tomasz Jedruszek"
         },
         {
             "code": "01152",
@@ -2653,7 +2860,8 @@
                 "Steward"
             ],
             "text": "<b>Marshaling Action:</b> Kneel Winterfell Steward to reduce the cost of the next [stark] character you marshal this phase by 1.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Chris Metcalf"
         },
         {
             "code": "01153",
@@ -2668,7 +2876,8 @@
                 "Weapon"
             ],
             "text": "[stark] character only. \nAttached character gets +2 STR.\n<b>Reaction:</b> After you win a [military] challenge in which attached character is participating, sacrifice Ice to choose and kill a character controlled by the losing opponent.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Michael Komarck"
         },
         {
             "code": "01154",
@@ -2683,7 +2892,8 @@
                 "Winterfell"
             ],
             "text": "<b>Challenges Action:</b> Kneel Gates of Winterfell to reveal the top card of your deck. If it is a [stark] card, draw it.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Mariusz Gandzel"
         },
         {
             "code": "01155",
@@ -2697,7 +2907,8 @@
                 "The North"
             ],
             "text": "Each <i>Direwolf</i> card in your hand gains ambush (X). X is that card's printed cost.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Juan Carlos Barquet"
         },
         {
             "code": "01156",
@@ -2712,7 +2923,8 @@
                 "Winterfell"
             ],
             "text": "Limited.\n<b>Marshaling Action:</b> Kneel Heart Tree Grove to reduce the cost of the next [stark] card you marshal this phase by 1.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Bill Thompson"
         },
         {
             "code": "01157",
@@ -2723,7 +2935,8 @@
             "cost": 0,
             "traits": [],
             "text": "Play only during a [military] challenge.\n<b>Action:</b> Choose a participating [stark] character. Until the end of the challenge, that character gets +2 STR. If you win the challenge, draw 1 card.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Tomasz Jedruszek"
         },
         {
             "code": "01158",
@@ -2734,7 +2947,9 @@
             "cost": 1,
             "traits": [],
             "text": "<b>Reaction:</b> After you lose an [intrigue] challenge as the defending player, kneel a <i>Direwolf</i> character to choose and kill an attacking character. (Max 1 per challenge.)",
-            "deckLimit": 3
+            "flavor": "His blood felt like warm rain as it sprayed across her face.",
+            "deckLimit": 3,
+            "illustrator": "Rafal Hrynkiewicz"
         },
         {
             "code": "01159",
@@ -2745,7 +2960,8 @@
             "cost": 1,
             "traits": [],
             "text": "Play only during a challenge.\n<b>Action:</b> Until the end of the challenge, raise the claim value on your revealed plot card by 1. (Max 1 per challenge.)",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Linda Bergkvist"
         },
         {
             "code": "01160",
@@ -2766,7 +2982,9 @@
                 "Stormborn"
             ],
             "text": "Insight.\nWhile Daenerys Targaryen is standing, each character participating on an opponent's side in a challenge against you gets -1 STR.",
-            "deckLimit": 3
+            "flavor": "\"I am Daenerys Stormborn of House Targaryen, the Unburnt, Mother of Dragons, khaleesi to Drogo's riders, and queen of the Seven Kingdoms of Westeros.\"",
+            "deckLimit": 3,
+            "illustrator": "Jacob Murray"
         },
         {
             "code": "01161",
@@ -2787,7 +3005,8 @@
                 "Hatchling"
             ],
             "text": "No attachments.\nEach <i>Stormborn</i> character you control gains renown.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Jacob Murray"
         },
         {
             "code": "01162",
@@ -2808,7 +3027,9 @@
                 "Lord"
             ],
             "text": "Renown.\nYou may initiate an additional [military] challenge during the challenges phase.",
-            "deckLimit": 3
+            "flavor": "\"When Dothraki are defeated in combat, they cut off their braids in disgrace, so the world will know their shame. Khal Drogo has never lost a fight.\" <cite>Viserys Targaryen</cite>",
+            "deckLimit": 3,
+            "illustrator": "Smirtouille"
         },
         {
             "code": "01163",
@@ -2829,7 +3050,9 @@
                 "Merchant"
             ],
             "text": "<b>Action:</b> Pay 2 gold to choose and stand a character. (Limit once per phase.)",
-            "deckLimit": 3
+            "flavor": "\"Illyrio believes in no cause but Illyrio. Gluttons are greedy men as a rule, and magisters are devious. Illyrio Mopatis is both.\"",
+            "deckLimit": 3,
+            "illustrator": "Sebastian Ciaffaglione"
         },
         {
             "code": "01164",
@@ -2850,7 +3073,8 @@
                 "Hatchling"
             ],
             "text": "No attachments.\n<b>Reaction:</b> After you win a challenge in which a <i>Stormborn</i> character you control is participating, choose and stand a <i>Stormborn</i> character. (Limit once per phase.)",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Jacob Murray"
         },
         {
             "code": "01165",
@@ -2871,7 +3095,8 @@
                 "Knight"
             ],
             "text": "Renown.\nIf Ser Jorah Mormont has 3 or more betrayal tokens on him, sacrifice him.\n<b>Forced Reaction:</b> After you win a challenge in which Ser Jorah Mormont is participating, place 1 betrayal token on him.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Aaron Riley"
         },
         {
             "code": "01166",
@@ -2892,7 +3117,8 @@
                 "Hatchling"
             ],
             "text": "No attachments.\nEach <i>Stormborn</i> character you control gains stealth.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Jacob Murray"
         },
         {
             "code": "01167",
@@ -2912,7 +3138,9 @@
                 "Lord"
             ],
             "text": "<b>Interrupt:</b> When Viserys Targaryen leaves play, choose an attachment, and discard it from play.",
-            "deckLimit": 3
+            "flavor": "\"When they write the history of my reign, sweet sister, they will say it began tonight.\"",
+            "deckLimit": 3,
+            "illustrator": "Sebastian Giacobino"
         },
         {
             "code": "01168",
@@ -2932,7 +3160,9 @@
                 "Dothraki"
             ],
             "text": "No attachments except <i>Weapon</i>.",
-            "deckLimit": 3
+            "flavor": "Among the Dothraki, the man who does not ride was no man at all, the lowest of the low, without honor or pride.",
+            "deckLimit": 3,
+            "illustrator": "Niten"
         },
         {
             "code": "01169",
@@ -2953,7 +3183,9 @@
                 "Companion"
             ],
             "text": "<b>Action:</b> Sacrifice Handmaiden to choose and stand a <i>Lady</i> character.",
-            "deckLimit": 3
+            "flavor": "Her handmaids had helped her ready herself for the ceremony. Despite the tender mother's stomach that had afflicted her these past two moons, Dany had dined on bowls of half-clotted blood to accustom herself to the taste, and Irri made her chew strips of dried horseflesh until her jaws were aching.",
+            "deckLimit": 3,
+            "illustrator": "Katherine Dinger"
         },
         {
             "code": "01170",
@@ -2973,7 +3205,9 @@
                 "Ally"
             ],
             "text": "<b>Marshaling Action:</b> Kneel Targaryen Loyalist to reduce the cost of the next [targaryen] character you marshal this phase by 1.",
-            "deckLimit": 3
+            "flavor": "\"In holdfasts all across the realm, men lift secret toasts to your health while women sew dragon banners and hide them against the day of your return from across the water.\" <cite>Illyrio Mopatis</cite>",
+            "deckLimit": 3,
+            "illustrator": "Tommy Arnold"
         },
         {
             "code": "01171",
@@ -2993,7 +3227,8 @@
                 "Army"
             ],
             "text": "No attachments except <i>Weapon</i>.\nWhile Unsullied is attacking, each defending character gets -1 STR.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Tomasz Jedruszek"
         },
         {
             "code": "01172",
@@ -3007,7 +3242,8 @@
                 "Weapon"
             ],
             "text": "<i>Dothraki</i> character only.\nAttached character gets +2 STR.\nIf attached character is Khal Drogo, he does not kneel when declared as an attacker in the first [military] challenge you initiate each round.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "JB Casacop"
         },
         {
             "code": "01173",
@@ -3021,7 +3257,8 @@
                 "Astapor"
             ],
             "text": "<b>Reaction:</b> After you win a [power] challenge, kneel Plaza of Punishment to choose a character without attachments. Until the end of the phase, that character gets -2 STR and is killed if its STR is 0.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Tomasz Jedruszek"
         },
         {
             "code": "01174",
@@ -3035,7 +3272,8 @@
                 "Essos"
             ],
             "text": "<b>Reaction:</b> After you win a [power] challenge, sacrifice Dothraki Sea to put a <i>Dothraki</i> character into play from your hand. At the end of the phase, if that card is still in play, return it to your hand (cannot be saved).",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Eric Wilkerson"
         },
         {
             "code": "01175",
@@ -3049,7 +3287,8 @@
                 "Pentos"
             ],
             "text": "Limited.\n<b>Marshaling Action:</b> Kneel Illyrio's Estate to reduce the cost of the next [targaryen] card you marshal this phase by 1.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Mariusz Gandzel"
         },
         {
             "code": "01176",
@@ -3060,7 +3299,8 @@
             "cost": 1,
             "traits": [],
             "text": "<b>Action:</b> Kneel a <i>Dragon</i> character or Daenerys Targaryen to choose a participating character. Until the end of the phase, that character gets -4 STR and is killed if its STR is 0.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Jacob Murray"
         },
         {
             "code": "01177",
@@ -3071,7 +3311,8 @@
             "cost": 1,
             "traits": [],
             "text": "<b>Challenges Action:</b> Choose a unique [targaryen] character in your dead pile, and shuffle it back into your deck. If that character is a <i>Hatchling</i>, you may put it into play instead.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Michael Komarck"
         },
         {
             "code": "01178",
@@ -3082,7 +3323,8 @@
             "cost": 0,
             "traits": [],
             "text": "<b>Action:</b> Choose and stand a unique [targaryen] character you control. At the end of the phase, if that character is still in play, return it to your hand.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Sebastian Giacobino"
         },
         {
             "code": "01179",
@@ -3102,7 +3344,8 @@
                 "Guard"
             ],
             "text": "No attachments except <i>Weapon</i>.\nWhile you control Right, Left gets +1 STR, gains a [power] icon, and does not kneel when declared as a defender.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Diego Gisbert Llorens"
         },
         {
             "code": "01180",
@@ -3122,7 +3365,8 @@
                 "Maester"
             ],
             "text": "<b>Reaction:</b> After you win an [intrigue] challenge as the defending player, discard 1 card at random from the attacking player's hand.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Cory R. Turner"
         },
         {
             "code": "01181",
@@ -3142,7 +3386,9 @@
                 "Lady"
             ],
             "text": "<b>Challenges Action:</b> Kneel Margaery Tyrell to choose a character. Until the end of the phase, that character gets +3 STR.",
-            "deckLimit": 3
+            "flavor": "\"I know what a burden you bear. You should let me share the load. There must be some things I could do to help you.\"",
+            "deckLimit": 3,
+            "illustrator": "Jean Tay"
         },
         {
             "code": "01182",
@@ -3163,7 +3409,8 @@
                 "Lord"
             ],
             "text": "Reduce the cost of the first event you play each round by 1.\n+1 Income.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Lukasz Jaskolski"
         },
         {
             "code": "01183",
@@ -3184,7 +3431,8 @@
                 "Lord"
             ],
             "text": "Renown.\n<b>Reaction:</b> After Randyll Tarly's STR is increased by a card effect, stand him. (Limit twice per phase.)",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Joshua Cairós"
         },
         {
             "code": "01184",
@@ -3204,7 +3452,8 @@
                 "Guard"
             ],
             "text": "No attachments except <i>Weapon</i>.\nWhile you control Left, Right gets +1 STR, gains an [intrigue] icon, and does not kneel when declared as a defender.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Diego Gisbert Llorens"
         },
         {
             "code": "01185",
@@ -3225,7 +3474,8 @@
                 "Lord"
             ],
             "text": "Renown.\nWhile The Knight of Flowers is attacking alone, the defending player cannot declare more than 1 character as a defender.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Michael Komarck"
         },
         {
             "code": "01186",
@@ -3245,7 +3495,9 @@
                 "Lady"
             ],
             "text": "<b>Reaction:</b> After you win an [intrigue] challenge in which The Queen of Thorns is participating, put a [tyrell] character with printed cost 6 or lower into play from your hand.",
-            "deckLimit": 3
+            "flavor": "\"All men are fools, if truth be told, but the ones in motley are more amusing than ones with crowns.\"",
+            "deckLimit": 3,
+            "illustrator": "Diego Gisbert Llorens"
         },
         {
             "code": "01187",
@@ -3266,7 +3518,9 @@
                 "Spy"
             ],
             "text": "",
-            "deckLimit": 3
+            "flavor": "The war had not touched the fabled bounty of Highgarden.",
+            "deckLimit": 3,
+            "illustrator": "Katherine Dinger"
         },
         {
             "code": "01188",
@@ -3286,7 +3540,8 @@
                 "Ally"
             ],
             "text": "<b>Marshaling Action:</b> Kneel Garden Caretaker to reduce the cost of the next [tyrell] character you marshal this phase by 1.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Nicole Cardiff"
         },
         {
             "code": "01189",
@@ -3307,7 +3562,8 @@
                 "Spy"
             ],
             "text": "Ambush (4).\n<b>Reaction:</b> After Olenna's Informant enters play during the challenges phase, name a challenge type. You may initiate an additional challenge of that type this phase.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Mariana Vieira"
         },
         {
             "code": "01190",
@@ -3327,7 +3583,8 @@
                 "Army"
             ],
             "text": "No attachments.\nWardens of the Reach gets +1 STR for each <i>The Reach</i> location you control.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Tomasz Jedruszek"
         },
         {
             "code": "01191",
@@ -3342,7 +3599,8 @@
                 "Weapon"
             ],
             "text": "[tyrell] character only.\n<b>Action:</b> While attached character is participating in a challenge, kneel Heartsbane to give that character +3 STR until the end of the challenge.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Sara Biddle"
         },
         {
             "code": "01192",
@@ -3357,7 +3615,8 @@
                 "The Reach"
             ],
             "text": "<b>Challenges Action:</b> Kneel Highgarden and pay 1 gold to choose an attacking character. Stand that character and remove it from the challenge.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Juan Carlos Barquet"
         },
         {
             "code": "01193",
@@ -3371,7 +3630,8 @@
                 "The Reach"
             ],
             "text": "<b>Reaction:</b> After you win a challenge by 5 or more STR, kneel The Mander to draw 2 cards.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Franz Miklis"
         },
         {
             "code": "01194",
@@ -3385,7 +3645,8 @@
                 "The Reach"
             ],
             "text": "Limited.\n<b>Marshaling Action:</b> Kneel Rose Garden to reduce the cost of the next [tyrell] card you marshal this phase by 1.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Franz Miklis"
         },
         {
             "code": "01195",
@@ -3396,7 +3657,8 @@
             "cost": 1,
             "traits": [],
             "text": "<b>Challenges Action:</b> Choose up to three [tyrell] characters. Until the end of the phase, each of the chosen characters gets +2 STR.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Logan Feliciano"
         },
         {
             "code": "01196",
@@ -3407,7 +3669,8 @@
             "cost": 2,
             "traits": [],
             "text": "<b>Reaction:</b> After you win an [intrigue] or [power] challenge, the losing opponent names a cardtype (character, location, attachment, or event). Search your deck for a card with a different cardtype, reveal it, and add it to your hand. Shuffle your deck.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Thomas Denmark"
         },
         {
             "code": "01197",
@@ -3420,7 +3683,9 @@
                 "Song"
             ],
             "text": "<b>Action:</b> Choose a player. Look at the top 5 cards of that player's deck. Place up to 3 of those cards on the bottom of that deck, and the others on top, in any order.",
-            "deckLimit": 3
+            "flavor": "And off they went, from here to there,\nThe bear, the bear, and the maiden fair.",
+            "deckLimit": 3,
+            "illustrator": "Serena Malyon"
         },
         {
             "code": "01198",
@@ -3431,7 +3696,9 @@
                 "Banner"
             ],
             "text": "You may include non-loyal [baratheon] cards in your deck.\nYou must include at least 12 [baratheon] cards in your deck.",
-            "deckLimit": 1
+            "flavor": "\"I never asked for Dragonstone. I never wanted it.\" <cite>Stannis Baratheon</cite>",
+            "deckLimit": 1,
+            "illustrator": "David Griffith"
         },
         {
             "code": "01199",
@@ -3442,7 +3709,9 @@
                 "Banner"
             ],
             "text": "You may include non-loyal [greyjoy] cards in your deck.\nYou must include at least 12 [greyjoy] cards in your deck.",
-            "deckLimit": 1
+            "flavor": "\"Greyjoy demands half the kingdom as the price of alliance, but what will he do to earn it?\" <cite>Tywin Lannister</cite>",
+            "deckLimit": 1,
+            "illustrator": "David Griffith"
         },
         {
             "code": "01200",
@@ -3453,7 +3722,8 @@
                 "Banner"
             ],
             "text": "You may include non-loyal [lannister] cards in your deck.\nYou must include at least 12 [lannister] cards in your deck.",
-            "deckLimit": 1
+            "deckLimit": 1,
+            "illustrator": "David Griffith"
         },
         {
             "code": "01201",
@@ -3464,7 +3734,8 @@
                 "Banner"
             ],
             "text": "You may include non-loyal [martell] cards in your deck.\nYou must include at least 12 [martell] cards in your deck.",
-            "deckLimit": 1
+            "deckLimit": 1,
+            "illustrator": "David Griffith"
         },
         {
             "code": "01202",
@@ -3475,7 +3746,8 @@
                 "Banner"
             ],
             "text": "You may include non-loyal [thenightswatch] cards in your deck.\nYou must include at least 12 [thenightswatch] cards in your deck.",
-            "deckLimit": 1
+            "deckLimit": 1,
+            "illustrator": "David Griffith"
         },
         {
             "code": "01203",
@@ -3486,7 +3758,8 @@
                 "Banner"
             ],
             "text": "You may include non-loyal [stark] cards in your deck.\nYou must include at least 12 [stark] cards in your deck.",
-            "deckLimit": 1
+            "deckLimit": 1,
+            "illustrator": "David Griffith"
         },
         {
             "code": "01204",
@@ -3497,7 +3770,8 @@
                 "Banner"
             ],
             "text": "You may include non-loyal [targaryen] cards in your deck.\nYou must include at least 12 [targaryen] cards in your deck.",
-            "deckLimit": 1
+            "deckLimit": 1,
+            "illustrator": "David Griffith"
         },
         {
             "code": "01205",
@@ -3508,7 +3782,8 @@
                 "Banner"
             ],
             "text": "You may include non-loyal [tyrell] cards in your deck.\nYou must include at least 12 [tyrell] cards in your deck.",
-            "deckLimit": 1
+            "deckLimit": 1,
+            "illustrator": "David Griffith"
         },
         {
             "code": "01206",
@@ -3517,7 +3792,9 @@
             "faction": "neutral",
             "traits": [],
             "text": "Supported by Master of Ships\nSupports: Hand of the King\nRivals: Master of Laws, Master of Coin\nYou may resolve your [intrigue] claim against any number of opponents of your choice.\n+1 STR [intrigue]",
-            "deckLimit": 1
+            "flavor": "\"There are things I might tell you of that eunuch that would chill your blood.\" <cite>Grand Maester Pycelle</cite>",
+            "deckLimit": 1,
+            "illustrator": "Mike Capprotti"
         },
         {
             "code": "01207",
@@ -3526,7 +3803,9 @@
             "faction": "neutral",
             "traits": [],
             "text": "Supported by Master of Coin\nSupports: Master of Whispers\nRivals: Master of Laws, Hand of the King\nRaise the claim value on your revealed plot card by 1 during [military] challenges in which you are attacking a rival.\n+1 STR [military]",
-            "deckLimit": 1
+            "flavor": "\"He is well suited to the office. He has spent half his life on ships.\" <cite>Cersei Lannister</cite>",
+            "deckLimit": 1,
+            "illustrator": "Ben Zweifel"
         },
         {
             "code": "01208",
@@ -3535,7 +3814,9 @@
             "faction": "neutral",
             "traits": [],
             "text": "Supported by Master of Whispers.\nSupports: Master of Laws.\nRivals: Master of Coin, Master of Ships.\nYou may initiate an additional [power] challenge during the challenges phase, against a different opponent.\n+1 STR [power]",
-            "deckLimit": 1
+            "flavor": "The Hand of the King was the second-most powerful man in the Seven Kingdoms.",
+            "deckLimit": 1,
+            "illustrator": "Sara Biddle"
         },
         {
             "code": "01209",
@@ -3544,7 +3825,9 @@
             "faction": "neutral",
             "traits": [],
             "text": "Supported by Master of Laws.\nSupports: Master of Ships\nRivals: Hand of the King, Master of Whispers\n+2 Income.",
-            "deckLimit": 1
+            "flavor": "Within three years of his coming to court, he was master of coin and a member of the small council, and today the crown's revenues were ten times what they had been under his beleaguered predecessor… though the crown's debt had grown vast as well.",
+            "deckLimit": 1,
+            "illustrator": "Chris Pritchard"
         },
         {
             "code": "01210",
@@ -3553,7 +3836,9 @@
             "faction": "neutral",
             "traits": [],
             "text": "Supported by Hand of the King\nSupports: Master of Coin\nRivals: Master of Whispers, Master of Ships\nIncrease the number of cards you draw in the draw phase by 1.\n+1 Reserve.",
-            "deckLimit": 1
+            "flavor": "\"Stannis is still the rightful heir by all the laws of the Seven Kingdoms.\" <cite>Ser Davos Seaworth</cite>",
+            "deckLimit": 1,
+            "illustrator": "Yoann Boissonnet"
         },
         {
             "code": "01211",
@@ -3562,7 +3847,9 @@
             "faction": "neutral",
             "traits": [],
             "text": "Supported by None\nSupports: None\nRivals: None\nYou may redirect 1 challenge this round.\n+2 STR for Dominance",
-            "deckLimit": 1
+            "flavor": "\"The Hand serves,\" the young knight informed him airily. \"The regent rules until the king is of age.\" <cite>Ser Lancel Lannister</cite>",
+            "deckLimit": 1,
+            "illustrator": "Tomasz Jedruszek"
         }
     ]
 }

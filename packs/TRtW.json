@@ -22,7 +22,8 @@
                 "Ally"
             ],
             "text": "<b>Challenges Action:</b> If you control a participating [stark] character, kneel a <i>Direwolf</i> character or a character with a <i>Direwolf</i> attachment to have it participate in the current challenge on your side. (Limit once per phase.)",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Richard Hanuschek"
         },
         {
             "code": "02022",
@@ -37,7 +38,8 @@
                 "Winterfell"
             ],
             "text": "During a [military] or [power] challenge in which you control 2 or more unique participating [stark] characters, each of those characters gets +2 STR.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Federico Musetti"
         },
         {
             "code": "02023",
@@ -57,7 +59,8 @@
                 "Companion"
             ],
             "text": "Lady-in-Waiting may be marshaled as a duplicate <em>(at no cost)</em> on a <i>Lady</i> character you own and control.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Nathalia Gomes"
         },
         {
             "code": "02024",
@@ -68,7 +71,8 @@
             "cost": 1,
             "traits": [],
             "text": "<b>Reaction:</b> After you win a challenge in which you control a <i>Knight</i> character that is attacking or defending alone, that character gains 1 power. (3 power instead if you control a <i>Lady</i> character.) (Max 1 per challenge.)",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Christine Mitzuk"
         },
         {
             "code": "02025",
@@ -88,7 +92,8 @@
                 "Companion"
             ],
             "text": "No attachments except <i>Weapon</i>.\n<b>Challenges Action:</b> Unsworn Apprentice gains a challenge icon of your choice until the end of the phase. (Limit once per phase.)",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Sara Winters"
         },
         {
             "code": "02026",
@@ -102,7 +107,8 @@
                 "The North"
             ],
             "text": "<b>Reaction:</b> After you marshal a <i>Builder</i> character, reduce the cost of the next [thenightswatch] card you marshal this phase by 1. (Limit 3 times per phase.)",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Dawn Carlos"
         },
         {
             "code": "02027",
@@ -122,7 +128,9 @@
                 "Ally"
             ],
             "text": "<b>Forced Reaction:</b> After you lose an [intrigue] challenge, kneel Royal Entourage.",
-            "deckLimit": 3
+            "flavor": "The visitors poured through the castle gates in a river of gold and silver and polished steel, three hundred strong, a pride of bannermen and knights, of sworn swords and freeriders.",
+            "deckLimit": 3,
+            "illustrator": "Tomasz Jedruszek"
         },
         {
             "code": "02028",
@@ -133,7 +141,8 @@
             "cost": 1,
             "traits": [],
             "text": "Play only during a [military] challenge in which you are the defending player.\n<b>Action:</b> Kneel your faction card to end this challenge with no winner or loser. Until the end of the phase, you cannot initiate [military] challenges.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Victor Manuel Leza Moreno"
         },
         {
             "code": "02029",
@@ -153,7 +162,8 @@
                 "Companion"
             ],
             "text": "<b>Reaction:</b> After the challenges phase begins, choose a player. That player may give you 1 gold from his or her gold pool. Until the end of the phase, if that player has not given you gold this phase, he or she cannot initiate [military] challenges against you.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Tiziano Baracchi"
         },
         {
             "code": "02030",
@@ -171,7 +181,8 @@
                 "Scheme"
             ],
             "text": "<b>Reaction:</b> After you win an [intrigue] challenge, pay 2 gold to have the losing opponent choose and discard 2 cards from his or her hand.",
-            "deckLimit": 1
+            "deckLimit": 1,
+            "illustrator": "Aleksander Karcz"
         },
         {
             "code": "02031",
@@ -192,7 +203,9 @@
                 "Lord"
             ],
             "text": "<b>Reaction:</b> After you win an unopposed challenge in which a unique [greyjoy] character is participating, either: draw 1 card, or discard the top 3 cards from each opponent's deck. (Limit once per phase.)",
-            "deckLimit": 3
+            "designer": "Card design by 2011 European Joust Champion, Martí Foz Hernandez.",
+            "deckLimit": 3,
+            "illustrator": "Nacho Molina"
         },
         {
             "code": "02032",
@@ -206,7 +219,8 @@
                 "Warship"
             ],
             "text": "<b>Challenges Action:</b> If you are the first player, kneel Raiding Longship to choose a defending character without attachments. That character does not contribute its STR to this challenge.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Tomasz Jedruszek"
         },
         {
             "code": "02033",
@@ -227,7 +241,9 @@
                 "Dothraki"
             ],
             "text": "While you control another <i>Bloodrider</i> character, Rakharo gains intimidate.\n<b>Reaction:</b> After a character is killed to satisfy claim during a challenge you initiated, Rakharo gains 1 power.",
-            "deckLimit": 3
+            "flavor": "\"As you say, I do, blood of my blood.\"",
+            "deckLimit": 3,
+            "illustrator": "Jason Jenicke"
         },
         {
             "code": "02034",
@@ -241,7 +257,8 @@
                 "Item"
             ],
             "text": "Terminal.\nAttached character gains the <i>King</i> trait.\nAttached character gets -4 STR and is killed if its STR is 0.",
-            "deckLimit": 1
+            "deckLimit": 1,
+            "illustrator": "Sara Biddle"
         },
         {
             "code": "02035",
@@ -262,7 +279,8 @@
                 "Sand Snake"
             ],
             "text": "<b>Challenges Action:</b> Choose an opponent's character. Until the end of the phase, that character loses a challenge icon of your choice, and each <i>Sand Snake</i> character you control gains that challenge icon. (Limit once per phase.)",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Smirtouille"
         },
         {
             "code": "02036",
@@ -273,7 +291,8 @@
             "cost": 0,
             "traits": [],
             "text": "<b>Action:</b> Kneel your faction card to gain X gold. X is the number of plot cards in your used pile.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Tim Durning"
         },
         {
             "code": "02037",
@@ -292,7 +311,9 @@
                 "Companion"
             ],
             "text": "Stealth.\n<b>Challenges Action:</b> Choose a character. Until the end of the phase, that character gains a [military] icon and stealth. (Limit once per phase.)",
-            "deckLimit": 3
+            "flavor": "\"Just so.\"",
+            "deckLimit": 3,
+            "illustrator": "Sebastian Ciaffaglione"
         },
         {
             "code": "02038",
@@ -305,7 +326,8 @@
                 "King's Landing"
             ],
             "text": "<b>Reaction:</b> After you win an [intrigue] challenge, kneel your faction card to search the top 10 cards of your deck for an in-faction event, reveal it, and add it to your hand. Shuffle your deck.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Matthew Cowdery"
         },
         {
             "code": "02039",
@@ -322,7 +344,8 @@
                 "Kingdom"
             ],
             "text": "<b>When Revealed:</b> Each opponent gains 3 gold. (Cannot be canceled.)",
-            "deckLimit": 1
+            "deckLimit": 1,
+            "illustrator": "Drazenka Kimpel"
         },
         {
             "code": "02040",
@@ -339,7 +362,8 @@
                 "Edict"
             ],
             "text": "<b>When Revealed:</b> Each player chooses up to 2 locations he or she controls. Each location not chosen is discarded from play.",
-            "deckLimit": 1
+            "deckLimit": 1,
+            "illustrator": "JB Casacop"
         }
     ]
 }

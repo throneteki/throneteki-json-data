@@ -22,7 +22,9 @@
                 "House Reed"
             ],
             "text": "Stealth.\n<b>Reaction:</b> After Jojen Reed stands, reveal the top card of each player's deck. You may either: discard each of those cards, or have each player draw 1 card.",
-            "deckLimit": 3
+            "flavor": "\"With two eyes you see my face. With three you could see my heart.\"",
+            "deckLimit": 3,
+            "illustrator": "Joel Hustak"
         },
         {
             "code": "04062",
@@ -36,7 +38,9 @@
                 "Title"
             ],
             "text": "[stark] character only.\nAttached character gains the <i>King</i> trait and does not kneel when declared as an attacker in a [military] challenge.",
-            "deckLimit": 3
+            "flavor": "What should he fear? He was the Young Wolf, King of the Trident and the North.",
+            "deckLimit": 3,
+            "illustrator": "Antonio José Manzanedo"
         },
         {
             "code": "04063",
@@ -56,7 +60,8 @@
                 "Army"
             ],
             "text": "Intimidate. No attachments.\nWhile there is a <i>Summer</i> plot card revealed, King Renly's Host gets +4 STR.\nWhile there is a <i>Winter</i> plot card revealed, King Renly's Host cannot be declared as an attacker.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Tomasz Jedruszek"
         },
         {
             "code": "04064",
@@ -70,7 +75,9 @@
                 "The Reach"
             ],
             "text": "<b>Reaction:</b> After you reveal a plot card, choose a player. Look at the top 2 cards of that player's deck. Place 1 of those cards on the bottom of that deck, and the other on top.",
-            "deckLimit": 3
+            "flavor": "Lord Caswell's keep was scarcely tall enough to call a tower, but the country was low and flat and Catelyn could see for leagues in all directions.",
+            "deckLimit": 3,
+            "illustrator": "Sergey Glushakov"
         },
         {
             "code": "04065",
@@ -90,7 +97,8 @@
                 "Builder"
             ],
             "text": "No attachments except <i>Weapon</i>.\nWhile you control 3 or more [thenightswatch] locations and/or attachments, Shadow Tower Mason gains a [military] and an [intrigue] icon.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Antonio José Manzanedo"
         },
         {
             "code": "04066",
@@ -104,7 +112,8 @@
                 "The North"
             ],
             "text": "While The Haunted Forest is standing, it contributes 1 STR to your side during any challenge in which you are the defending player.\n<b>Forced Reaction:</b> After you lose a challenge, kneel The Haunted Forest.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Juan Carlos Barquet"
         },
         {
             "code": "04067",
@@ -125,7 +134,9 @@
                 "Lord"
             ],
             "text": "During [power] challenges, each participating non-<i>King</i> character gets -1 STR.\n<b>Reaction:</b> After you win dominance, choose a non-loyal character. That character cannot stand during the standing phase this round.",
-            "deckLimit": 3
+            "flavor": "\"Kings have no friends.\"",
+            "deckLimit": 3,
+            "illustrator": "Nicholas Gregory"
         },
         {
             "code": "04068",
@@ -140,7 +151,9 @@
                 "R'hllor"
             ],
             "text": "Attached character gains the <i>R'hllor</i> trait and gets +1 STR for each <i>R'hllor</i> character you control.",
-            "deckLimit": 3
+            "flavor": "\"Azor Ahai has come again! All hail the Warrior of Light! All hail the Son of Fire!\" <cite>Melisandre</cite>",
+            "deckLimit": 3,
+            "illustrator": "Tim Durning"
         },
         {
             "code": "04069",
@@ -160,7 +173,9 @@
                 "Lady"
             ],
             "text": "<b>Reaction:</b> After you marshal Tanda Stokeworth, each player gains 3 gold.",
-            "deckLimit": 3
+            "flavor": "Since the hour he had arrived in the Red Keep, Lady Tanda had been stalking him, armed with a never-ending arsenal of lamprey pies, wild boars, and savory cream stews.",
+            "deckLimit": 3,
+            "illustrator": "Ken McCuen"
         },
         {
             "code": "04070",
@@ -171,7 +186,9 @@
             "cost": 0,
             "traits": [],
             "text": "<b>Reaction:</b> After you win an [intrigue] challenge, discard up to 3 cards at random from the losing opponent's hand. Then, that player draws 2 cards.",
-            "deckLimit": 3
+            "flavor": "Shaving him was the cruelest thing Tyrion could have done...",
+            "deckLimit": 3,
+            "illustrator": "Nikolas Hagialas"
         },
         {
             "code": "04071",
@@ -193,7 +210,9 @@
                 "Lord"
             ],
             "text": "<b>Reaction:</b> After a character is saved, either: stand it, or kneel it.",
-            "deckLimit": 3
+            "flavor": "\"Listen! Listen to the waves! Listen to the god!\"",
+            "deckLimit": 3,
+            "illustrator": "Arden Beckwith"
         },
         {
             "code": "04072",
@@ -207,7 +226,9 @@
                 "Iron Islands"
             ],
             "text": "<b>Reaction:</b> After you win initiative, gain 1 gold.",
-            "deckLimit": 3
+            "flavor": "The solar was as damp and drafty as ever.",
+            "deckLimit": 3,
+            "illustrator": "Paolo Puggioni"
         },
         {
             "code": "04073",
@@ -227,7 +248,9 @@
                 "Warlock"
             ],
             "text": "<b>Reaction:</b> After you win a challenge in which Pyat Pree is participating, search the top X cards of your deck for a [targaryen] attachment or event, reveal it, and add it to your hand. Shuffle your deck. X is the STR by which you won the challenge.",
-            "deckLimit": 3
+            "flavor": "\"Come with me to the House of the Undying, and you shall drink of truth and wisdom.\"",
+            "deckLimit": 3,
+            "illustrator": "Victor Manuel Leza Moreno"
         },
         {
             "code": "04074",
@@ -241,7 +264,9 @@
                 "Essos"
             ],
             "text": "<b>Interrupt:</b> When a character with 1 or more power is killed, kneel Vaes Tolorro to move 1 power from that character to Vaes Tolorro. (Up to 2 power instead if that character's STR is 0.)",
-            "deckLimit": 3
+            "flavor": "...in the place they named Vaes Tolorro, the city of bones.",
+            "deckLimit": 3,
+            "illustrator": "Jokubas Uogintas"
         },
         {
             "code": "04075",
@@ -262,7 +287,8 @@
                 "Sand Snake"
             ],
             "text": "<b>Reaction:</b> After you lose a challenge, choose a character. Until the end of the phase, that character gains stealth. (Limit twice per phase.)",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Nicholas Gregory"
         },
         {
             "code": "04076",
@@ -273,7 +299,8 @@
             "cost": 0,
             "traits": [],
             "text": "<b>Reaction:</b> After you lose an unopposed challenge, set the claim value on the winning opponent's revealed plot card to 0 until the end of the challenge.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Jim Brady"
         },
         {
             "code": "04077",
@@ -292,7 +319,8 @@
                 "Ally"
             ],
             "text": "<b>Reaction:</b> After Jaqen H'ghar enters play, place a Valar Morghulis token on up to 3 different unique characters. If Jaqen H'ghar leaves play, discard those tokens from play.\n<b>Reaction:</b> After you win a challenge in which Jaqen H'ghar is attacking alone, choose and kill a character with a Valar Morghulis token.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Joel Hustak"
         },
         {
             "code": "04078",
@@ -305,7 +333,8 @@
                 "Oldtown"
             ],
             "text": "<b>Action:</b> Kneel Isle of Ravens to choose a card in any player's discard pile, and shuffle it into its owner's deck.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "David Lecossu"
         },
         {
             "code": "04079",
@@ -318,7 +347,8 @@
                 "Title"
             ],
             "text": "<i>Wildling</i> character only.\nAttached character gains the <i>King</i> trait.\nWhile attached character is attacking a player with a higher power total than you, raise the claim value on your revealed plot card by 1.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Joshua Cairós"
         },
         {
             "code": "04080",
@@ -335,7 +365,8 @@
                 "Omen"
             ],
             "text": "<b>When Revealed:</b> Kill each character.",
-            "deckLimit": 1
+            "deckLimit": 1,
+            "illustrator": "Dimitri Bielak"
         }
     ]
 }

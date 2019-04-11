@@ -23,7 +23,9 @@
                 "Knight"
             ],
             "text": "While there is a <i>Winter</i> plot card revealed, House Manderly Knight gets +2 STR.",
-            "deckLimit": 3
+            "flavor": "Outriders spied the Manderly banners — the white merman with trident in hand, rising from a blue-green sea — and hailed them warmly.",
+            "deckLimit": 3,
+            "illustrator": "Antonio José Manzanedo"
         },
         {
             "code": "04102",
@@ -36,7 +38,9 @@
                 "Song"
             ],
             "text": "<b>Action:</b> Choose a [stark] character that is attacking alone. Until the end of the challenge, that character gets +3 STR and gains renown.",
-            "deckLimit": 3
+            "flavor": "And the stars in the night were the eyes of his wolf, and the wind itself was their song.",
+            "deckLimit": 3,
+            "illustrator": "Serena Malyon"
         },
         {
             "code": "04103",
@@ -56,7 +60,8 @@
                 "Knight"
             ],
             "text": "<b>Reaction:</b> After a <i>Summer</i> plot card is revealed, Ser Robar Royce gains 1 power. (Limit once per phase).\n<b>Forced Reaction:</b> After a <i>Winter</i> plot card is revealed, kneel Ser Robar Royce.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Joshua Cairós"
         },
         {
             "code": "04104",
@@ -70,7 +75,9 @@
                 "Westeros"
             ],
             "text": "<b>Action:</b> Kneel Renly's Pavilion to choose 2 characters. Until the end of the phase, one of those characters gets -1 STR, and the other gets +1 STR.",
-            "deckLimit": 3
+            "flavor": "The candles within Renly's pavilion made the shimmering silken walls seem to glow, transforming the great tent into a magical castle alive with emerald light.",
+            "deckLimit": 3,
+            "illustrator": "Matthew Cowdery"
         },
         {
             "code": "04105",
@@ -90,7 +97,9 @@
                 "Ranger"
             ],
             "text": "Renown. No attachments except <i>Weapon</i>.\n<b>Reaction:</b> After you win a [military] challenge in which Qhorin Halfhand is participating, choose and kill a non-unique character with lower STR than his controlled by the losing opponent.",
-            "deckLimit": 3
+            "designer": "Card design by 2009 Melee World Champion, Jonathan Benton.",
+            "deckLimit": 3,
+            "illustrator": "Jason Jenicke"
         },
         {
             "code": "04106",
@@ -104,7 +113,8 @@
                 "The North"
             ],
             "text": "While your reserve value is higher than an opponent's, each <i>Ranger</i> character you control gets +1 STR and cannot be bypassed by stealth.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Tomasz Jedruszek"
         },
         {
             "code": "04107",
@@ -126,7 +136,8 @@
                 "Smuggler"
             ],
             "text": "<b>Reaction:</b> After you win a challenge in which Salladhor Saan is participating, put a <i>Warship</i> location or <i>Weapon</i> attachment into play from your hand.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Nicholas Gregory"
         },
         {
             "code": "04108",
@@ -140,7 +151,8 @@
                 "Warship"
             ],
             "text": "Ambush (2).\n<b>Action:</b> Kneel The Valyrian to give an attacking character +X STR until the end of the challenge. X is the number of gold in the defending player's gold pool.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Davis Engel"
         },
         {
             "code": "04109",
@@ -160,7 +172,9 @@
                 "Companion"
             ],
             "text": "<b>Interrupt:</b> When a character would be killed for [military] claim, pay 2 gold and put Podrick Payne into play from your hand to save it. Then, if that character was Tyrion Lannister, you may pay 2 gold to choose and kill an attacking character.",
-            "deckLimit": 3
+            "flavor": "Tyrion had never quite gotten over the suspicion that his father had inflicted the boy on him as a joke.",
+            "deckLimit": 3,
+            "illustrator": "David Auden Nash"
         },
         {
             "code": "04110",
@@ -171,7 +185,9 @@
             "cost": 1,
             "traits": [],
             "text": "<b>Reaction:</b> After you win a challenge in which you control a participating unique [lannister] character, choose a revealed <i>War</i> plot card. Initiate the when revealed ability on that plot card as if you had just revealed it. (Max 1 per phase.)",
-            "deckLimit": 3
+            "flavor": "Gods save us, they've raised the chain.",
+            "deckLimit": 3,
+            "illustrator": "Davis Engel"
         },
         {
             "code": "04111",
@@ -191,7 +207,8 @@
                 "Ironborn"
             ],
             "text": "Stealth.\nIf you control Asha Greyjoy, sacrifice Esgred. Then, your Asha Greyjoy gains 1 power.\nEsgred may bypass an additional character using stealth.\n<em>Errata from FAQ v2.1</em>",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Nicholas Gregory"
         },
         {
             "code": "04112",
@@ -205,7 +222,9 @@
                 "Warship"
             ],
             "text": "<b>Action:</b> Sacrifice Sea Bitch to choose a non-limited location. Take control of that location until the end of the phase.",
-            "deckLimit": 3
+            "flavor": "\"And you said you'd name her after me.\" <cite>Asha Greyjoy</cite>",
+            "deckLimit": 3,
+            "illustrator": "Davis Engel"
         },
         {
             "code": "04113",
@@ -225,7 +244,9 @@
                 "Companion"
             ],
             "text": "Ambush (3).\n<b>Reaction:</b> After Quaithe of the Shadow enters play during a challenge, remove each character with STR 2 or lower from the challenge.",
-            "deckLimit": 3
+            "flavor": "\"To go north, you must journey south, to reach the west you must go east. To go forward you must go back and to touch the light you must pass beneath the shadow.\"",
+            "deckLimit": 3,
+            "illustrator": "Glen Osterberger"
         },
         {
             "code": "04114",
@@ -239,7 +260,8 @@
                 "Qarth"
             ],
             "text": "<b>Challenges Action:</b> Remove House of the Undying from the game to choose an opponent. Put each character in that player's dead pile into play under your control. At the end of the phase, return each of those cards to its owner's dead pile (cannot be saved).",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Matthew Cowdery"
         },
         {
             "code": "04115",
@@ -260,7 +282,9 @@
                 "Knight"
             ],
             "text": "No attachments except <i>Weapon</i>.\n<b>Reaction:</b> After Ser Arys Oakheart enters play, pay 2 gold to choose an <i>Ally</i> character, and discard it from play.",
-            "deckLimit": 3
+            "flavor": "\"There have always been men who found it easier to speak vows than to keep them\"",
+            "deckLimit": 3,
+            "illustrator": "Benjamin Davis"
         },
         {
             "code": "04116",
@@ -274,7 +298,9 @@
                 "Dorne"
             ],
             "text": "Each [martell] character you control gets +1 STR for each <i>Summer</i> plot card revealed.",
-            "deckLimit": 3
+            "flavor": "It took its name from the murky green of its sluggish waters; but as they approached, the sunlight seemed to turn those waters gold.",
+            "deckLimit": 3,
+            "illustrator": "Juan Carlos Barquet"
         },
         {
             "code": "04117",
@@ -294,7 +320,8 @@
                 "Wildling"
             ],
             "text": "While there is a <i>Winter</i> plot card revealed, reduce the cost to marshal Northern Refugee by 1.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Nicholas Gregory"
         },
         {
             "code": "04118",
@@ -304,7 +331,8 @@
             "cost": 0,
             "traits": [],
             "text": "<b>Reaction:</b> After you win a challenge by 5 or more STR as the attacking player, kneel your faction card. Then, you may initiate an additional challenge of that type this phase.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Darek Zabrocki"
         },
         {
             "code": "04119",
@@ -314,7 +342,8 @@
             "cost": 1,
             "traits": [],
             "text": "<b>Reaction:</b> After you win a [power] challenge, discard 1 card at random from the losing opponent's hand. If that card is a character, place it in its owner's dead pile.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Rafal Hrynkiewicz"
         },
         {
             "code": "04120",
@@ -332,7 +361,8 @@
                 "War"
             ],
             "text": "<b>When Revealed:</b> Choose an opponent. Discard each duplicate you control and each duplicate controlled by that opponent from play.",
-            "deckLimit": 2
+            "deckLimit": 2,
+            "illustrator": "Tomasz Jedruszek"
         }
     ]
 }

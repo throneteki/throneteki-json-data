@@ -24,7 +24,8 @@
                 "Lord"
             ],
             "text": "While there are no cards in shadows, Ser Jason Mallister gains renown.\n<b>Reaction:</b> After you win a challenge in which Ser Jason Mallister is attacking, choose a card in shadows controlled by the losing opponent, and discard it.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Black Fox Studio"
         },
         {
             "code": "11102",
@@ -37,7 +38,8 @@
                 "House Bolton"
             ],
             "text": "Shadow (3).\n<b>Reaction:</b> After an opponent initiates a [military] challenge against you, stand any number of characters you control with a [military] icon. If you win the challenge, kill each attacking character.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Ivan Dixon"
         },
         {
             "code": "11103",
@@ -58,7 +60,8 @@
                 "Spy"
             ],
             "text": "Ambush (5). Shadow (3).\n<b>Reaction:</b> After Shrewd Diplomat enters play during a challenge, choose a participating character. Stand that character and remove it from the challenge.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Andreia Ugrai"
         },
         {
             "code": "11104",
@@ -72,7 +75,8 @@
                 "House Redwyne"
             ],
             "text": "<b>Challenges Action:</b> Kneel Arbor Marketplace to choose a participating character. Until the end of the challenge, that character gets +1 STR.\n+1 Income.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "JB Casacop"
         },
         {
             "code": "11105",
@@ -92,7 +96,9 @@
                 "Builder"
             ],
             "text": "<b>Reaction:</b> After Nightfort Builder is knelt, reveal the top card of your deck. If it is a [thenightswatch] location or attachment, draw it.",
-            "deckLimit": 3
+            "flavor": "...Othell Yarwyck and his builders were still off trying to restore the Nightfort.",
+            "deckLimit": 3,
+            "illustrator": "Ramon Ignacio Bunge"
         },
         {
             "code": "11106",
@@ -103,7 +109,8 @@
             "cost": "-",
             "traits": [],
             "text": "Shadow (2).\n<b>Reaction:</b> After you win a challenge as the defending player, choose and kill an attacking character. The attacking player may sacrifice 2 characters to cancel this effect.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Joshua Cairós"
         },
         {
             "code": "11107",
@@ -124,7 +131,9 @@
                 "Knight"
             ],
             "text": "No attachments except <i>Weapon</i>.\nWhile Red Ronnet is attacking, if the defending player controls a card in shadows, raise the claim value on your revealed plot card by 1.",
-            "deckLimit": 3
+            "flavor": "\"I am no traitor.\"",
+            "deckLimit": 3,
+            "illustrator": "Black Fox Studio"
         },
         {
             "code": "11108",
@@ -135,7 +144,8 @@
             "cost": "-",
             "traits": [],
             "text": "Shadow (2).\n<b>Reaction:</b> After you win a [power] challenge, choose a character. Place it in shadows with a shadow token on it. While that card is in shadows, it gains shadow (X). X is its printed cost.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Carlos Palma Cruchaga"
         },
         {
             "code": "11109",
@@ -155,7 +165,9 @@
                 "Lady"
             ],
             "text": "Shadow (5).\n<b>Reaction:</b> After a card you control comes out of shadows during the challenges phase, each opponent discards 1 card at random from his or her hand. (Limit 3 times per phase.)",
-            "deckLimit": 3
+            "flavor": "\"The only way to keep your people loyal is to make certain they fear you more than they do the enemy.\"",
+            "deckLimit": 3,
+            "illustrator": "Magali Villeneuve"
         },
         {
             "code": "11110",
@@ -169,7 +181,8 @@
                 "Skill"
             ],
             "text": "Shadow (0).\nAttached character gets +1 STR for each card you control in shadows.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Preston Stone"
         },
         {
             "code": "11111",
@@ -190,7 +203,9 @@
                 "R'hllor"
             ],
             "text": "Shadow (5).\n<b>Reaction:</b> After Moqorro comes out of shadows during a challenge, choose a defending character and place it on top of its owner's deck.",
-            "deckLimit": 3
+            "flavor": "\"There are no gods but R'hllor and the Other, whose name must not be said.\"",
+            "deckLimit": 3,
+            "illustrator": "Andreia Ugrai"
         },
         {
             "code": "11112",
@@ -201,7 +216,8 @@
             "cost": 1,
             "traits": [],
             "text": "Shadow (0).\n<b>Reaction:</b> After you win an unopposed challenge, draw 2 cards (3 cards instead if you played this event from shadows).",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Preston Stone"
         },
         {
             "code": "11113",
@@ -221,7 +237,9 @@
                 "Guard"
             ],
             "text": "No attachments. Shadow (3).\n<b>Marshaling Action:</b> Pay 3 gold to put Brazen Beast into shadows from your discard pile.",
-            "deckLimit": 3
+            "flavor": "They walked the streets both day and night, in dark hoods and brazen masks.",
+            "deckLimit": 3,
+            "illustrator": "Niten"
         },
         {
             "code": "11114",
@@ -232,7 +250,9 @@
             "cost": "X",
             "traits": [],
             "text": "<b>Action:</b> Search your deck for an attachment with printed cost X or lower and put it into play attached to a character you control. Shuffle your deck.",
-            "deckLimit": 3
+            "flavor": "\"Gloves for my poor old wrinkled hands. How nice.\" <cite>The Widow of the Waterfront</cite>",
+            "deckLimit": 3,
+            "illustrator": "Preston Stone"
         },
         {
             "code": "11115",
@@ -253,7 +273,8 @@
                 "Spy"
             ],
             "text": "Shadow (3).\n<b>Reaction:</b> After you win a challenge in which Starfall Spy is participating, return it to shadows to choose another card you control in shadows and put it into play.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Andreia Ugrai"
         },
         {
             "code": "11116",
@@ -267,7 +288,8 @@
                 "Legacy"
             ],
             "text": "<i>Sand Snake</i> character only. Ambush (2).\n<b>Reaction:</b> After you lose a challenge in which attached character is participating, stand it.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Drazenka Kimpel"
         },
         {
             "code": "11117",
@@ -279,7 +301,9 @@
                 "Song"
             ],
             "text": "<b>Action:</b> Choose up to 2 non-unique characters in your dead pile and return them to your hand.",
-            "deckLimit": 3
+            "flavor": "Oh, have you seen my boy, good ser?\nHis hair is chestnut brown\nHe promised he'd come back to me\nOur home's in Wendish Town.",
+            "deckLimit": 3,
+            "illustrator": "Tim Durning"
         },
         {
             "code": "11118",
@@ -288,7 +312,9 @@
             "faction": "neutral",
             "traits": [],
             "text": "Reduce the gold value on your revealed plot card by 1.\n<b>Marshaling Action:</b> Kneel your faction card to choose 1 card in your hand and place it facedown in shadows with a shadow token on it. While that card is in shadows, if it does not have the printed shadow keyword, it gains shadow (X). X is its printed cost.",
-            "deckLimit": 1
+            "designer": "Card design by 2015 European Joust champion, Jesús Valdés Gaspar.",
+            "deckLimit": 1,
+            "illustrator": "David Griffith"
         },
         {
             "code": "11119",
@@ -308,7 +334,9 @@
                 "Lord"
             ],
             "text": "Shadow (8). Stealth.\nReduce the cost to bring Varys out of shadows by 1 for each other card in shadows.\n<b>Reaction:</b> After Varys comes out of shadows, choose and kill a character with power.",
-            "deckLimit": 3
+            "flavor": "\"This was not done from malice. It was for the realm. For the children.\"",
+            "deckLimit": 3,
+            "illustrator": "Nicholas Gregory"
         },
         {
             "code": "11120",
@@ -325,7 +353,8 @@
                 "War"
             ],
             "text": "<b>When Revealed:</b> Each player sacrifices a character or location, chooses and discards 1 card from his or her hand, and chooses and discards 1 card from his or her shadows area, if able.",
-            "deckLimit": 2
+            "deckLimit": 2,
+            "illustrator": "Niten"
         }
     ]
 }

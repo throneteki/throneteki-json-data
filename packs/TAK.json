@@ -16,7 +16,8 @@
                 "Citadel"
             ],
             "text": "<i>Maester</i> character only.\n<b>Action:</b> Kneel attached character to choose an event in an opponent's discard pile. Once this phase, you may play that event as if it were in your hand. If you do, place it on the bottom of its owner's deck instead of placing it in that player's discard pile.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Ivan Dixon"
         },
         {
             "code": "08002",
@@ -37,7 +38,8 @@
                 "Maester"
             ],
             "text": "<b>Reaction:</b> After you initiate a [military] or [intrigue] challenge, sacrifice Dreadfort Maester to raise the claim value on your revealed plot card by 1 until the end of the challenge.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Adam Lane"
         },
         {
             "code": "08003",
@@ -48,7 +50,9 @@
             "cost": 3,
             "traits": [],
             "text": "<b>Challenges Action:</b> Choose and stand any number of <i>Direwolf</i> characters and characters with a <i>Direwolf</i> attachment.",
-            "deckLimit": 3
+            "flavor": "He remembered how the direwolves had come at him out of the shadows, and suddenly he could see them again, snarling and snapping, teeth bared in his face.",
+            "deckLimit": 3,
+            "illustrator": "Sandara Tang"
         },
         {
             "code": "08004",
@@ -68,7 +72,9 @@
                 "The Seven"
             ],
             "text": "<b>Action:</b> Kneel Septa Nysterica to choose an attacking character with STR 4 or lower. Stand that character and remove it from the challenge.",
-            "deckLimit": 3
+            "flavor": "Septa Nysterica had a homely pox-scarred face but seemed jolly.",
+            "deckLimit": 3,
+            "illustrator": "Jan-Wah Li"
         },
         {
             "code": "08005",
@@ -83,7 +89,8 @@
                 "Weapon"
             ],
             "text": "Attached character gets +2 STR.\n<b>Reaction:</b> After you win a challenge by 5 or more STR in which attached character is participating, sacrifice Oathkeeper to search your deck for a non-[tyrell] character, reveal it, and add it to your hand. Shuffle your deck.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Alex Boca"
         },
         {
             "code": "08006",
@@ -103,7 +110,8 @@
                 "Builder"
             ],
             "text": "Bestow (3). No attachments except <i>Weapon</i>.\n<b>Reaction:</b> After a [thenightswatch] location or attachment enters play under your control, discard 1 gold from Young Builder to draw 1 card.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "David Demaret"
         },
         {
             "code": "08007",
@@ -116,7 +124,8 @@
                 "Song"
             ],
             "text": "<b>Marshaling Action:</b> Choose a character with printed cost X or lower. X is the number of Steward characters you control. Until the end of the round, take control of that character, and treat its printed text box as if it were blank (except for Traits).",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "A.M. Sartor"
         },
         {
             "code": "08008",
@@ -137,7 +146,9 @@
                 "R'hllor"
             ],
             "text": "<b>Reaction:</b> After you marshal Queen's Men, choose an opponent and look at his or her hand. Then, you may kneel a non-[baratheon] character to choose and discard 1 non-character card from that hand.",
-            "deckLimit": 3
+            "flavor": "\"One realm, one god, one king!\"",
+            "deckLimit": 3,
+            "illustrator": "Melissa Findley"
         },
         {
             "code": "08009",
@@ -151,7 +162,9 @@
                 "Condition"
             ],
             "text": "Opponent's character only.\nAttached character does not contribute its STR to [power] challenges or to its controller's total for dominance.",
-            "deckLimit": 3
+            "flavor": "\"Leave the traitor to the darkness.\" <cite>Ser Axell Florent</cite>",
+            "deckLimit": 3,
+            "illustrator": "Federico Musetti"
         },
         {
             "code": "08010",
@@ -171,7 +184,8 @@
                 "Maester"
             ],
             "text": "<b>Reaction:</b> After you play a [lannister] event, kneel Maester at the Rock to move that event from your discard pile to the top of your deck.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Colin Boyer"
         },
         {
             "code": "08011",
@@ -185,7 +199,8 @@
                 "The Westerlands"
             ],
             "text": "Bestow (3).\n<b>Reaction:</b> After a phase begins, kneel and sacrifice Ashemark to return each character with printed cost X or lower to its owner's hand. X is the number of gold on Ashemark.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Alfred Khamidullin"
         },
         {
             "code": "08012",
@@ -205,7 +220,9 @@
                 "Drowned God"
             ],
             "text": "<b>Interrupt:</b> When Acolyte of the Waves is killed, gain 1 power for your faction.",
-            "deckLimit": 3
+            "flavor": "\"The god took me deep beneath the waves and drowned the worthless thing I was.\" <cite>Aeron Damphair</cite>",
+            "deckLimit": 3,
+            "illustrator": "Andreia Ugrai"
         },
         {
             "code": "08013",
@@ -219,7 +236,8 @@
                 "Iron Islands"
             ],
             "text": "For each character in your dead pile, Nagga's Ribs contributes 2 STR to your total for dominance.\n<b>Reaction:</b> After a character is placed in your discard pile, move it to your dead pile.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Frej Agelii"
         },
         {
             "code": "08014",
@@ -240,7 +258,8 @@
                 "Mercenary"
             ],
             "text": "Renown.\n<b>Reaction:</b> After you win a challenge in which Daario Naharis is attacking, choose another <i>Ally</i>, <i>Companion</i>, or <i>Mercenary</i> character. Stand that character and take control of it until the end of the phase.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Borja Pindado"
         },
         {
             "code": "08015",
@@ -254,7 +273,8 @@
                 "Weapon"
             ],
             "text": "<i>Dothraki</i> character only.\n<b>Reaction:</b> After you win a [military] challenge in which attached character is attacking, sacrifice Bloody Arakh. Then, you may initiate an additional [military] challenge this phase. (Max 1 per phase.)",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Ivan Dixon"
         },
         {
             "code": "08016",
@@ -275,7 +295,9 @@
                 "Sand Snake"
             ],
             "text": "<b>Reaction:</b> After Dorea Sand enters play, choose another character with printed cost X or lower and return it to its owner's hand. X is the number of <i>Sand Snake</i> characters you control.",
-            "deckLimit": 3
+            "flavor": "\"Dorea stalks about knocking oranges off the trees with her morningstar...\" <cite>Doran Martell</cite>",
+            "deckLimit": 3,
+            "illustrator": "Joshua Cairós"
         },
         {
             "code": "08017",
@@ -289,7 +311,9 @@
                 "Dorne"
             ],
             "text": "<b>Action:</b> Kneel The Water Gardens to reduce the cost of the next non-character card you marshal, play, or ambush this phase by X. X is the number of plot cards in your used pile.",
-            "deckLimit": 3
+            "flavor": "There children frolicked naked in the sun, music played in tiled courtyards, and the air was sharp with the smell of lemons and blood oranges.",
+            "deckLimit": 3,
+            "illustrator": "Carlos Palma Cruchaga"
         },
         {
             "code": "08018",
@@ -309,7 +333,8 @@
                 "Wildling"
             ],
             "text": "Renown. No attachments except <i>Weapon</i>.\n<b>Forced Reaction:</b> After you win a challenge in which Mag the Mighty is participating, choose and kill a character you control. Then, the losing opponent chooses and kills a character he or she controls.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "David Demaret"
         },
         {
             "code": "08019",
@@ -322,7 +347,8 @@
                 "Braavos"
             ],
             "text": "Bestow (1).\nDuring the marshaling phase, you may spend gold on The Iron Bank as if it were in your gold pool.\n<b>Reaction:</b> After you collect income, move X gold from the treasury to The Iron Bank. X is the number of gold on The Iron Bank.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Logan Feliciano"
         },
         {
             "code": "08020",
@@ -339,7 +365,8 @@
                 "Omen"
             ],
             "text": "<b>When Revealed:</b> Each player chooses any number of characters he or she controls with a total printed cost of 10 or lower. Place each character not chosen on the bottom of its owner's deck (cannot be saved).",
-            "deckLimit": 1
+            "deckLimit": 1,
+            "illustrator": "Paolo Puggioni"
         }
     ]
 }

@@ -22,7 +22,8 @@
                 "Companion"
             ],
             "text": "Bestow (3).\nEach <i>Lady</i> character you control gets +1 STR for each gold Sansa's Maid has.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Owen William Weber"
         },
         {
             "code": "06102",
@@ -36,7 +37,8 @@
                 "The North"
             ],
             "text": "Limited.\n<b>Marshaling Action:</b> Kneel Northern Keep to gain 1 gold. (2 gold instead if there are more <i>Winter</i> plot cards than <i>Summer</i> plot cards revealed.)",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Sergey Glushakov"
         },
         {
             "code": "06103",
@@ -56,7 +58,9 @@
                 "Minstrel"
             ],
             "text": "<b>Reaction:</b> After you play a <i>Song</i> event, gain 1 gold. (Limit 3 times per round.)",
-            "deckLimit": 3
+            "flavor": "\"My lord father always keeps singers at court, sweeter ones than Butters here, and pipers and fiddlers and harpers as well.\" <cite>Margaery Tyrell</cite>",
+            "deckLimit": 3,
+            "illustrator": "Nicholas Gregory"
         },
         {
             "code": "06104",
@@ -70,7 +74,8 @@
                 "The Reach"
             ],
             "text": "Bestow (3).\n<b>Challenges Action:</b> Kneel Horn Hill to give each participating [tyrell] character you control +X STR until the end of the challenge. X is the number of gold Horn Hill has.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Logan Feliciano"
         },
         {
             "code": "06105",
@@ -90,7 +95,9 @@
                 "Steward"
             ],
             "text": "Bestow (3). No attachments except <i>Weapon</i>.\n<b>Action:</b> Discard 1 gold from Donal Noye to put a <i>Weapon</i> attachment into play from your hand.",
-            "deckLimit": 3
+            "flavor": "\"The Watch is not what it was. Too few honest men to keep the rogues in line.\"",
+            "deckLimit": 3,
+            "illustrator": "Josu Hernaiz"
         },
         {
             "code": "06106",
@@ -104,7 +111,8 @@
                 "Weapon"
             ],
             "text": "[thenightswatch] character only.\nAttached character gets +1 STR.\n<b>Challenges Action:</b> Kneel Ranger's Bow to choose a defending [thenightswatch] character. Until the end of the challenge, that character gets +2 STR.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Jacob Atienza"
         },
         {
             "code": "06107",
@@ -124,7 +132,9 @@
                 "Fool"
             ],
             "text": "While another <i>Fool</i> character has a keyword, Patchface gains that keyword.\nWhile another <i>Fool</i> character has a challenge icon, Patchface gains that challenge icon.",
-            "deckLimit": 3
+            "flavor": "\"Under the sea, the fish eat us. I know, I know, oh, oh, oh.\"",
+            "deckLimit": 3,
+            "illustrator": "JB Casacop"
         },
         {
             "code": "06108",
@@ -138,7 +148,8 @@
                 "Condition"
             ],
             "text": "<i>Bastard</i> or <i>King</i> character you control only. Bestow (3).\n<b>Plot Action:</b> Kneel attached character and sacrifice King's Blood to discard X power from each opponent's faction card. X is the number of gold King's Blood has.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Ivan Dixon"
         },
         {
             "code": "06109",
@@ -159,7 +170,8 @@
                 "Lady"
             ],
             "text": "<b>Reaction:</b> After you win a challenge in which Genna Frey is attacking, if it was the third challenge you initiated this phase, the losing opponent discards 1 card at random from his or her hand. (2 cards instead if you control another attacking <i>House Frey</i> character.)",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Falk Haensel"
         },
         {
             "code": "06110",
@@ -173,7 +185,8 @@
                 "Westeros"
             ],
             "text": "Limited.\n<b>Challenges Action:</b> Kneel The Goldroad to gain 1 gold.\n+1 Income.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Sergey Glushakov"
         },
         {
             "code": "06111",
@@ -194,7 +207,8 @@
                 "Raider"
             ],
             "text": "Bestow (3).\n<b>Action:</b> Discard 1 gold from Stony Shore Raider to choose and kneel a location with printed cost 3 or lower. (Limit once per round.)",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Nicholas Gregory"
         },
         {
             "code": "06112",
@@ -205,7 +219,8 @@
             "cost": 2,
             "traits": [],
             "text": "<b>Challenges Action:</b> Choose an attachment in an opponent's discard pile, and put it into play under your control.\n<b>Reaction:</b> After you win an unopposed challenge, pay 1 gold to return Pay The Iron Price from your discard pile to your hand.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Michele Frigo"
         },
         {
             "code": "06113",
@@ -225,7 +240,8 @@
                 "Ally"
             ],
             "text": "<b>Reaction:</b> After you win a challenge by 5 or more STR as the attacking player, put Freedmen into play from your discard pile.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Ignacio Bazán Lazcano"
         },
         {
             "code": "06114",
@@ -239,7 +255,8 @@
                 "Item"
             ],
             "text": "[targaryen] character only.\nAttached character gains renown, and gets +1 STR for each bell token on Warrior's Braid.\n<b>Reaction:</b> After you win a [military] challenge in which attached character is attacking, place a bell token on Warrior's Braid.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Jennifer Hrabota Lesser"
         },
         {
             "code": "06115",
@@ -259,7 +276,8 @@
                 "Spy"
             ],
             "text": "Ambush (4).\n<b>Reaction:</b> After Dornish Spy enters play, choose a character. Until the end of the phase, that character loses a challenge icon of your choice.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Gabriela Birchal"
         },
         {
             "code": "06116",
@@ -273,7 +291,9 @@
                 "Condition"
             ],
             "text": "Terminal.\n<b>Reaction:</b> After the marshaling phase begins, return attached character to its owner's hand (cannot be saved).",
-            "deckLimit": 3
+            "flavor": "Hers was a gentle prison.",
+            "deckLimit": 3,
+            "illustrator": "Jason Jenicke"
         },
         {
             "code": "06117",
@@ -294,7 +314,9 @@
                 "R'hllor"
             ],
             "text": "Renown.\nX is the number of kiss tokens Beric Dondarrion has.\n<b>Forced Reaction:</b> After you marshal Beric Dondarrion, place 6 kiss tokens on him. (Cannot be canceled.)\n<b>Interrupt:</b> When Beric Dondarrion would be killed, discard a kiss token from him to save him.",
-            "deckLimit": 3
+            "designer": "Card design by 2014 European Melee Champion, Jakob Hultman.",
+            "deckLimit": 3,
+            "illustrator": "Joel Hustak"
         },
         {
             "code": "06118",
@@ -304,7 +326,8 @@
             "cost": 0,
             "traits": [],
             "text": "<b>Action:</b> Choose up to 3 cards. Move 1 gold from the treasury to each of those cards.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Torbjörn Källström"
         },
         {
             "code": "06119",
@@ -313,7 +336,8 @@
             "faction": "neutral",
             "traits": [],
             "text": "You cannot include loyal characters in your deck.\n<b>Reaction:</b> After the challenges phase begins, kneel your faction card to choose a neutral character you control. Until the end of the phase, that character gains (choose one): insight, intimidate, renown, or stealth.",
-            "deckLimit": 1
+            "deckLimit": 1,
+            "illustrator": "Tim Durning"
         },
         {
             "code": "06120",
@@ -330,7 +354,8 @@
                 "Kingdom"
             ],
             "text": "<b>Reaction:</b> After a card with bestow enters play, place 1 gold from the treasury on that card. (2 gold instead if that card has 3 or more gold on it.)",
-            "deckLimit": 2
+            "deckLimit": 2,
+            "illustrator": "Joshua Cairós"
         }
     ]
 }

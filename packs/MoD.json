@@ -23,7 +23,9 @@
                 "Lady"
             ],
             "text": "Shadow (1). Stealth.\n<b>Reaction:</b> After a [stark] character you control is sacrificed, return Meera Reed to shadows.\n<b>Reaction:</b> After Meera Reed comes out of shadows, choose a character. Until the end of the phase, treat it as if its printed text box were blank (except for <i>Traits</i>).",
-            "deckLimit": 3
+            "designer": "Card design by 2010 Castle Stahleck Champion, Andrea Gualdoni.",
+            "deckLimit": 3,
+            "illustrator": "Tiziano Baracchi"
         },
         {
             "code": "11062",
@@ -37,7 +39,8 @@
                 "Direwolf"
             ],
             "text": "[stark] character you control only.\n<b>Reaction:</b> After you win a challenge in which attached character is attacking, the losing opponent must choose and kill a defending character.\n<b>Action:</b> Pay 1 gold to attach Shaggydog to a different character. (Limit once per phase.)",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Carlos Palma Cruchaga"
         },
         {
             "code": "11063",
@@ -57,7 +60,9 @@
                 "Knight"
             ],
             "text": "<b>Reaction:</b> After you win a challenge in which Ser Mark Mullendore is participating, reveal the top card of your deck. You may put that card into play. If you do, place Ser Mark Mullendore on top of your deck (cannot be saved).",
-            "deckLimit": 3
+            "flavor": "Ser Mark Mullendore brought a black-and-white monkey and fed him morsels from his own plate...",
+            "deckLimit": 3,
+            "illustrator": "Federico Musetti"
         },
         {
             "code": "11064",
@@ -68,7 +73,8 @@
             "cost": 0,
             "traits": [],
             "text": "<b>Action:</b> Choose a participating <i>Knight</i> character you control. Stand it and remove it from the challenge. Then, you may kneel another <i>Knight</i> character you control to have it participate in the challenge on your side.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Niten"
         },
         {
             "code": "11065",
@@ -90,7 +96,9 @@
                 "Lord"
             ],
             "text": "While you control a:\n- <i>Builder</i> character, Jon Snow gains stealth.\n- <i>Ranger</i> character, Jon Snow gains intimidate.\n- <i>Steward</i> character, Jon Snow gains insight.",
-            "deckLimit": 3
+            "flavor": "\"I am lord commander because my brothers chose me.\"",
+            "deckLimit": 3,
+            "illustrator": "Aleksander Karcz"
         },
         {
             "code": "11066",
@@ -104,7 +112,8 @@
                 "Title"
             ],
             "text": "[thenightswatch] character with printed cost 5 or higher only.\n<b>Reaction:</b> After you win a challenge in which you control a participating [thenightswatch] character, attached character gains 1 power.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Josu Hernaiz"
         },
         {
             "code": "11067",
@@ -124,7 +133,8 @@
                 "Lady"
             ],
             "text": "Shadow (3).\n<b>Action:</b> During a challenge in which Shireen Baratheon is participating, choose a participating character. That character and Shireen Baratheon do not contribute their STR to the challenge. (Limit once per challenge.)",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Michele Frigo"
         },
         {
             "code": "11068",
@@ -135,7 +145,8 @@
             "cost": 1,
             "traits": [],
             "text": "Play only if you have not lost a [power] challenge this round.\n<b>Interrupt:</b> When the effects of an opponent's event or triggered location ability would initiate, cancel those effects.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Paolo Puggioni"
         },
         {
             "code": "11069",
@@ -156,7 +167,8 @@
                 "The Seven"
             ],
             "text": "<b>Reaction:</b> After you collect income, pay 2 gold to have Tithe Collector gain 1 power.\n+1 Income.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Aleksander Karcz"
         },
         {
             "code": "11070",
@@ -167,7 +179,8 @@
             "cost": 0,
             "traits": [],
             "text": "<b>Action:</b> Kneel your faction card to choose any number of cards you control with shadow. Return each of those cards to shadows.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Jason Jenicke"
         },
         {
             "code": "11071",
@@ -189,7 +202,8 @@
                 "Lord"
             ],
             "text": "<b>Challenges Action:</b> Kneel a <i>Warship</i> location to (choose 1):\n- choose and kneel a location.\n- stand Victarion Greyjoy.\n- have Victarion Greyjoy gain renown until the end of the challenge.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Jason Jenicke"
         },
         {
             "code": "11072",
@@ -203,7 +217,8 @@
                 "Warship"
             ],
             "text": "Shadow (2).\n<b>Action:</b> Kneel Grey Ghost to choose 1 character (up to 2 characters instead if Grey Ghost came out of shadows this phase). Until the end of the phase, each chosen character cannot be declared as a defender.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Federico Musetti"
         },
         {
             "code": "11073",
@@ -223,7 +238,9 @@
                 "Dragon"
             ],
             "text": "Ambush (5). No attachments.\n<b>Reaction:</b> After an opponent's character is killed by a card effect, stand Rhaegal.",
-            "deckLimit": 3
+            "flavor": "Thus far the green dragon had shown himself to be more dangerous than the white.",
+            "deckLimit": 3,
+            "illustrator": "Antonio José Manzanedo"
         },
         {
             "code": "11074",
@@ -237,7 +254,8 @@
                 "Meereen"
             ],
             "text": "<b>Action:</b> Kneel Meereenese Market to choose a card in a discard pile and place it on the bottom of its owner's deck.\n+1 Income.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Logan Feliciano"
         },
         {
             "code": "11075",
@@ -258,7 +276,8 @@
                 "House Manwoody"
             ],
             "text": "While you are not the first player, each <i>Guard</i> character you control does not kneel when declared as a defender.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Niten"
         },
         {
             "code": "11076",
@@ -269,7 +288,8 @@
             "cost": "-",
             "traits": [],
             "text": "Shadow (2).\n<b>Action:</b> Remove all but the bottom card of your deck from the game facedown. Then, shuffle your discard pile into your deck and draw 3 cards.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Paolo Puggioni"
         },
         {
             "code": "11077",
@@ -289,7 +309,9 @@
                 "Wildling"
             ],
             "text": "No attachments except <i>Weapon</i>.\n<b>Action:</b> Kneel Wun Wun to have him participate in a challenge in which you control a participating <i>Wildling</i> character.",
-            "deckLimit": 3
+            "flavor": "This giant ate no meat at all, though he was a holy terror when served a basket of roots, crunching onions and turnips and even raw hard neeps between his big square teeth.",
+            "deckLimit": 3,
+            "illustrator": "Ivan Dixon"
         },
         {
             "code": "11078",
@@ -299,7 +321,8 @@
             "cost": "-",
             "traits": [],
             "text": "Shadow (0).\n<b>Reaction:</b> After you win an unopposed challenge in which you control an attacking character with shadow, place a poison token on a character without shadow controlled by the losing opponen. At the end of the phase, if that character still has that poison token, remove it and kill that character. (Max 1 per challenge.)",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Nicholas Gregory"
         },
         {
             "code": "11079",
@@ -308,7 +331,8 @@
             "faction": "neutral",
             "traits": [],
             "text": "Your plot deck and draw deck can only include neutral cards.\n<b>Reaction:</b> After claim is applied for a challenge in which you control an attacking <i>Wildling</i> character, kneel your faction card to apply the claim of another challenge type.",
-            "deckLimit": 1
+            "deckLimit": 1,
+            "illustrator": "Tim Durning"
         },
         {
             "code": "11080",
@@ -326,7 +350,8 @@
                 "Winter"
             ],
             "text": "While Winter Reserves is in your used pile, increase the gold value and reserve value on your revealed <i>Winter</i> plot card by 1.",
-            "deckLimit": 2
+            "deckLimit": 2,
+            "illustrator": "Dinodrawing"
         }
     ]
 }

@@ -21,7 +21,8 @@
                 "Wildling"
             ],
             "text": "<b>Reaction:</b> After the challenges phase begins, until the end of the phase, Varamyr Sixskins gains (choose one):\n- the <i>Bear</i> trait and gets +5 STR.\n- the <i>Eagle</i> trait, an [intrigue] icon, and insight.\n- the <i>Cat</i> trait, a [power] icon, and stealth.\n- the <i>Wolf</i> trait and intimidate, and gets +2 STR.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Alex Aparin"
         },
         {
             "code": "11002",
@@ -42,7 +43,8 @@
                 "House Bolton"
             ],
             "text": "Shadow (2).\n<b>Forced Interrupt:</b> When the challenges phase ends, choose and kill a character with the lowest printed cost (cannot be saved).",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Adam Lane"
         },
         {
             "code": "11003",
@@ -56,7 +58,8 @@
                 "The North"
             ],
             "text": "Northern Armory cannot stand.\n<b>Action:</b> Kneel Northern Armory to choose and stand a [stark] character.\n+1 Income.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Logan Feliciano"
         },
         {
             "code": "11004",
@@ -76,7 +79,8 @@
                 "The Seven"
             ],
             "text": "Shadow (2).\n<b>Challenges Action:</b> Draw 1 card and gain 2 gold. Then, place Scheming Septon on top of your deck. (Limit once per phase.)",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Aleksander Karcz"
         },
         {
             "code": "11005",
@@ -90,7 +94,8 @@
                 "Condition"
             ],
             "text": "Terminal.\n<b>Action:</b> While attached character is participating in a challenge, kneel Margaery's Influence and pay 1 gold to stand attached character and remove it from the challenge.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Sara Biddle"
         },
         {
             "code": "11006",
@@ -110,7 +115,9 @@
                 "Ally"
             ],
             "text": "Shadow (0).\n<b>Forced Reaction:</b> After Janos Slynt comes out of shadows, sacrifice a [thenightswatch] character.",
-            "deckLimit": 3
+            "flavor": "\"I will not go meekly off to freeze and die. No traitor's bastard gives commands to Janos Slynt!\"",
+            "deckLimit": 3,
+            "illustrator": "Borja Pindado"
         },
         {
             "code": "11007",
@@ -121,7 +128,8 @@
             "cost": 3,
             "traits": [],
             "text": "<b>Action:</b> Search your deck for a <i>Ranger</i> character, a <i>Builder</i> character, and a <i>Steward</i> character, reveal them, and add them to your hand. Shuffle your deck.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Niten"
         },
         {
             "code": "11008",
@@ -142,7 +150,8 @@
                 "R'hllor"
             ],
             "text": "Shadow (3).\n<b>Reaction:</b> After Shadow Priestess comes out of shadows, choose and kneel a character without attachments.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Drazenka Kimpel"
         },
         {
             "code": "11009",
@@ -156,7 +165,8 @@
                 "Westeros"
             ],
             "text": "<b>Action:</b> Kneel Stormlands Fiefdom to move 1 power from a character or location to its owner's faction card.\n+1 Income.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Dinodrawing"
         },
         {
             "code": "11010",
@@ -177,7 +187,8 @@
                 "Knight"
             ],
             "text": "Shadow (5).\n<b>Reaction:</b> After Ser Robert Strong comes out of shadows, choose and kill a kneeling character with printed cost 5 or lower.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Federico Musetti"
         },
         {
             "code": "11011",
@@ -188,7 +199,8 @@
             "cost": "-",
             "traits": [],
             "text": "Shadow (0).\n<b>Interrupt:</b> When you choose a plot card to reveal in the plot phase, instead shuffle your used pile into your plot deck and choose a plot card to reveal at random. Until the end of the round, increase the gold value on your revealed plot card by 2.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Joshua Cairós"
         },
         {
             "code": "11012",
@@ -208,7 +220,8 @@
                 "Raider"
             ],
             "text": "Pillage. Shadow (3).\n<b>Reaction:</b> After Nighttime Marauders comes out of shadows, choose a card in an opponent's discard pile. That player reveals his or her hand and discards from it each card with the same printed cost as the chosen card.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Ramon Ignacio Bunge"
         },
         {
             "code": "11013",
@@ -219,7 +232,8 @@
             "cost": "X",
             "traits": [],
             "text": "X is the number of opponents you have.\n<b>Interrupt:</b> When the marshaling phase ends, you become the first player.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Federico Musetti"
         },
         {
             "code": "11014",
@@ -239,7 +253,8 @@
                 "Lord"
             ],
             "text": "Shadow (3).\n<b>Reaction:</b> After Aegon Targaryen enters play, search your deck for an <i>Army</i> or <i>Mercenary</i> character, put it into play, and shuffle your deck. At the end of the phase, if that card is still in play, return it to your hand.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Paolo Puggioni"
         },
         {
             "code": "11015",
@@ -250,7 +265,9 @@
             "cost": 5,
             "traits": [],
             "text": "<b>Challenges Action:</b> Choose a character in your discard pile and put it into play.",
-            "deckLimit": 3
+            "flavor": "\"He is here. Aegon has been shaped for rule since before he could walk.\" <cite>Varys</cite>",
+            "deckLimit": 3,
+            "illustrator": "Borja Pindado"
         },
         {
             "code": "11016",
@@ -270,7 +287,8 @@
                 "Knight"
             ],
             "text": "Renown. Shadow (5).\n<b>Reaction:</b> After Ser Gerris Drinkwater comes out of shadows, choose a card in your plot deck and switch it with a card in your used pile.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Paolo Puggioni"
         },
         {
             "code": "11017",
@@ -284,7 +302,8 @@
                 "Dorne"
             ],
             "text": "Shadow (2).\nReduce the cost to marshal each of your cards into shadows by 1.\n<b>Challenges Action:</b> Kneel The Shadow City and discard 1 card from shadows to draw 2 cards.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Tomasz Jedruszek"
         },
         {
             "code": "11018",
@@ -303,7 +322,8 @@
                 "Maester"
             ],
             "text": "Shadow (2).\n<b>Action:</b> Kneel Nefarious Acolyte and pay 1 gold to choose a plot card. Until the end of the phase, treat it as if its printed text box were blank (except for <i>Traits</i>).",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Greg Bobrowski"
         },
         {
             "code": "11019",
@@ -313,7 +333,9 @@
             "cost": 1,
             "traits": [],
             "text": "<b>Action:</b> Remove each non-unique character in each player's dead pile from the game. Draw 1 card.",
-            "deckLimit": 3
+            "flavor": "Before midday a dozen fires were burning. Columns of greasy black smoke rose up to stain a merciless blue sky.",
+            "deckLimit": 3,
+            "illustrator": "Niten"
         },
         {
             "code": "11020",
@@ -331,7 +353,8 @@
                 "Summer"
             ],
             "text": "<b>When Revealed:</b> Choose an opponent and reveal the top 10 cards of your deck. That opponent chooses 1 character, 1 location, 1 attachment, and 1 event revealed this way, if able, and adds them to your hand. Shuffle your deck.",
-            "deckLimit": 2
+            "deckLimit": 2,
+            "illustrator": "Aleksander Karcz"
         }
     ]
 }

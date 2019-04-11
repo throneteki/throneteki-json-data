@@ -23,7 +23,8 @@
                 "Queen"
             ],
             "text": "Cersei Lannister does not kneel when declared as an attacker in an [intrigue] challenge.\n<b>Reaction:</b> After 1 or more cards are discarded from an opponent's hand, if you do not support that player, Cersei Lannister gains 1 power. (Limit 3 times per round.)",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Aurore Folny"
         },
         {
             "code": "05002",
@@ -43,7 +44,9 @@
                 "Lord"
             ],
             "text": "<b>Reaction:</b> After you win a challenge, return an attacking <i>Clansman</i> character to your hand to (choose one): draw 2 cards, gain 3 gold, or raise the claim value on your revealed plot card by 1 until the end of the challenge. (Limit twice per phase.)",
-            "deckLimit": 3
+            "flavor": "\"My mind is my weapon.\"",
+            "deckLimit": 3,
+            "illustrator": "Michael Komarck"
         },
         {
             "code": "05003",
@@ -65,7 +68,9 @@
                 "Small Council"
             ],
             "text": "<b>Reaction:</b> After you marshal Ser Kevan Lannister, choose a [lannister] or neutral location or attachment in your discard pile and put it into play.",
-            "deckLimit": 3
+            "designer": "Card design by 2012 Chinese National Champion, Bing Ouyang.",
+            "deckLimit": 3,
+            "illustrator": "Sebastian Giacobino"
         },
         {
             "code": "05004",
@@ -85,7 +90,9 @@
                 "Clansman"
             ],
             "text": "<b>Reaction:</b> After you win a challenge in which Timett Son of Timett is attacking, choose and kill a character with printed cost X or lower. X is the number of <i>Clansman</i> characters you control.",
-            "deckLimit": 3
+            "flavor": "\"The Burned Men fear nothing. Timett Son of Timett will ride with the lions.\"",
+            "deckLimit": 3,
+            "illustrator": "Joshua Cairós"
         },
         {
             "code": "05005",
@@ -106,7 +113,8 @@
                 "Knight"
             ],
             "text": "Each <i>Knight</i> character you control gains renown while attacking alone.\n<b>Challenges Action:</b> Choose a <i>Kingsguard</i> character. Until the end of the phase, that character gains an [intrigue] icon. (Limit once per phase.)",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Alexandre Dainche"
         },
         {
             "code": "05006",
@@ -127,7 +135,9 @@
                 "Small Council"
             ],
             "text": "Pillage.\n<b>Interrupt:</b> When exactly 1 card is discarded from a player's deck, instead look at the top 2 cards of that player's deck and discard 1.",
-            "deckLimit": 3
+            "flavor": "\"...when your enemies defy you, you must serve them steel and fire.\"",
+            "deckLimit": 3,
+            "illustrator": "Cristi Balanescu"
         },
         {
             "code": "05007",
@@ -147,7 +157,8 @@
                 "Clansman"
             ],
             "text": "Chella Daughter of Cheyk gets +1 STR for each ear token she has. While she has 3 or more ear tokens, she gains intimidate and renown.\n<b>Reaction:</b> After a character is killed during a challenge in which Chella Daughter of Cheyk is attacking, place an ear token on her.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Cris Griffin"
         },
         {
             "code": "05008",
@@ -168,7 +179,8 @@
                 "Raider"
             ],
             "text": "Pillage.\n<b>Reaction:</b> After Ser Gregor's Marauders discards an event using pillage, stand Ser Gregor's Marauders.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Tomasz Jedruszek"
         },
         {
             "code": "05009",
@@ -188,7 +200,8 @@
                 "Clansman"
             ],
             "text": "While Shagga Son of Dolf is in your hand, he gains ambush (0) if you control a <i>Clansman</i> character or Tyrion Lannister.\n<b>Forced Reaction:</b> After Shagga Son of Dolf enters play using ambush, choose and kill a [lannister] character you control.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Tiziano Baracchi"
         },
         {
             "code": "05010",
@@ -209,7 +222,9 @@
                 "Lady"
             ],
             "text": "<b>Reaction:</b> After you play an event, choose and discard 1 card from your hand to draw 1 card.",
-            "deckLimit": 3
+            "flavor": "\"Dreams turn to dust in light of day.\"",
+            "deckLimit": 3,
+            "illustrator": "Christine Mitzuk"
         },
         {
             "code": "05011",
@@ -229,7 +244,8 @@
                 "Clansman"
             ],
             "text": "<b>Action:</b> During a challenge in which you control an attacking <i>Clansman</i> character, kneel your faction card to put Moon Brothers into play from your hand (standing), participating as an attacker.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Tomasz Jedruszek"
         },
         {
             "code": "05012",
@@ -250,7 +266,8 @@
                 "Spy"
             ],
             "text": "Ambush (4).\n<b>Reaction:</b> After Red Keep Spy enters play using ambush, choose a character with printed cost 3 or lower. If you have more cards in hand than that character's controller, return it to its owner's hand.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Tiziano Baracchi"
         },
         {
             "code": "05013",
@@ -270,7 +287,9 @@
                 "Companion"
             ],
             "text": "<b>Reaction:</b> After you win a challenge in which Alayaya is participating, move 1 gold from the losing opponent's gold pool to your own.",
-            "deckLimit": 3
+            "flavor": "\"My lord will find my tongue well schooled. When I was a girl I learned when to use it, and when not.\"",
+            "deckLimit": 3,
+            "illustrator": "Colin Boyer"
         },
         {
             "code": "05014",
@@ -291,7 +310,9 @@
                 "Lord"
             ],
             "text": "While you control exactly 1 other [lannister] <i>Lord</i> or <i>Lady</i> character, Ser Lancel Lannister gets +X STR, where X is that character's STR.",
-            "deckLimit": 3
+            "flavor": "At sixteen, he was cursed with all the certainty of youth, unleavened by any trace of humor or self-doubt, and wed to the arrogance that came so naturally to those born blond and strong and handsome.",
+            "deckLimit": 3,
+            "illustrator": "Henning Ludvigsen"
         },
         {
             "code": "05015",
@@ -312,7 +333,9 @@
                 "Lord"
             ],
             "text": "Each player with no cards in his or her hand cannot gain power from challenge bonuses (unopposed and rivals).",
-            "deckLimit": 3
+            "flavor": "\"When I'm king in my own right, I'm going to outlaw beets.\"",
+            "deckLimit": 3,
+            "illustrator": "Joshua Cairós"
         },
         {
             "code": "05016",
@@ -333,7 +356,8 @@
                 "Guard"
             ],
             "text": "<b>Reaction:</b> After you marshal Lannisport Guard, each player draws 1 card.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Ryan Valle"
         },
         {
             "code": "05017",
@@ -348,7 +372,8 @@
                 "The Westerlands"
             ],
             "text": "Limited.\n<b>Action:</b> Kneel Golden Tooth to gain 1 gold. (3 gold instead if an opponent has no cards in his or her hand.)",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Paolo Puggioni"
         },
         {
             "code": "05018",
@@ -362,7 +387,9 @@
                 "Westeros"
             ],
             "text": "<b>Reaction:</b> After a <i>Clansman</i> character enters play, that character gains a challenge icon of your choice until the end of the phase.",
-            "deckLimit": 3
+            "flavor": "Shadowcats prowled those passes, rock slides were common, and the mountain clans were lawless brigands...",
+            "deckLimit": 3,
+            "illustrator": "Juan Carlos Barquet"
         },
         {
             "code": "05019",
@@ -376,7 +403,8 @@
                 "The Westerlands"
             ],
             "text": "<b>Reaction:</b> After the taxation phase begins, place 1 gold from your gold pool on Lannisport Treasury.\n<b>Marshaling Action:</b> Kneel Lannisport Treasury to move any number of gold from Lannisport Treasury to your gold pool.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Paolo Puggioni"
         },
         {
             "code": "05020",
@@ -390,7 +418,8 @@
                 "Title"
             ],
             "text": "[lannister] <i>Lord</i> or <i>Lady</i> character only.\nWhile you control no <i>Lord</i> or <i>Lady</i> characters with printed cost 4 or higher other than attached character, attached character gets +2 STR and gains renown.\n+1 Income.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Tiziano Baracchi"
         },
         {
             "code": "05021",
@@ -405,7 +434,9 @@
                 "Weapon"
             ],
             "text": "During [intrigue] challenges, attached character gets +2 STR and gains stealth.",
-            "deckLimit": 3
+            "flavor": "...a length of dragonbone and Valyrian steel, as sharp as the difference between right and wrong, between true and false, between life and death.",
+            "deckLimit": 3,
+            "illustrator": "Lucas Durham"
         },
         {
             "code": "05022",
@@ -416,7 +447,8 @@
             "cost": 3,
             "traits": [],
             "text": "<b>Challenges Action:</b> Choose an opponent who has won a challenge against you this phase. You may initiate an additional [military] and [intrigue] challenge against that player this phase. (Max 1 per phase.)",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Joel Hustak"
         },
         {
             "code": "05023",
@@ -427,7 +459,8 @@
             "cost": 1,
             "traits": [],
             "text": "<b>Reaction:</b> After claim is applied for an [intrigue] challenge you won by 5 or more STR, draw 2 cards. (4 cards instead if the losing opponent has no cards in his or her hand.)",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Winona Nelson"
         },
         {
             "code": "05024",
@@ -438,7 +471,8 @@
             "cost": 1,
             "traits": [],
             "text": "Play only if you control a <i>Knight</i> character.\n<b>Challenges Action:</b> Return a character you control to its owner's hand. Then, have a <i>Knight</i> character you control gain 1 power.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Joshua Cairós"
         },
         {
             "code": "05025",
@@ -458,7 +492,9 @@
                 "Bastard"
             ],
             "text": "<b>Reaction:</b> After the dominance phase begins, choose a character. That character does not contribute its STR to its controller's total for dominance this phase.",
-            "deckLimit": 3
+            "flavor": "\"I won't go pray to the Lord of Light. I am a Warrior's man, like my father.\"",
+            "deckLimit": 3,
+            "illustrator": "Colin Boyer"
         },
         {
             "code": "05026",
@@ -472,7 +508,8 @@
                 "Condition"
             ],
             "text": "<i>Bastard</i>, <i>Lord</i>, or <i>Lady</i> character only.\nWhile you have more power on your faction card than each opponent, attached character gets +2 STR and gains renown.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Lucas Durham"
         },
         {
             "code": "05027",
@@ -494,7 +531,9 @@
                 "Lord"
             ],
             "text": "Intimidate. Renown.\n<b>Interrupt:</b> When Victarion Greyjoy would be killed, discard 2 power from him to save him.",
-            "deckLimit": 3
+            "flavor": "\"Come kill me, if you can.\"",
+            "deckLimit": 3,
+            "illustrator": "Alexandre Dainche"
         },
         {
             "code": "05028",
@@ -508,7 +547,8 @@
                 "Iron Islands"
             ],
             "text": "<b>Reaction:</b> After you initiate a [power] challenge, kneel Old Wyk to put the top <i>Drowned God</i> character in your dead pile into play knelt, participating as an attacker. Then, if you win the challenge by 5 or more STR, return that character to your hand. Otherwise, place it on the bottom of your deck.\n<em>Errata from FAQ v2.0</em>",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Juan Carlos Barquet"
         },
         {
             "code": "05029",
@@ -528,7 +568,8 @@
                 "Lord"
             ],
             "text": "<b>Reaction:</b> After you lose a challenge in which Trystane Martell is participating, choose a character with lower STR than his. Until the end of the phase, that character cannot be declared as a defender.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Tiziano Baracchi"
         },
         {
             "code": "05030",
@@ -539,7 +580,9 @@
             "cost": 2,
             "traits": [],
             "text": "<b>Challenges Action:</b> Choose a [martell] character you control. Until the end of the phase, double that character's STR. At the end of the phase, if that character is still in play, kill it.",
-            "deckLimit": 3
+            "flavor": "\"Elia. Say it! Elia of Dorne!\" <cite>The Red Viper</cite>",
+            "deckLimit": 3,
+            "illustrator": "David Auden Nash"
         },
         {
             "code": "05031",
@@ -560,7 +603,9 @@
                 "Steward"
             ],
             "text": "No attachments except <i>Weapon</i>.\nWhile Sweet Donnel Hill is defending, each attacking character loses all keywords.",
-            "deckLimit": 3
+            "flavor": "The slender blond steward they called Sweet Donnel had laid a shaft just off the bull's eye at fifly yards.",
+            "deckLimit": 3,
+            "illustrator": "Ryan Valle"
         },
         {
             "code": "05032",
@@ -574,7 +619,9 @@
                 "The North"
             ],
             "text": "<b>Interrupt:</b> When the challenges phase ends, choose an opponent who did not initiate a military challenge against you this phase. That player discards one card at random from his or her hand.",
-            "deckLimit": 3
+            "flavor": "At the Bridge of Skulls he had met the Weeper and three hundred wildlings and won a bloody battle.",
+            "deckLimit": 3,
+            "illustrator": "Juan Carlos Barquet"
         },
         {
             "code": "05033",
@@ -595,7 +642,9 @@
                 "Queen"
             ],
             "text": "<b>Action:</b> Kneel Jeyne Westerling to choose and stand a [stark] <i>King</i> or <i>Lord</i> character.",
-            "deckLimit": 3
+            "flavor": "\"I shall be a good and true wife to Robb, I swear. And as wise a queen as I can.\"",
+            "deckLimit": 3,
+            "illustrator": "David Auden Nash"
         },
         {
             "code": "05034",
@@ -615,7 +664,9 @@
                 "House Umber"
             ],
             "text": "<b>Forced Reaction:</b> After a character enters play during the challenges phase, kneel that character.",
-            "deckLimit": 3
+            "flavor": "\"...the Umbers may seem simple, but they are not without a certain low cunning.\" <cite>Roose Bolton</cite>",
+            "deckLimit": 3,
+            "illustrator": "Tomasz Jedruszek"
         },
         {
             "code": "05035",
@@ -635,7 +686,9 @@
                 "Knight"
             ],
             "text": "<b>Reaction:</b> After you win a challenge in which Ser Barristan Selmy is participating, if you have fewer cards in hand than the losing opponent, stand him.",
-            "deckLimit": 3
+            "flavor": "\"I am a knight... I shall die a knight.\"",
+            "deckLimit": 3,
+            "illustrator": "Gabrielle Portal"
         },
         {
             "code": "05036",
@@ -649,7 +702,8 @@
                 "Condition"
             ],
             "text": "[targaryen] character only.\nWhile attached character is participating in a challenge, each other participating character gets -1 STR.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Aurore Folny"
         },
         {
             "code": "05037",
@@ -670,7 +724,9 @@
                 "Lady"
             ],
             "text": "<b>Reaction:</b> After Alerie Tyrell enters play, search the top 10 cards of your deck for a [tyrell] character with printed cost 3 or lower, reveal it, and add it to your hand. Shuffle your deck.",
-            "deckLimit": 3
+            "flavor": "Sansa recognized only Lord Tyrell's tall dignified wife, Lady Alerie, whose long silvery braid was bound with jeweled rings.",
+            "deckLimit": 3,
+            "illustrator": "Christine Mitzuk"
         },
         {
             "code": "05038",
@@ -683,7 +739,8 @@
                 "Song"
             ],
             "text": "<b>Challenges Action:</b> Look at the top 3 cards of your deck. Add 1 to your hand, and place the others on the bottom of your deck in any order.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Serena Malyon"
         },
         {
             "code": "05039",
@@ -702,7 +759,8 @@
                 "The Seven"
             ],
             "text": "<b>Interrupt:</b> When an opponent chooses a character you control as the only target of a triggered ability, choose an eligible <i>The Seven</i> character you control to become the target of that triggered ability instead. (Limit once per phase.)",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Joshua Cairós"
         },
         {
             "code": "05040",
@@ -723,7 +781,9 @@
                 "The Seven"
             ],
             "text": "During the challenges phase, each player cannot gain gold.",
-            "deckLimit": 3
+            "flavor": "The Warrior stands before the foe, protecting us where e'er we go. With sword and shield and spear and bow, he guards the little children.",
+            "deckLimit": 3,
+            "illustrator": "Colin Boyer"
         },
         {
             "code": "05041",
@@ -742,7 +802,8 @@
                 "Wildling"
             ],
             "text": "While Wildling Bandit is attacking an opponent with more gold in his or her gold pool than you, it gets +2 STR.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Victor Garcia"
         },
         {
             "code": "05042",
@@ -755,7 +816,8 @@
                 "Westeros"
             ],
             "text": "Limited.\n<b>Marshaling Action:</b> Kneel Ocean Road to reduce the cost of the next neutral or out-of-faction card you marshal this phase by 1.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Aurore Folny"
         },
         {
             "code": "05043",
@@ -768,7 +830,8 @@
                 "Title"
             ],
             "text": "Unique character only.\nAttached character gains an [intrigue] icon and the <i>Small Council</i> trait.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Tiziano Baracchi"
         },
         {
             "code": "05044",
@@ -780,7 +843,9 @@
                 "Small Council"
             ],
             "text": "<b>Reaction:</b> After a player wins an [intrigue] challenge by 5 or more STR, stand each <i>Small Council</i> character.",
-            "deckLimit": 3
+            "flavor": "\"So the king has decreed. The small council consents.\" <cite>Grand Maester Pycelle</cite>",
+            "deckLimit": 3,
+            "illustrator": "Joshua Cairós"
         },
         {
             "code": "05045",
@@ -791,7 +856,9 @@
                 "Song"
             ],
             "text": "Your plot deck must be 12 cards, including exactly 5 different <i>Scheme</i> cards. During the plot phase, <i>Scheme</i> cards are not considered to be in your plot deck.\n<b>Reaction:</b> After you win an [intrigue] challenge by 5 or more STR, kneel your faction card to reveal a <i>Scheme</i> plot. If that card leaves play, remove it from the game.",
-            "deckLimit": 1
+            "designer": "Card Design by 2013 Joust World Champion, Álvaro Rodriguez.",
+            "deckLimit": 1,
+            "illustrator": "Serena Malyon"
         },
         {
             "code": "05046",
@@ -809,7 +876,8 @@
                 "Kingdom"
             ],
             "text": "<b>Reaction:</b> After the challenges phase begins, gain 3 gold.",
-            "deckLimit": 2
+            "deckLimit": 2,
+            "illustrator": "Tomasz Jedruszek"
         },
         {
             "code": "05047",
@@ -826,7 +894,8 @@
                 "House Frey"
             ],
             "text": "<b>Forced Reaction:</b> After the challenges phase begins, each player chooses a character without attachments or power. Return each of those characters to its owner's hand.",
-            "deckLimit": 2
+            "deckLimit": 2,
+            "illustrator": "Joshua Cairós"
         },
         {
             "code": "05048",
@@ -844,7 +913,8 @@
                 "Kingdom"
             ],
             "text": "<b>Forced Interrupt:</b> When the draw phase ends, each player chooses a card in his or her hand, if able. Then, reveal the chosen cards. Each player who revealed a character with the lowest printed cost may put that character into play.",
-            "deckLimit": 2
+            "deckLimit": 2,
+            "illustrator": "Victor Garcia"
         },
         {
             "code": "05049",
@@ -862,7 +932,8 @@
                 "Scheme"
             ],
             "text": "Reduce the cost of each event you play by 2.",
-            "deckLimit": 2
+            "deckLimit": 2,
+            "illustrator": "Chris Rallis"
         },
         {
             "code": "05050",
@@ -879,7 +950,8 @@
                 "Scheme"
             ],
             "text": "Each character you control does not kneel when declared as an attacker in the first [intrigue] challenge you initiate during the challenges phase.",
-            "deckLimit": 2
+            "deckLimit": 2,
+            "illustrator": "David Auden Nash"
         },
         {
             "code": "05051",
@@ -896,7 +968,8 @@
                 "Summer"
             ],
             "text": "Increase the number of cards each player draws in the draw phase by 1.",
-            "deckLimit": 2
+            "deckLimit": 2,
+            "illustrator": "Paolo Puggioni"
         },
         {
             "code": "05052",
@@ -913,7 +986,8 @@
                 "Winter"
             ],
             "text": "Reduce the number of cards each player draws in the draw phase by 1.",
-            "deckLimit": 2
+            "deckLimit": 2,
+            "illustrator": "Juan Carlos Barquet"
         }
     ]
 }

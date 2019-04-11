@@ -23,7 +23,8 @@
                 "King"
             ],
             "text": "Renown.\n<b>Reaction:</b> After the standing phase begins (choose one):\n- other characters with printed cost 5 or higher cannot stand this phase.\n- characters with printed cost 4 or lower cannot stand this phase.\n- locations cannot stand this phase.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Paolo Puggioni"
         },
         {
             "code": "14002",
@@ -45,7 +46,9 @@
                 "R'hllor"
             ],
             "text": "Immune to opponents' events.\n<b>Reaction:</b> After you win a [power] challenge, draw X cards. X is the claim value on the attacking player's revealed plot card.",
-            "deckLimit": 3
+            "flavor": "\"I never asked for this crown.\"",
+            "deckLimit": 3,
+            "illustrator": "Aleksander Karcz"
         },
         {
             "code": "14003",
@@ -66,7 +69,8 @@
                 "R'hllor"
             ],
             "text": "Stealth.\n<b>Reaction:</b> After you win an [intrigue] challenge in which Melisandre is attacking, move 1 power from a character controlled by the losing opponent to Melisandre. Then, if that character has no power, kill it.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Michael Komarck"
         },
         {
             "code": "14004",
@@ -87,7 +91,9 @@
                 "King"
             ],
             "text": "Renown.\n<b>Action:</b> Kneel your faction card to put a non-[baratheon] character with printed cost X or lower into play from your hand. X is Renly Baratheon's STR.",
-            "deckLimit": 3
+            "flavor": "\"Tyrell swords will make me king.\"",
+            "deckLimit": 3,
+            "illustrator": "Alexandre Dainche"
         },
         {
             "code": "14012",
@@ -107,7 +113,9 @@
                 "R'hllor"
             ],
             "text": "<b>Reaction:</b> After Red Priest enters play, look at an opponent's hand. Then, choose 1 card in that hand and remove it from the game until Red Priest leaves play.",
-            "deckLimit": 3
+            "flavor": "The red priest lit their fires every day at sunset, to thank R'hllor for the day just ending, and beg him to send his sun back on the morrow to banish the gathering darkness.",
+            "deckLimit": 3,
+            "illustrator": "Adam Lane"
         },
         {
             "code": "14014",
@@ -128,7 +136,9 @@
                 "R'hllor"
             ],
             "text": "<b>Reaction:</b> After the draw phase begins, kneel Acolyte of the Flame to look at the top 2 cards of an opponent's deck. You may put those cards on the bottom of that player's deck.",
-            "deckLimit": 3
+            "flavor": "\"Any cat may stare into a fire and see red mice at play.\" <cite>Melisandre</cite>",
+            "deckLimit": 3,
+            "illustrator": "Andreia Ugrai"
         },
         {
             "code": "14028",
@@ -142,7 +152,9 @@
                 "Warship"
             ],
             "text": "<b>Action:</b> Kneel Lionstar to put a [lannister] character with printed cost 4 or lower into play from your hand. At the end of the phase, if that card is still in play, discard it from play.",
-            "deckLimit": 3
+            "flavor": "Her hull was black and gold, her figurehead a lion with an upraised paw.",
+            "deckLimit": 3,
+            "illustrator": "Lukasz Jaskolski"
         },
         {
             "code": "14043",
@@ -156,7 +168,9 @@
                 "Weapon"
             ],
             "text": "Attached character gets +1 STR for each neutral location you control.\nIf attached character is Lyn Corbray, he gains a [power] icon.",
-            "deckLimit": 3
+            "flavor": "\"My lady has a thirst. Whenever she comes out to dance, she likes a drop of red.\" <cite>Lyn Corbray</cite>",
+            "deckLimit": 3,
+            "illustrator": "JB Casacop"
         },
         {
             "code": "14044",
@@ -166,7 +180,9 @@
             "cost": 0,
             "traits": [],
             "text": "<b>Challenges Action:</b> Choose and stand a character that has not participated in a challenge this phase. (Max 1 per phase.)",
-            "deckLimit": 3
+            "flavor": "\"I thank you, my lords... but I spit upon your pity.\" <cite>Ser Barristan Selmy</cite>",
+            "deckLimit": 3,
+            "illustrator": "Ryan Valle"
         },
         {
             "code": "14046",
@@ -185,7 +201,8 @@
                 "War"
             ],
             "text": "<b>When Revealed:</b> Name a challenge type. Until you reveal a new plot card, challenges of that type cannot be initiated.",
-            "deckLimit": 1
+            "deckLimit": 1,
+            "illustrator": "Joshua Cairós"
         },
         {
             "code": "14047",

@@ -22,7 +22,8 @@
                 "Knight"
             ],
             "text": "No attachments except <i>Weapon</i>.\nWhile Ser Rodrik Cassel is attacking in a [military] challenge, each unique [stark] character you control gains insight.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Sara Winters"
         },
         {
             "code": "02042",
@@ -35,7 +36,9 @@
                 "Dream"
             ],
             "text": "<b>Action:</b> Kneel your faction card to search your deck for a <i>Direwolf</i> card, reveal it, and add it to your hand. Shuffle your deck.",
-            "deckLimit": 3
+            "flavor": "In his wolf dreams, he could race up the sides of mountains, jagged icy mountains taller than any tower, and stand at the summit beneath the full moon with all the world below him, the way it used to be.",
+            "deckLimit": 3,
+            "illustrator": "Jeremy Wilson"
         },
         {
             "code": "02043",
@@ -56,7 +59,9 @@
                 "Knight"
             ],
             "text": "<b>Reaction:</b> After you marshal Ser Hobber Redwyne, search your deck for a <i>Lady</i> character, reveal it, and add it to your hand. Shuffle your deck.",
-            "deckLimit": 3
+            "flavor": "Sansa and Jayne Poole used to call them Ser Horror and Ser Slobber, and giggle whenever they caught sight of them. They did not look funny now.",
+            "deckLimit": 3,
+            "illustrator": "Joshua Cairós"
         },
         {
             "code": "02044",
@@ -70,7 +75,8 @@
                 "Warhorse"
             ],
             "text": "<i>Knight</i> character only.\nWhile attached character is attacking or defending alone, Mare in Heat gains: \"<b>Action:</b> Kneel Mare in Heat to choose a participating character with STR higher than that of attached character, and remove that character from the challenge.\"",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Smirtouille"
         },
         {
             "code": "02045",
@@ -91,7 +97,8 @@
                 "Ranger"
             ],
             "text": "While you are the defending player, each [thenightswatch] character you control gains a [military] icon.\n<b>Reaction:</b> After a [military] challenge is initiated against you, kneel your faction card and pay 4 gold to put Ser Alliser Thorne into play from your hand.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "JB Casacop"
         },
         {
             "code": "02046",
@@ -105,7 +112,9 @@
                 "Weapon"
             ],
             "text": "[thenightswatch] character only. Ambush (2).\nAttached character gets +1 STR and gains a [military] icon.",
-            "deckLimit": 3
+            "flavor": "\"That's a longsword, not an old man's cane.\" <cite>Ser Alliser Thorne</cite>",
+            "deckLimit": 3,
+            "illustrator": "Aleksander Karcz"
         },
         {
             "code": "02047",
@@ -125,7 +134,9 @@
                 "Fool"
             ],
             "text": "Insight.\n<b>Forced Reaction:</b> After you lose a challenge in which Moon Boy is participating, discard 1 card at random from your hand.",
-            "deckLimit": 3
+            "flavor": "The king's own fool, the pie-faced simpleton called Moon Boy, danced about on stilts, all in motley, making mock of everyone with such deft cruelty that Sansa wondered if he was simple after all.",
+            "deckLimit": 3,
+            "illustrator": "Nicholas Gregory"
         },
         {
             "code": "02048",
@@ -144,7 +155,8 @@
                 "Scheme"
             ],
             "text": "<b>Reaction:</b> After a [military] or [power] challenge is initiated against you, the attacking player may either: kneel his or her faction card, or move 1 power from that faction card to yours. If that player does not, the challenge immediately ends with no winner or loser.",
-            "deckLimit": 1
+            "deckLimit": 1,
+            "illustrator": "Tomasz Jedruszek"
         },
         {
             "code": "02049",
@@ -166,7 +178,8 @@
                 "Lord"
             ],
             "text": "Pillage. Renown.\n<b>Reaction:</b> After Ser Gregor Clegane discards a character using pillage, place that card in its owner's dead pile. Then, you may choose and kill a character with printed cost equal to that card's printed cost.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "John Stanko"
         },
         {
             "code": "02050",
@@ -177,7 +190,8 @@
             "cost": 0,
             "traits": [],
             "text": "<b>Challenges Action:</b> Kneel your faction card to reveal the bottom 5 cards of your deck. You may put 1 unique [lannister] character revealed by this effect into play; return the other cards to the bottom of your deck in any order. At the end of the phase, if that card is still in play, discard it from play (cannot be saved).",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Jon Bosco"
         },
         {
             "code": "02051",
@@ -197,7 +211,9 @@
                 "Lord"
             ],
             "text": "<b>Reaction:</b> After you marshal Newly-Made Lord, choose a non-limited location with printed cost 3 or lower, and discard it from play.",
-            "deckLimit": 3
+            "designer": "Card design by 2003 World Champion, Casey Galvan.",
+            "deckLimit": 3,
+            "illustrator": "Leo Winstead"
         },
         {
             "code": "02052",
@@ -213,7 +229,8 @@
                 "Weapon"
             ],
             "text": "Opponent's character only.\nAttached character cannot be declared as a defender.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Jason Jenicke"
         },
         {
             "code": "02053",
@@ -233,7 +250,9 @@
                 "Dothraki"
             ],
             "text": "<b>Reaction:</b> After a character is discarded from an opponent's hand or deck, kneel a <i>Dothraki</i> character to place that card in its owner's dead pile.",
-            "deckLimit": 3
+            "flavor": "Even the mightiest of khals bowed to the wisdom and authority of the dosh khaleen.",
+            "deckLimit": 3,
+            "illustrator": "Thomas Denmark"
         },
         {
             "code": "02054",
@@ -247,7 +266,8 @@
                 "Warhorse"
             ],
             "text": "<i>Dothraki</i> character or Daenerys Targaryen only.\nWhile attached character is participating in a [power] challenge, it gains renown.\n<b>Reaction:</b> After attached character gains power using renown, sacrifice The Silver Steed. You may initiate an additional [power] challenge this phase.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Smirtouille"
         },
         {
             "code": "02055",
@@ -261,7 +281,9 @@
                 "Condition"
             ],
             "text": "Opponent's character only.\nAttached character loses an [intrigue] icon.",
-            "deckLimit": 3
+            "flavor": "Unless Prince Doran had attainted her, she remained the lawful heir to Sunspear; the man who married her would one day rule Dorne by her side.",
+            "deckLimit": 3,
+            "illustrator": "Tomasz Jedruszek"
         },
         {
             "code": "02056",
@@ -275,7 +297,8 @@
                 "Dorne"
             ],
             "text": "<b>Reaction:</b> After you lose a challenge, place 1 vengeance token on The Boneway.\n<b>Dominance Action:</b> Kneel The Boneway and discard 6 vengeance tokens from it to gain 3 power for your faction.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Tomasz Jedruszek"
         },
         {
             "code": "02057",
@@ -294,7 +317,8 @@
                 "Knight"
             ],
             "text": "While you control another <i>Knight</i> character, Hedge Knight gets +1 STR and gains a [power] icon.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Tomasz Jedruszek"
         },
         {
             "code": "02058",
@@ -307,7 +331,9 @@
                 "Title"
             ],
             "text": "Attached character gets +1 STR and gains the <i>Knight</i> trait.",
-            "deckLimit": 3
+            "flavor": "Any knight can make a knight...",
+            "deckLimit": 3,
+            "illustrator": "Jan-Wah Li"
         },
         {
             "code": "02059",
@@ -324,7 +350,8 @@
                 "Summer"
             ],
             "text": "Each<i> Knight</i> character you control gains renown and \"immune to opponents' events.\"",
-            "deckLimit": 2
+            "deckLimit": 2,
+            "illustrator": "Tomasz Jedruszek"
         },
         {
             "code": "02060",
@@ -335,7 +362,8 @@
                 "House Frey"
             ],
             "text": "During the first challenge you initiate each phase, each of your participating characters gets -1 STR.\nDuring the third challenge you initiate each phase, each of your participating characters gets +2 STR. If you win this challenge, gain 1 power for your faction.",
-            "deckLimit": 1
+            "deckLimit": 1,
+            "illustrator": "Michael Komarck"
         }
     ]
 }

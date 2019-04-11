@@ -24,7 +24,9 @@
                 "Lord"
             ],
             "text": "<b>Reaction:</b> After you win a challenge in which Roose Bolton is attacking, choose up to X total STR worth of characters controlled by the losing opponent. X is Roose Bolton's STR. Sacrifice Roose Bolton to kill each of those characters.",
-            "deckLimit": 3
+            "flavor": "\"Fear is what keeps a man alive in this world of treachery and deceit.\"",
+            "deckLimit": 3,
+            "illustrator": "David Auden Nash"
         },
         {
             "code": "04082",
@@ -39,7 +41,9 @@
                 "Stronghold"
             ],
             "text": "<b>Reaction:</b> After a character enters play, kneel your faction card and sacrifice Harrenhal to kill it.",
-            "deckLimit": 3
+            "flavor": "Harrenhal had seen more horror in its three hundred years than Casterly Rock had witnessed in three thousand.",
+            "deckLimit": 3,
+            "illustrator": "Matthew Cowdery"
         },
         {
             "code": "04083",
@@ -59,7 +63,9 @@
                 "Lady"
             ],
             "text": "Renown.\nWhile you control a <i>King</i> character or Catelyn Stark, Brienne of Tarth does not kneel when declared as a defender.",
-            "deckLimit": 3
+            "flavor": "\"He said that all his other knights wanted things of him, castles or honors or riches, but all that Brienne wanted was to die for him.\" <cite>The Knight of Flowers</cite>",
+            "deckLimit": 3,
+            "illustrator": "Nicholas Gregory"
         },
         {
             "code": "04084",
@@ -70,7 +76,9 @@
             "cost": 1,
             "traits": [],
             "text": "Play only if you control Renly Baratheon or a <i>Lady</i> character.\n<b>Challenges Action:</b> Choose an attacking character. Stand that character and remove it from the challenge.",
-            "deckLimit": 3
+            "flavor": "\"Only Renly could vex me so with a piece of fruit.\" <cite>Stannis Baratheon</cite>",
+            "deckLimit": 3,
+            "illustrator": "Nicholas Gregory"
         },
         {
             "code": "04085",
@@ -91,7 +99,9 @@
                 "Wildling"
             ],
             "text": "Immune to <i>Omen</i> card effects.\n<b>Action:</b> Sacrifice Craster to put each character that was killed this phase into play from its owner's dead pile.",
-            "deckLimit": 3
+            "flavor": "\"Even so, he's never turned a ranger away from his fire\" <cite>Thoren Smallwood</cite>",
+            "deckLimit": 3,
+            "illustrator": "Victor Manuel Leza Moreno"
         },
         {
             "code": "04086",
@@ -105,7 +115,9 @@
                 "Weapon"
             ],
             "text": "[thenightswatch] character only.\nWhile attached character is participating in a challenge, it gets +2 STR and is immune to opponent's character abilities.",
-            "deckLimit": 3
+            "flavor": "Dragonglass. What the maesters call obsidian.",
+            "deckLimit": 3,
+            "illustrator": "Zezhou Chen"
         },
         {
             "code": "04087",
@@ -127,7 +139,9 @@
                 "Smuggler"
             ],
             "text": "Stealth.\n<b>Reaction:</b> After Ser Davos Seaworth bypasses a non-loyal character using stealth, either: draw 1 card, or gain 1 gold.",
-            "deckLimit": 3
+            "flavor": "\"Aye, I've broken laws, but I never felt evil until tonight.\"",
+            "deckLimit": 3,
+            "illustrator": "David Auden Nash"
         },
         {
             "code": "04088",
@@ -140,7 +154,9 @@
                 "R'hllor"
             ],
             "text": "<b>Reaction:</b> After you win dominance, choose X standing <i>R'hllor</i> characters. Each of those characters gains 1 power.",
-            "deckLimit": 3
+            "flavor": "The morning air was dark with the smoke of burning gods.",
+            "deckLimit": 3,
+            "illustrator": "Tomasz Jedruszek"
         },
         {
             "code": "04089",
@@ -161,7 +177,9 @@
                 "Lord"
             ],
             "text": "<b>Reaction:</b> After you marshal a loyal character, kneel that character and your faction card to choose and kill a non-<i>King</i> character with a lower printed cost.",
-            "deckLimit": 3
+            "flavor": "\"...you can lead a king to water, but with Joff one had to splash it about before he realized he could drink it.\" <cite>Littlefinger</cite>",
+            "deckLimit": 3,
+            "illustrator": "Nicholas Gregory"
         },
         {
             "code": "04090",
@@ -175,7 +193,9 @@
                 "King's Landing"
             ],
             "text": "<b>Marshaling Action:</b> Kneel a character with an [intrigue] icon to gain 1 gold. (Limit twice per phase.)",
-            "deckLimit": 3
+            "flavor": "In Chataya's brothel, Shae would have all the silks and gems she could wish for, and the gentlest highborn patrons.",
+            "deckLimit": 3,
+            "illustrator": "Paolo Puggioni"
         },
         {
             "code": "04091",
@@ -196,7 +216,9 @@
                 "Steward"
             ],
             "text": "Each attachment gains terminal.",
-            "deckLimit": 3
+            "flavor": "\"M'lord, I am sent to show you to chambers.\"",
+            "deckLimit": 3,
+            "illustrator": "Tristan Denecke"
         },
         {
             "code": "04092",
@@ -209,7 +231,9 @@
                 "Blessing"
             ],
             "text": "Play only during a [power] challenge.\n<b>Action:</b> Choose a participating <i>Drowned God</i> or <i>Ironborn</i> character. Until the end of the challenge, that character gets +3 STR. If you win the challenge, draw 1 card.",
-            "deckLimit": 3
+            "flavor": "The first three men had offered their lives to the Drowned God fearlessly...",
+            "deckLimit": 3,
+            "illustrator": "Joel Hustak"
         },
         {
             "code": "04093",
@@ -229,7 +253,9 @@
                 "Merchant"
             ],
             "text": "<b>Reaction:</b> After you marshal a unique attachment, gain 2 gold. (Limit once per phase.)",
-            "deckLimit": 3
+            "flavor": "...Xaro Xhoan Daxos saw to it that the great and the humble alike offered some token to the Mother of Dragons.",
+            "deckLimit": 3,
+            "illustrator": "JB Casacop"
         },
         {
             "code": "04094",
@@ -243,7 +269,8 @@
                 "Title"
             ],
             "text": "<i>Stormborn</i> character you control only.\n<b>Challenges Action:</b> During a challenge in which you control a participating <i>Dragon</i> character, kneel Mother of Dragons to have attached character participate in the challenge on your side.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "David Auden Nash"
         },
         {
             "code": "04095",
@@ -263,7 +290,9 @@
                 "Lady"
             ],
             "text": "While there are no <i>King</i> characters in play, Myrcella Baratheon gains renown and does not kneel when declared as a defender in a [power] challenge.",
-            "deckLimit": 3
+            "flavor": "The girl never wept. Young as she was, Myrcella Baratheon was a princess born.",
+            "deckLimit": 3,
+            "illustrator": "JB Casacop"
         },
         {
             "code": "04096",
@@ -277,7 +306,8 @@
                 "Dorne"
             ],
             "text": "<b>Reaction:</b> After you lose a challenge as the defending player, kneel The Prince's Pass to choose an attacking character. Until the end of the phase, that character loses a challenge icon of your choice. Then, if it has no challenge icons, you may sacrifice The Prince's Pass to discard it from play.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Jim Brady"
         },
         {
             "code": "04097",
@@ -297,7 +327,9 @@
                 "The Seven"
             ],
             "text": "Silent Sisters gets +1 STR for each character in your dead pile.",
-            "deckLimit": 3
+            "flavor": "The silent sisters prepared men for the grave, and it was ill fortune to look on the face of death.",
+            "deckLimit": 3,
+            "illustrator": "Tristan Denecke"
         },
         {
             "code": "04098",
@@ -310,7 +342,9 @@
                 "The North"
             ],
             "text": "<b>Reaction:</b> After The Frostfangs enters play, give control of it to an opponent.\n-1 Reserve.",
-            "deckLimit": 3
+            "flavor": "The Frostfangs have a cruel bite, even in summer...",
+            "deckLimit": 3,
+            "illustrator": "Sergey Glushakov"
         },
         {
             "code": "04099",
@@ -320,7 +354,8 @@
             "cost": 0,
             "traits": [],
             "text": "<b>Action:</b> Choose a unique character with printed cost 3 or lower. Until the end of the phase, that character gains stealth.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Cassandre Bolan"
         },
         {
             "code": "04100",
@@ -337,7 +372,8 @@
                 "Omen"
             ],
             "text": "<b>When Revealed:</b> Put the top character in each player's dead pile into play.",
-            "deckLimit": 2
+            "deckLimit": 2,
+            "illustrator": "Nikolas Hagialas"
         }
     ]
 }

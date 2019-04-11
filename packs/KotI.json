@@ -23,7 +23,8 @@
                 "Lord"
             ],
             "text": "Pillage. Renown.\n<b>Action:</b> Kneel your faction card to choose a card in an opponent's discard pile and put it into play under your control. At the end of the phase, if that card is still in play, shuffle it into its owner's deck.\n<em>Errata from FAQ v2.0</em>",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Michele Frigo"
         },
         {
             "code": "12002",
@@ -46,7 +47,9 @@
                 "Raider"
             ],
             "text": "Intimidate.\n<b>Reaction:</b> After you marshal Euron Crow's Eye, search your hand, deck, and discard pile for Silence and put it into play. Shuffle your deck.",
-            "deckLimit": 3
+            "flavor": "\"You serve one god, Damphair, but I have served ten thousand. From Ib to Asshai, when men see my sails, they pray.\"",
+            "deckLimit": 3,
+            "illustrator": "Allen Douglas"
         },
         {
             "code": "12003",
@@ -68,7 +71,9 @@
                 "Lady"
             ],
             "text": "Pillage. Stealth.\nEach other unique <i>Ironborn</i> character you control gains stealth.",
-            "deckLimit": 3
+            "flavor": "\"If there are rocks to starboard and a storm to port, a wise captain steers a third course.\"",
+            "deckLimit": 3,
+            "illustrator": "Josu Hernaiz"
         },
         {
             "code": "12004",
@@ -89,7 +94,9 @@
                 "Knight"
             ],
             "text": "No attachments except <i>Weapon</i>.\nWhile The Knight is attacking alone, he gains stealth and renown.",
-            "deckLimit": 3
+            "flavor": "\"The Knight took Grimston by himself. He planted his standard beneath the castle and defied the Grimms to face him. One did, and then another, and another. He slew them all...\" <cite>Hotho Harlaw</cite>",
+            "deckLimit": 3,
+            "illustrator": "Paolo Puggioni"
         },
         {
             "code": "12005",
@@ -111,7 +118,9 @@
                 "Lord"
             ],
             "text": "Insight.\n<b>Reaction:</b> After another <i>Drowned God</i> character you control is killed, draw 1 card. (Limit once per phase.)",
-            "deckLimit": 3
+            "flavor": "\"Mine is the strength of the sea, a strength the Crow's Eye cannot hope to withstand.\"",
+            "deckLimit": 3,
+            "illustrator": "Josu Hernaiz"
         },
         {
             "code": "12006",
@@ -132,7 +141,9 @@
                 "Lord"
             ],
             "text": "While The Drumm is attacking in a [military] or [power] challenge, each character with an [intrigue] icon cannot be declared as a defender.",
-            "deckLimit": 3
+            "flavor": "\"Where is it written that our king must be a kraken?\"",
+            "deckLimit": 3,
+            "illustrator": "Jeff Lee Johnson"
         },
         {
             "code": "12007",
@@ -153,7 +164,9 @@
                 "Lady"
             ],
             "text": "<b>Action:</b> Choose 3 cards in an opponent's discard pile and place them on the bottom of his or her deck in any order. Then, gain 1 gold and draw 1 card. (Limit once per round.)",
-            "deckLimit": 3
+            "flavor": "Long years had passed since then, but still the widow lingered, grieving, and muttering from time to time that the castle should be hers.",
+            "deckLimit": 3,
+            "illustrator": "Drazenka Kimpel"
         },
         {
             "code": "12008",
@@ -174,7 +187,8 @@
                 "Raider"
             ],
             "text": "Pillage.\n<b>Reaction:</b> After Andrik the Unsmiling discards a card using pillage, choose a non-limited location or attachment in the losing opponent's discard pile. Discard 1 copy of that card from play.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Tikos Peter"
         },
         {
             "code": "12009",
@@ -194,7 +208,9 @@
                 "Ironborn"
             ],
             "text": "<b>Reaction:</b> After you win a challenge in which Qarl the Maid is participating, either: stand a <i>Warship</i> location, or stand Asha Greyjoy.",
-            "deckLimit": 3
+            "flavor": "Qarl stood over him, with his long-sword dripping and moonlight shining in his eyes.",
+            "deckLimit": 3,
+            "illustrator": "Michele Frigo"
         },
         {
             "code": "12010",
@@ -214,7 +230,9 @@
                 "Maester"
             ],
             "text": "<b>Interrupt:</b> When the effects of a triggered location ability would initiate, kneel Maester Murenmure to cancel those effects.",
-            "deckLimit": 3
+            "flavor": "\"Pray all you wish... It does not change the laws.\"",
+            "deckLimit": 3,
+            "illustrator": "Magali Villeneuve"
         },
         {
             "code": "12011",
@@ -235,7 +253,9 @@
                 "Ironborn"
             ],
             "text": "<b>Action:</b> Kneel Old Grey Gull to kill another [greyjoy] character you control. Then, you may return that character from your dead pile to your hand.",
-            "deckLimit": 3
+            "flavor": "\"...even the Old Grey Gull has left that rock he lives on to preach this kingsmoot all across Harlaw.\" <cite>The Reader</cite>",
+            "deckLimit": 3,
+            "illustrator": "Andreia Ugrai"
         },
         {
             "code": "12012",
@@ -255,7 +275,8 @@
                 "Drowned God"
             ],
             "text": "While there is a <i>Drowned God</i> character in your dead pile, Priest of Old Wyk contributes its STR to your total for dominance even while kneeling.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Andreia Ugrai"
         },
         {
             "code": "12013",
@@ -275,7 +296,8 @@
                 "Drowned God"
             ],
             "text": "<b>Interrupt:</b> When Drowned Prophet is killed, search the top 5 cards of your deck for a [greyjoy] character and place it in your dead pile. Shuffle your deck.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Andreia Ugrai"
         },
         {
             "code": "12014",
@@ -296,7 +318,8 @@
                 "Raider"
             ],
             "text": "<b>Reaction:</b> After a <i>Warship</i> location enters play under your control, put Eager Deckhand into play from your hand.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Aleksander Karcz"
         },
         {
             "code": "12015",
@@ -317,7 +340,8 @@
                 "Raider"
             ],
             "text": "Pillage.\nWhile an opponent has 10 or more cards in his or her discard pile, Orkmont Reaver gains stealth.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Darek Zabrocki"
         },
         {
             "code": "12016",
@@ -331,7 +355,8 @@
                 "Warship"
             ],
             "text": "<b>Challenges Action:</b> Kneel Silence to put a <i>Warship</i> location into play from your hand. Then, if you control Euron Crow's Eye, stand him.\n+2 Initiative.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Federico Musetti"
         },
         {
             "code": "12017",
@@ -346,7 +371,9 @@
                 "Iron Islands"
             ],
             "text": "<b>Reaction:</b> After a character enters play from your dead pile, each opponent chooses and discards 1 card from his or her hand. (Limit once per phase.)",
-            "deckLimit": 3
+            "flavor": "Great Wyk was the largest of the Iron Islands, so vast that some of its lords had holdings that did not front upon the holy sea.",
+            "deckLimit": 3,
+            "illustrator": "Juan Carlos Barquet"
         },
         {
             "code": "12018",
@@ -360,7 +387,8 @@
                 "Warship"
             ],
             "text": "<b>Reaction:</b> After you win a [military] challenge as the attacking player, kneel Golden Storm to choose and kill a participating character. Then, if you control a participating <i>Raider</i> character, stand Golden Storm.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Alexandre Dainche"
         },
         {
             "code": "12019",
@@ -374,7 +402,8 @@
                 "Warship"
             ],
             "text": "<b>Reaction:</b> After you win an unopposed challenge, kneel Maiden's Bane to choose and stand an attacking character. Then, if that character is a <i>Captain</i>, stand Maiden's Bane.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Tomasz Jedruszek"
         },
         {
             "code": "12020",
@@ -388,7 +417,8 @@
                 "Warship"
             ],
             "text": "<b>Interrupt:</b> When a character you control discards a card using pillage, kneel and sacrifice Scouting Vessel to discard 3 cards instead.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Tomasz Jedruszek"
         },
         {
             "code": "12021",
@@ -403,7 +433,8 @@
                 "Weapon"
             ],
             "text": "Unique [greyjoy] character only.\nIf attached character is The Drumm, he gains stealth.\n<b>Reaction:</b> After you win an unopposed challenge in which attached character is attacking, it gains 2 power. (Limit once per phase.)",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Federico Musetti"
         },
         {
             "code": "12022",
@@ -417,7 +448,8 @@
                 "Title"
             ],
             "text": "Attached character gains the <i>Captain</i> trait and gets +1 STR. (+3 STR instead if you control 3 or more <i>Warship</i> locations.)",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Jason Jenicke"
         },
         {
             "code": "12023",
@@ -430,7 +462,8 @@
                 "Drowned God"
             ],
             "text": "<b>Reaction:</b> After you win dominance, choose a [greyjoy] character in your dead pile and put it into play.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Axel Sauerwald"
         },
         {
             "code": "12024",
@@ -441,7 +474,8 @@
             "cost": 1,
             "traits": [],
             "text": "<b>Action:</b> Choose up to 3 characters with pillage and/or the <i>Raider</i> trait. Until the end of the phase, each of those characters gains stealth.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Aleksander Karcz"
         },
         {
             "code": "12025",
@@ -463,7 +497,9 @@
                 "Smuggler"
             ],
             "text": "<b>Action:</b> Kneel Khorane Sathmantes and a <i>Warship</i> location to choose and kneel 1 character and 1 location.",
-            "deckLimit": 3
+            "flavor": "\"This was well done, Khorane. You will be having a fine reward, I am thinking.\" <cite>Salladhor Saan</cite>",
+            "deckLimit": 3,
+            "illustrator": "Salvador Trakal"
         },
         {
             "code": "12026",
@@ -477,7 +513,8 @@
                 "Warship"
             ],
             "text": "While you control Stannis Baratheon, he gains intimidate.\n<b>Reaction:</b> After you win a [power] challenge, kneel Fury to choose a character or location. Move 1 power from that card to your faction card.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Ignacio Bazán Lazcano"
         },
         {
             "code": "12027",
@@ -497,7 +534,9 @@
                 "Clansman"
             ],
             "text": "Ambush (4).\n<b>Reaction:</b> After you win a challenge in which Gunthor Son of Gurn is attacking, the losing opponent must choose and discard 1 card from his or her hand.",
-            "deckLimit": 3
+            "flavor": "\"The gold of a lowland lord is as worthless as a half man's promises\"",
+            "deckLimit": 3,
+            "illustrator": "Caravan Studio"
         },
         {
             "code": "12028",
@@ -508,7 +547,9 @@
             "cost": 1,
             "traits": [],
             "text": "<b>Action:</b> During a [military] challenge, choose a character you control with an [intrigue] icon and have it participate in the challenge on your side.",
-            "deckLimit": 3
+            "flavor": "\"...and a mind needs books as a sword needs a whetstone, if it is to keep its edge.\"",
+            "deckLimit": 3,
+            "illustrator": "Aleksander Karcz"
         },
         {
             "code": "12029",
@@ -530,7 +571,9 @@
                 "Raider"
             ],
             "text": "<b>Reaction:</b> After you lose a challenge, put Desert Raider into play from your dead pile and choose a character controlled by the winning opponent. That character gains 1 power. Until the end of the phase, that character loses an [intrigue] or [power] icon and Desert Raider gains that icon.",
-            "deckLimit": 3
+            "designer": "Card design by 2012 European Melee Champion, Istvan Cserdi.",
+            "deckLimit": 3,
+            "illustrator": "Diego Gisbert Llorens"
         },
         {
             "code": "12030",
@@ -545,7 +588,9 @@
                 "Title"
             ],
             "text": "[martell] character only.\nWhile you are not the first player, attached character gains stealth and renown.",
-            "deckLimit": 3
+            "flavor": "The most powerful of the Dornish lords was Anders Yronwood, the Bloodroyal...",
+            "deckLimit": 3,
+            "illustrator": "Michele Frigo"
         },
         {
             "code": "12031",
@@ -565,7 +610,8 @@
                 "Ranger"
             ],
             "text": "<b>Reaction:</b> After you lose a challenge as the defending player, Vindictive Ranger gains stealth and a challenge icon of your choice until the end of the phase.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Michele Frigo"
         },
         {
             "code": "12032",
@@ -579,7 +625,8 @@
                 "The North"
             ],
             "text": "<b>Action:</b> Kneel Westwatch-by-the-Bridge to choose and stand another [thenightswatch] location with printed cost 1 or lower. (Printed cost 4 or lower instead if you control a <i>Ranger</i> character, a <i>Steward</i> character, and a <i>Builder</i> character.)",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Tomas Honz"
         },
         {
             "code": "12033",
@@ -600,7 +647,9 @@
                 "Maester"
             ],
             "text": "<b>Reaction:</b> After you win a [military] or [power] challenge, kneel Maester Vyman to choose another character that shares a <i>Trait</i> with him. That character gains 1 power.",
-            "deckLimit": 3
+            "flavor": "\"My lady, is there aught I might do for you?\"",
+            "deckLimit": 3,
+            "illustrator": "Tiziano Baracchi"
         },
         {
             "code": "12034",
@@ -614,7 +663,9 @@
                 "The North"
             ],
             "text": "While a player does not have a <i>Winter</i> plot card revealed, characters and locations he or she controls cannot gain power.",
-            "deckLimit": 3
+            "flavor": "\"Karhold is with me, that is all the men need know.\" <cite>Stannis Baratheon</cite>",
+            "deckLimit": 3,
+            "illustrator": "Leanna Crossan"
         },
         {
             "code": "12035",
@@ -635,7 +686,9 @@
                 "Dothraki"
             ],
             "text": "Intimidate.\n<b>Action:</b> Kneel Cohollo and discard 1 card from your hand to have him participate in a challenge on your side.",
-            "deckLimit": 3
+            "flavor": "And old Cohollo - Cohollo who had bound his life to Drogo's on the day of his birth, Cohollo who had always been kind to her - Cohollo spat full in her face.",
+            "deckLimit": 3,
+            "illustrator": "Paolo Puggioni"
         },
         {
             "code": "12036",
@@ -648,7 +701,9 @@
                 "Song"
             ],
             "text": "<b>Action:</b> Choose a non-event card with printed cost 3 or lower in your discard pile and return it to your hand.",
-            "deckLimit": 3
+            "flavor": "A haunting ballad of two dying lovers amidst the Doom of Valyria might have pleased the hall more if Collio had not sung it in High Valyrian, which most of the guests could not speak.",
+            "deckLimit": 3,
+            "illustrator": "Tim Durning"
         },
         {
             "code": "12037",
@@ -668,7 +723,9 @@
                 "Knight"
             ],
             "text": "No attachments except <i>Weapon</i>.\n<b>Reaction:</b> After an opponent triggers a location ability, Ser Talbert Serry gets +2 STR until the end of the phase. (Limit 3 times per phase.)",
-            "deckLimit": 3
+            "flavor": "Young Serry had been different. A brave man, thought Victarion. Almost ironborn.",
+            "deckLimit": 3,
+            "illustrator": "Paolo Puggioni"
         },
         {
             "code": "12038",
@@ -682,7 +739,9 @@
                 "The Reach"
             ],
             "text": "Increase the number of cards each player draws in the draw phase by 1.",
-            "deckLimit": 3
+            "flavor": "Though the men of the Shield Islands called themselves sailors, they crossed the seas in dread and went lightly clad in battle for fear of drowning.",
+            "deckLimit": 3,
+            "illustrator": "Leanna Crossan"
         },
         {
             "code": "12039",
@@ -702,7 +761,8 @@
                 "Lord"
             ],
             "text": "Renown.\n<b>Reaction:</b> After you win a challenge in which Bronze Yohn Royce is defending, kneel a neutral location with printed cost 1 or higher to stand him. (Limit twice per phase.)",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Even Mehl Amundsen"
         },
         {
             "code": "12040",
@@ -722,7 +782,8 @@
                 "Wildling"
             ],
             "text": "Ambush (5).\n<b>Reaction:</b> After Rogue Wildling enters play, choose and stand a <i>Wildling</i> character you control.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Jacob Murray"
         },
         {
             "code": "12041",
@@ -741,7 +802,8 @@
                 "Maester"
             ],
             "text": "<b>Reaction:</b> After Citadel Archivist enters your discard pile, each player shuffles his or her discard pile into his or her deck.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Aleksander Karcz"
         },
         {
             "code": "12042",
@@ -755,7 +817,8 @@
                 "The Seven"
             ],
             "text": "<b>Action:</b> Move 1 power from The Starry Sept to a character. Until the end of the phase, treat that character as if its printed text box were blank (except for <i>Traits</i>).\n<b>Reaction:</b> After you win a [power] challenge, The Starry Sept gains 1 power.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Carmen Cornet"
         },
         {
             "code": "12043",
@@ -768,7 +831,8 @@
                 "Condition"
             ],
             "text": "Terminal.\nAttached character must be declared as an attacker or defender in each challenge, if able.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Ignacio Bazán Lazcano"
         },
         {
             "code": "12044",
@@ -778,7 +842,9 @@
             "cost": 2,
             "traits": [],
             "text": "<b>Reaction:</b> After a player loses a [military] challenge, that player chooses a participating character and places it on top of its owner's deck. (Max 1 per challenge.)",
-            "deckLimit": 3
+            "designer": "Card design by 2008 Melee World Champion, Tzu-Mainn Chen.",
+            "deckLimit": 3,
+            "illustrator": "Mike Capprotti"
         },
         {
             "code": "12045",
@@ -789,7 +855,8 @@
                 "Prophecy"
             ],
             "text": "During [military] challenges, reduce the cost of each event you play by 1 for each blood token on Sea of Blood. You cannot play events during [intrigue] or [power] challenges.\n<b>Reaction:</b> After you win a [military] challenge by 5 or more STR, kneel your faction card to place a blood token on Sea of Blood. Then, search your deck for an event, reveal it, and add it to your hand. Shuffle your deck.",
-            "deckLimit": 1
+            "deckLimit": 1,
+            "illustrator": "Tim Durning"
         },
         {
             "code": "12046",
@@ -807,7 +874,8 @@
                 "War"
             ],
             "text": "<b>When Revealed:</b> Choose a location in a discard pile and put it into play under your control.",
-            "deckLimit": 1
+            "deckLimit": 1,
+            "illustrator": "Federico Musetti"
         },
         {
             "code": "12047",
@@ -824,7 +892,8 @@
                 "Edict"
             ],
             "text": "<b>When Revealed:</b> You may sacrifice up to 3 characters. For each character sacrificed this way, draw 1 card and gain 1 gold.",
-            "deckLimit": 2
+            "deckLimit": 2,
+            "illustrator": "Aleksander Karcz"
         },
         {
             "code": "12048",
@@ -841,7 +910,8 @@
                 "Kingdom"
             ],
             "text": "<b>When Revealed:</b> Search the top 10 cards of your deck for a <i>Lord</i> or <i>Lady</i> character and put it into play. Shuffle your deck. Then, sacrifice a <i>Lord</i> or <i>Lady</i> character.",
-            "deckLimit": 2
+            "deckLimit": 2,
+            "illustrator": "David Demaret"
         },
         {
             "code": "12049",
@@ -858,7 +928,8 @@
                 "War"
             ],
             "text": "<b>Reaction:</b> After you win a challenge as the attacking player, choose a different challenge type. You may initiate an additional challenge of the chosen type this phase. (Limit once per phase.)",
-            "deckLimit": 2
+            "deckLimit": 2,
+            "illustrator": "Ignacio Bazán Lazcano"
         },
         {
             "code": "12050",
@@ -875,7 +946,8 @@
                 "Scheme"
             ],
             "text": "Each opponent plays with the top card of his or her deck revealed.\n<b>Action:</b> Pay 1 gold to place the top card of an opponent's deck on the bottom of that player's deck. (Limit 3 times per round.)",
-            "deckLimit": 2
+            "deckLimit": 2,
+            "illustrator": "Carlos Palma Cruchaga"
         },
         {
             "code": "12051",
@@ -893,7 +965,8 @@
                 "Kingdom"
             ],
             "text": "<b>Reaction:</b> After the challenges phase begins, look at the top 5 cards of your deck. Add 1 to your hand, discard 1, and put the others back on top of your deck in any order.",
-            "deckLimit": 2
+            "deckLimit": 2,
+            "illustrator": "Paolo Puggioni"
         },
         {
             "code": "12052",
@@ -910,7 +983,8 @@
                 "Edict"
             ],
             "text": "<b>Forced Reaction:</b> After the challenges phase begins, choose a <i>Trait</i>. Kill each character you control that does not have that <i>Trait</i> (cannot be saved).",
-            "deckLimit": 1
+            "deckLimit": 1,
+            "illustrator": "Carlos Palma Cruchaga"
         }
     ]
 }

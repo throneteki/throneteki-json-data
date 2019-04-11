@@ -23,7 +23,8 @@
                 "Small Council"
             ],
             "text": "Renown.\n<b>Dominance Action:</b> If each character you control has the [stark] affiliation, kneel Eddard Stark to choose and kill a character with a printed cost 4 or lower. (Limit once per phase.)",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Aleksander Karcz"
         },
         {
             "code": "13042",
@@ -38,7 +39,8 @@
                 "Item"
             ],
             "text": "Shadow (1).\nAttached character gains an [intrigue] icon.\n<b>Reaction:</b> After you win a challenge in which attached character is attacking, look at the losing opponent's hand. If attached character is Eddard Stark or has the <i>Maester</i> trait, stand it. (Limit once per phase.)",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Tiziano Baracchi"
         },
         {
             "code": "13043",
@@ -58,7 +60,9 @@
                 "Maester"
             ],
             "text": "You may look at the top card of your deck.\nOnce per phase, if the top card of your deck is a non-[tyrell] card, you may marshal or play it as if it were in your hand.",
-            "deckLimit": 3
+            "flavor": "Maester Gormon sat below the iron mask in Walgrave's place, the same Gormon who had accused Pate of theft.",
+            "deckLimit": 3,
+            "illustrator": "Paolo Puggioni"
         },
         {
             "code": "13050",
@@ -71,7 +75,9 @@
                 "Song"
             ],
             "text": "<b>Reaction:</b> After you win an [intrigue] challenge by 5 or more STR as the attacking player, choose a character controlled by the losing opponent and return it to its owner's hand. (Max 1 per challenge.)",
-            "deckLimit": 3
+            "flavor": "Hands of gold are always cold, but a woman's hands are warm.",
+            "deckLimit": 3,
+            "illustrator": "Dinodrawing"
         },
         {
             "code": "13055",
@@ -91,7 +97,8 @@
                 "Lady"
             ],
             "text": "Shadow (5). Stealth.\n<b>Reaction:</b> After a card comes out of shadows under your control, choose a character. Until the end of the phase, that character loses a challenge icon of your choice. (Limit 3 times per round.)",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Magali Villeneuve"
         },
         {
             "code": "13057",
@@ -110,7 +117,8 @@
                 "The Seven"
             ],
             "text": "No attachments except <i>The Seven</i>.\n<b>Reaction:</b> After a character enters play under an opponent's control, if another character has entered play under that player's control this phase, The Most Devout gains 1 power. (Limit once per phase.)",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Joshua Cairós"
         },
         {
             "code": "13058",
@@ -124,7 +132,8 @@
                 "The Seven"
             ],
             "text": "<b>Action:</b> Kneel Statue of Baelor and discard 1 power from another character or location you control to stand that character or location.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Logan Feliciano"
         },
         {
             "code": "13059",
@@ -136,7 +145,8 @@
                 "The Seven"
             ],
             "text": "Play only if you control a <i>The Seven</i> character or location.\n<b>Action:</b> Name a non-agenda, non-plot card. Until the end of the phase, each opponent cannot trigger card abilities of cards with that name.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Aleksander Karcz"
         }
     ]
 }
