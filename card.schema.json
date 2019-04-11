@@ -28,6 +28,10 @@
             "minimum": 1,
             "type": "integer"
         },
+        "designer": {
+            "minLength": 1,
+            "type": "string"
+        },
         "faction": {
             "enum": [
                 "baratheon",
@@ -40,6 +44,10 @@
                 "thenightswatch",
                 "tyrell"
             ]
+        },
+        "flavor": {
+            "minLength": 1,
+            "type": "string"
         },
         "icons": {
             "properties": {
@@ -54,6 +62,10 @@
                 }
             },
             "required": ["intrigue", "military", "power"]
+        },
+        "illustrator": {
+            "minLength": 1,
+            "type": "string"
         },
         "loyal": {
             "type": "boolean"

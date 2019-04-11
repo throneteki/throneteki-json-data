@@ -42,10 +42,13 @@ class ThronetekiToThronesDbConverter {
             thronesDbCard.cost = thronetekiCard.cost.toString();
         }
         thronesDbCard.deck_limit = thronetekiCard.deckLimit;
+        if(thronetekiCard.designer) {
+            thronesDbCard.designer = thronetekiCard.designer;
+        }
         thronesDbCard.faction_code = thronetekiCard.faction;
-        this.setMissingProperty(thronesDbCard, 'flavor', '');
+        thronesDbCard.flavor = thronetekiCard.flavor || '';
         if(packCode !== 'VDS') {
-            this.setMissingProperty(thronesDbCard, 'illustrator', null);
+            thronesDbCard.illustrator = thronetekiCard.illustrator;
         }
         if(thronetekiCard.type === 'plot') {
             thronesDbCard.income = this.convertXValue(thronetekiCard.plotStats.income);

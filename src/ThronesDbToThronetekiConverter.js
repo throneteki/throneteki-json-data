@@ -53,7 +53,20 @@ class ThronesDbToThronetekiConverter {
 
         properties.traits = this.parseTraits(card.traits);
         properties.text = card.text;
+
+        if(card.designer) {
+            properties.designer = card.designer;
+        }
+
+        if(card.flavor && card.flavor.length > 0) {
+            properties.flavor = card.flavor;
+        }
+
         properties.deckLimit = card.deck_limit;
+
+        if(card.illustrator) {
+            properties.illustrator = card.illustrator;
+        }
 
         return properties;
     }
