@@ -2,7 +2,7 @@
     "cgdbId": 47,
     "code": "CoS",
     "name": "City of Secrets",
-    "releaseDate": null,
+    "releaseDate": "2019-04-25",
     "cards": [
         {
             "code": "13021",
@@ -40,6 +40,62 @@
             "illustrator": "Michele Giorgi"
         },
         {
+            "code": "13023",
+            "type": "character",
+            "name": "Arrogant Contender",
+            "unique": false,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 4,
+            "traits": [
+                "Knight"
+            ],
+            "text": "While Arrogant Contender is participating in a challenge, it gets +1 STR for each participating character an opponent controls.\n<b>Reaction:</b> After you win a challenge in which Arrogant Contender is attacking alone, it gains 1 power for each defending character (to a maximum of 3 power).",
+            "designer": "Card design by 2010 Melee World Champion, Brett Zeiler.",
+            "deckLimit": 3,
+            "illustrator": "Tiziano Baracchi"
+        },
+        {
+            "code": "13024",
+            "type": "event",
+            "name": "Show of Strength",
+            "faction": "tyrell",
+            "loyal": true,
+            "cost": 2,
+            "traits": [],
+            "text": "<b>Challenges Action:</b> Until the end of the phase, treat each character with STR 3 or lower as if its printed text box were blank (except for <i>Traits</i>).",
+            "deckLimit": 3,
+            "illustrator": "Paolo Puggioni"
+        },
+        {
+            "code": "13025",
+            "type": "character",
+            "name": "Owen the Oaf",
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 4,
+            "traits": [
+                "Steward"
+            ],
+            "text": "No attachments except <i>Weapon</i>.\nWhile Owen the Oaf is participating in a challenge, each character with more than 1 challenge icon does not contribute its STR to the challenge.",
+            "flavor": "When Owen the Oaf began to dance with Patchface the fool, laughter echoed off the vaulted ceiling.",
+            "deckLimit": 3,
+            "illustrator": "Tamires Para"
+        },
+        {
             "code": "13026",
             "type": "event",
             "name": "Shadow of the Wall",
@@ -74,6 +130,21 @@
             "illustrator": "Adam Lane"
         },
         {
+            "code": "13028",
+            "type": "location",
+            "name": "The Black Cells",
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": true,
+            "cost": 2,
+            "traits": [
+                "King's Landing"
+            ],
+            "text": "Shadow (2).\n<b>Reaction:</b> After a card you control comes out of shadows, kneel The Black Cells to choose an opponent's character. Until the end of the phase, that character cannot kneel or stand.",
+            "deckLimit": 3,
+            "illustrator": "Leanna Crossan"
+        },
+        {
             "code": "13029",
             "type": "character",
             "name": "The Regent's Guard",
@@ -96,6 +167,81 @@
             "illustrator": "Antonio José Manzanedo"
         },
         {
+            "code": "13030",
+            "type": "attachment",
+            "name": "Pyromancer's Cache",
+            "unique": false,
+            "faction": "lannister",
+            "loyal": true,
+            "cost": 2,
+            "traits": [
+                "Item"
+            ],
+            "text": "Location only.\nTreat attached location as if its printed text box were blank (except for <i>Traits</i>).\nAttached location gains: \"<b>Action:</b> Kneel this location to draw 1 card.\"",
+            "deckLimit": 3,
+            "illustrator": "Jokubas Uogintas"
+        },
+        {
+            "code": "13031",
+            "type": "character",
+            "name": "Alannys Greyjoy",
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": true,
+            "cost": 5,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "House Harlaw",
+                "Lady",
+                "Queen"
+            ],
+            "text": "<b>Reaction:</b> After a [greyjoy] location enters play under your control, draw 1 card. (Limit once per phase.)",
+            "flavor": "Even now, it was hard to credit that frail, sickly Lady Alannys had outlived her husband Lord Balon, who had seemed so hard and strong.",
+            "deckLimit": 3,
+            "illustrator": "Drazenka Kimpel"
+        },
+        {
+            "code": "13032",
+            "type": "location",
+            "name": "Nightflyer",
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Warship"
+            ],
+            "text": "Shadow (X).\n<b>Reaction:</b> After Nightflyer comes out of shadows, choose a location with printed cost X or lower and discard it from play.\n+1 Initiative.",
+            "deckLimit": 3,
+            "illustrator": "Federico Musetti"
+        },
+        {
+            "code": "13033",
+            "type": "character",
+            "name": "Black Market Merchant",
+            "unique": false,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 1,
+            "traits": [
+                "Merchant"
+            ],
+            "text": "Shadow (2).\n<b>Reaction:</b> After Black Market Merchant comes out of shadows, search the top 10 cards of your deck for an attachment with printed cost 3 or lower and attach it to an eligible character you control. Shuffle your deck.",
+            "deckLimit": 3,
+            "illustrator": "Jokubas Uogintas"
+        },
+        {
             "code": "13034",
             "type": "event",
             "name": "Shadow of the East",
@@ -106,6 +252,28 @@
             "text": "Shadow (0).\n<b>Action:</b> Choose an attachment and discard it from play. If there is a <i>Summer</i> plot card revealed, return Shadow of the East to your hand instead of placing it in your discard pile.",
             "deckLimit": 3,
             "illustrator": "Paolo Puggioni"
+        },
+        {
+            "code": "13035",
+            "type": "character",
+            "name": "The Fowler Twins",
+            "unique": true,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "Companion"
+            ],
+            "text": "<b>Action:</b> Choose a character. That character must be declared as an attacker or defender in the next challenge initiated this phase, if able. (Limit once per phase.)",
+            "flavor": "\"...Nym is too close to the Fowler twins. And who might the Fowler twins confide in? I could not take the risk.\" <cite>Doran Martell</cite>",
+            "deckLimit": 3,
+            "illustrator": "Borja Pindado"
         },
         {
             "code": "13036",
@@ -120,6 +288,28 @@
             "illustrator": "Logan Feliciano"
         },
         {
+            "code": "13037",
+            "type": "character",
+            "name": "Ghost of High Heart",
+            "unique": true,
+            "faction": "neutral",
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Ally",
+                "Brotherhood"
+            ],
+            "text": "While you control no loyal characters, each character you control gets +1 STR.\n<b>Challenges Action:</b> Kneel Ghost of High Heart to look at a player's hand. Choose and discard 1 card from that hand. Then, that player draws 1 card.",
+            "designer": "Card design by 2006 World Champion, Matthew Ley.",
+            "deckLimit": 3,
+            "illustrator": "Patrick McEvoy"
+        },
+        {
             "code": "13038",
             "type": "event",
             "name": "Shadow Politics",
@@ -129,6 +319,36 @@
             "text": "Shadow (1).\n<b>Action:</b> Choose one:\n- Choose and discard 1 card from shadows.\n- Choose up to 5 cards in a single discard pile and remove them from the game.\n- Look at an opponent's hand.",
             "deckLimit": 3,
             "illustrator": "Tiziano Baracchi"
+        },
+        {
+            "code": "13039",
+            "type": "agenda",
+            "name": "Knights of the Hollow Hill",
+            "faction": "neutral",
+            "traits": [],
+            "text": "You cannot place cards during setup. Your other cards do not provide a gold bonus.\n+3 Income. +2 Initiative. +1 Reserve.",
+            "designer": "Card design by 2009 Joust World Champion, Greg Atkinson.",
+            "deckLimit": 1,
+            "illustrator": "Tim Durning"
+        },
+        {
+            "code": "13040",
+            "type": "plot",
+            "name": "A City Besieged",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 2,
+                "initiative": 8,
+                "claim": 2,
+                "reserve": 5
+            },
+            "traits": [
+                "City",
+                "Siege"
+            ],
+            "text": "<b>When Revealed:</b> Choose and kneel a location. (Up to 2 locations instead if there is a <i>City</i> plot card in your used pile.)",
+            "deckLimit": 2,
+            "illustrator": "Paolo Puggioni"
         }
     ]
 }
