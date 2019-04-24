@@ -41,21 +41,42 @@ class ThronesDbToThronetekiConverter {
                 intrigue: card.is_intrigue,
                 power: card.is_power
             };
-            properties.strength = card.strength;
+            properties.strength = this.translateXValue(card.strength);
         } else if(card.type_code === 'plot') {
             properties.plotStats = {
-                income: card.income,
-                initiative: card.initiative,
-                claim: card.claim,
-                reserve: card.reserve
+                income: this.translateXValue(card.income),
+                initiative: this.translateXValue(card.initiative),
+                claim: this.translateXValue(card.claim),
+                reserve: this.translateXValue(card.reserve)
             };
         }
 
         properties.traits = this.parseTraits(card.traits);
         properties.text = card.text;
+
+        if(card.designer) {
+            properties.designer = card.designer;
+        }
+
+        if(card.flavor && card.flavor.length > 0) {
+            properties.flavor = card.flavor;
+        }
+
         properties.deckLimit = card.deck_limit;
 
+        if(card.illustrator) {
+            properties.illustrator = card.illustrator;
+        }
+
         return properties;
+    }
+
+    translateXValue(value) {
+        if(value === null) {
+            return 'X';
+        }
+
+        return value;
     }
 
     parseTraits(traits) {

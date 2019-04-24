@@ -22,7 +22,9 @@
                 "Companion"
             ],
             "text": "No attachments.\nHodor cannot be declared as an attacker unless you control Bran Stark.\nHodor does not contribute his STR to your total for dominance.",
-            "deckLimit": 3
+            "flavor": "\"Hodor!\"",
+            "deckLimit": 3,
+            "illustrator": "John Stanko"
         },
         {
             "code": "02062",
@@ -40,7 +42,8 @@
                 "War"
             ],
             "text": "<b>Challenges Action:</b> During a challenge in which you control a participating [stark] character, kneel another [stark] character to have it participate in that challenge on your side. (Limit twice per round.)",
-            "deckLimit": 1
+            "deckLimit": 1,
+            "illustrator": "Sergey Glushakov"
         },
         {
             "code": "02063",
@@ -61,7 +64,9 @@
                 "Knight"
             ],
             "text": "<b>Reaction:</b> After Ser Horas Redwyne is knelt, choose and stand a <i>Lady</i> character.",
-            "deckLimit": 3
+            "flavor": "Arya had seen them in the bailey a hundred times; the Redwyne twins, Ser Horas and Ser Hobber, homely youths with orange hair and square, freckled faces.",
+            "deckLimit": 3,
+            "illustrator": "Joshua Cairós"
         },
         {
             "code": "02064",
@@ -75,7 +80,8 @@
                 "House Redwyne"
             ],
             "text": "Limited.\n+3 Income.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Mauricio Calle"
         },
         {
             "code": "02065",
@@ -95,7 +101,9 @@
                 "Builder"
             ],
             "text": "No attachments except <i>Weapon</i>.\n<b>Action:</b> Kneel a [thenightswatch] location or attachment to choose a [thenightswatch] character. Until the end of the phase, that character gets +1 STR.",
-            "deckLimit": 3
+            "flavor": "\"It's the builders for me. What use would rangers be if the Wall fell down?\"",
+            "deckLimit": 3,
+            "illustrator": "Richard Hanuschek"
         },
         {
             "code": "02066",
@@ -108,7 +116,8 @@
                 "Ranger"
             ],
             "text": "Play only during a [military] challenge.\n<b>Challenges Action:</b> Kneel 2 <i>Ranger</i> characters to kill each attacking character.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Jim Brady"
         },
         {
             "code": "02067",
@@ -126,7 +135,8 @@
                 "Siege"
             ],
             "text": "You cannot lose <em>(and your opponent cannot win)</em> the first challenge initiated against you each phase.",
-            "deckLimit": 1
+            "deckLimit": 1,
+            "illustrator": "Tomasz Jedruszek"
         },
         {
             "code": "02068",
@@ -146,7 +156,8 @@
                 "Bastard"
             ],
             "text": "<b>Reaction:</b> After you win dominance, Gendry gains 1 power.\n<b>Forced Reaction:</b> After an opponent wins dominance, you may discard 1 power from Gendry. If you do not, sacrifice a <i>Bastard</i> character.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Jason Jenicke"
         },
         {
             "code": "02069",
@@ -160,7 +171,9 @@
                 "King's Landing"
             ],
             "text": "<b>Reaction:</b> After you win dominance, kneel Tobho Mott's Armory to draw 1 card.",
-            "deckLimit": 3
+            "flavor": "\"Any village smith can hammer out a shift of mail; my work is art.\" <cite>Tobho Mott</cite>",
+            "deckLimit": 3,
+            "illustrator": "Logan Feliciano"
         },
         {
             "code": "02070",
@@ -181,7 +194,8 @@
                 "Mercenary"
             ],
             "text": "During [intrigue] challenges, Red Cloaks gets +1 STR for each gold on it.\n<b>Action:</b> Move 1 gold from your gold pool to Red Cloaks. (Limit once per phase.)",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Tomasz Jedruszek"
         },
         {
             "code": "02071",
@@ -195,7 +209,8 @@
                 "Condition"
             ],
             "text": "Opponent's character only. Ambush (1). \n<b>Reaction:</b> After you win an [intrigue] challenge, kneel attached character. Then, that character's controller may give you 1 gold from his or her gold pool to stand that character.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Thomas Denmark"
         },
         {
             "code": "02072",
@@ -215,7 +230,9 @@
                 "Drowned God"
             ],
             "text": "Each <i>Drowned God</i> character you control gets +1 STR.",
-            "deckLimit": 3
+            "flavor": "\"And the waters of wrath will rise high, and the Drowned God will spread his dominion across the green lands!\" <cite>Aeron Damphair</cite>",
+            "deckLimit": 3,
+            "illustrator": "Sebastian Ciaffaglione"
         },
         {
             "code": "02073",
@@ -226,7 +243,8 @@
             "cost": "X",
             "traits": [],
             "text": "You may only use gold from the losing opponent's gold pool to pay for Loot.\n<b>Reaction:</b> After you win an unopposed challenge, discard the top X cards from the losing opponent's deck.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Tomasz Jedruszek"
         },
         {
             "code": "02074",
@@ -247,7 +265,8 @@
                 "Dothraki"
             ],
             "text": "No attachments. Pillage.\nReduce the cost to marshal Dothraki Outriders by 1 for each <i>Dothraki</i> character you control.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Tomasz Jedruszek"
         },
         {
             "code": "02075",
@@ -265,7 +284,8 @@
                 "Legacy"
             ],
             "text": "Each non-<i>Dragon</i> character gets -1 STR and is killed if its STR is 0.",
-            "deckLimit": 1
+            "deckLimit": 1,
+            "illustrator": "Kerry Barnett"
         },
         {
             "code": "02076",
@@ -286,7 +306,8 @@
                 "Maester"
             ],
             "text": "<b>Challenges Action:</b> Kneel Maester of Starfall to choose a character. Until the end of the phase, that character loses (choose one): insight, intimidate, pillage, or renown.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Thomas Denmark"
         },
         {
             "code": "02077",
@@ -300,7 +321,9 @@
                 "Condition"
             ],
             "text": "Opponent's character only.\nAttached character loses a [power] icon.",
-            "deckLimit": 3
+            "flavor": "He never heard his father speak the words that condemned him. Perhaps no words were necessary. I put my life in the Red Viper's hands, and he dropped it.",
+            "deckLimit": 3,
+            "illustrator": "Marius Bota"
         },
         {
             "code": "02078",
@@ -319,7 +342,8 @@
                 "Wildling"
             ],
             "text": "<b>Action:</b> Sacrifice Wildling Scout to choose a character. Until the end of the phase, that character gains stealth.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Marius Bota"
         },
         {
             "code": "02079",
@@ -337,7 +361,9 @@
                 "Winter"
             ],
             "text": "<b>Forced Reaction:</b> After the challenges phase begins, return each character with printed cost 3 or lower to its owner's hand.",
-            "deckLimit": 1
+            "designer": "Card design by 2005 World Champion, John M. Bruno.",
+            "deckLimit": 1,
+            "illustrator": "Thomas Denmark"
         },
         {
             "code": "02080",
@@ -354,7 +380,8 @@
                 "Winter"
             ],
             "text": "Reduce the reserve value on each opponent's revealed plot card by 2 (to a minimum of 2).",
-            "deckLimit": 2
+            "deckLimit": 2,
+            "illustrator": "Tomasz Jedruszek"
         }
     ]
 }

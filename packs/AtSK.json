@@ -14,7 +14,9 @@
                 "Omen"
             ],
             "text": "<b>Action:</b> Choose an opponent. You and that player each draw 2 cards.",
-            "deckLimit": 3
+            "flavor": "The comet's tail spread across the dawn, a red slash that bled above the crags of Dragonstone like a wound in the pink and purple sky.",
+            "deckLimit": 3,
+            "illustrator": "Jokubas Uogintas"
         },
         {
             "code": "04002",
@@ -35,7 +37,8 @@
                 "Lord"
             ],
             "text": "Renown.\nDuring [military] challenges, Robb Stark gets +1 STR for each loyal character you control.\n<b>Action:</b> While Robb Stark is participating in a [military] challenge, choose a participating non-<i>King</i> character. Stand and remove that character from the challenge. (Limit once per challenge.)",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Nicholas Gregory"
         },
         {
             "code": "04003",
@@ -50,7 +53,8 @@
                 "The Riverlands"
             ],
             "text": "<b>Reaction:</b> After power is gained by or moved to a <i>House Tully</i> character, kneel Riverrun to have that character gain 1 power.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Juan Carlos Barquet"
         },
         {
             "code": "04004",
@@ -70,7 +74,9 @@
                 "Knight"
             ],
             "text": "During [power] challenges, Ser Colen of Greenpools gets +3 STR.",
-            "deckLimit": 3
+            "flavor": "\"These are dangerous lands you cross.\"",
+            "deckLimit": 3,
+            "illustrator": "David Auden Nash"
         },
         {
             "code": "04005",
@@ -84,7 +90,8 @@
                 "The Reach"
             ],
             "text": "<b>Reaction:</b> After a <i>Summer</i> plot card is revealed, kneel Bitterbridge Encampment. Then, each player may put a character into play from his or her hand.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Matthew Cowdery"
         },
         {
             "code": "04006",
@@ -104,7 +111,9 @@
                 "Recruit"
             ],
             "text": "Ambush (4).\nIf you control Arya Stark, sacrifice Arry.\n<b>Action:</b> Return Arry to your hand to draw 1 card.",
-            "deckLimit": 3
+            "flavor": "At Winterfell they had called her \"Arya Horseface\" and she'd thought nothing could be worse...",
+            "deckLimit": 3,
+            "illustrator": "Rafal Hrynkiewicz"
         },
         {
             "code": "04007",
@@ -119,7 +128,9 @@
                 "The North"
             ],
             "text": "<b>Reaction:</b> After an opponent collects income, kneel White Tree to move 1 gold from that player's gold pool to your own.",
-            "deckLimit": 3
+            "flavor": "It was the end of the world. And we are going beyond it.",
+            "deckLimit": 3,
+            "illustrator": "Sergey Glushakov"
         },
         {
             "code": "04008",
@@ -139,7 +150,8 @@
                 "Raven"
             ],
             "text": "<b>Forced Reaction:</b> After you lose a [power] challenge, sacrifice White Raven.\n<b>Reaction:</b> After you win dominance, if there is a <i>Summer</i> or <i>Winter</i> plot card revealed, gain 1 power for your faction.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Sandara Tang"
         },
         {
             "code": "04009",
@@ -154,7 +166,8 @@
                 "R'hllor"
             ],
             "text": "<i>R'hllor</i> character only.\n<b>Reaction:</b> After you win an [intrigue] challenge in which attached character is attacking, name a card. The losing opponent reveals his or her hand and discards each card with that name.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Ryan Valle"
         },
         {
             "code": "04010",
@@ -174,7 +187,9 @@
                 "Mercenary"
             ],
             "text": "Intimidate.\n<b>Action:</b> Pay 1 gold to give Janos Slynt +2 STR until the end of the phase.",
-            "deckLimit": 3
+            "flavor": "\"And this so-called Lord of Harrenhal is a butcher's whelp upjumped by the Lannisters. Small wonder he is venal and corrupt.\" <cite>Ser Denys Mallister</cite>",
+            "deckLimit": 3,
+            "illustrator": "Anthony Feliciano"
         },
         {
             "code": "04011",
@@ -185,7 +200,8 @@
             "cost": 0,
             "traits": [],
             "text": "<b>Reaction:</b> After a player initiates a challenge against you, move up to X gold from that player's gold pool to your own. X is the number of attacking characters.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Jason Jenicke"
         },
         {
             "code": "04012",
@@ -205,7 +221,9 @@
                 "Ally"
             ],
             "text": "<b>Reaction:</b> After a non-loyal character enters play, kneel your faction card and sacrifice Captain's Daughter to put that character onto the top of it's owner's deck.",
-            "deckLimit": 3
+            "flavor": "Her father had forbidden her to come ashore, but whenever Theon came to Lordsport he spied her wandering forlornly about the deck.",
+            "deckLimit": 3,
+            "illustrator": "Cassandre Bolan"
         },
         {
             "code": "04013",
@@ -219,7 +237,9 @@
                 "Iron Islands"
             ],
             "text": "<b>Action:</b> Kneel Pyke to choose a character. Until the end of the phase, that character gains stealth.",
-            "deckLimit": 3
+            "flavor": "The point of land on which the Greyjoys had raised their fortress had once thrust like a sword into the bowels of the ocean, but the waves had hammered at it day and night until the land broke and shattered, thousands of years past.",
+            "deckLimit": 3,
+            "illustrator": "Marius Bota"
         },
         {
             "code": "04014",
@@ -240,7 +260,8 @@
                 "Lord"
             ],
             "text": "While Viserys Targaryen is attacking, each <i>King</i> character must be declared as a defender, if able.\n<b>Interrupt:</b> When the dominance phase ends, if no opponent controls a <i>King</i> character, Viserys Targaryen gains 1 power.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Kim Sokol"
         },
         {
             "code": "04015",
@@ -253,7 +274,9 @@
                 "Omen"
             ],
             "text": "<b>Reaction:</b> After you win a [power] challenge by 5 or more STR, kneel your faction card to choose and stand a participating character.",
-            "deckLimit": 3
+            "flavor": "The dothraki named the comet shierak qiya, the Bleeding Star.",
+            "deckLimit": 3,
+            "illustrator": "Jokubas Uogintas"
         },
         {
             "code": "04016",
@@ -274,7 +297,8 @@
                 "Lord"
             ],
             "text": "Renown.\nEach <i>Sand Snake</i> character in your hand gains ambush (X). X is 1 less than that card's printed cost.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Romain Leguay"
         },
         {
             "code": "04017",
@@ -288,7 +312,9 @@
                 "Dorne"
             ],
             "text": "<b>Reaction:</b> After an event is played, gain 1 gold. (Limit once per phase.)",
-            "deckLimit": 3
+            "flavor": "...the last light of the afternoon was slanting down through thick windows of many-colored glass to dapple the pale marble with diamonds of half a hundred colors.",
+            "deckLimit": 3,
+            "illustrator": "Juan Carlos Barquet"
         },
         {
             "code": "04018",
@@ -307,7 +333,9 @@
                 "Ally"
             ],
             "text": "<b>Dominance Action:</b> Kneel Pyromancers and discard 1 power from your faction card to choose a non-limited location, and discard it from play.",
-            "deckLimit": 3
+            "flavor": "The pyromancers said that only three things burned hotter than their substance: dragonflame, the fires beneath the earth, and the summer sun.",
+            "deckLimit": 3,
+            "illustrator": "Joshua Cairós"
         },
         {
             "code": "04019",
@@ -324,7 +352,8 @@
                 "Omen"
             ],
             "text": "Characters and locations do not provide positive gold modifiers.",
-            "deckLimit": 2
+            "deckLimit": 2,
+            "illustrator": "Jim Brady"
         },
         {
             "code": "04020",
@@ -342,7 +371,9 @@
                 "Scheme"
             ],
             "text": "<b>When Revealed:</b> Initiate the when revealed ability on a revealed non-<i>Riddle</i> plot card as if you had just revealed it.",
-            "deckLimit": 2
+            "flavor": "\"In a room sit three great men, a king, a priest, and a rich man with his gold. Between them stands a sellsword, a little man of common birth and no great mind. Each of the great ones bids him slay the other two.\" <cite>Varys</cite>",
+            "deckLimit": 2,
+            "illustrator": "Serena Malyon"
         }
     ]
 }

@@ -102,6 +102,8 @@ class CardgameDbToThronetekiConverter {
         card.text = this.cleanUpField(text);
         card.deckLimit = limit;
 
+        card.illustrator = this.cleanUpField(cardData.illustrator);
+
         return card;
     }
 

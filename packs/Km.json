@@ -23,7 +23,9 @@
                 "House Bolton"
             ],
             "text": "<b>Forced Reaction:</b> After Ramsay Snow enters play, each player sacrifices a character, if able.",
-            "deckLimit": 3
+            "flavor": "\"Lord Bolton, he used to say a naked man has few secrets, but a flayed man's got none.\"",
+            "deckLimit": 3,
+            "illustrator": "Mauro Dal Bo"
         },
         {
             "code": "08042",
@@ -38,7 +40,8 @@
                 "The North"
             ],
             "text": "<b>Reaction:</b> After a character you control is sacrificed, kneel The Dreadfort to choose and stand a <i>House Bolton</i> or non-[stark] character.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Alfred Khamidullin"
         },
         {
             "code": "08043",
@@ -58,7 +61,9 @@
                 "Knight"
             ],
             "text": "<b>Action:</b> During a challenge in which Ser Hyle Hunt is participating, pay 1 gold to choose a participating character with a lower STR than his. Stand that character and remove it from the challenge. (Limit once per challenge.)",
-            "deckLimit": 3
+            "flavor": "\"His lordship informed me that he had no further need of my sword, or my insolence.\"",
+            "deckLimit": 3,
+            "illustrator": "Antonio José Manzanedo"
         },
         {
             "code": "08044",
@@ -69,7 +74,9 @@
             "cost": 2,
             "traits": [],
             "text": "Limited.\n<b>Action:</b> Gain 5 gold. (Cannot be canceled.)",
-            "deckLimit": 3
+            "flavor": "And the bounty of Highgarden had come with her, flowing up the roseroad from the south. The fools didn't seem to remember that it had been Mace Tyrell who closed the roseroad to begin with, and made the bloody famine.",
+            "deckLimit": 3,
+            "illustrator": "Carlos Palma Cruchaga"
         },
         {
             "code": "08045",
@@ -90,7 +97,8 @@
                 "Ranger"
             ],
             "text": "No attachments except <i>Weapon</i>.\nHaunted Forest Scout cannot be declared as a defender.\nWhile you control 3 or more <i>Ranger</i> characters, Haunted Forest Scout does not kneel when declared as an attacker.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Stephen Somers"
         },
         {
             "code": "08046",
@@ -104,7 +112,8 @@
                 "The North"
             ],
             "text": "Bestow (4).\n<b>Challenges Action:</b> Kneel Mole's Town to choose a character without gold. Move 1 gold from Mole's Town to that character. Then, that character cannot be declared as an attacker until the end of the phase.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Paolo Puggioni"
         },
         {
             "code": "08047",
@@ -125,7 +134,8 @@
                 "Smuggler"
             ],
             "text": "While you control a <i>Warship</i> location, Lyseni Pirate gains stealth.\n<b>Reaction:</b> After you win a challenge in which Lyseni Pirate is attacking, move 1 gold from the losing opponent’s gold pool or a card that player controls to your gold pool.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Andreia Ugrai"
         },
         {
             "code": "08048",
@@ -139,7 +149,9 @@
                 "Warship"
             ],
             "text": "<b>Reaction:</b> After you initiate a challenge, kneel Laughing Lord to choose an attacking [baratheon] character. Until the end of the challenge, that character gains intimidate.",
-            "deckLimit": 3
+            "flavor": "\"Ragged Jenna and Laughing Lord are still playing pirate on the river, I have heard, but who can say if it is so?\" <cite>Salladhor Saan</cite>",
+            "deckLimit": 3,
+            "illustrator": "Igor Artyomenko"
         },
         {
             "code": "08049",
@@ -159,7 +171,9 @@
                 "Ally"
             ],
             "text": "Pillage.\n<b>Reaction:</b> After Raff the Sweetling discards a character using pillage, choose a character with printed cost 2 or lower and return it to its owner’s hand.",
-            "deckLimit": 3
+            "flavor": "And Raff the Sweetling, who'd driven his spear through Lommy's throat, she hated even more.",
+            "deckLimit": 3,
+            "illustrator": "Victor Garcia"
         },
         {
             "code": "08050",
@@ -170,7 +184,9 @@
             "cost": 1,
             "traits": [],
             "text": "<b>Action:</b> Kneel a <i>Knight</i> character to choose and stand another <i>Knight</i> character.",
-            "deckLimit": 3
+            "flavor": "He liked to believe that he was getting better, but the improvement was slow and not without cost. Underneath his steel and wool and boiled leather Jaime Lannister was a tapestry of cuts and scabs and bruises.",
+            "deckLimit": 3,
+            "illustrator": "Joshua Cairós"
         },
         {
             "code": "08051",
@@ -192,7 +208,8 @@
                 "Lady"
             ],
             "text": "Pillage. Stealth.\n<b>Reaction:</b> After Asha Greyjoy discards a card using pillage, search the top X cards of your deck for a card and add it to your hand. Shuffle your deck. X is the number of cards in the losing opponent's discard pile.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Magali Villeneuve"
         },
         {
             "code": "08052",
@@ -203,7 +220,9 @@
             "cost": 2,
             "traits": [],
             "text": "<b>Reaction:</b> After you win dominance, choose a unique [greyjoy] character you control. That character gains 1 power for each unique [greyjoy] character you control. (Max 1 per round.)",
-            "deckLimit": 3
+            "flavor": "\"In the name of the Drowned God I summon you.\" <cite>Aeron Damphair</cite>",
+            "deckLimit": 3,
+            "illustrator": "Jeff Lee Johnson"
         },
         {
             "code": "08053",
@@ -224,7 +243,9 @@
                 "Dothraki"
             ],
             "text": "<b>Reaction:</b> After you win a challenge, discard 1 card from your hand to have a participating <i>Lord</i> or <i>Lady</i> character gain 1 power.",
-            "deckLimit": 3
+            "flavor": "\"It is known.\"",
+            "deckLimit": 3,
+            "illustrator": "Drazenka Kimpel"
         },
         {
             "code": "08054",
@@ -238,7 +259,8 @@
                 "Essos"
             ],
             "text": "<b>Reaction:</b> After you reveal a plot card, kneel The Skahazadhan and discard 1 card from your hand to gain 2 gold. (3 gold instead if that plot card has the <i>Summer</i> trait.)",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Lukas Banas"
         },
         {
             "code": "08055",
@@ -259,7 +281,9 @@
                 "Knight"
             ],
             "text": "Stealth.\n<b>Reaction:</b> After Darkstar bypasses a character using stealth, that character loses a challenge icon of your choice until the end of the phase.",
-            "deckLimit": 3
+            "flavor": "\"I was weaned on venom, Dalt. Any viper takes a bite of me will rue it.\"",
+            "deckLimit": 3,
+            "illustrator": "Preston Stone"
         },
         {
             "code": "08056",
@@ -273,7 +297,9 @@
                 "Warhorse"
             ],
             "text": "Limit 1 copy per character.\n<b>Reaction:</b> After a <i>Summer</i> plot card enters your used pile, attached character gains 1 power.",
-            "deckLimit": 3
+            "flavor": "The sand steeds of Dorne were swift and tireless, and would keep going for long leagues after other horses had given out, but even such as they could not run dry",
+            "deckLimit": 3,
+            "illustrator": "Smirtouille"
         },
         {
             "code": "08057",
@@ -294,7 +320,9 @@
                 "R'hllor"
             ],
             "text": "<b>Reaction:</b> After you play a <i>Song</i> event, choose and stand a non-loyal character you control. (Limit once per phase.)",
-            "deckLimit": 3
+            "flavor": "\"Well, as to that, I'm Tom of Sevenstreams, but Tom Sevenstrings is what they call me, or Tom o' Sevens.\"",
+            "deckLimit": 3,
+            "illustrator": "Preston Stone"
         },
         {
             "code": "08058",
@@ -314,7 +342,9 @@
                 "R'hllor"
             ],
             "text": "While you control no loyal characters, Lem Lemoncloak gets +2 STR and gains a [power] icon.",
-            "deckLimit": 3
+            "flavor": "\"What do a bunch o'bloody peasants know about a lord's honor?\"",
+            "deckLimit": 3,
+            "illustrator": "David Demaret"
         },
         {
             "code": "08059",
@@ -324,7 +354,8 @@
             "cost": 3,
             "traits": [],
             "text": "<b>Dominance Action:</b> Kneel your faction card to choose a character with printed cost X or lower, and shuffle it into its owner's deck. X is the amount of power on the faction card of that character's controller.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Sebastian Rodriguez"
         },
         {
             "code": "08060",
@@ -341,7 +372,9 @@
                 "Winter"
             ],
             "text": "Skip the standing phase this round.",
-            "deckLimit": 1
+            "designer": "Card design by 2013 North American Champion, Steven Simoni.",
+            "deckLimit": 1,
+            "illustrator": "Jacob Murray"
         }
     ]
 }

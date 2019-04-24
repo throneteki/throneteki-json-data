@@ -11,7 +11,8 @@
             "faction": "neutral",
             "traits": [],
             "text": "When you announce The Power of Wealth as your agenda, name 1 faction. You may include cards from that faction in your draw deck and plot deck.\nReduce the cost of the first in-faction card you marshal or play each round by 1.\n<b>Draft format only.</b>",
-            "deckLimit": 1
+            "deckLimit": 1,
+            "illustrator": "David Griffith"
         },
         {
             "code": "00002",
@@ -20,7 +21,8 @@
             "faction": "neutral",
             "traits": [],
             "text": "You may include <i>Knight</i> and <i>Army</i> characters from any faction in your deck.\n<b>Action:</b> Kneel your faction card to choose a <i>Knight</i> or <i>Army</i> character. Until the end of the phase, that character gains renown.\n<b>Draft format only.</b>",
-            "deckLimit": 1
+            "deckLimit": 1,
+            "illustrator": "David Griffith"
         },
         {
             "code": "00003",
@@ -29,7 +31,8 @@
             "faction": "neutral",
             "traits": [],
             "text": "When you announce Treaty as your agenda, name 2 factions. You may include cards from those factions in your draw deck and plot deck.\n<b>Action:</b> Kneel your faction card to draw 1 card. Then, choose and discard 1 card from your hand.\n<b>Draft format only.</b>",
-            "deckLimit": 1
+            "deckLimit": 1,
+            "illustrator": "David Griffith"
         },
         {
             "code": "00004",
@@ -38,7 +41,8 @@
             "faction": "neutral",
             "traits": [],
             "text": "You may include cards from any faction in your draw deck.\nIncrease the cost of each out-of-faction card you marshal or play by 1.\n<b>Draft format only.</b>",
-            "deckLimit": 1
+            "deckLimit": 1,
+            "illustrator": "David Griffith"
         },
         {
             "code": "00005",
@@ -120,7 +124,8 @@
             "cost": 0,
             "traits": [],
             "text": "<b>Reaction:</b> After the dominance phase begins, choose and stand a character you control. If you win dominance this phase, that character gains 1 power.\n<b>Draft format only.</b>",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "John Matson"
         },
         {
             "code": "00010",
@@ -134,7 +139,8 @@
                 "Condition"
             ],
             "text": "[greyjoy] character only.\nAttached character gains stealth.\n<b>Reaction:</b> After you win an unopposed challenge in which attached character is attacking, stand attached character.\n<b>Draft format only.</b>",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Eric Braddock"
         },
         {
             "code": "00011",
@@ -154,7 +160,8 @@
                 "Lord"
             ],
             "text": "Stealth.\n<b>Reaction:</b> After you win an [intrigue] challenge or a challenge in which Tyrion Lannister is participating, pay 1 gold to draw 1 card.\n<b>Draft format only.</b>",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Sebastian Giacobino"
         },
         {
             "code": "00012",
@@ -165,7 +172,8 @@
             "cost": 2,
             "traits": [],
             "text": "<b>Reaction:</b> After you lose a challenge by 5 or more STR as the defending player, each character controlled by the attacking player loses a [military], an [intrigue], and a [power] icon until the end of the phase.\n<b>Draft format only.</b>",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Tomasz Jedruszek"
         },
         {
             "code": "00013",
@@ -179,7 +187,8 @@
                 "The North"
             ],
             "text": "<b>Challenges Action:</b> Kneel The Nightfort to choose a defending [thenightswatch] character. Until the end of the challenge, that character gets +1 STR for each attacking character.\n<b>Draft format only.</b>",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Yoann Boissonnet"
         },
         {
             "code": "00014",
@@ -200,7 +209,8 @@
                 "House Tully"
             ],
             "text": "No attachments. Stealth.\nEach <i>House Tully</i> you control gains \"immune to opponents' triggered effects\" while it is participating in a challenge.\n<b>Draft format only.</b>",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Tomasz Jedruszek"
         },
         {
             "code": "00015",
@@ -232,7 +242,8 @@
                 "Knight"
             ],
             "text": "No attachments.\n<b>Reaction:</b> After you win a [power] challenge in which Blackcrown Knights is participating, discard 1 card from your hand to have Blackcrown Knights gain 2 power.\n<b>Draft format only.</b>",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Andrius Anezin"
         },
         {
             "code": "00017",
@@ -252,7 +263,8 @@
                 "Knight"
             ],
             "text": "Stealth.\nEach non-<i>Army</i> character you control with printed cost 6 or higher gets +2 STR.\n<b>Draft format only.</b>",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Alexandre Dainche"
         },
         {
             "code": "00018",
@@ -275,7 +287,8 @@
             "cost": 0,
             "traits": [],
             "text": "<b>Marshaling Action:</b> Kneel a <i>Knight</i> character to search your deck for a <i>Knight</i> character, reveal it, and add it to your hand. Shuffle your deck.\n<b>Draft format only.</b>",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "JB Casacop"
         },
         {
             "code": "00020",
@@ -309,7 +322,8 @@
                 "Edict"
             ],
             "text": "X is the number of different faction affiliations among characters you control.\n<b>Draft format only.</b>",
-            "deckLimit": 2
+            "deckLimit": 2,
+            "illustrator": "Nicholas Gregory"
         }
     ]
 }

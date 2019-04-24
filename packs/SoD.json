@@ -22,7 +22,8 @@
                 "Lord"
             ],
             "text": "<b>Action:</b> Kneel your faction card to choose a participating character with fewer than 2 challenge icons and remove it from the challenge.\n<b>Reaction:</b> After you lose a challenge, choose a character. Until the end of the phase, that character gains or loses a challenge icon of your choice.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Borja Pindado"
         },
         {
             "code": "10002",
@@ -43,7 +44,9 @@
                 "Companion"
             ],
             "text": "<b>Reaction:</b> After Ellaria Sand is declared as an attacker, choose up to 3 characters controlled by the defending player. Each of those characters must be declared as a defender for this challenge, if able.",
-            "deckLimit": 3
+            "flavor": "\"Is that how it goes, round and round forever? I ask again, where does it end?\"",
+            "deckLimit": 3,
+            "illustrator": "Drazenka Kimpel"
         },
         {
             "code": "10003",
@@ -63,7 +66,8 @@
                 "Lord"
             ],
             "text": "Intimidate.\nThe Red Viper gets +1 STR for each power he has.\n<b>Reaction:</b> After you win a challenge in which you control an attacking <i>Bastard</i> character, The Red Viper gains 1 power.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Magali Villeneuve"
         },
         {
             "code": "10004",
@@ -84,7 +88,9 @@
                 "Knight"
             ],
             "text": "Intimidate.\n<b>Action:</b> During a challenge in which Darkstar is attacking, sacrifice him to return each participating character to its owner's hand.",
-            "deckLimit": 3
+            "flavor": "\"Men call me Darkstar, and I am of the night.\"",
+            "deckLimit": 3,
+            "illustrator": "Antonio José Manzanedo"
         },
         {
             "code": "10005",
@@ -105,7 +111,9 @@
                 "Sand Snake"
             ],
             "text": "<b>Challenges Action:</b> Return a <i>Sand Snake</i> character to your hand to put a [martell] character with lower printed cost into play from your hand. (Limit once per phase.)",
-            "deckLimit": 3
+            "flavor": "\"He pointed to the spear, then to my mother's tears, and I picked up the spear.\"",
+            "deckLimit": 3,
+            "illustrator": "Andreia Ugrai"
         },
         {
             "code": "10006",
@@ -125,7 +133,8 @@
                 "Guard"
             ],
             "text": "Ambush (6).\nReduce the cost to ambush Areo Hotah by 1 for each plot in your used pile.\n<b>Reaction:</b> After you win a challenge in which Areo Hotah is defending, return him to your hand to raise the claim value on your revealed plot by 1 until the end of the phase.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Henning Ludvigsen"
         },
         {
             "code": "10007",
@@ -146,7 +155,9 @@
                 "Sand Snake"
             ],
             "text": "<b>Reaction:</b> After you lose dominance, discard 1 card at random from the winning opponent's hand and draw 1 card.",
-            "deckLimit": 3
+            "flavor": "\"No more should you doubt this, my prince - my sisters and I shall not wait ten-and-seven years for our vengeance.\"",
+            "deckLimit": 3,
+            "illustrator": "Alexandre Dainche"
         },
         {
             "code": "10008",
@@ -167,7 +178,9 @@
                 "Sand Snake"
             ],
             "text": "Stealth.\n<b>Reaction:</b> After you lose a challenge as the defending player, kneel a <i>Sand Snake</i> character to put Tyene Sand into play from your hand.",
-            "deckLimit": 3
+            "flavor": "Her soft, pale hands were as deadly as Obara's callused ones, if not more so.",
+            "deckLimit": 3,
+            "illustrator": "Gabrielle Portal"
         },
         {
             "code": "10009",
@@ -188,7 +201,8 @@
                 "Guard"
             ],
             "text": "No attachments.\n<b>Challenges Action:</b> Pay 4 gold and stand a <i>Sand Snake</i> character to put Nymeria's Guard into play from your hand.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Black Fox Studio"
         },
         {
             "code": "10010",
@@ -209,7 +223,8 @@
                 "Sand Snake"
             ],
             "text": "<b>Reaction:</b> After Obella Sand is discarded for [intrigue] claim or killed for [military] claim, move 1 power from the winning opponent's faction card to your own. Shuffle Obella Sand from your discard or dead pile into your deck.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Tiziano Baracchi"
         },
         {
             "code": "10011",
@@ -230,7 +245,9 @@
                 "Lord"
             ],
             "text": "Renown.\n<b>Forced Reaction:</b> After the challenges phase begins, if there are fewer than 3 plot cards in your used pile, kneel Quentyn Martell.",
-            "deckLimit": 3
+            "flavor": "\"Your brother Quentyn has a harder road to walk.\" <cite>Doran Martell</cite>",
+            "deckLimit": 3,
+            "illustrator": "Borja Pindado"
         },
         {
             "code": "10012",
@@ -251,7 +268,9 @@
                 "Knight"
             ],
             "text": "No attachments except <i>Weapon</i>.\nIncrease the initiative value on your revealed plot card by 1 for each plot card in your used pile.",
-            "deckLimit": 3
+            "flavor": "\"Give your bride a kiss for me.\"",
+            "deckLimit": 3,
+            "illustrator": "Alexandre Dainche"
         },
         {
             "code": "10013",
@@ -272,7 +291,9 @@
                 "Sand Snake"
             ],
             "text": "<b>Interrupt:</b> When a unique [martell] character you control is killed, draw 1 card. (Limit once per phase.)",
-            "deckLimit": 3
+            "flavor": "\"Loreza is six, Dorea eight. What wars could they foment?\" <cite>Arianne Martell</cite>",
+            "deckLimit": 3,
+            "illustrator": "Sara Biddle"
         },
         {
             "code": "10014",
@@ -292,7 +313,9 @@
                 "Maester"
             ],
             "text": "<b>Action:</b> Kneel Maester Kedry to reduce the gold cost of the next event you play this phase by 2.",
-            "deckLimit": 3
+            "flavor": "\"Heed his counsel. He has devoted half his life to the study of the Nine Free Cities.\" <cite>Doran Martell</cite>",
+            "deckLimit": 3,
+            "illustrator": "Melissa Findley"
         },
         {
             "code": "10015",
@@ -313,7 +336,8 @@
                 "House Dayne"
             ],
             "text": "While there are 3 or more plot cards in your used pile, you may marshal House Dayne Escort from your discard pile as if it were in your hand.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Andrius Anezin"
         },
         {
             "code": "10016",
@@ -333,7 +357,8 @@
                 "Bastard"
             ],
             "text": "Ambush (3).\n<b>Challenges Action:</b> Sacrifice Shadow City Bastard to choose a character with printed cost 5 or lower. Until the end of the phase, that characters loses a [military], an [intrigue], and a [power] icon.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Magali Villeneuve"
         },
         {
             "code": "10017",
@@ -347,7 +372,8 @@
                 "Dorne"
             ],
             "text": "<b>Reaction:</b> After you lose a challenge, look at the top 2 cards of your deck. Add 1 to your hand, and place the other on the bottom of your deck.\n+1 Reserve.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Cristi Balanescu"
         },
         {
             "code": "10018",
@@ -362,7 +388,8 @@
                 "House Dayne"
             ],
             "text": "<b>Challenges Action:</b> Kneel Starfall to choose a character. Until the end of the phase, that character loses a challenge icon of your choice.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Dinodrawing"
         },
         {
             "code": "10019",
@@ -376,7 +403,8 @@
                 "Weapon"
             ],
             "text": "Attached character gets +3 STR.\n<b>Reaction:</b> After a [martell] character enters play during the challenges phase, put Hotah's Axe into play from your hand, attached to that character.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Ivan Dixon"
         },
         {
             "code": "10020",
@@ -390,7 +418,9 @@
                 "Skill"
             ],
             "text": "Character you control only.\n<b>Challenges Action:</b> Return attached character to its owner's hand.",
-            "deckLimit": 3
+            "flavor": "\"You mistake patience for forbearance. I have worked at the downfall of Tywin Lannister since the day they told me of Elia and her children.\" <cite>Doran Martell</cite>",
+            "deckLimit": 3,
+            "illustrator": "Igor Kieryluk"
         },
         {
             "code": "10021",
@@ -404,7 +434,8 @@
                 "Condition"
             ],
             "text": "Terminal.\n<b>Challenges Action:</b> Kneel Beguiled to have attached character lose a challenge icon of your choice until the end of the phase.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Sacha Diener"
         },
         {
             "code": "10022",
@@ -415,7 +446,8 @@
             "cost": 2,
             "traits": [],
             "text": "Play only if a [martell] character was killed under your control this round.\n<b>Action:</b> Search your deck for a <i>Sand Snake</i> character with printed cost 3 or lower, put it into play, and shuffle your deck. (Printed cost 6 or lower instead if The Red Viper is in your dead pile.)",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Black Fox Studio"
         },
         {
             "code": "10023",
@@ -426,7 +458,8 @@
             "cost": 1,
             "traits": [],
             "text": "<b>Challenges Action:</b> Choose an opponent. That player discards 1 card at random from his or her hand.\n<b>Reaction:</b> After False Plans is discarded for [intrigue] claim, the winning opponent discards 2 cards at random from his or her hand.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Paolo Puggioni"
         },
         {
             "code": "10024",
@@ -437,7 +470,8 @@
             "cost": 0,
             "traits": [],
             "text": "Play only if there are 3 or more plot cards in your used pile.\n<b>Challenges Action:</b> Each [martell] character you control does not kneel when declared as an attacker in the next challenge you initiate this phase.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Matt Hansen"
         },
         {
             "code": "10025",
@@ -457,7 +491,9 @@
                 "Knight"
             ],
             "text": "<b>Reaction:</b> After you win a [power] challenge in which Ser Cortnay Penrose is participating, stand him.",
-            "deckLimit": 3
+            "flavor": "\"Is it the justice of your cause you doubt, my lord, or the strength of your arm? Are you afraid I'll piss on your burning sword and put it out?\"",
+            "deckLimit": 3,
+            "illustrator": "Joshua Cairós"
         },
         {
             "code": "10026",
@@ -471,7 +507,8 @@
                 "Dragonstone"
             ],
             "text": "<b>Challenges Action:</b> Kneel Sea Dragon Tower to choose a character. Until the end of the phase, that character gains a [power] icon.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Dinodrawing"
         },
         {
             "code": "10027",
@@ -491,7 +528,8 @@
                 "Army"
             ],
             "text": "No attachments. Pillage.\n<b>Reaction:</b> After a character you control discards a location or attachment using pillage, Fleet From Pyke gains a challenge icon of your choice until the end of the phase.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Tomasz Jedruszek"
         },
         {
             "code": "10028",
@@ -505,7 +543,8 @@
                 "Condition"
             ],
             "text": "Opponent's location only. Terminal.\n<b>Reaction:</b> After attached location's controller loses a challenge as the defending player, kneel attached location. Then, you may sacrifice Plundered to gain 3 gold.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Sebastian Rodriguez"
         },
         {
             "code": "10029",
@@ -525,7 +564,9 @@
                 "Lady"
             ],
             "text": "Myrcella Baratheon does not kneel when declared as an attacker against an opponent with fewer cards in his or her hand than you.",
-            "deckLimit": 3
+            "flavor": "\"She is so pretty, don't you think? I wish that I had curls like hers. She was made to be queen, just like her mother.\" <cite>Tyene Sand</cite>",
+            "deckLimit": 3,
+            "illustrator": "Tiziano Baracchi"
         },
         {
             "code": "10030",
@@ -536,7 +577,8 @@
             "cost": 0,
             "traits": [],
             "text": "<b>Reaction:</b> After you win an [intrigue] challenge as the attacking player, gain 3 gold and return up to 3 gold from the losing opponent's gold pool to the treasury.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Nikolas Hagialas"
         },
         {
             "code": "10031",
@@ -556,7 +598,9 @@
                 "Builder"
             ],
             "text": "<b>Challenges Action:</b> Choose an attachment attached to a character you control. Stand that attachment and move it to Spare Boot. (Limit once per phase.)",
-            "deckLimit": 3
+            "flavor": "\"The bloody buggers got my leg... My wooden one!\"",
+            "deckLimit": 3,
+            "illustrator": "Borja Pindado"
         },
         {
             "code": "10032",
@@ -570,7 +614,8 @@
                 "Condition"
             ],
             "text": "Non-loyal character only. Terminal.\n<b>Reaction:</b> After you win a challenge in which attached character is participating, take control of attached character. (Any player may initiate this ability.)",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Federico Musetti"
         },
         {
             "code": "10033",
@@ -591,7 +636,9 @@
                 "Lord"
             ],
             "text": "Intimidate.\n<b>Reaction:</b> After you win a [military] challenge in which Greatjon Umber is attacking, if there are fewer than 3 plot cards in your used pile, stand him.",
-            "deckLimit": 3
+            "flavor": "\"Grey Wind ate two of his fingers, and he laughed about it.\" <cite>Robb Stark</cite>",
+            "deckLimit": 3,
+            "illustrator": "Antonio José Manzanedo"
         },
         {
             "code": "10034",
@@ -602,7 +649,8 @@
             "cost": 0,
             "traits": [],
             "text": "<b>Reaction:</b> After you win a challenge in which you control an attacking <i>Direwolf</i> character or an attacking character with a <i>Direwolf</i> attachment, choose and kill a defending character.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Sebastian Rodriguez"
         },
         {
             "code": "10035",
@@ -622,7 +670,9 @@
                 "Companion"
             ],
             "text": "<b>Interrupt:</b> When Missandei is discarded from your hand or deck, put her into play instead of placing her in your discard pile.",
-            "deckLimit": 3
+            "flavor": "The little scribe with the big golden eyes was wise beyond her years.",
+            "deckLimit": 3,
+            "illustrator": "Drazenka Kimpel"
         },
         {
             "code": "10036",
@@ -637,7 +687,9 @@
                 "Qarth"
             ],
             "text": "<b>Action:</b> Kneel Qarth and pay 1 gold to choose an attachment attached to a card you control and discard it from play.",
-            "deckLimit": 3
+            "flavor": "\"Qarth is the greatest city that ever was or ever will be.\" <cite>Pyat Pree</cite>",
+            "deckLimit": 3,
+            "illustrator": "Alfred Khamidullin"
         },
         {
             "code": "10037",
@@ -658,7 +710,9 @@
                 "Lord"
             ],
             "text": "<b>Action:</b> Kneel Leyton Hightower to put a non-limited [tyrell] card with printed cost 4 or lower into play from your hand knelt.",
-            "deckLimit": 3
+            "flavor": "... Lord Leyton had not made the descent in more than a decade, preferring to rule his city from the clouds.",
+            "deckLimit": 3,
+            "illustrator": "Anna Christenson"
         },
         {
             "code": "10038",
@@ -672,7 +726,8 @@
                 "Title"
             ],
             "text": "[tyrell] character only.\n<b>Reaction:</b> After you win a challenge by 5 or more STR in which attached character is attacking, it gains 1 power.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Federico Musetti"
         },
         {
             "code": "10039",
@@ -691,7 +746,9 @@
                 "Wildling"
             ],
             "text": "<b>Reaction:</b> After Val is declared as an attacker, put a <i>Wildling</i> character with printed cost 4 or lower into play from your hand knelt, participating as an attacker.",
-            "deckLimit": 3
+            "flavor": "\"I know the forest better than all your black-cloaked rangers. It holds no ghosts for me.\"",
+            "deckLimit": 3,
+            "illustrator": "Drazenka Kimpel"
         },
         {
             "code": "10040",
@@ -710,7 +767,9 @@
                 "The Seven"
             ],
             "text": "<b>Action:</b> Kneel Septon Meribald to choose and stand up to 3 characters with printed STR 1 or lower. (Limit once per round.)",
-            "deckLimit": 3
+            "flavor": "Meribald was a septon without a sept, only one step up from a begging brother in the hierarchy of the Faith.",
+            "deckLimit": 3,
+            "illustrator": "Adam Lane"
         },
         {
             "code": "10041",
@@ -729,7 +788,9 @@
                 "Maester"
             ],
             "text": "<b>Reaction:</b> After an opponent draws 1 or more cards, if it is not the draw phase, kneel Oldtown Scholar to draw that many cards.",
-            "deckLimit": 3
+            "flavor": "\"Wise men may grow arrogant in their wisdom, but a maester must always remain humble.\" <cite>Armen the Acolyte</cite>",
+            "deckLimit": 3,
+            "illustrator": "Tiziano Baracchi"
         },
         {
             "code": "10042",
@@ -742,7 +803,8 @@
                 "Warship"
             ],
             "text": "Limited.\n<b>Dominance Action:</b> Kneel and sacrifice Jade Sea Dromond to choose a non-limited location with printed cost 3 or lower and discard it from play.\n+1 Income.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Dinodrawing"
         },
         {
             "code": "10043",
@@ -755,7 +817,8 @@
                 "The Seven"
             ],
             "text": "<i>The Seven</i> character only.\n<b>Reaction:</b> After attached character is knelt, choose a location or attachment. Until the end of the phase, treat that card as if its printed text box were blank (except for <i>Traits</i>).",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Ivan Dixon"
         },
         {
             "code": "10044",
@@ -767,7 +830,8 @@
                 "Song"
             ],
             "text": "<b>Challenges Action:</b> Choose a character. Until the end of the phase, that character gains a [military], an [intrigue], and a [power] icon. Draw 1 card.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Serena Malyon"
         },
         {
             "code": "10045",
@@ -778,7 +842,9 @@
                 "Omen"
             ],
             "text": "Your plot deck must be exactly 10 cards. You may include a second copy of up to 2 different cards in your plot deck.",
-            "deckLimit": 1
+            "designer": "Card design by 2014 European Joust Champion, Donovan van Beek.",
+            "deckLimit": 1,
+            "illustrator": "Tim Durning"
         },
         {
             "code": "10046",
@@ -796,7 +862,8 @@
                 "Edict"
             ],
             "text": "<b>When Revealed:</b> Choose and reveal a new plot card. (Cannot be canceled.)",
-            "deckLimit": 1
+            "deckLimit": 1,
+            "illustrator": "Raymond Bonilla"
         },
         {
             "code": "10047",
@@ -813,7 +880,8 @@
                 "Kingdom"
             ],
             "text": "Reduce the cost of the first character you marshal this round by 3, the first location your marshal this round by 2, and the first attachment you marshal this round by 1.",
-            "deckLimit": 2
+            "deckLimit": 2,
+            "illustrator": "Paolo Puggioni"
         },
         {
             "code": "10048",
@@ -831,7 +899,8 @@
                 "War"
             ],
             "text": "<b>When Revealed:</b> Each opponent kneels 1 character he or she controls with a [military] icon. Then, you may kneel a character with a [military] icon to initiate this effect again.",
-            "deckLimit": 2
+            "deckLimit": 2,
+            "illustrator": "Niten"
         },
         {
             "code": "10049",
@@ -848,7 +917,8 @@
                 "The Seven"
             ],
             "text": "<b>When Revealed:</b> Each player sacrifices each attachment that is attached to a character he or she does not control.",
-            "deckLimit": 2
+            "deckLimit": 2,
+            "illustrator": "Joshua Cairós"
         },
         {
             "code": "10050",
@@ -866,7 +936,9 @@
                 "Scheme"
             ],
             "text": "<b>Action:</b> Sacrifice a loyal character to choose a non-loyal character or location and return it to its owner's hand. (Limit twice per round.)",
-            "deckLimit": 1
+            "designer": "Card design by 2016 European Melee Champion, Luiz Gustavo Bretas.",
+            "deckLimit": 1,
+            "illustrator": "Borja Pindado"
         },
         {
             "code": "10051",
@@ -883,7 +955,8 @@
                 "Summer"
             ],
             "text": "Each character that is attacking or defending alone does not contribute its STR to the challenge.",
-            "deckLimit": 2
+            "deckLimit": 2,
+            "illustrator": "Niten"
         },
         {
             "code": "10052",
@@ -900,7 +973,8 @@
                 "Winter"
             ],
             "text": "<b>When Revealed:</b> Each opponent chooses and reveals 3 cards from his or her hand, if able. You may choose and discard 1 revealed card from any number of those hands.",
-            "deckLimit": 1
+            "deckLimit": 1,
+            "illustrator": "Sebastian Rodriguez"
         }
     ]
 }

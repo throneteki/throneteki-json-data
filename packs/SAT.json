@@ -23,7 +23,8 @@
                 "House Tully"
             ],
             "text": "Bestow (3). No attachments.\n<b>Reaction:</b> After a <i>House Tully</i> character you control gains power, discard 1 gold from Host of the Riverlands to have that character gain 1 power. (Limit once per phase.)",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Dleoblack"
         },
         {
             "code": "08102",
@@ -37,7 +38,9 @@
                 "Old Gods"
             ],
             "text": "<b>Reaction:</b> After you win a challenge as the attacking player, if there are more <i>Winter</i> plot cards than <i>Summer</i> plot cards revealed, kneel Godswood to draw X cards. X is the claim value on your revealed plot card.",
-            "deckLimit": 3
+            "flavor": "There was something wild about a godswood; even here, in the heart of the castle at the heart of the city, you could feel the old gods watching with a thousand unseen eyes.",
+            "deckLimit": 3,
+            "illustrator": "Frédéric Le Martelot"
         },
         {
             "code": "08103",
@@ -58,7 +61,8 @@
                 "Small Council"
             ],
             "text": "<b>Reaction:</b> After Mace Tyrell is knelt, draw 2 cards. Then, choose a card in your hand and place it on top of your deck.\n+1 Income.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Anders Finer"
         },
         {
             "code": "08104",
@@ -69,7 +73,8 @@
             "cost": 2,
             "traits": [],
             "text": "<b>Reaction:</b> After 3 or more characters are declared as attackers in a challenge against you, search your deck for a [tyrell] character and put it into play. Shuffle your deck.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Drazenka Kimpel"
         },
         {
             "code": "08105",
@@ -89,7 +94,9 @@
                 "The Seven"
             ],
             "text": "<b>Challenges Action:</b> Kneel Septon Cellador to choose an opponent. That player must choose and discard a character from his or her hand unless he or she reveals a hand containing no characters.",
-            "deckLimit": 3
+            "flavor": "Septon Cellador was half drunk as usual...",
+            "deckLimit": 3,
+            "illustrator": "Nikolas Hagialas"
         },
         {
             "code": "08106",
@@ -100,7 +107,9 @@
             "cost": 2,
             "traits": [],
             "text": "<b>Plot Action:</b> Kneel your faction card to choose an opponent and look at his or her plot deck. Choose 1 plot in that deck. That player must reveal that plot as his or her next plot card, if able.",
-            "deckLimit": 3
+            "designer": "Card design by 2014 Joust World Champion, Sam Braatz.",
+            "deckLimit": 3,
+            "illustrator": "Federico Musetti"
         },
         {
             "code": "08107",
@@ -121,7 +130,9 @@
                 "Knight"
             ],
             "text": "<b>Reaction:</b> After you win a [power] challenge in which The Bastard of Nightsong is participating, move 1 power from the losing opponent’s faction card to your own.",
-            "deckLimit": 3
+            "flavor": "The Bastard of Nightsong had commanded the rearguard that allowed Stannis to reach the safety of Salladhor Saan's galleys, but he worshiped the Warrior with a faith as fierce as he was.",
+            "deckLimit": 3,
+            "illustrator": "Igor Artyomenko"
         },
         {
             "code": "08108",
@@ -135,7 +146,8 @@
                 "Title"
             ],
             "text": "Unique [baratheon] character only.\nAttached character gains the <i>King</i> trait.\n<b>Reaction:</b> After you win a [power] challenge in which attached character is participating, draw 1 card for each out-of-faction location you control.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "John Matson"
         },
         {
             "code": "08109",
@@ -156,7 +168,9 @@
                 "Small Council"
             ],
             "text": "<b>Reaction:</b> After a character is killed, kneel Qyburn to draw 2 cards. Then, choose and discard 1 card from your hand.",
-            "deckLimit": 3
+            "flavor": "\"The Citadel took my chain, but they could not take my knowledge.\"",
+            "deckLimit": 3,
+            "illustrator": "Mauro Dal Bo"
         },
         {
             "code": "08110",
@@ -167,7 +181,8 @@
             "cost": 0,
             "traits": [],
             "text": "<b>Reaction:</b> After you lose a [power] challenge, return a character with 1 or more power to your hand to choose a participating character with 1 or more power and return it to its owner’s hand.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Torbjörn Källström"
         },
         {
             "code": "08111",
@@ -187,7 +202,8 @@
                 "Ally"
             ],
             "text": "Bestow (3).\nEach character you control with 1 or more gold gains stealth.\n<b>Action:</b> Move 1 gold from Saltcliffe Sailor to a non-[greyjoy] character you control.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Igor Artyomenko"
         },
         {
             "code": "08112",
@@ -202,7 +218,8 @@
                 "Weapon"
             ],
             "text": "<i>Drowned God</i> character only.\nAttached character gets +1 STR for each character in your dead pile.\n<b>Interrupt:</b> When attached character is killed, move Driftwood Cudgel to another eligible character. That character gains 1 power. (Limit once per phase.)\n<em>Errata from FAQ v1.4</em>",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Sara Biddle"
         },
         {
             "code": "08113",
@@ -223,7 +240,8 @@
                 "Dothraki"
             ],
             "text": "No attachments. Pillage.\nWhile Raiding Khalasar is attacking, if you control an attacking <i>Bloodrider</i> character, raise the claim value on your revealed plot card by 1.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Joshua Cairós"
         },
         {
             "code": "08114",
@@ -236,7 +254,8 @@
                 "Prophecy"
             ],
             "text": "<b>Dominance Action:</b> Each player may shuffle his or her hand (of at least 1 card) into his or her deck. Each player that does draws 5 cards.\n<em>Errata from FAQ v1.4</em>",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Kristina Carroll"
         },
         {
             "code": "08115",
@@ -256,7 +275,8 @@
                 "Army"
             ],
             "text": "Intimidate. No attachments.\nHost of the Boneway gets +1 STR for each plot card in your used pile.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Federico Musetti"
         },
         {
             "code": "08116",
@@ -267,7 +287,9 @@
             "cost": 2,
             "traits": [],
             "text": "<b>Interrupt:</b> When the effects of an opponent's event or triggered plot ability would initiate, cancel those effects.",
-            "deckLimit": 3
+            "flavor": "It was not supposed to end this way. This was not supposed to happen.",
+            "deckLimit": 3,
+            "illustrator": "Igor Artyomenko"
         },
         {
             "code": "08117",
@@ -286,7 +308,9 @@
                 "Bastard"
             ],
             "text": "<b>Interrupt:</b> When claim is applied for a [military] or [intrigue] challenge in which you are the defending player, kneel Mya Stone to apply [power] claim instead.",
-            "deckLimit": 3
+            "flavor": "\"Men come and go. They lie, or die, or leave you. A mountain is not a man, though, and a stone is a mountain’s daughter. I trust my father, and I trust my mules. I won’t fall.\"",
+            "deckLimit": 3,
+            "illustrator": "Mariana Vieira"
         },
         {
             "code": "08118",
@@ -300,7 +324,8 @@
                 "The Seven"
             ],
             "text": "Bestow (3).\n<b>Reaction:</b> After a character enters play, kneel The Great Sept of Baelor and discard 1 gold from it to treat that character’s printed text box as if it were blank (except for <i>Traits</i>) until the end of the round.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Chris Ostrowski"
         },
         {
             "code": "08119",
@@ -314,7 +339,8 @@
                 "The Seven"
             ],
             "text": "Attached character gains <i>The Seven</i> trait.\n<b>Marshaling Action:</b> Kneel attached character to reduce the cost of the next <i>The Seven</i> card you marshal this phase by 2.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Sara Biddle"
         },
         {
             "code": "08120",
@@ -331,7 +357,8 @@
                 "Scheme"
             ],
             "text": "<b>When Revealed:</b> Draw 2 cards.",
-            "deckLimit": 1
+            "deckLimit": 1,
+            "illustrator": "Cassandre Bolan"
         }
     ]
 }

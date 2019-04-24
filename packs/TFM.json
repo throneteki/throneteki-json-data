@@ -22,7 +22,9 @@
                 "Lady"
             ],
             "text": "While Arya Stark is standing, characters cannot be saved.",
-            "deckLimit": 3
+            "flavor": "\"I don’t wear gowns. You can't fight in a stupid gown.\"",
+            "deckLimit": 3,
+            "illustrator": "Tiziano Baracchi"
         },
         {
             "code": "08082",
@@ -33,7 +35,8 @@
             "cost": 1,
             "traits": [],
             "text": "<b>Action:</b> Choose a character you control with printed cost 3 or lower. Until the end of the phase, that character loses all faction affiliations and <i>Traits</i>, gains insight and stealth, and does not kneel when declared as an attacker.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Christine Mitzuk"
         },
         {
             "code": "08083",
@@ -53,7 +56,8 @@
                 "Ally"
             ],
             "text": "While there is a <i>Summer</i> plot card revealed, reduce the cost to marshal Highgarden Refugee by 1.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Charles Urbach"
         },
         {
             "code": "08084",
@@ -67,7 +71,9 @@
                 "Warship"
             ],
             "text": "<b>Action:</b> Kneel Arbor Queen to choose a [tyrell] character and a non-[tyrell] character. Until the end of the phase, each of those characters gets +2 STR.",
-            "deckLimit": 3
+            "flavor": "Five times as large as Blackbird and magnificent to behold, she had three great burgundy sails and banks of oars that flashed gold and white in the sunlight.",
+            "deckLimit": 3,
+            "illustrator": "Igor Artyomenko"
         },
         {
             "code": "08085",
@@ -87,7 +93,9 @@
                 "The North"
             ],
             "text": "Coldhands cannot be saved.\n<b>Reaction:</b> After you marshal Coldhands, choose 1 other non-<i>Army</i> character controlled by each player. Remove each of those characters from the game until Coldhands leaves play.",
-            "deckLimit": 3
+            "designer": "Card design by 2011 Joust World Champion, Brett Zeiler.",
+            "deckLimit": 3,
+            "illustrator": "Diego Gisbert Llorens"
         },
         {
             "code": "08086",
@@ -101,7 +109,9 @@
                 "The North"
             ],
             "text": "<b>Action:</b> Kneel The Bay of Seals to choose and stand a character owned by an opponent.",
-            "deckLimit": 3
+            "flavor": "Its waters were grey and green and choppy, and the wooded shore they followed was a snarl of rocks and whirlpools.",
+            "deckLimit": 3,
+            "illustrator": "Igor Artyomenko"
         },
         {
             "code": "08087",
@@ -122,7 +132,8 @@
                 "The Seven"
             ],
             "text": "<b>Reaction:</b> After a phase begins, choose a kneeling character. Until the end of the phase, treat that character as if its printed text box were blank (except for <i>Traits</i>). (Limit once per round.)",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Matt Hansen"
         },
         {
             "code": "08088",
@@ -135,7 +146,8 @@
                 "R'hllor"
             ],
             "text": "Play only if you control a <i>R'hllor</i> character.\n<b>Marshaling Action:</b> Sacrifice a character to search your deck for a <i>R'hllor</i> character with equal or lower printed cost and add it to your hand. Shuffle your deck.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Joshua Cairós"
         },
         {
             "code": "08089",
@@ -155,7 +167,8 @@
                 "Spy"
             ],
             "text": "Bestow (3).\n<b>Action:</b> Move 1 gold from Cersei's Informer to a non-<i>Spy</i> card you control to draw 1 card. Then, choose and discard 1 card from your hand. (Limit once per round.)",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Gabriela Birchal"
         },
         {
             "code": "08090",
@@ -170,7 +183,8 @@
                 "Knight"
             ],
             "text": "Unique character with printed cost 3 or lower only. Ambush (1).\nAttached character gains an [intrigue] icon and does not kneel when declared as an attacker in an [intrigue] challenge.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Joshua Cairós"
         },
         {
             "code": "08091",
@@ -191,7 +205,9 @@
                 "Ironborn"
             ],
             "text": "You may marshal non-unique <i>Drowned God</i> characters from your dead pile as if they were in your hand.",
-            "deckLimit": 3
+            "flavor": "...who had once been thought so holy that he was picked to crown a king.",
+            "deckLimit": 3,
+            "illustrator": "David Demaret"
         },
         {
             "code": "08092",
@@ -204,7 +220,9 @@
                 "Drowned God"
             ],
             "text": "<b>Action:</b> Kill a <i>Drowned God</i> character to draw X cards. X is that character's printed cost.",
-            "deckLimit": 3
+            "flavor": "\"He must be given to the god. The old way.\" <cite>Aeron Damphair</cite>",
+            "deckLimit": 3,
+            "illustrator": "Stephen Somers"
         },
         {
             "code": "08093",
@@ -225,7 +243,8 @@
                 "Queen"
             ],
             "text": "Daenerys Targaryen's STR cannot be reduced by card effects.\n<b>Reaction:</b> After you play a [targaryen] event, choose a character. Until the end of the phase, that character gets -1 STR and is killed if its STR is 0. (Limit 3 times per round.)",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Drazenka Kimpel"
         },
         {
             "code": "08094",
@@ -239,7 +258,8 @@
                 "Title"
             ],
             "text": "<i>Lady</i> character only.\nDuring the first [power] challenge you initiate each round, attached character does not kneel when declared as an attacker and gets +1 STR for each attacking character.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Nicholas Elias"
         },
         {
             "code": "08095",
@@ -260,7 +280,9 @@
                 "Knight"
             ],
             "text": "<b>Reaction:</b> After you lose a challenge in which House Yronwood Knight is participating, discard 1 card at random from the winning opponent's hand.",
-            "deckLimit": 3
+            "flavor": "The Yronwoods might declare for Quentyn, but alone they were no threat.",
+            "deckLimit": 3,
+            "illustrator": "Mariana Vieira"
         },
         {
             "code": "08096",
@@ -274,7 +296,8 @@
                 "Condition"
             ],
             "text": "Non-[martell] character only. Ambush (3).\nAttached character gains renown.\nAttached character cannot be declared as an attacker in challenges against you.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Preston Stone"
         },
         {
             "code": "08097",
@@ -293,7 +316,9 @@
                 "The Seven"
             ],
             "text": "Each player cannot gain more than 7 gold each round.\nEach player cannot draw more than 3 cards each round.",
-            "deckLimit": 3
+            "flavor": "\"The Faith Militant reborn...that would be the answer to three hundred years of prayer, Your Grace.\"",
+            "deckLimit": 3,
+            "illustrator": "Borja Pindado"
         },
         {
             "code": "08098",
@@ -306,7 +331,9 @@
                 "The Seven"
             ],
             "text": "<b>Reaction:</b> After you lose dominance, move 2 power from the winning opponent's faction card to a <i>The Seven</i> character you control. (Max 1 per phase.)",
-            "deckLimit": 3
+            "flavor": "The Seven Gods who made us all, are listening if we should call. So close your eyes, you shall not fall, they see you, little children.",
+            "deckLimit": 3,
+            "illustrator": "A.M. Sartor"
         },
         {
             "code": "08099",
@@ -317,7 +344,8 @@
                 "The Seven"
             ],
             "text": "Non-<i>The Seven</i> characters and locations you control cannot gain power.\n<b>Reaction:</b> After you win a challenge, kneel your faction card to move 1 power from the losing opponent's faction card to a participating <i>The Seven</i> character you control.",
-            "deckLimit": 1
+            "deckLimit": 1,
+            "illustrator": "Tim Durning"
         },
         {
             "code": "08100",
@@ -334,7 +362,8 @@
                 "The Seven"
             ],
             "text": "<b>When Revealed:</b> Move each power from each card in play to its controller's faction card.",
-            "deckLimit": 2
+            "deckLimit": 2,
+            "illustrator": "Joshua Cairós"
         }
     ]
 }

@@ -22,7 +22,8 @@
                 "House Umber"
             ],
             "text": "<b>Reaction:</b> After Umber Loyalist enters play, draw 2 cards.\n<b>Forced Interrupt:</b> When Umber Loyalist leaves play, choose and discard 2 cards from your hand.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Preston Stone"
         },
         {
             "code": "11042",
@@ -37,7 +38,9 @@
                 "The North"
             ],
             "text": "<b>Reaction:</b> After you win a challenge, reveal the top 2 cards of your deck. The losing opponent chooses 1 of those cards. Add that card to your hand, and place the other on the bottom of your deck.",
-            "deckLimit": 3
+            "flavor": "If Winterfell was the heart of the north, White Harbor was its mouth.",
+            "deckLimit": 3,
+            "illustrator": "Juan Carlos Barquet"
         },
         {
             "code": "11043",
@@ -57,7 +60,8 @@
                 "Maester"
             ],
             "text": "Shadow (2).\n<b>Reaction:</b> After Lazy Leo comes out of shadows, choose a player. Shuffle any number of events from that player's discard pile into his or her deck.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Federico Musetti"
         },
         {
             "code": "11044",
@@ -68,7 +72,8 @@
             "cost": "-",
             "traits": [],
             "text": "Shadow (X).\n<b>Challenges Action:</b> Search your deck for X different cards and place them in your discard pile. Shuffle your deck. Then, choose an opponent. Return X cards of that opponent's choice from your discard pile to your hand.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Paolo Puggioni"
         },
         {
             "code": "11045",
@@ -89,7 +94,8 @@
                 "Ranger"
             ],
             "text": "No attachments except <i>Weapon</i>.\nWhile there is a card in shadows, Naive Scout cannot be declared as a defender.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Ramon Ignacio Bunge"
         },
         {
             "code": "11046",
@@ -104,7 +110,8 @@
                 "Weapon"
             ],
             "text": "<i>Builder</i> or <i>Steward</i> character only.\nAttached character gets +1 STR.\n+1 Income.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Ivan Dixon"
         },
         {
             "code": "11047",
@@ -125,7 +132,8 @@
                 "Smuggler"
             ],
             "text": "Stealth.\nYou may marshal or play facedown cards attached to Valyrian's Crew as if they were in your hand.\n<b>Reaction:</b> After you win a challenge in which Valyrian's Crew is attacking, attach the top card of the losing opponent's deck to Valyrian's Crew facedown under your control, as an attachment with terminal.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Ramon Ignacio Bunge"
         },
         {
             "code": "11048",
@@ -139,7 +147,9 @@
                 "Westeros"
             ],
             "text": "<b>Reaction:</b> After the challenges phase begins, kneel Blackwater Bay to choose an opponent. Draw 1 card for each kneeling character that player controls.",
-            "deckLimit": 3
+            "flavor": "Blackwater Bay was rough and choppy, whitecaps everywhere.",
+            "deckLimit": 3,
+            "illustrator": "Federico Musetti"
         },
         {
             "code": "11049",
@@ -159,7 +169,8 @@
                 "Ally"
             ],
             "text": "Shadow (2).\n<b>Reaction:</b> After Catspaw comes out of shadows, pay X gold to choose another character with printed cost X or lower and return it to its owner's hand.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Federico Musetti"
         },
         {
             "code": "11050",
@@ -173,7 +184,8 @@
                 "The Westerlands"
             ],
             "text": "<b>Action:</b> Kneel Gold Mine and discard 1 card from your hand to draw 1 card.\n+1 Income.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Dinodrawing"
         },
         {
             "code": "11051",
@@ -193,7 +205,9 @@
                 "Drowned God"
             ],
             "text": "<b>Action:</b> Kill a character to put Drowned God Fanatic into play from your dead pile. (Max once per round.)\n<b>Interrupt:</b> When the effects of an opponent's triggered character ability would initiate, place Drowned God Fanatic into your dead pile from your hand to cancel those effects.",
-            "deckLimit": 3
+            "designer": "Card design by 2013 European Melee champion, Vincent Teulé.",
+            "deckLimit": 3,
+            "illustrator": "Aleksander Karcz"
         },
         {
             "code": "11052",
@@ -207,7 +221,8 @@
                 "Item"
             ],
             "text": "Character you control only.\nAttached character gains intimidate.\n<b>Reaction:</b> After you win dominance, kill attached character to, either: choose and take control of a <i>Dragon</i> character, or search the top 10 cards of your deck for a [greyjoy] character, put into play, and shuffle your deck.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Ivan Dixon"
         },
         {
             "code": "11053",
@@ -227,7 +242,8 @@
                 "Mercenary"
             ],
             "text": "Shadow (2).\n<b>Reaction:</b> After Hired Assassin comes out of shadows, look at a card in shadows. If it is a character, you may place it in its owner's dead pile.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Michele Frigo"
         },
         {
             "code": "11054",
@@ -241,7 +257,9 @@
                 "Title"
             ],
             "text": "Non-<i>Lady</i> character only. Shadow (2).\n<b>Action:</b> Discard 1 card from your hand to stand attached character. (Limit 3 times per round.)",
-            "deckLimit": 3
+            "flavor": "Ser Barristan might come seeking her; he was the first of her Queensguard, sworn to defend her life with his own.",
+            "deckLimit": 3,
+            "illustrator": "Jason Jenicke"
         },
         {
             "code": "11055",
@@ -262,7 +280,9 @@
                 "Knight"
             ],
             "text": "Shadow (4). No attachments except <i>Weapon</i>.\n<b>Reaction:</b> After you lose dominance, the winning opponent must choose and kill a character he or she controls.",
-            "deckLimit": 3
+            "flavor": "\"I am always prepared to fight.\"",
+            "deckLimit": 3,
+            "illustrator": "Antonio José Manzanedo"
         },
         {
             "code": "11056",
@@ -276,7 +296,9 @@
                 "Dorne"
             ],
             "text": "+1 Income. +1 Reserve.",
-            "deckLimit": 3
+            "flavor": "...the mouth of the Greenblood, where the orphans of the river came to trade with the carracks, cogs, and galleys from across the narrow sea.",
+            "deckLimit": 3,
+            "illustrator": "Juan Carlos Barquet"
         },
         {
             "code": "11057",
@@ -296,7 +318,9 @@
                 "The Seven"
             ],
             "text": "No attachments.\n<b>Reaction:</b> After you win a challenge in which Poor Fellows is attacking, the losing opponent chooses, either: Poor Fellows gains 1 power, or you draw 1 card.",
-            "deckLimit": 3
+            "flavor": "The High Sparrow's ragged army.",
+            "deckLimit": 3,
+            "illustrator": "Matt Hansen"
         },
         {
             "code": "11058",
@@ -309,7 +333,8 @@
                 "King's Landing"
             ],
             "text": "Once per marshaling phase, you may marshal a location from your discard pile as if it were in your hand.\n<b>Challenges Action:</b> Kneel King's Landing and discard 1 location from your hand to draw 1 card.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Tomasz Jedruszek"
         },
         {
             "code": "11059",
@@ -323,7 +348,8 @@
                 "The Citadel"
             ],
             "text": "Character you control only.\nIf attached character has the <i>Maester</i> trait, it gains insight.\n<b>Challenges Action:</b> Kneel Glass Candle to look at the top card of any player's deck. You may discard that card.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Ivan Dixon"
         },
         {
             "code": "11060",
@@ -340,7 +366,8 @@
                 "Edict"
             ],
             "text": "Each player cannot gain power for his or her faction except during challenges.\n<b>Forced Reaction:</b> After a challenge is initiated, move 1 power from the attacking player's faction card to the defending player's faction card.",
-            "deckLimit": 1
+            "deckLimit": 1,
+            "illustrator": "Niten"
         }
     ]
 }

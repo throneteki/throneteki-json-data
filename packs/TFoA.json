@@ -22,7 +22,9 @@
                 "Direwolf"
             ],
             "text": "Intimidate. No attachments.\nWhile Roaming Wolfpack is attacking, each attacking <i>Direwolf</i> character gets +2 STR.",
-            "deckLimit": 3
+            "flavor": "She was strong and swift and fierce, and her pack was all around her, her brothers and her sisters.",
+            "deckLimit": 3,
+            "illustrator": "Sebastian Rodriguez"
         },
         {
             "code": "06042",
@@ -33,7 +35,8 @@
             "cost": 2,
             "traits": [],
             "text": "<b>Challenges Action:</b> Each player sacrifices a character or location.\n<b>Reaction:</b> After a character you control is killed, pay 1 gold to return The North Remembers from your discard pile to your hand.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Nicholas Elias"
         },
         {
             "code": "06043",
@@ -53,7 +56,9 @@
                 "Lady"
             ],
             "text": "You may marshal or play 1 additional limited card each round.",
-            "deckLimit": 3
+            "flavor": "Megga was round and loud, Alla shy and pretty, but Elinor ruled the three by right of womanhood...",
+            "deckLimit": 3,
+            "illustrator": "Drazenka Kimpel"
         },
         {
             "code": "06044",
@@ -67,7 +72,8 @@
                 "Item"
             ],
             "text": "<i>Lady</i> character only.\nAttached character gains stealth.\nWhile attached character is participating in a challenge, reduce the cost of each event you play by 1.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Dani Hartel"
         },
         {
             "code": "06045",
@@ -87,7 +93,8 @@
                 "Wandering Crow"
             ],
             "text": "You may choose not to stand Recruiter for the Watch during the standing phase.\n<b>Marshaling Action:</b> Kneel Recruiter for the Watch to choose a character with printed cost 2 or lower. Take control of that character until Recruiter for the Watch stands or leaves play.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Adam Lane"
         },
         {
             "code": "06046",
@@ -101,7 +108,8 @@
                 "The North"
             ],
             "text": "Limited.\n<b>Marshaling Action:</b> Kneel Underground Vault to gain 1 gold. (2 gold instead if the gold value on an opponent's revealed plot card is 5 or higher.)",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Logan Feliciano"
         },
         {
             "code": "06047",
@@ -121,7 +129,9 @@
                 "Bastard"
             ],
             "text": "During the dominance phase, Flea Bottom Bastard gets +3 STR.",
-            "deckLimit": 3
+            "flavor": "The Bottom had a stench to it, a stink of pigsties and stables and tanner's sheds, mixed in with the sour smell of winesinks and cheap whorehouses.",
+            "deckLimit": 3,
+            "illustrator": "Andreia Ugrai"
         },
         {
             "code": "06048",
@@ -135,7 +145,9 @@
                 "Westeros"
             ],
             "text": "<b>Interrupt:</b> When a character you control is killed, sacrifice Spears of the Merling King to return that character to your hand instead of placing it in your dead pile.",
-            "deckLimit": 3
+            "flavor": "...for every one that broke the surface, a dozen lurked treacherously just below it. Any captain with sense kept his course well away from them.",
+            "deckLimit": 3,
+            "illustrator": "Sergey Glushakov"
         },
         {
             "code": "06049",
@@ -155,7 +167,8 @@
                 "Companion"
             ],
             "text": "While Cersei's Attendant is participating in a challenge against an opponent with no cards in his or her hand, Cersei's Attendant gains insight.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Kate Laird"
         },
         {
             "code": "06050",
@@ -169,7 +182,8 @@
                 "Dream"
             ],
             "text": "Opponent's character only. Bestow (3).\n<b>Reaction:</b> After attached character is knelt, discard 1 gold from Fever Dreams to draw 2 cards.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Falk Haensel"
         },
         {
             "code": "06051",
@@ -190,7 +204,9 @@
                 "Lord"
             ],
             "text": "While Theon Greyjoy is attacking alone, each character with a higher STR than his does not contribute its STR to the challenge.",
-            "deckLimit": 3
+            "flavor": "\"A dead enemy is a thing of beauty.\"",
+            "deckLimit": 3,
+            "illustrator": "Kim Sokol"
         },
         {
             "code": "06052",
@@ -204,7 +220,8 @@
                 "Weapon"
             ],
             "text": "<i>Ironborn</i> character only.\nAttached character gets +2 STR.\n<b>Reaction:</b> After you win a challenge in which attached character is attacking, move 1 gold from the losing opponent's gold pool to your own.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Ivan Dixon"
         },
         {
             "code": "06053",
@@ -224,7 +241,8 @@
                 "Companion"
             ],
             "text": "No attachments except <i>Weapon</i>.\n<b>Action:</b> During a challenge in which Grey Worm is attacking, choose a defending character. Until the end of the challenge, that character gets -3 STR. (Limit once per challenge.)",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Ryan Valle"
         },
         {
             "code": "06054",
@@ -239,7 +257,8 @@
                 "Contested"
             ],
             "text": "Bestow (4).\n<b>Action:</b> Kneel Astapor to choose a participating character. Until the end of the challenge, that character gets -X STR. X is the number of gold Astapor has.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Mark Molnar"
         },
         {
             "code": "06055",
@@ -259,7 +278,8 @@
                 "Maester"
             ],
             "text": "<b>Reaction:</b> After you lose a challenge in which Maester of Sunspear is participating, choose an attachment and return it to its owner's hand.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Sara Biddle"
         },
         {
             "code": "06056",
@@ -273,7 +293,8 @@
                 "Dorne"
             ],
             "text": "Limited.\n<b>Marshaling Action:</b> Kneel Dornish Fiefdom to gain 1 gold. (2 gold instead if you are not the first player.)",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Mark Molnar"
         },
         {
             "code": "06057",
@@ -293,7 +314,8 @@
                 "Lord"
             ],
             "text": "<b>Reaction:</b> After you initiate a challenge, Frey Lordling gets +1 STR until the end of the phase.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Jarrod Owen"
         },
         {
             "code": "06058",
@@ -307,7 +329,8 @@
                 "The Riverlands"
             ],
             "text": "During the third challenge you initiate each phase, if you control an attacking <i>House Frey</i> character, raise the claim value on your revealed plot card by 1.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Logan Feliciano"
         },
         {
             "code": "06059",
@@ -319,7 +342,8 @@
                 "Siege"
             ],
             "text": "<b>Action:</b> Choose and kneel a location. Then, if that location is <i>Contested</i>, discard it from play.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Frej Agelii"
         },
         {
             "code": "06060",
@@ -336,7 +360,9 @@
                 "War"
             ],
             "text": "<b>When Revealed:</b> Choose an opponent. That player chooses 2 non-<i>Army</i> characters, each with printed cost 6 or higher. Then, that player chooses and kneels 1 of those characters. Kill the other (cannot be saved).",
-            "deckLimit": 1
+            "designer": "Card design by 2014 North American Champion, Jonathan Andrews.",
+            "deckLimit": 1,
+            "illustrator": "Ryan Valle"
         }
     ]
 }

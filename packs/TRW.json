@@ -23,7 +23,9 @@
                 "Lady"
             ],
             "text": "Renown.\nX is the number of [stark] characters you control.",
-            "deckLimit": 3
+            "flavor": "\"I have fought beside the Young Wolf in every battle... He has not lost one yet.\"",
+            "deckLimit": 3,
+            "illustrator": "Sara Biddle"
         },
         {
             "code": "06062",
@@ -37,7 +39,9 @@
                 "Winterfell"
             ],
             "text": "<b>Action:</b> During a [military] challenge, kneel Winterfell Archery Range to choose a participating character with STR 3 or lower, and remove it from the challenge.",
-            "deckLimit": 3
+            "designer": "Card Design by 2015 Melee North American Champion, Brian Aurelio.",
+            "deckLimit": 3,
+            "illustrator": "Sara Biddle"
         },
         {
             "code": "06063",
@@ -58,7 +62,8 @@
                 "Spy"
             ],
             "text": "Ambush (2). Bestow (3).\n<b>Reaction:</b> After a card enters play during the challenges phase, draw X cards. Then, discard X cards. X is the number of gold Oldtown Informer has.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Sara Biddle"
         },
         {
             "code": "06064",
@@ -72,7 +77,8 @@
                 "House Redwyne"
             ],
             "text": "Limited.\n<b>Marshaling Action:</b> Kneel Arbor Vineyard to gain 1 gold. (2 gold instead if there are more <i>Summer</i> plot cards than <i>Winter</i> plot cards revealed.)",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Mark Molnar"
         },
         {
             "code": "06065",
@@ -92,7 +98,9 @@
                 "Builder"
             ],
             "text": "<b>Action:</b> Kneel a [thenightswatch] location to choose a [thenightswatch] character. Until the end of the phase, that character gains a challenge icon of your choice.",
-            "deckLimit": 3
+            "flavor": "\"Pick who you want, just so it's not me.\"",
+            "deckLimit": 3,
+            "illustrator": "Joshua Cairós"
         },
         {
             "code": "06066",
@@ -106,7 +114,9 @@
                 "Fortification"
             ],
             "text": "Location only.\n<b>Interrupt:</b> When attached location would leave play, sacrifice Improved Fortifications to save it.",
-            "deckLimit": 3
+            "flavor": "So Castle Black had a wall of sorts at last...",
+            "deckLimit": 3,
+            "illustrator": "Lukas Banas"
         },
         {
             "code": "06067",
@@ -127,7 +137,8 @@
                 "Knight"
             ],
             "text": "Bestow (3).\n<b>Reaction:</b> After you win a challenge in which Ser Axell Florent is participating, discard 1 gold from him to choose and kneel a character without attachments.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Joshua Cairós"
         },
         {
             "code": "06068",
@@ -138,7 +149,8 @@
             "cost": 2,
             "traits": [],
             "text": "<b>Challenges Action:</b> Choose and kneel a character with STR 3 or lower. That character cannot stand during the standing phase this round.\n<b>Reaction:</b> After you win dominance, pay 1 gold to return Saving the Kingdom from your discard pile to your hand.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Sebastian Rodriguez"
         },
         {
             "code": "06069",
@@ -159,7 +171,8 @@
                 "Knight"
             ],
             "text": "Bestow (3).\n<b>Challenges Action:</b> Discard 1 gold from Ser Osmund Kettleblack to put a <i>Knight</i> character into play from your hand. At the end of the phase, if that card is still in play, discard it from play (cannot be saved). (Limit once per phase.)",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Nicholas Gregory"
         },
         {
             "code": "06070",
@@ -170,7 +183,8 @@
             "cost": 2,
             "traits": [],
             "text": "<b>Challenges Action:</b> Choose a character with printed cost 2 or lower controlled by each player. Return each of those characters to its owner's hand.\n<b>Reaction:</b> After a character is discarded from an opponent's hand or deck, pay 1 gold to return Tywin's Stratagem from your discard pile to your hand.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Adam Duff"
         },
         {
             "code": "06071",
@@ -190,7 +204,8 @@
                 "Raider"
             ],
             "text": "Bestow (3). No attachments. Pillage.\nSilence's Crew gets +2 STR for each gold it has.\n<b>Reaction:</b> After Silence's Crew discards a location or attachment using pillage, place 1 gold from the treasury on Silence's Crew.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Joel Hustak"
         },
         {
             "code": "06072",
@@ -201,7 +216,8 @@
             "cost": 0,
             "traits": [],
             "text": "<b>Action:</b> Kneel your faction card to choose an opponent. Gain 1 gold for each location and attachment in that player's discard pile.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Michele Frigo"
         },
         {
             "code": "06073",
@@ -221,7 +237,9 @@
                 "Companion"
             ],
             "text": "Bestow (2).\n<b>Interrupt:</b> When another unique [targaryen] character would be killed, discard 1 gold from Strong Belwas to save it. (Limit once per phase.)",
-            "deckLimit": 3
+            "flavor": "\"Killing makes Strong Belwas hungry.\"",
+            "deckLimit": 3,
+            "illustrator": "David Sondered"
         },
         {
             "code": "06074",
@@ -235,7 +253,8 @@
                 "Title"
             ],
             "text": "Unique [targaryen] character only.\nAttached character gets +1 STR for each character you control with printed cost 2 or lower.\n<b>Reaction:</b> After attached character is declared as an attacker, put a character with printed cost 2 or lower into play from your hand.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Ignacio Bazán Lazcano"
         },
         {
             "code": "06075",
@@ -256,7 +275,8 @@
                 "Companion"
             ],
             "text": "Bestow (3).\n<b>Reaction:</b> After you lose a challenge in which Ellaria Sand is participating, discard 1 gold from her to stand each <i>Bastard</i> character you control.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Kate Burmak"
         },
         {
             "code": "06076",
@@ -267,7 +287,8 @@
             "cost": 1,
             "traits": [],
             "text": "<b>Action:</b> Kneel your faction card to draw X cards. X is the number of plot cards in your used pile.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Cristi Balanescu"
         },
         {
             "code": "06077",
@@ -287,7 +308,9 @@
                 "Lord"
             ],
             "text": "Renown.\nWhile Walder Frey is attacking, each other <i>House Frey</i> character you control is also considered to be attacking.",
-            "deckLimit": 3
+            "flavor": "\"My honored guests. Be welcome beneath my roof, and at my table.\"",
+            "deckLimit": 3,
+            "illustrator": "Adam Duff"
         },
         {
             "code": "06078",
@@ -307,7 +330,8 @@
                 "House Frey"
             ],
             "text": "Bestow (2).\n<b>Reaction:</b> After you win a challenge in which you control 2 or more attacking <i>House Frey</i> characters, discard 1 gold from Frey Bastard to gain 1 power for your faction.",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Kim Sokol"
         },
         {
             "code": "06079",
@@ -319,7 +343,8 @@
                 "House Frey"
             ],
             "text": "<b>Reaction:</b> After you win a challenge in which you control an attacking <i>House Frey</i> character, if it was the third challenge you initiated this phase, choose and kill a character controlled by the losing opponent. (Choose and kill 3 characters instead if you won by 20 or more STR.)",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "illustrator": "Colin Boyer"
         },
         {
             "code": "06080",
@@ -337,7 +362,8 @@
                 "Scheme"
             ],
             "text": "<b>Interrupt:</b> When you win a challenge as the attacking player, choose and kill a <i>Lord</i> or <i>Lady</i> character controlled by the losing opponent. (Any player may initiate this ability.)",
-            "deckLimit": 1
+            "deckLimit": 1,
+            "illustrator": "Colin Boyer"
         }
     ]
 }
