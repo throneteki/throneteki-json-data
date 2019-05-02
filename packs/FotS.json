@@ -96,6 +96,55 @@
             "illustrator": "Alexandre Dainche"
         },
         {
+            "code": "14007",
+            "type": "character",
+            "name": "Alester Florent",
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": true,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "House Florent",
+                "Lord",
+                "R'hllor"
+            ],
+            "text": "<b>Reaction:</b> After a <i>House Florent</i> character enters play, draw a card. (Limit once per round.)\n<b>Interrupt:</b> When Alester Florent leaves play, if you control another <i>R'hllor</i> character, choose and kneel a character an opponent controls.",
+            "flavor": "\"Stannis Baratheon will never sit the Iron Throne. Is it treason to say the truth? A bitter truth, but no less true for that.\"",
+            "deckLimit": 3,
+            "illustrator": "Chris Pritchard"
+        },
+        {
+            "code": "14008",
+            "type": "character",
+            "name": "Selyse Baratheon",
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "House Florent",
+                "Lady",
+                "Queen",
+                "R'hllor"
+            ],
+            "text": "Reduce the cost of each <i>R'hllor</i> attachment you marshal by 3.",
+            "flavor": "\"A queen should be a mistress beneath her own roof.\"",
+            "deckLimit": 3,
+            "illustrator": "Quintin Gleim"
+        },
+        {
             "code": "14012",
             "type": "character",
             "name": "Red Priest",
@@ -141,6 +190,35 @@
             "illustrator": "Andreia Ugrai"
         },
         {
+            "code": "14020",
+            "type": "event",
+            "name": "Azor Ahai Reborn",
+            "faction": "baratheon",
+            "loyal": true,
+            "cost": 3,
+            "traits": [
+                "Legacy",
+                "R'hllor"
+            ],
+            "text": "Unique character you control only. Terminal.\nAttached character is considered to be participating in each challenge in which you control an attacking <i>R'hllor</i> character.",
+            "deckLimit": 3,
+            "illustrator": "Tim Durning"
+        },
+        {
+            "code": "14024",
+            "type": "event",
+            "name": "Nightfire Vision",
+            "faction": "baratheon",
+            "loyal": true,
+            "cost": 0,
+            "traits": [
+                "R'hllor"
+            ],
+            "text": "Play only if you control a <i>R'hllor</i> character.\n<b>Taxation Action:</b> Name a <i>Trait</i>. If an opponent reveals a plot card with that <i>Trait</i> during the next plot phase, draw 3 cards.",
+            "deckLimit": 3,
+            "illustrator": "Magali Villeneuve"
+        },
+        {
             "code": "14028",
             "type": "location",
             "name": "Lionstar",
@@ -183,6 +261,18 @@
             "flavor": "\"I thank you, my lords... but I spit upon your pity.\" <cite>Ser Barristan Selmy</cite>",
             "deckLimit": 3,
             "illustrator": "Ryan Valle"
+        },
+        {
+            "code": "14045",
+            "type": "agenda",
+            "name": "The Prince That Was Promised",
+            "faction": "neutral",
+            "traits": [
+                "Prophecy"
+            ],
+            "text": "After all agendas are announced, name a unique character. Other characters you control cannot gain power.\n<b>Reaction:</b> After you win a [power] challenge by 5 or more STR, kneel your faction card to, either: stand the named character and draw a card; or search your deck, discard pile, and dead pile for the named character, reveal it, add it to your hand, and shuffle your deck.",
+            "deckLimit": 3,
+            "illustrator": "David Griffith"
         },
         {
             "code": "14046",
