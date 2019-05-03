@@ -191,8 +191,9 @@
         },
         {
             "code": "14020",
-            "type": "event",
+            "type": "attachment",
             "name": "Azor Ahai Reborn",
+            "unique": true,
             "faction": "baratheon",
             "loyal": true,
             "cost": 3,
