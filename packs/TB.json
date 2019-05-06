@@ -1,0 +1,132 @@
+{
+    "cgdbId": 50,
+    "code": "TB",
+    "name": "The Blackwater",
+    "releaseDate": null,
+    "cards": [
+        {
+            "code": "13082",
+            "type": "event",
+            "name": "Shadow of the North",
+            "faction": "stark",
+            "loyal": true,
+            "cost": "-",
+            "traits": [],
+            "text": "Shadow (1). Play only during a challenge.\n<b>Action:</b> Raise the claim value on your revealed plot card by 1 until the end of the challenge. If there is a <i>Winter</i> plot card revealed, return Shadow of the North to your hand instead of placing it in your discard pile. (Max 1 per challenge.)",
+            "deckLimit": 3,
+            "illustrator": "Sebastian Rodriguez"
+        },
+        {
+            "code": "13084",
+            "type": "event",
+            "name": "Shadow of the Rose",
+            "faction": "tyrell",
+            "loyal": true,
+            "cost": "-",
+            "traits": [],
+            "text": "Shadow (2).\n<b>Action:</b> Search the top 10 cards of your deck for a card with shadow, reveal it, and put it into shadows. Shuffle your deck. If there is a <i>Summer</i> plot card revealed, return Shadow of the Rose to your hand instead of placing it in your discard pile.",
+            "deckLimit": 3,
+            "illustrator": "Tiziano Baracchi"
+        },
+        {
+            "code": "13085",
+            "type": "character",
+            "name": "Yoren",
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": true,
+            "cost": 6,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Wandering Crow"
+            ],
+            "text": "<b>Reaction:</b> After Yoren enters play, choose a character with printed cost 5 or lower. Take control of that character until Yoren leaves play.",
+            "flavor": "\"Do what you want to the town, it's naught to me, but leave us be. We're no foes to you.\"",
+            "deckLimit": 3,
+            "illustrator": "Federico Musetti"
+        },
+        {
+            "code": "13088",
+            "type": "location",
+            "name": "Blackwater Rush",
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": true,
+            "cost": 3,
+            "traits": [
+                "Westeros"
+            ],
+            "text": "Shadow (2).\n<b>Reaction:</b> After a card you control comes out of shadows, kneel Blackwater Rush to choose a [baratheon] character. That character gains 1 power.",
+            "deckLimit": 3,
+            "illustrator": "Leanna Crossan"
+        },
+        {
+            "code": "13089",
+            "type": "character",
+            "name": "Tyrion Lannister",
+            "unique": true,
+            "faction": "lannister",
+            "loyal": true,
+            "cost": 6,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "Lord",
+                "Small Council"
+            ],
+            "text": "Shadow (5). Insight.\n<b>Reaction:</b> After a non-event card you control comes out of shadows, place another card you control in shadows with a shadow token on it. While that card is in shadows, it gains shadow (X). X is its printed cost. (Limit once per round.)",
+            "deckLimit": 3,
+            "illustrator": "Aleksander Karcz"
+        },
+        {
+            "code": "13090",
+            "type": "event",
+            "name": "A Very Large Shadow",
+            "faction": "lannister",
+            "loyal": true,
+            "cost": "-",
+            "traits": [],
+            "text": "Shadow (0).\n<b>Action:</b> Reduce the cost of the next card you bring out of shadows this phase by 3. If there is a <i>Scheme</i> plot card revealed, return A Very Large Shadow to your hand instead of placing it in your discard pile. (Max 1 per phase.)",
+            "deckLimit": 3,
+            "illustrator": "Aleksander Karcz"
+        },
+        {
+            "code": "13096",
+            "type": "attachment",
+            "name": "The Mountain's Skull",
+            "unique": true,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 3,
+            "traits": [
+                "Item"
+            ],
+            "text": "Attached character gets +2 STR and gains renown.\n<b>Reaction:</b> After an opponent's character with printed STR 6 or higher is killed, put The Mountain's Skull into play from your hand or discard pile.",
+            "deckLimit": 3,
+            "illustrator": "Carlos Palma Cruchaga"
+        },
+        {
+            "code": "13098",
+            "type": "attachment",
+            "name": "White Cloak",
+            "unique": false,
+            "faction": "neutral",
+            "cost": 1,
+            "traits": [
+                "Item"
+            ],
+            "text": "<i>Knight</i> character you control only.\nAttached character gains the <i>Kingsguard</i> trait.\n<b>Interrupt:</b> When a <i>King</i> or <i>Queen</i> character would be killed, kneel attached character to save it.",
+            "deckLimit": 3,
+            "illustrator": "Michele Giorgi"
+        }
+    ]
+}
