@@ -1,5 +1,6 @@
 const fs = require('fs');
 const path = require('path');
+const ThronetekiCyclesValidator = require('../src/ThronetekiCyclesValidator');
 const ThronetekiPackValidator = require('../src/ThronetekiPackValidator.js');
 const BasicValidator = require('../src/BasicValidator.js');
 
@@ -16,6 +17,15 @@ for(let file of packFiles) {
         console.error(`Errors in ${file}:\n${result.errors.join('\n')}`);
         valid = false;
     }
+}
+
+let cyclesValidator = new ThronetekiCyclesValidator({ packFiles });
+let cycles = require('../cycles.json');
+let cyclesResult = cyclesValidator.validate(cycles);
+
+if(!cyclesResult.valid) {
+    console.error(`Errors in cycles.json:\n${cyclesResult.errors.join('\n')}`);
+    valid = false;
 }
 
 let restrictedListValidator = new BasicValidator(require('../restricted-list.schema.json'));

@@ -1,0 +1,136 @@
+[
+    {
+        "id": "variants",
+        "name": "Variants",
+        "packs": [
+            "VDS"
+        ]
+    },
+    {
+        "id": "core",
+        "name": "Core Set",
+        "packs": [
+            "Core"
+        ]
+    },
+    {
+        "id": "westeros",
+        "name": "Westeros Cycle",
+        "packs": [
+            "TtB",
+            "TRtW",
+            "TKP",
+            "NMG",
+            "CoW",
+            "TS"
+        ]
+    },
+    {
+        "id": "wolves",
+        "name": "Wolves of the North",
+        "packs": [
+            "WotN"
+        ]
+    },
+    {
+        "id": "war",
+        "name": "War of Five Kings Cycle",
+        "packs": [
+            "AtSK",
+            "CtA",
+            "FFH",
+            "TIMC",
+            "GoH",
+            "TC"
+        ]
+    },
+    {
+        "id": "lions",
+        "name": "Lions of Casterly Rock",
+        "packs": [
+            "LoCR"
+        ]
+    },
+    {
+        "id": "bng",
+        "name": "Blood and Gold",
+        "packs": [
+            "AMAF",
+            "GtR",
+            "TFoA",
+            "TRW",
+            "OR",
+            "TBWB"
+        ]
+    },
+    {
+        "id": "watchers",
+        "name": "Watchers on the Wall",
+        "packs": [
+            "WotW"
+        ]
+    },
+    {
+        "id": "foc",
+        "name": "Flight of Crows",
+        "packs": [
+            "TAK",
+            "JtO",
+            "Km",
+            "FotOG",
+            "TFM",
+            "SAT"
+        ]
+    },
+    {
+        "id": "thorns",
+        "name": "House of Thorns",
+        "packs": [
+            "HoT"
+        ]
+    },
+    {
+        "id": "sands",
+        "name": "Sands of Dorne",
+        "packs": [
+            "SoD"
+        ]
+    },
+    {
+        "id": "dos",
+        "name": "Dance of Shadows",
+        "packs": [
+            "TSC",
+            "TMoW",
+            "SoKL",
+            "MoD",
+            "IDP",
+            "DitD"
+        ]
+    },
+    {
+        "id": "isles",
+        "name": "Kings of the Isles",
+        "packs": [
+            "KotI"
+        ]
+    },
+    {
+        "id": "landing",
+        "name": "King's Landing",
+        "packs": [
+            "AtG",
+            "CoS",
+            "PoS",
+            "BtRK",
+            "TB"
+        ]
+    },
+    {
+        "id": "storm",
+        "name": "Fury of the Storm",
+        "packs": [
+            "FotS"
+        ]
+    }
+]

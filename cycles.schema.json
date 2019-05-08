@@ -1,0 +1,28 @@
+{
+    "items": {
+        "additionalProperties": false,
+        "properties": {
+            "id": {
+                "minLength": 1,
+                "type": "string"
+            },
+            "name": {
+                "minLength": 1,
+                "type": "string"
+            },
+            "packs": {
+                "type": "array",
+                "items": {
+                    "minLength": 1,
+                    "type": "string"
+                }
+            }
+        },
+        "required": [
+            "id",
+            "name",
+            "packs"
+        ]
+    },
+    "type": "array"
+}
