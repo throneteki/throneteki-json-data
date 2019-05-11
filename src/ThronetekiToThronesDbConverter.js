@@ -61,7 +61,6 @@ class ThronetekiToThronesDbConverter {
         if(thronetekiCard.type === 'character') {
             thronesDbCard.is_military = thronetekiCard.icons.military;
         }
-        thronesDbCard.is_multiple = this.thronetekiData.hasMultipleCardsByName(thronetekiCard.name);
         if(thronetekiCard.type === 'character') {
             thronesDbCard.is_power = thronetekiCard.icons.power;
         }
