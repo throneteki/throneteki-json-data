@@ -219,6 +219,43 @@
             "deckLimit": 3,
             "illustrator": "Magali Villeneuve"
         },
+                {
+            "code": "14026",
+            "type": "event",
+            "name": "Every Captain is a King",
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+            ],
+            "text": "<b>Action:</b> Until the end of the phase, each <i>Captain</i> character you control gains the <i>King</i> trait and does not kneel when declared as an attacher in [power] challenges.",
+            "flavor": "...it was small wonder they named the islands the land of ten thousand kings.",
+            "deckLimit": 3,
+            "illustrator": "Tomasz Jedruszek"
+        },
+        {
+            "code": "14027",
+            "type": "character",
+            "name": "Ser Gregor Clegane",
+            "unique": true,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 6,
+            "traits": [
+                "Knight",
+                "House Clegane"
+            ],
+            "text": "Intimidate. Pillage.\n<b>Forced Reaction:</b> After you win a challenge in which Ser Gregor Clegane is participating, choose and kill a character you control.",
+            "flavor": "\"Gregor is a very large man. Also a very stupid one. Too stupid to know when he should die, it seems.\" <cite>Cersei Lannister</cite>",
+            "deckLimit": 3,
+            "illustrator": "Michael Komarck"
+        },
         {
             "code": "14028",
             "type": "location",
@@ -234,6 +271,51 @@
             "flavor": "Her hull was black and gold, her figurehead a lion with an upraised paw.",
             "deckLimit": 3,
             "illustrator": "Lukasz Jaskolski"
+        },
+        {
+            "code": "14037",
+            "type": "character",
+            "name": "Hightower Knight",
+            "unique": false,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "House Hightower",
+                "Knight"
+            ],
+            "text": "<b>Action:</b> Kneel a non-[tyrell] <i>Knight</i> character to put Hightower Knight into play from your hand.",
+            "deckLimit": 3,
+            "illustrator": "Sebastian Rodriguez"
+        },
+        {
+            "code": "14039",
+            "type": "character",
+            "name": "Lyn Corbray",
+            "unique": true,
+            "faction": "neutral",
+            "loyal": false,
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 4,
+            "traits": [
+                "House Arryn",
+                "Knight"
+            ],
+            "text": "Stealth.\n<b>Reaction:</b> After an opponent initiates a [power] challenge against you, stand Lyn Corbray.",
+            "flavor": "\"I have never taken kindly to chastisement, as any number of dead men could tell you.\"",
+            "deckLimit": 3,
+            "illustrator": "JB Casacop"
         },
         {
             "code": "14043",
