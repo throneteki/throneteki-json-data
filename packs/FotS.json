@@ -206,6 +206,22 @@
             "illustrator": "Tim Durning"
         },
         {
+            "code": "14022",
+            "type": "attachment",
+            "name": "Warhammer",
+            "unique": false,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Weapon"
+            ],
+            "text": "If attached character's printed STR is 4 or lower, it gets +2 STR.\nIf attached character's printed STR is 5 or higher, it gains intimidate.",
+            "flavor": "He'd had a giant's strength too, his weapon of choice a spiked iron warhammer that Ned could scarcely lift.",
+            "deckLimit": 3,
+            "illustrator": "Jaime Carrillo"
+        },
+        {
             "code": "14024",
             "type": "event",
             "name": "Nightfire Vision",
