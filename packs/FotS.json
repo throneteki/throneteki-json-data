@@ -190,6 +190,22 @@
             "illustrator": "Andreia Ugrai"
         },
         {
+            "code": "14018",
+            "type": "location",
+            "name": "Cape Wrath",
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": true,
+            "cost": 2,
+            "traits": [
+                "Westeros"
+            ],
+            "text": "During [power] challenges in which you are the attacking or defending player, raise the claim value on the attacking player's revealed plot card by 1.",
+            "flavor": "...he would never have dared attempt a landing on Cape Wrath; the storm lords were too fiercely loyal to House Baratheon and to King Robert.",
+            "deckLimit": 3,
+            "illustrator": "Lino Drieghe"
+        },
+        {
             "code": "14020",
             "type": "attachment",
             "name": "Azor Ahai Reborn",
