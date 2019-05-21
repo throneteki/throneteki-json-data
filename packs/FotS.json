@@ -96,6 +96,29 @@
             "illustrator": "Alexandre Dainche"
         },
         {
+            "code": "14005",
+            "type": "character",
+            "name": "Salladhor Saan",
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Captain",
+                "Smuggler"
+            ],
+            "text": "<b>Reaction:</b> After you marshal a <i>Smuggler</i> character, choose and kneel a location. Then, gain gold equal to that location's printed cost. (Limit once per round.)",
+            "flavor": "\"Good ser, it is gold I crave, not words on papers.\"",
+            "deckLimit": 3,
+            "illustrator": "Diego Gisbert Llorens"
+        },
+        {
             "code": "14007",
             "type": "character",
             "name": "Alester Florent",
