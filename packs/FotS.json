@@ -229,6 +229,22 @@
             "illustrator": "Lino Drieghe"
         },
         {
+            "code": "14019",
+            "type": "location",
+            "name": "Lyseni Galley",
+            "unique": false,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Warship"
+            ],
+            "text": "<b>Action:</b> Kneel Lyseni Galley to choose a character. Until the end of the phase, that character gets +1 STR. If that character is a <i>Captain</i> or <i>Smuggler</i>, it gains stealth until the end of the phase.",
+            "flavor": "One of Salladhor Saan's warships was sweeping past the castle, her gaily striped hull slicing through the greygreen waters as her oars rose and fell.",
+            "deckLimit": 3,
+            "illustrator": "Sebastian Rodriguez"
+        },
+        {
             "code": "14020",
             "type": "attachment",
             "name": "Azor Ahai Reborn",
