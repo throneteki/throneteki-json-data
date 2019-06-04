@@ -709,7 +709,7 @@
             "traits": [
                 "Warhorse"
             ],
-            "text": "Max 1 per character.\nWhile attached character is attacking, it gets +1 STR (+3 STR instead if it has the <i>Dothraki</i> trait).\n<em>Errata from FAQ v2.2</em>",
+            "text": "Limit 1 copy per character.\nWhile attached character is attacking, it gets +1 STR (+3 STR instead if it has the <i>Dothraki</i> trait).\n<em>Errata from FAQ v2.2</em>",
             "deckLimit": 3,
             "illustrator": "Carlos Palma Cruchaga"
         },
