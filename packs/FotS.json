@@ -411,7 +411,7 @@
             "traits": [
                 "Warship"
             ],
-            "text": "<b>Action:</b> Kneel Lyseni Galley to choose a  character. Until the end of the phase, that character gets +1 STR. If that character is a <i>Captain</i> or <i>Smuggler</i>, it gains stealth until the end of the phase.",
+            "text": "<b>Action:</b> Kneel Lyseni Galley to choose a character. Until the end of the phase, that character gets +1 STR. If that character is a <i>Captain</i> or <i>Smuggler</i>, it gains stealth until the end of the phase.",
             "flavor": "One of Salladhor Saan's warships was sweeping past the castle, her gaily striped hull slicing through the greygreen waters as her oars rose and fell.",
             "deckLimit": 3,
             "illustrator": "Sebastian Rodriguez"
