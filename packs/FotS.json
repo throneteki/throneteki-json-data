@@ -906,8 +906,8 @@
             "traits": [
                 "Scheme"
             ],
-            "text": "<b>Interrupt:</b> When the effects of a when revealed ability would initiate, kneel your faction card and a unique <i>Maester</i> character to cancel those effects.\nPlot deck limit: 1",
-            "deckLimit": 2,
+            "text": "<b>Interrupt:</b> When the effects of a when revealed ability would initiate, kneel your faction card and a unique <i>Maester</i> character to cancel those effects.",
+            "deckLimit": 1,
             "illustrator": "Tom Garden"
         },
         {
