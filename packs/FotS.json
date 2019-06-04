@@ -46,6 +46,7 @@
                 "R'hllor"
             ],
             "text": "Immune to opponents' events.\n<b>Reaction:</b> After you win a [power] challenge, draw X cards. X is the claim value on the attacking player's revealed plot card.",
+            "flavor": "\"I never asked for this crown.\"",
             "deckLimit": 3,
             "illustrator": "Aleksander Karcz"
         },
@@ -90,6 +91,7 @@
                 "King"
             ],
             "text": "Renown.\n<b>Action:</b> Kneel your faction card to put a non-[baratheon] character with printed cost X or lower into play from your hand. X is Renly Baratheon's STR.",
+            "flavor": "\"Tyrell swords will make me king.\"",
             "deckLimit": 3,
             "illustrator": "Alexandre Dainche"
         },
@@ -112,6 +114,7 @@
                 "Smuggler"
             ],
             "text": "<b>Reaction:</b> After you marshal a <i>Smuggler</i> character, choose and kneel a location. Then, gain gold equal to that location's printed cost. (Limit once per round.)",
+            "flavor": "\"Good ser, it is gold I crave, not words on papers.\"",
             "deckLimit": 3,
             "illustrator": "Diego Gisbert Llorens"
         },
@@ -158,6 +161,7 @@
                 "R'hllor"
             ],
             "text": "<b>Reaction:</b> After a <i>House Florent</i> character enters play, draw a card. (Limit once per round.)\n<b>Interrupt:</b> When Alester Florent leaves play, if you control another <i>R'hllor</i> character, choose and kneel a character an opponent controls.",
+            "flavor": "\"Stannis Baratheon will never sit the Iron Throne. Is it treason to say the truth? A bitter truth, but no less true for that.\"",
             "deckLimit": 3,
             "illustrator": "Chris Pritchard"
         },
@@ -182,6 +186,7 @@
                 "R'hllor"
             ],
             "text": "Reduce the cost of each <i>R'hllor</i> attachment you marshal by 3.",
+            "flavor": "\"A queen should be a mistress beneath her own roof.\"",
             "deckLimit": 3,
             "illustrator": "Quintin Gleim"
         },
@@ -204,6 +209,7 @@
                 "Knight"
             ],
             "text": "<b>Interrupt:</b> When the challenges phase ends, if you have not lost a [power] challenge this phase, stand Griffin's Roost Knight.",
+            "flavor": "Griffin's Roost was strong but small...",
             "deckLimit": 3,
             "illustrator": "Sebastian Rodriguez"
         },
@@ -225,6 +231,7 @@
                 "Captain"
             ],
             "text": "<b>Reaction:</b> After you marshal Dale Seaworth, choose a [baratheon] location in your discard pile and return it to your hand.",
+            "flavor": "\"Your son Dale will go south in Wraith, past Cape Wrath and the Broken Arm, all along the coast of Dorne as far as the Arbor.\" <cite>Stannis Baratheon</cite>",
             "deckLimit": 3,
             "illustrator": "Sebastian Ciaffaglione"
         },
@@ -247,6 +254,7 @@
                 "Knight"
             ],
             "text": "<b>Action:</b> Kill Ser Imry Florent to choose an opponent. You may sacrifice any number of locations. For each location sacrificed this way, that opponent must choose and kneel a standing character he or she controls.",
+            "flavor": "With four times as many ships as the boy king, Ser Imry saw no need for caution or deceptive tactics.",
             "deckLimit": 3,
             "illustrator": "Melissa Findley"
         },
@@ -268,6 +276,7 @@
                 "R'hllor"
             ],
             "text": "<b>Reaction:</b> After Red Priest enters play, look at an opponent's hand. Then, choose 1 card in that hand and remove it from the game until Red Priest leaves play.",
+            "flavor": "The red priest lit their fires every day at sunset, to thank R'hllor for the day just ending, and beg him to send his sun back on the morrow to banish the gathering darkness.",
             "deckLimit": 3,
             "illustrator": "Adam Lane"
         },
@@ -311,6 +320,7 @@
                 "R'hllor"
             ],
             "text": "<b>Reaction:</b> After the draw phase begins, kneel Acolyte of the Flame to look at the top 2 cards of an opponent's deck. You may put those cards on the bottom of that player's deck.",
+            "flavor": "\"Any cat may stare into a fire and see red mice at play.\" <cite>Melisandre</cite>",
             "deckLimit": 3,
             "illustrator": "Andreia Ugrai"
         },
@@ -333,6 +343,7 @@
                 "Bastard"
             ],
             "text": "While you control Robert Baratheon, reduce the cost to marshal Bastard of Robert by 2.\n<b>Reaction:</b> After Bastard of Robert enters play, if you control a <i>King</i> character, draw a card.",
+            "flavor": "\"If you bed enough women, some will give you presents, and His Grace has never been shy on that count.\" <cite>Littlefinger</cite>",
             "deckLimit": 3,
             "illustrator": "Drazenka Kimpel"
         },
@@ -354,6 +365,7 @@
                 "Smuggler"
             ],
             "text": "<b>Action:</b> Choose 1 card from your hand and place it on top of your deck. Then, at the end of the phase, draw 1 card. (Limit once per round.)",
+            "flavor": "A smuggler had best know men as well as tides, or he would not live to smuggle long.",
             "deckLimit": 3,
             "illustrator": "Brenda Bae"
         },
@@ -384,6 +396,7 @@
                 "Westeros"
             ],
             "text": "During [power] challenges in which you are the attacking or defending player, raise the claim value on the attacking player's revealed plot card by 1.",
+            "flavor": "...he would never have dared attempt a landing on Cape Wrath; the storm lords were too fiercely loyal to House Baratheon and to King Robert.",
             "deckLimit": 3,
             "illustrator": "Lino Drieghe"
         },
@@ -399,6 +412,7 @@
                 "Warship"
             ],
             "text": "<b>Action:</b> Kneel Lyseni Galley to choose a  character. Until the end of the phase, that character gets +1 STR. If that character is a <i>Captain</i> or <i>Smuggler</i>, it gains stealth until the end of the phase.",
+            "flavor": "One of Salladhor Saan's warships was sweeping past the castle, her gaily striped hull slicing through the greygreen waters as her oars rose and fell.",
             "deckLimit": 3,
             "illustrator": "Sebastian Rodriguez"
         },
@@ -430,6 +444,7 @@
                 "Condition"
             ],
             "text": "Ambush (3). Terminal.\nAttached character cannot stand.",
+            "flavor": "\"He slew the boar. His entrails were sliding from his belly, yet somehow he slew the boar.\" <cite>Renly Baratheon</cite>",
             "deckLimit": 3,
             "illustrator": "Carlos Palma Cruchaga"
         },
@@ -445,6 +460,7 @@
                 "Weapon"
             ],
             "text": "If attached character's printed STR is 4 or lower, it gets +2 STR.\nIf attached character's printed STR is 5 or higher, it gains intimidate.",
+            "flavor": "He'd had a giant's strength too, his weapon of choice a spiked iron warhammer that Ned could scarcely lift.",
             "deckLimit": 3,
             "illustrator": "Jaime Carrillo"
         },
@@ -507,6 +523,7 @@
             "cost": 2,
             "traits": [],
             "text": "<b>Action:</b> Until the end of the phase, each <i>Captain</i> character you control gains the <i>King</i> trait and does not kneel when declared as an attacker in [power] challenges.",
+            "flavor": "...it was small wonder they named the islands the land of ten thousand kings.",
             "deckLimit": 3,
             "illustrator": "Tomasz Jedruszek"
         },
@@ -529,6 +546,7 @@
                 "House Clegane"
             ],
             "text": "Intimidate. Pillage.\n<b>Forced Reaction:</b> After you win a challenge in which Ser Gregor Clegane is participating, choose and kill a character you control.",
+            "flavor": "\"Gregor is a very large man. Also a very stupid one. Too stupid to know when he should die, it seems.\" <cite>Cersei Lannister</cite>",
             "deckLimit": 3,
             "illustrator": "Michael Komarck"
         },
@@ -544,6 +562,7 @@
                 "Warship"
             ],
             "text": "<b>Action:</b> Kneel Lionstar to put a [lannister] character with printed cost 4 or lower into play from your hand. At the end of the phase, if that card is still in play, discard it from play.",
+            "flavor": "Her hull was black and gold, her figurehead a lion with an upraised paw.",
             "deckLimit": 3,
             "illustrator": "Lukasz Jaskolski"
         },
@@ -601,6 +620,7 @@
                 "Army"
             ],
             "text": "No attachments.\nX is your reserve value.",
+            "flavor": "\"Oh, eight thousand years is a good while, to be sure... yet if the Night's Watch does not remember, who will?\" <cite>Old Bear Mormont</cite>",
             "deckLimit": 3,
             "illustrator": "Jokubas Uogintas"
         },
@@ -613,6 +633,7 @@
             "cost": 1,
             "traits": [],
             "text": "<b>Reaction:</b> After an opponent initiates a challenge against you, choose and stand a <i>Builder</i> character, a <i>Ranger</i> character, and a <i>Steward</i> character.",
+            "flavor": "\"They never blow three. Not for hundreds and thousands of years. Three means &mdash;\" <cite>Samwell Tarly</cite>",
             "deckLimit": 3,
             "illustrator": "Jokubas Uogintas"
         },
@@ -634,6 +655,7 @@
                 "House Mormont"
             ],
             "text": "<b>Reaction:</b> After you marshal She-Bear, you may put a [stark] character or attachment with printed cost 3 or lower into play from your hand.",
+            "flavor": "\"You are braver than I am, I fear. Are all your Bear Island women such warriors?\" <cite>Catelyn Stark</cite>",
             "deckLimit": 3,
             "illustrator": "Aleksander Karcz"
         },
@@ -649,6 +671,7 @@
                 "Item"
             ],
             "text": "Attached character gets +1 STR.\nIf attached character has the <i>House Mormont</i> trait, it gains stealth.",
+            "flavor": "\"A woman in a bearskin, with a child in one arm suckling her breast. In the other hand she holds a battleaxe. She's no proper lady, that one, but I always loved her.\" <cite>Dacey Mormont</cite>",
             "deckLimit": 3,
             "illustrator": "Matt Hansen"
         },
@@ -671,6 +694,7 @@
                 "Dothraki"
             ],
             "text": "<b>Reaction:</b> After you win a challenge in which Haggo is participating, discard a card from your hand to choose a <i>Dothraki</i> card in your discard pile and return it to your hand.",
+            "flavor": "...Haggo, huge and silent, often glowered...",
             "deckLimit": 3,
             "illustrator": "Paolo Puggioni"
         },
@@ -723,6 +747,7 @@
                 "The Reach"
             ],
             "text": "<b>Reaction:</b> After you win a [power] challenge, kneel 3 <i>The Reach</i> locations to raise the claim value on your revealed plot card by 1 until the end of the challenge.",
+            "flavor": "\"In Highgarden there are fields of golden roses that stretch away as far as the eye can see.\" <cite>Robert Baratheon</cite>",
             "deckLimit": 3,
             "illustrator": "Leanna Crossan"
         },
@@ -744,6 +769,7 @@
                 "Knight"
             ],
             "text": "Stealth.\n<b>Reaction:</b> After an opponent initiates a [power] challenge against you, stand Lyn Corbray.",
+            "flavor": "\"I have never taken kindly to chastisement, as any number of dead men could tell you.\"",
             "deckLimit": 3,
             "illustrator": "JB Casacop"
         },
@@ -764,6 +790,7 @@
                 "Knight"
             ],
             "text": "While you control a <i>Lord</i> or <i>Lady</i> character,  Unlikely Champion gains a [power] icon.",
+            "flavor": "Near forty men took part, freeriders and hedge knights and new-made squires in search of a reputation.",
             "deckLimit": 3,
             "illustrator": "Aleksander Karcz"
         },
@@ -785,6 +812,7 @@
                 "R'hllor"
             ],
             "text": "While you control no loyal characters, Anguy the Archer does not kneel when declared as an attacker or defender in a [military] challenge.",
+            "flavor": "That afternoon a boy named Anguy, an unheralded commoner from the Dornish Marches, won the archery competition, outshooting Ser Balon Swann and Jalabhar Xho at a hundred paces...",
             "deckLimit": 3,
             "illustrator": "Felipe Escobar"
         },
@@ -800,6 +828,7 @@
                 "Westeros"
             ],
             "text": "<b>Dominance Action:</b> If you control no loyal characters, kneel The Hollow Hill to search the top 10 cards of your deck for a non-loyal character, reveal it, and add it to your hand. Shuffle your deck.",
+            "flavor": "\"A refuge where neither wolves nor lions come prowling.\" <cite>Lem Lemoncloak</cite>",
             "deckLimit": 3,
             "illustrator": "Zach Graves"
         },
@@ -815,6 +844,7 @@
                 "Weapon"
             ],
             "text": "Attached character gets +1 STR for each neutral location you control.\nIf attached character is Lyn Corbray, he gains a [power] icon.",
+            "flavor": "\"My lady has a thirst. Whenever she comes out to dance, she likes a drop of red.\" <cite>Lyn Corbray</cite>",
             "deckLimit": 3,
             "illustrator": "JB Casacop"
         },
@@ -826,6 +856,7 @@
             "cost": 0,
             "traits": [],
             "text": "<b>Challenges Action:</b> Choose and stand a character that has not participated in a challenge this phase. (Max 1 per phase.)",
+            "flavor": "\"I thank you, my lords... but I spit upon your pity.\" <cite>Ser Barristan Selmy</cite>",
             "deckLimit": 3,
             "illustrator": "Ryan Valle"
         },
