@@ -579,7 +579,7 @@
             "traits": [
                 "House Manwoody"
             ],
-            "text": "<b>Reaction:</b> After you lose a [power] challenge by 5 or more STR, kneel and sacrifice Kingsgrave to choose a participating character and return it to its owner's hand. (You may kill that character instead if it has the <i>King</i> trait.)",
+            "text": "<b>Reaction:</b> After you lose a [power] challenge by 5 or more STR, kneel and sacrifice Kingsgrave to choose a participating character and return it to its owner's hand. (You may kill that character instead if it has the <i>King</i> trait.)\n<em>Errata from FAQ v2.2</em>",
             "deckLimit": 3,
             "illustrator": "Logan Feliciano"
         },
@@ -685,7 +685,7 @@
             "traits": [
                 "Warhorse"
             ],
-            "text": "Max 1 per character.\nWhile attached character is attacking, it gets +1 STR (+3 STR instead if it has the <i>Dothraki</i> trait).",
+            "text": "Max 1 per character.\nWhile attached character is attacking, it gets +1 STR (+3 STR instead if it has the <i>Dothraki</i> trait).\n<em>Errata from FAQ v2.2</em>",
             "deckLimit": 3,
             "illustrator": "Carlos Palma Cruchaga"
         },
