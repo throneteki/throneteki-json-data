@@ -22,7 +22,7 @@
                 "Lord",
                 "King"
             ],
-            "text": "Renown.\n<b>Reaction:</b> After the standing phase begins (choose one):\n-other characters with printed cost 5 or higher cannot stand this phase.\n-characters with printed cost 4 or lower cannot stand this phase.\n-locations cannot stand this phase.",
+            "text": "Renown.\n<b>Reaction:</b> After the standing phase begins (choose one):\n- other characters with printed cost 5 or higher cannot stand this phase.\n- characters with printed cost 4 or lower cannot stand this phase.\n- locations cannot stand this phase.",
             "deckLimit": 3,
             "illustrator": "Paolo Puggioni"
         },
