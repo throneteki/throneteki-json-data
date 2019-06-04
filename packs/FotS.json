@@ -2,7 +2,7 @@
     "cgdbId": 52,
     "code": "FotS",
     "name": "Fury of the Storm",
-    "releaseDate": null,
+    "releaseDate": "2018-06-06",
     "cards": [
         {
             "code": "14001",
@@ -22,7 +22,7 @@
                 "Lord",
                 "King"
             ],
-            "text": "Renown.\n<b>Reaction:</b> After the standing phase begins (choose one):\n- other characters with printed cost 5 or higher cannot stand this phase.\n- characters with printed cost 4 or lower cannot stand this phase.\n- locations cannot stand this phase.",
+            "text": "Renown.\n<b>Reaction:</b> After the standing phase begins (choose one):\n-other characters with printed cost 5 or higher cannot stand this phase.\n-characters with printed cost 4 or lower cannot stand this phase.\n-locations cannot stand this phase.",
             "deckLimit": 3,
             "illustrator": "Paolo Puggioni"
         },
@@ -119,6 +119,29 @@
             "illustrator": "Diego Gisbert Llorens"
         },
         {
+            "code": "14006",
+            "type": "character",
+            "name": "Ser Davos Seaworth",
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": true,
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 4,
+            "traits": [
+                "Knight",
+                "Smuggler",
+                "The Seven"
+            ],
+            "text": "Stealth.\n<b>Reaction:</b> After you win a challenge in which Ser Davos Seaworth is participating, discard 1 power from the losing opponent's faction card. Then, you may have a <i>King</i> character you control gain 1 power.",
+            "deckLimit": 3,
+            "illustrator": "Alexandre Dainche"
+        },
+        {
             "code": "14007",
             "type": "character",
             "name": "Alester Florent",
@@ -168,6 +191,74 @@
             "illustrator": "Quintin Gleim"
         },
         {
+            "code": "14009",
+            "type": "character",
+            "name": "Griffin's Roost Knight",
+            "unique": false,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "House Connington",
+                "Knight"
+            ],
+            "text": "<b>Interrupt:</b> When the challenges phase ends, if you have not lost a [power] challenge this phase, stand Griffin's Roost Knight.",
+            "flavor": "Griffin's Roost was strong but small...",
+            "deckLimit": 3,
+            "illustrator": "Sebastian Rodriguez"
+        },
+        {
+            "code": "14010",
+            "type": "character",
+            "name": "Dale Seaworth",
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": true,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Captain"
+            ],
+            "text": "<b>Reaction:</b> After you marshal Dale Seaworth, choose a [baratheon] location in your discard pile and return it to your hand.",
+            "flavor": "\"Your son Dale will go south in Wraith, past Cape Wrath and the Broken Arm, all along the coast of Dorne as far as the Arbor.\" <cite>Stannis Baratheon</cite>",
+            "deckLimit": 3,
+            "illustrator": "Sebastian Ciaffaglione"
+        },
+        {
+            "code": "14011",
+            "type": "character",
+            "name": "Ser Imry Florent",
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "House Florent",
+                "Knight"
+            ],
+            "text": "<b>Action:</b> Kill Ser Imry Florent to choose an opponent. You may sacrifice any number of locations. For each location sacrificed this way, that opponent must choose and kneel a standing character he or she controls.",
+            "flavor": "With four times as many ships as the boy king, Ser Imry saw no need for caution or deceptive tactics.",
+            "deckLimit": 3,
+            "illustrator": "Melissa Findley"
+        },
+        {
             "code": "14012",
             "type": "character",
             "name": "Red Priest",
@@ -188,6 +279,27 @@
             "flavor": "The red priest lit their fires every day at sunset, to thank R'hllor for the day just ending, and beg him to send his sun back on the morrow to banish the gathering darkness.",
             "deckLimit": 3,
             "illustrator": "Adam Lane"
+        },
+        {
+            "code": "14013",
+            "type": "character",
+            "name": "Shyra Errol",
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "Lady"
+            ],
+            "text": "<b>Interrupt:</b> When a character is killed, sacrifice Shyra Errol to move each power from that character to its controller's faction card.",
+            "deckLimit": 3,
+            "illustrator": "Katherine Dinger"
         },
         {
             "code": "14014",
@@ -211,6 +323,66 @@
             "flavor": "\"Any cat may stare into a fire and see red mice at play.\" <cite>Melisandre</cite>",
             "deckLimit": 3,
             "illustrator": "Andreia Ugrai"
+        },
+        {
+            "code": "14015",
+            "type": "character",
+            "name": "Bastard of Robert",
+            "unique": false,
+            "faction": "baratheon",
+            "loyal": true,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 1,
+            "traits": [
+                "Ally",
+                "Bastard"
+            ],
+            "text": "While you control Robert Baratheon, reduce the cost to marshal Bastard of Robert by 2.\n<b>Reaction:</b> After Bastard of Robert enters play, if you control a <i>King</i> character, draw a card.",
+            "flavor": "\"If you bed enough women, some will give you presents, and His Grace has never been shy on that count.\" <cite>Littlefinger</cite>",
+            "deckLimit": 3,
+            "illustrator": "Drazenka Kimpel"
+        },
+        {
+            "code": "14016",
+            "type": "character",
+            "name": "Wily Smuggler",
+            "unique": false,
+            "faction": "baratheon",
+            "loyal": true,
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 1,
+            "traits": [
+                "Smuggler"
+            ],
+            "text": "<b>Action:</b> Choose 1 card from your hand and place it on top of your deck. Then, at the end of the phase, draw 1 card. (Limit once per round.)",
+            "flavor": "A smuggler had best know men as well as tides, or he would not live to smuggle long.",
+            "deckLimit": 3,
+            "illustrator": "Brenda Bae"
+        },
+        {
+            "code": "14017",
+            "type": "location",
+            "name": "The Stormlands",
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": true,
+            "cost": 4,
+            "traits": [
+                "Westeros"
+            ],
+            "text": "You may initiate an additional [power] challenge during the challenges phase.\n<b>Reaction:</b> After you win a [power] challenge, kneel The Stormlands to choose and stand a participating <i>King</i> or <i>Queen</i> character.",
+            "deckLimit": 3,
+            "illustrator": "Leanna Crossan"
         },
         {
             "code": "14018",
@@ -239,7 +411,7 @@
             "traits": [
                 "Warship"
             ],
-            "text": "<b>Action:</b> Kneel Lyseni Galley to choose a character. Until the end of the phase, that character gets +1 STR. If that character is a <i>Captain</i> or <i>Smuggler</i>, it gains stealth until the end of the phase.",
+            "text": "<b>Action:</b> Kneel Lyseni Galley to choose a  character. Until the end of the phase, that character gets +1 STR. If that character is a <i>Captain</i> or <i>Smuggler</i>, it gains stealth until the end of the phase.",
             "flavor": "One of Salladhor Saan's warships was sweeping past the castle, her gaily striped hull slicing through the greygreen waters as her oars rose and fell.",
             "deckLimit": 3,
             "illustrator": "Sebastian Rodriguez"
@@ -261,6 +433,22 @@
             "illustrator": "Tim Durning"
         },
         {
+            "code": "14021",
+            "type": "attachment",
+            "name": "Hunting Accident",
+            "unique": false,
+            "faction": "baratheon",
+            "loyal": true,
+            "cost": 2,
+            "traits": [
+                "Condition"
+            ],
+            "text": "Ambush (3). Terminal.\nAttached character cannot stand.",
+            "flavor": "\"He slew the boar. His entrails were sliding from his belly, yet somehow he slew the boar.\" <cite>Renly Baratheon</cite>",
+            "deckLimit": 3,
+            "illustrator": "Carlos Palma Cruchaga"
+        },
+        {
             "code": "14022",
             "type": "attachment",
             "name": "Warhammer",
@@ -277,9 +465,23 @@
             "illustrator": "Jaime Carrillo"
         },
         {
+            "code": "14023",
+            "type": "event",
+            "name": "\"A Cask of Ale\"",
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 0,
+            "traits": [
+                "Song"
+            ],
+            "text": "<b>Reaction:</b> After you win a [power] challenge, choose 2 cards controlled by the same player. Move up to 2 power from one of those cards to the other.",
+            "deckLimit": 3,
+            "illustrator": "Tim Durning"
+        },
+        {
             "code": "14024",
             "type": "event",
-            "name": "Nightfire Vision",
+            "name": "Nightfire Visions",
             "faction": "baratheon",
             "loyal": true,
             "cost": 0,
@@ -290,16 +492,37 @@
             "deckLimit": 3,
             "illustrator": "Magali Villeneuve"
         },
-                {
+        {
+            "code": "14025",
+            "type": "character",
+            "name": "Botley Crew",
+            "unique": false,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "House Botley",
+                "Raider"
+            ],
+            "text": "<b>Reaction:</b> After an opponent collects income, return 1 gold from that player's gold pool to the treasury.",
+            "deckLimit": 3,
+            "illustrator": "Felipe Escobar"
+        },
+        {
             "code": "14026",
             "type": "event",
             "name": "Every Captain is a King",
             "faction": "greyjoy",
             "loyal": false,
             "cost": 2,
-            "traits": [
-            ],
-            "text": "<b>Action:</b> Until the end of the phase, each <i>Captain</i> character you control gains the <i>King</i> trait and does not kneel when declared as an attacher in [power] challenges.",
+            "traits": [],
+            "text": "<b>Action:</b> Until the end of the phase, each <i>Captain</i> character you control gains the <i>King</i> trait and does not kneel when declared as an attacker in [power] challenges.",
             "flavor": "...it was small wonder they named the islands the land of ten thousand kings.",
             "deckLimit": 3,
             "illustrator": "Tomasz Jedruszek"
@@ -344,6 +567,153 @@
             "illustrator": "Lukasz Jaskolski"
         },
         {
+            "code": "14029",
+            "type": "character",
+            "name": "Prince's Attendant",
+            "unique": false,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Ally"
+            ],
+            "text": "<b>Marshaling Action:</b> Kneel Prince's Attendant to reduce the cost of the next [martell] <i>Lord</i> or <i>Lady</i> character you marshal this phase by 2.",
+            "deckLimit": 3,
+            "illustrator": "Jon Bosco"
+        },
+        {
+            "code": "14030",
+            "type": "location",
+            "name": "Kingsgrave",
+            "unique": true,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "House Manwoody"
+            ],
+            "text": "<b>Reaction:</b> After you lose a [power] challenge by 5 or more STR, kneel and sacrifice Kingsgrave to choose a participating character and return it to its owner's hand. (You may kill that character instead if it has the <i>King</i> trait.)\n<em>Errata from FAQ v2.2</em>",
+            "deckLimit": 3,
+            "illustrator": "Logan Feliciano"
+        },
+        {
+            "code": "14031",
+            "type": "character",
+            "name": "Protectors of the Realm",
+            "unique": false,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": "X",
+            "traits": [
+                "Army"
+            ],
+            "text": "No attachments.\nX is your reserve value.",
+            "flavor": "\"Oh, eight thousand years is a good while, to be sure... yet if the Night's Watch does not remember, who will?\" <cite>Old Bear Mormont</cite>",
+            "deckLimit": 3,
+            "illustrator": "Jokubas Uogintas"
+        },
+        {
+            "code": "14032",
+            "type": "event",
+            "name": "The Horn that Wakes the Sleepers",
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 1,
+            "traits": [],
+            "text": "<b>Reaction:</b> After an opponent initiates a challenge against you, choose and stand a <i>Builder</i> character, a <i>Ranger</i> character, and a <i>Steward</i> character.",
+            "flavor": "\"They never blow three. Not for hundreds and thousands of years. Three means &mdash;\" <cite>Samwell Tarly</cite>",
+            "deckLimit": 3,
+            "illustrator": "Jokubas Uogintas"
+        },
+        {
+            "code": "14033",
+            "type": "character",
+            "name": "She-Bear",
+            "unique": false,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "House Mormont"
+            ],
+            "text": "<b>Reaction:</b> After you marshal She-Bear, you may put a [stark] character or attachment with printed cost 3 or lower into play from your hand.",
+            "flavor": "\"You are braver than I am, I fear. Are all your Bear Island women such warriors?\" <cite>Catelyn Stark</cite>",
+            "deckLimit": 3,
+            "illustrator": "Aleksander Karcz"
+        },
+        {
+            "code": "14034",
+            "type": "attachment",
+            "name": "Bearskin Cloak",
+            "unique": false,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Item"
+            ],
+            "text": "Attached character gets +1 STR.\nIf attached character has the <i>House Mormont</i> trait, it gains stealth.",
+            "flavor": "\"A woman in a bearskin, with a child in one arm suckling her breast. In the other hand she holds a battleaxe. She's no proper lady, that one, but I always loved her.\" <cite>Dacey Mormont</cite>",
+            "deckLimit": 3,
+            "illustrator": "Matt Hansen"
+        },
+        {
+            "code": "14035",
+            "type": "character",
+            "name": "Haggo",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Bloodrider",
+                "Dothraki"
+            ],
+            "text": "<b>Reaction:</b> After you win a challenge in which Haggo is participating, discard a card from your hand to choose a <i>Dothraki</i> card in your discard pile and return it to your hand.",
+            "flavor": "...Haggo, huge and silent, often glowered...",
+            "deckLimit": 3,
+            "illustrator": "Paolo Puggioni"
+        },
+        {
+            "code": "14036",
+            "type": "attachment",
+            "name": "Dothraki Steed",
+            "unique": false,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Warhorse"
+            ],
+            "text": "Max 1 per character.\nWhile attached character is attacking, it gets +1 STR (+3 STR instead if it has the <i>Dothraki</i> trait).\n<em>Errata from FAQ v2.2</em>",
+            "deckLimit": 3,
+            "illustrator": "Carlos Palma Cruchaga"
+        },
+        {
             "code": "14037",
             "type": "character",
             "name": "Hightower Knight",
@@ -366,12 +736,27 @@
             "illustrator": "Sebastian Rodriguez"
         },
         {
+            "code": "14038",
+            "type": "location",
+            "name": "Fields of the Reach",
+            "unique": false,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "The Reach"
+            ],
+            "text": "<b>Reaction:</b> After you win a [power] challenge, kneel 3 <i>The Reach</i> locations to raise the claim value on your revealed plot card by 1 until the end of the challenge.",
+            "flavor": "\"In Highgarden there are fields of golden roses that stretch away as far as the eye can see.\" <cite>Robert Baratheon</cite>",
+            "deckLimit": 3,
+            "illustrator": "Leanna Crossan"
+        },
+        {
             "code": "14039",
             "type": "character",
             "name": "Lyn Corbray",
             "unique": true,
             "faction": "neutral",
-            "loyal": false,
             "cost": 5,
             "icons": {
                 "military": true,
@@ -387,6 +772,65 @@
             "flavor": "\"I have never taken kindly to chastisement, as any number of dead men could tell you.\"",
             "deckLimit": 3,
             "illustrator": "JB Casacop"
+        },
+        {
+            "code": "14040",
+            "type": "character",
+            "name": "Unlikely Champion",
+            "unique": false,
+            "faction": "neutral",
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Knight"
+            ],
+            "text": "While you control a <i>Lord</i> or <i>Lady</i> character,  Unlikely Champion gains a [power] icon.",
+            "flavor": "Near forty men took part, freeriders and hedge knights and new-made squires in search of a reputation.",
+            "deckLimit": 3,
+            "illustrator": "Aleksander Karcz"
+        },
+        {
+            "code": "14041",
+            "type": "character",
+            "name": "Anguy the Archer",
+            "unique": true,
+            "faction": "neutral",
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "Brotherhood",
+                "R'hllor"
+            ],
+            "text": "While you control no loyal characters, Anguy the Archer does not kneel when declared as an attacker or defender in a [military] challenge.",
+            "flavor": "That afternoon a boy named Anguy, an unheralded commoner from the Dornish Marches, won the archery competition, outshooting Ser Balon Swann and Jalabhar Xho at a hundred paces...",
+            "deckLimit": 3,
+            "illustrator": "Felipe Escobar"
+        },
+        {
+            "code": "14042",
+            "type": "location",
+            "name": "The Hollow Hill",
+            "unique": true,
+            "faction": "neutral",
+            "cost": 2,
+            "traits": [
+                "Brotherhood",
+                "Westeros"
+            ],
+            "text": "<b>Dominance Action:</b> If you control no loyal characters, kneel The Hollow Hill to search the top 10 cards of your deck for a non-loyal character, reveal it, and add it to your hand. Shuffle your deck.",
+            "flavor": "\"A refuge where neither wolves nor lions come prowling.\" <cite>Lem Lemoncloak</cite>",
+            "deckLimit": 3,
+            "illustrator": "Zach Graves"
         },
         {
             "code": "14043",
@@ -419,13 +863,13 @@
         {
             "code": "14045",
             "type": "agenda",
-            "name": "The Prince That Was Promised",
+            "name": "The Prince that was Promised",
             "faction": "neutral",
             "traits": [
                 "Prophecy"
             ],
-            "text": "After all agendas are announced, name a unique character. Other characters you control cannot gain power.\n<b>Reaction:</b> After you win a [power] challenge by 5 or more STR, kneel your faction card to, either: stand the named character and draw a card; or search your deck, discard pile, and dead pile for the named character, reveal it, add it to your hand, and shuffle your deck.",
-            "deckLimit": 3,
+            "text": "After all agendas are announced, name a unique character.\nOther characters you control cannot gain power.\n<b>Reaction:</b> After you win a [power] challenge by 5 or more STR, kneel your faction card to, either: stand the named character and draw a card; or, search your deck, discard pile,  and dead pile for the named character, reveal it, add it to your hand, and shuffle your deck.",
+            "deckLimit": 1,
             "illustrator": "David Griffith"
         },
         {
@@ -462,8 +906,101 @@
             "traits": [
                 "Scheme"
             ],
-            "text": "<b>Interrupt:</b> When the effects of a when revealed ability would initiate, kneel your faction card and a unique <i>Maester</i> character to cancel those effects.",
-            "deckLimit": 1
+            "text": "<b>Interrupt:</b> When the effects of a when revealed ability would initiate, kneel your faction card and a unique <i>Maester</i> character to cancel those effects.\nPlot deck limit: 1",
+            "deckLimit": 2,
+            "illustrator": "Tom Garden"
+        },
+        {
+            "code": "14048",
+            "type": "plot",
+            "name": "Siege Preparations",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 3,
+                "initiative": 1,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "Siege"
+            ],
+            "text": "<b>Dominance Action:</b> Draw cards until your hand size is equal to your reserve value. (Limit once per phase.)",
+            "deckLimit": 2,
+            "illustrator": "Dallas Williams"
+        },
+        {
+            "code": "14049",
+            "type": "plot",
+            "name": "Rationing",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 5,
+                "initiative": 5,
+                "claim": 1,
+                "reserve": 5
+            },
+            "traits": [
+                "Edict",
+                "Winter"
+            ],
+            "text": "Players cannot trigger reactions to winning or losing challenges.",
+            "deckLimit": 2,
+            "illustrator": "Tiziano Baracchi"
+        },
+        {
+            "code": "14050",
+            "type": "plot",
+            "name": "Desperate Attack",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 2,
+                "initiative": 0,
+                "claim": 3,
+                "reserve": 4
+            },
+            "traits": [
+                "War"
+            ],
+            "text": "While you are the defending player, raise the claim value on the attacking player's revealed plot card by 1.",
+            "deckLimit": 2,
+            "illustrator": "Paolo Puggioni"
+        },
+        {
+            "code": "14051",
+            "type": "plot",
+            "name": "The Hand's Tourney",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 5,
+                "initiative": 2,
+                "claim": 1,
+                "reserve": 7
+            },
+            "traits": [
+                "Kingdom",
+                "Summer"
+            ],
+            "text": "<b>Forced Interrupt:</b> When claim is applied for a [military] challenge, apply [power] claim instead.",
+            "deckLimit": 2,
+            "illustrator": "Paolo Puggioni"
+        },
+        {
+            "code": "14052",
+            "type": "plot",
+            "name": "The New Gods",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 6,
+                "initiative": 4,
+                "claim": 1,
+                "reserve": 4
+            },
+            "traits": [
+                "The Seven"
+            ],
+            "text": "Each <i>The Seven</i> character you control does not kneel when declared as an attacker in the first challenge you initiate during the challenges phase.",
+            "deckLimit": 2,
+            "illustrator": "Dinodrawing"
         }
     ]
 }
