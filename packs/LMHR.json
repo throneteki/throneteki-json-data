@@ -1,0 +1,120 @@
+{
+    "cgdbId": 51,
+    "code": "LMHR",
+    "name": "Long May He Reign",
+    "releaseDate": null,
+    "cards": [
+        {
+            "code": "13101",
+            "type": "character",
+            "name": "Arya Stark",
+            "unique": true,
+            "faction": "stark",
+            "loyal": true,
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Lady"
+            ],
+            "text": "Shadow (4). Stealth.\n<b>Reaction:</b> After Arya Stark enters play, place a prayer token on up to 5 different characters you don't control. If Arya Stark leaves play, discard those tokens.\n<b>Reaction:</b> After a character with a prayer token is killed, stand Arya Stark and draw 1 card.",
+            "deckLimit": 3,
+            "illustrator": "Borja Pindado"
+        },
+        {
+            "code": "13102",
+            "type": "attachment",
+            "name": "Blood of the First Men",
+            "unique": false,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Legacy",
+                "Old Gods"
+            ],
+            "text": "Character you control only.\nAttached character gains the <i>Old Gods</i> trait.\n<b>Action:</b> During a challenge in which you control a participating [stark] character, kneel attached character to have it participate in the challenge on your side.",
+            "deckLimit": 3,
+            "illustrator": "Leanna Crossan"
+        },
+        {
+            "code": "13107",
+            "type": "character",
+            "name": "Robert Baratheon",
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": true,
+            "cost": 6,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "Lord",
+                "King"
+            ],
+            "text": "Renown.\n<b>Reaction:</b> After Robert Baratheon gains power, gain 1 power for your faction. (Limit twice per round.)",
+            "deckLimit": 3,
+            "flavor": "\"I swear to you, I was never so alive as when I was winning this throne, or so dead now that I've won it.\"",
+            "illustrator": "Antonio José Manzanedo"
+        },
+        {
+            "code": "13108",
+            "type": "attachment",
+            "name": "Long May He Reign",
+            "unique": false,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 0,
+            "traits": [
+                "Legacy"
+            ],
+            "text": "<i>King</i> character only.\nAttached character cannot be killed.\n<b>Forced Reaction:</b> After you lose a [power] challenge as the defending player, sacrifice Long May He Reign.",
+            "deckLimit": 3,
+            "illustrator": "Sebastian Rodriguez"
+        },
+        {
+            "code": "13113",
+            "type": "character",
+            "name": "Ser Jorah Mormont",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Companion",
+                "Knight"
+            ],
+            "text": "Shadow (4). No attachments except <i>Weapon</i>.\n<b>Interrupt:</b> When Ser Jorah Mormont is discarded from your hand, put him into shadows instead of placing him in your discard pile.",
+            "deckLimit": 3,
+            "illustrator": "Michele Frigo"
+        },
+        {
+            "code": "13114",
+            "type": "attachment",
+            "name": "Mercenary Contract",
+            "unique": false,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Item"
+            ],
+            "text": "Attached character gains the <i>Mercenary</i> trait.\n<b>Reaction:</b> After you win a challenge in which attached character is attacking, pay 1 gold and kneel Mercenary Contract to stand attached character.",
+            "deckLimit": 3,
+            "illustrator": "Tiziano Baracchi"
+        }
+    ]
+}
