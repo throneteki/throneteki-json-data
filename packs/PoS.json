@@ -98,7 +98,7 @@
             ],
             "text": "<b>Action:</b> Kneel Maester Mullin to choose a character and a challenge type. Until the end of the phase, that character cannot be declared as an attacker in challenges of that type.",
             "deckLimit": 3,
-            "flavor": "\"Maester Mullin at the Shadow Tower is more fighter than scholar.\" <cite>Jon Snow</cite>",
+            "flavor": "\"Maester Mullin at the Shadow Tower is more fighter than scholar...\" <cite>Jon Snow</cite>",
             "illustrator": "Paolo Puggioni"
         },
         {
