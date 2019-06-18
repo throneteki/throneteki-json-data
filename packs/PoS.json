@@ -185,6 +185,7 @@
             ],
             "text": "<b>Reaction:</b> After you win an [intrigue] challenge by 5 or more STR as the attacking player, choose a character controlled by the losing opponent and return it to its owner's hand. (Max 1 per challenge.)",
             "deckLimit": 3,
+            "flavor": "Hands of gold are always cold, but a woman's hands are warm.",
             "illustrator": "Tim Durning"
         },
         {
