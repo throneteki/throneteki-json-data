@@ -2,7 +2,7 @@
     "cgdbId": 48,
     "code": "PoS",
     "name": "Pit of Snakes",
-    "releaseDate": null,
+    "releaseDate": "2019-06-20",
     "cards": [
         {
             "code": "13041",
@@ -22,7 +22,7 @@
                 "Lord",
                 "Small Council"
             ],
-            "text": "Renown.\n<b>Dominance Action:</b> If each character you control has the [stark] affiliation, kneel Eddard Stark to choose and kill a character with a printed cost 4 or lower. (Limit once per phase.)",
+            "text": "Renown.\n<b>Dominance Action:</b> If each character you control has the [stark] affiliation, kneel Eddard Stark to choose and kill a character with printed cost 4 or lower. (Limit once per phase.)",
             "deckLimit": 3,
             "illustrator": "Aleksander Karcz"
         },
@@ -60,9 +60,118 @@
                 "Maester"
             ],
             "text": "You may look at the top card of your deck.\nOnce per phase, if the top card of your deck is a non-[tyrell] card, you may marshal or play it as if it were in your hand.",
-            "flavor": "Maester Gormon sat below the iron mask in Walgrave's place, the same Gormon who had accused Pate of theft.",
             "deckLimit": 3,
+            "flavor": "Maester Gormon sat below the iron mask in Walgrave's place, the same Gormon who had once accused Pate of theft.",
             "illustrator": "Paolo Puggioni"
+        },
+        {
+            "code": "13044",
+            "type": "attachment",
+            "name": "Unexpected Guile",
+            "unique": false,
+            "faction": "tyrell",
+            "loyal": true,
+            "cost": 2,
+            "traits": [
+                "Skill"
+            ],
+            "text": "Character with shadow you control only. Shadow (1).\nAttached character gets +2 STR and gains insight.\n<b>Forced Interrupt:</b> When a challenge ends in which attached character is participating, return Unexpected Guile and attached character to shadows.",
+            "deckLimit": 3,
+            "illustrator": "Drazenka Kimpel"
+        },
+        {
+            "code": "13045",
+            "type": "character",
+            "name": "Maester Mullin",
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 1,
+            "traits": [
+                "Maester"
+            ],
+            "text": "<b>Action:</b> Kneel Maester Mullin to choose a character and a challenge type. Until the end of the phase, that character cannot be declared as an attacker in challenges of that type.",
+            "deckLimit": 3,
+            "flavor": "\"Maester Mullin at the Shadow Tower is more fighter than scholar...\" <cite>Jon Snow</cite>",
+            "illustrator": "Paolo Puggioni"
+        },
+        {
+            "code": "13046",
+            "type": "attachment",
+            "name": "Guard Duty",
+            "unique": false,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Condition"
+            ],
+            "text": "[thenightswatch] character only.\n<b>Reaction:</b> After attached character is declared as a defender, kneel Guard Duty to stand attached character.",
+            "deckLimit": 3,
+            "illustrator": "Michele Frigo"
+        },
+        {
+            "code": "13047",
+            "type": "character",
+            "name": "Ser Eldon Estermont",
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": true,
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Knight",
+                "Lord"
+            ],
+            "text": "<b>Action:</b> Choose and stand a [baratheon] location. (Limit once per round.)",
+            "deckLimit": 3,
+            "flavor": "\"Our cause is righteous, so the gods must surely bless our champion's arms with victory.\"",
+            "illustrator": "Jen Zee"
+        },
+        {
+            "code": "13048",
+            "type": "event",
+            "name": "Shadow of the Throne",
+            "faction": "baratheon",
+            "loyal": true,
+            "cost": "-",
+            "traits": [],
+            "text": "Shadow (1).\n<b>Action:</b> Choose and kneel any number of locations with total printed cost 3 or lower. If there is a <i>Kingdom</i> plot card revealed, return Shadow of the Throne to your hand instead of placing it in your discard pile.",
+            "deckLimit": 3,
+            "illustrator": "Logan Feliciano"
+        },
+        {
+            "code": "13049",
+            "type": "character",
+            "name": "Chiswyck",
+            "unique": true,
+            "faction": "lannister",
+            "loyal": true,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Ally"
+            ],
+            "text": "Pillage.\n<b>Reaction:</b> After you win a challenge in which Chiswyck is participating, discard the top card of your deck to draw 1 card.",
+            "deckLimit": 3,
+            "flavor": "Chiswyck was seated by the fire with a horn of ale to hand, telling one of his funny stories.",
+            "illustrator": "Borja Pindado"
         },
         {
             "code": "13050",
@@ -75,9 +184,85 @@
                 "Song"
             ],
             "text": "<b>Reaction:</b> After you win an [intrigue] challenge by 5 or more STR as the attacking player, choose a character controlled by the losing opponent and return it to its owner's hand. (Max 1 per challenge.)",
-            "flavor": "Hands of gold are always cold, but a woman's hands are warm.",
             "deckLimit": 3,
-            "illustrator": "Dinodrawing"
+            "flavor": "Hands of gold are always cold, but a woman's hands are warm.",
+            "illustrator": "Tim Durning"
+        },
+        {
+            "code": "13051",
+            "type": "character",
+            "name": "King's Landing Proselyte",
+            "unique": false,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Ally",
+                "Drowned God"
+            ],
+            "text": "Shadow (4).\n<b>Action:</b> Kill a standing [greyjoy] character to put King's Landing Proselyte into play from shadows.",
+            "deckLimit": 3,
+            "illustrator": "Adam Lane"
+        },
+        {
+            "code": "13052",
+            "type": "attachment",
+            "name": "Outfitted for War",
+            "unique": false,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 0,
+            "traits": [
+                "Weapon"
+            ],
+            "text": "<i>Warship</i> location only.\n<b>Action:</b> During a [military] challenge, kneel attached location to give a participating [greyjoy] character +3 STR until the end of the challenge.",
+            "deckLimit": 3,
+            "illustrator": "Michele Giorgi"
+        },
+        {
+            "code": "13053",
+            "type": "character",
+            "name": "Jon Connington",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 6,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 5,
+            "traits": [
+                "House Connington",
+                "Lord"
+            ],
+            "text": "Shadow (5). Renown.\n<b>Reaction:</b> After Jon Connington comes out of shadows, choose and reveal a card you control in shadows. If it is a non-event card with printed cost 4 or lower, put it into play.",
+            "deckLimit": 3,
+            "flavor": "I rose too high, loved too hard, dared too much. I tried to grasp a star, overreached, and fell.",
+            "illustrator": "Michele Frigo"
+        },
+        {
+            "code": "13054",
+            "type": "location",
+            "name": "The Dragonpit",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 3,
+            "traits": [
+                "King's Landing"
+            ],
+            "text": "Each character whose controller controls fewer cards in shadows than you gets -1 STR.",
+            "deckLimit": 3,
+            "flavor": "None of the dragons bred and raised in the Dragonpit of King's Landing had ever approached the size of Vhagar or Meraxes, much less that of the Black Dread, King Aegon's monster.",
+            "illustrator": "Leanna Crossan"
         },
         {
             "code": "13055",
@@ -101,6 +286,18 @@
             "illustrator": "Magali Villeneuve"
         },
         {
+            "code": "13056",
+            "type": "event",
+            "name": "A Pit of Snakes",
+            "faction": "martell",
+            "loyal": true,
+            "cost": 2,
+            "traits": [],
+            "text": "<b>Challenges Action:</b> Choose a character with no challenge icons and place a poison token on it. At the end of the phase, if that character still has that poison token, remove it and kill that character. (Max 1 per phase.)",
+            "deckLimit": 3,
+            "illustrator": "Carlos Palma Cruchaga"
+        },
+        {
             "code": "13057",
             "type": "character",
             "name": "The Most Devout",
@@ -116,7 +313,7 @@
             "traits": [
                 "The Seven"
             ],
-            "text": "No attachments except <i>The Seven</i>.\n<b>Reaction:</b> After a character enters play under an opponent's control, if another character has entered play under that player's control this phase, The Most Devout gains 1 power. (Limit once per phase.)",
+            "text": "No attachments except <i>The Seven</i>.\n<b>Reaction:</b> After a character enters play under an opponent's control, if another character entered play under that player's control this phase, The Most Devout gains 1 power. (Limit once per phase.)",
             "deckLimit": 3,
             "illustrator": "Joshua Cairós"
         },
@@ -147,6 +344,25 @@
             "text": "Play only if you control a <i>The Seven</i> character or location.\n<b>Action:</b> Name a non-agenda, non-plot card. Until the end of the phase, each opponent cannot trigger card abilities of cards with that name.",
             "deckLimit": 3,
             "illustrator": "Aleksander Karcz"
+        },
+        {
+            "code": "13060",
+            "type": "plot",
+            "name": "Manning the City Walls",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 4,
+                "initiative": 1,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "City",
+                "War"
+            ],
+            "text": "<b>When Revealed:</b> Put a non-unique character with printed cost 3 or lower into play from your hand. (Printed cost 6 or lower instead if there is a <i>City</i> plot card in your used pile.)",
+            "deckLimit": 2,
+            "illustrator": "Joshua Cairós"
         }
     ]
 }
