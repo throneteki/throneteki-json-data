@@ -254,7 +254,7 @@
             "traits": [
                 "Item"
             ],
-            "text": "[targaryen] character only. Shadow (2).\nWhile there are no <i>Dragon</i> characters in play, attached character gets intimidate and renown.",
+            "text": "[targaryen] character only. Shadow (2).\nWhile there are no <i>Dragon</i> characters in play, attached character gains intimidate and renown.",
             "deckLimit": 3,
             "illustrator": "Carlos Palma Cruchaga"
         },
@@ -321,7 +321,7 @@
         {
             "code": "13078",
             "type": "event",
-            "name": "Knights of the mind",
+            "name": "Knights of the Mind",
             "faction": "neutral",
             "loyal": false,
             "cost": 1,
@@ -358,7 +358,7 @@
                 "City",
                 "Scheme"
             ],
-            "text": "Initiate the when revealed ability of a <i>City</i> plot card in your used pile as if you had just revealed it.",
+            "text": "<b>When Revealed:</b> Initiate the when revealed ability of a <i>City</i> plot card in your used pile as if you had just revealed it.",
             "deckLimit": 1,
             "illustrator": "Stephen Stark"
         }
