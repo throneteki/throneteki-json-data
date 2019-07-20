@@ -2,8 +2,31 @@
     "cgdbId": 49,
     "code": "BtRK",
     "name": "Beneath the Red Keep",
-    "releaseDate": null,
+    "releaseDate": "2019-07-19",
     "cards": [
+        {
+            "code": "13061",
+            "type": "character",
+            "name": "White Harbor Watchman",
+            "unique": false,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Guard",
+                "House Manderly"
+            ],
+            "text": "<b>Reaction:</b> After a character comes out of shadows, sacrifice White Harbor Watchman to kill that character.",
+            "deckLimit": 3,
+            "flavor": "\"We are good people in White Harbor, lawful, loyal people.\" <cite>Leona Manderly</cite>",
+            "illustrator": "Federico Musetti"
+        },
         {
             "code": "13062",
             "type": "location",
@@ -18,6 +41,29 @@
             "text": "<b>Reaction:</b> After a card you control comes out of shadows, if there is a <i>Winter</i> plot card revealed, choose and stand a [stark] character. (Limit once per phase.)",
             "deckLimit": 3,
             "illustrator": "Dinodrawing"
+        },
+        {
+            "code": "13063",
+            "type": "character",
+            "name": "Alyce Graceford",
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Lady",
+                "The Seven"
+            ],
+            "text": "<b>Action:</b> Kneel Alyce Graceford to choose another <i>The Seven</i> character. Until the end of the phase, that character gains renown.",
+            "deckLimit": 3,
+            "flavor": "Lady Graceford, who was large with child, asked the queen's leave to name it Tywin if it were a boy, or Lanna if it were a girl.",
+            "illustrator": "Drazenka Kimpel"
         },
         {
             "code": "13064",
@@ -35,6 +81,98 @@
             "illustrator": "Brenda Bae"
         },
         {
+            "code": "13065",
+            "type": "character",
+            "name": "Forest Patrol",
+            "unique": false,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 6,
+            "traits": [
+                "Ally",
+                "Ranger"
+            ],
+            "text": "Shadow (4).\nNo attachments except <i>Weapon</i>.\n<b>Action:</b> Kneel a [thenightswatch] location to put Forest Patrol into play from shadows.",
+            "deckLimit": 3,
+            "illustrator": "Sebastian Rodriguez"
+        },
+        {
+            "code": "13066",
+            "type": "location",
+            "name": "Blackbird",
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": true,
+            "cost": 1,
+            "traits": [
+                "Warship"
+            ],
+            "text": "Shadow (1).\n<b>Reaction:</b> After Blackbird comes out of shadows, choose and stand another [thenightswatch] location.\n+1 Reserve.",
+            "deckLimit": 3,
+            "illustrator": "Sebastian Rodriguez"
+        },
+        {
+            "code": "13067",
+            "type": "character",
+            "name": "Castle Guard",
+            "unique": false,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Guard"
+            ],
+            "text": "Shadow (3).\n<b>Reaction:</b> After Castle Guard comes out of shadows, choose another character that came out of shadows this phase. Return that character to shadows.",
+            "deckLimit": 3,
+            "illustrator": "JB Casacop"
+        },
+        {
+            "code": "13068",
+            "type": "event",
+            "name": "Public Execution",
+            "faction": "baratheon",
+            "loyal": true,
+            "cost": 3,
+            "traits": [],
+            "text": "<b>Marshaling Action:</b> Choose and kill a kneeling character.",
+            "deckLimit": 3,
+            "flavor": "\"A ruler who hides behind paid executioners soon forgets what death is.\" <cite>Eddard Stark</cite>",
+            "illustrator": "Axel Sauerwald"
+        },
+        {
+            "code": "13069",
+            "type": "character",
+            "name": "Doubting Septa",
+            "unique": false,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 1,
+            "traits": [
+                "The Seven"
+            ],
+            "text": "<b>Reaction:</b> After you win an [intrigue] challenge, sacrifice Doubting Septa to choose a character or location you control. That card gains 1 power.",
+            "deckLimit": 3,
+            "illustrator": "Andreia Ugrai"
+        },
+        {
             "code": "13070",
             "type": "location",
             "name": "Tunnels of the Red Keep",
@@ -50,6 +188,29 @@
             "illustrator": "Dinodrawing"
         },
         {
+            "code": "13071",
+            "type": "character",
+            "name": "Gorold Goodbrother",
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 6,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "House Goodbrother",
+                "Lord"
+            ],
+            "text": "Pillage. Renown.\n<b>Reaction:</b> After a location enters an opponent's discard pile, stand Gorold Goodbrother. (Limit twice per phase.)",
+            "deckLimit": 3,
+            "flavor": "\"What shall it be, homage or defiance?\"",
+            "illustrator": "Dleoblack"
+        },
+        {
             "code": "13072",
             "type": "event",
             "name": "Shadow of the Isles",
@@ -62,6 +223,117 @@
             "illustrator": "Federico Musetti"
         },
         {
+            "code": "13073",
+            "type": "character",
+            "name": "Shadowblack Assassin",
+            "unique": false,
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Ally"
+            ],
+            "text": "Shadow (2).\n<b>Reaction:</b> After Shadowblack Assassin comes out of shadows, choose and kill a character with STR 1 or lower.",
+            "deckLimit": 3,
+            "illustrator": "Felipe Escobar"
+        },
+        {
+            "code": "13074",
+            "type": "attachment",
+            "name": "Dragon Skull",
+            "unique": false,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 3,
+            "traits": [
+                "Item"
+            ],
+            "text": "[targaryen] character only. Shadow (2).\nWhile there are no <i>Dragon</i> characters in play, attached character gains intimidate and renown.",
+            "deckLimit": 3,
+            "illustrator": "Carlos Palma Cruchaga"
+        },
+        {
+            "code": "13075",
+            "type": "character",
+            "name": "Sarella Sand",
+            "unique": true,
+            "faction": "martell",
+            "loyal": true,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Bastard",
+                "Sand Snake"
+            ],
+            "text": "<b>Reaction:</b> After you lose a challenge in which Sarella Sand is attacking, you may initiate an additional challenge of that type this phase. (Limit once per phase.)",
+            "deckLimit": 3,
+            "flavor": "\"Unless she returns to Dorne, there's naught I can do about Sarella save pray that she shows more sense than her sisters.\" <cite>Doran Martell</cite>",
+            "illustrator": "Borja Pindado"
+        },
+        {
+            "code": "13076",
+            "type": "location",
+            "name": "Meadowlark",
+            "unique": true,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Warship"
+            ],
+            "text": "<b>Reaction:</b> After you reveal a plot card, place 1 journey token on Meadowlark.\n<b>Action:</b> Sacrifice Meadowlark to search your deck for a character with printed cost X or lower and put it into play. Shuffle your deck. X is the number of journey tokens on Meadowlark.",
+            "deckLimit": 3,
+            "illustrator": "Federico Musetti"
+        },
+        {
+            "code": "13077",
+            "type": "character",
+            "name": "Advisor to the Crown",
+            "unique": false,
+            "faction": "neutral",
+            "loyal": false,
+            "cost": 1,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 1,
+            "traits": [
+                "Ally",
+                "Maester"
+            ],
+            "text": "<b>Action:</b> Kneel Advisor to the Crown to reduce the cost of the next <i>Maester</i> character you marshal this phase by 1.",
+            "deckLimit": 3,
+            "illustrator": "Paolo Puggioni"
+        },
+        {
+            "code": "13078",
+            "type": "event",
+            "name": "Knights of the Mind",
+            "faction": "neutral",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Citadel"
+            ],
+            "text": "<b>Challenge Action:</b> Until the end of the phase, each <i>Maester</i> character you control gains a [military] icon.",
+            "deckLimit": 3,
+            "flavor": "\"There are some who call my order the knights of the mind.\" <cite>Maester Luwin</cite>",
+            "illustrator": "Aleksander Karcz"
+        },
+        {
             "code": "13079",
             "type": "agenda",
             "name": "Kingdom of Shadows",
@@ -70,6 +342,25 @@
             "text": "You may include non-loyal characters with the printed shadow keyword from any faction in your deck.\nIncrease the cost of each character you marshal by 1. Reduce the cost of the first character you bring out of shadows each round by 2.",
             "deckLimit": 1,
             "illustrator": "Tim Durning"
+        },
+        {
+            "code": "13080",
+            "type": "plot",
+            "name": "City of Spiders",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 4,
+                "initiative": 7,
+                "claim": 1,
+                "reserve": 5
+            },
+            "traits": [
+                "City",
+                "Scheme"
+            ],
+            "text": "<b>When Revealed:</b> Initiate the when revealed ability of a <i>City</i> plot card in your used pile as if you had just revealed it.",
+            "deckLimit": 1,
+            "illustrator": "Stephen Stark"
         }
     ]
 }
