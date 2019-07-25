@@ -133,5 +133,12 @@
         "packs": [
             "FotS"
         ]
+    },
+    {
+        "id": "dragons",
+        "name": "Dragons of the East",
+        "packs": [
+            "DotE"
+        ]
     }
 ]
