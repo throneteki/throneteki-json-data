@@ -24,7 +24,7 @@
                 "Stormborn"
             ],
             "text": "<b>Action:</b> Search the top 10 cards of your deck for an attachment or <i>Dragon</i> card, reveal it, and add it to your hand (you may put it into play instead if its printed cost is 3 or lower). Shuffle your deck. (Limit once per round.)",
-            "flavor": "\"Why do the gods make kings and queens, if not to protect the ones woho can't protect themselves?\"",
+            "flavor": "\"Why do the gods make kings and queens, if not to protect the ones who can't protect themselves?\"",
             "deckLimit": 3,
             "illustrator": "Aleksander Karcz"
         },
@@ -147,7 +147,6 @@
             "name": "Tormund Giantsbane",
             "unique": true,
             "faction": "neutral",
-            "loyal": false,
             "cost": 5,
             "icons": {
                 "military": true,
