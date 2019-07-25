@@ -5,7 +5,7 @@
     "releaseDate": null,
     "cards": [
         {
-            "code": "16001",
+            "code": "15001",
             "type": "character",
             "name": "Daenerys Targaryen",
             "unique": true,
@@ -29,7 +29,7 @@
             "illustrator": "Aleksander Karcz"
         },
         {
-            "code": "16012",
+            "code": "15012",
             "type": "character",
             "name": "Captain Groleo",
             "unique": true,
@@ -51,7 +51,7 @@
             "illustrator": "Scott Altmann"
         },
         {
-            "code": "16019",
+            "code": "15019",
             "type": "attachment",
             "name": "Khaleesi",
             "unique": true,
@@ -66,7 +66,7 @@
             "illustrator": "Tomasz Jedruszek"
         },
         {
-            "code": "16020",
+            "code": "15020",
             "type": "attachment",
             "name": "Dragon Egg",
             "unique": false,
@@ -82,7 +82,7 @@
             "illustrator": "Julepe"
         },
         {
-            "code": "16026",
+            "code": "15026",
             "type": "character",
             "name": "Dragonstone Convert",
             "unique": false,
@@ -104,7 +104,7 @@
             "illustrator": "Magali Villeneuve"
         },
         {
-            "code": "16029",
+            "code": "15029",
             "type": "character",
             "name": "Ser Meryn Trant",
             "unique": true,
@@ -127,7 +127,7 @@
             "illustrator": "Alexandre Dainche"
         },
         {
-            "code": "16030",
+            "code": "15030",
             "type": "location",
             "name": "The Red Keep",
             "unique": true,
@@ -142,7 +142,7 @@
             "illustrator": "Logan Feliciano"
         },
         {
-            "code": "16041",
+            "code": "15041",
             "type": "character",
             "name": "Tormund Giantsbane",
             "unique": true,
