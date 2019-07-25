@@ -1,0 +1,166 @@
+{
+    "cgdbId": 53,
+    "code": "DotE",
+    "name": "Dragons of the East",
+    "releaseDate": null,
+    "cards": [
+        {
+            "code": "15001",
+            "type": "character",
+            "name": "Daenerys Targaryen",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 8,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "Lady",
+                "Queen",
+                "Stormborn"
+            ],
+            "text": "<b>Action:</b> Search the top 10 cards of your deck for an attachment or <i>Dragon</i> card, reveal it, and add it to your hand (you may put it into play instead if its printed cost is 3 or lower). Shuffle your deck. (Limit once per round.)",
+            "flavor": "\"Why do the gods make kings and queens, if not to protect the ones who can't protect themselves?\"",
+            "deckLimit": 3,
+            "illustrator": "Aleksander Karcz"
+        },
+        {
+            "code": "15012",
+            "type": "character",
+            "name": "Captain Groleo",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Captain"
+            ],
+            "text": "<b>Reaction:</b> After an attachment enters play, gain 1 gold. (Limit once per phase.)",
+            "flavor": "At first Groleo had wanted the dragons caged and Dany had consented to put his fears at ease, but their misery was so palpable that she soon changed her mind and insisted they be freed.",
+            "deckLimit": 3,
+            "illustrator": "Scott Altmann"
+        },
+        {
+            "code": "15019",
+            "type": "attachment",
+            "name": "Khaleesi",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 3,
+            "traits": [
+                "Title"
+            ],
+            "text": "<i>Lady</i> character only.\n<b>Reaction:</b> After you win a challenge in which attached character is participating, kneel Khaleesi to, either: stand attached character, or raise the claim value on your revealed plot card by 1 until the end of the challenge.",
+            "deckLimit": 3,
+            "illustrator": "Tomasz Jedruszek"
+        },
+        {
+            "code": "15020",
+            "type": "attachment",
+            "name": "Dragon Egg",
+            "unique": false,
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 2,
+            "traits": [
+                "Dragon",
+                "Item"
+            ],
+            "text": "Attached character gains insight.\n<b>Reaction:</b> After the marshaling phase begins, if attached character is Daenerys Targaryen, sacrifice Dragon Egg to search your deck for a <i>Hatchling</i> character and put it into play. Shuffle your deck.",
+            "deckLimit": 3,
+            "illustrator": "Julepe"
+        },
+        {
+            "code": "15026",
+            "type": "character",
+            "name": "Dragonstone Convert",
+            "unique": false,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "House Florent",
+                "R'hllor"
+            ],
+            "text": "<b>Challenges Action:</b> Name an event. Until the end of the phase, events with that title cannot be played. (Limit once per phase.)",
+            "deckLimit": 3,
+            "illustrator": "Magali Villeneuve"
+        },
+        {
+            "code": "15029",
+            "type": "character",
+            "name": "Ser Meryn Trant",
+            "unique": true,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Kingsguard",
+                "Knight"
+            ],
+            "text": "<b>Interrupt:</b> When a card is discarded from an opponent's hand, remove it from the game instead of placing it in his or her discard pile.",
+            "flavor": "Ser Meryn Trant simply did not care.",
+            "deckLimit": 3,
+            "illustrator": "Alexandre Dainche"
+        },
+        {
+            "code": "15030",
+            "type": "location",
+            "name": "The Red Keep",
+            "unique": true,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 4,
+            "traits": [
+                "King's Landing"
+            ],
+            "text": "<b>Interrupt:</b> When the effects of an opponent's triggered character, location, or attachment ability would initiate, kneel The Red Keep to cancel those effects.\n+1 Income.",
+            "deckLimit": 3,
+            "illustrator": "Logan Feliciano"
+        },
+        {
+            "code": "15041",
+            "type": "character",
+            "name": "Tormund Giantsbane",
+            "unique": true,
+            "faction": "neutral",
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Storyteller",
+                "Wildling"
+            ],
+            "text": "Intimidate.\n<b>Reaction:</b> After you win a challenge in which Tormund Giantsbane is participating, place a tale token on him.\n<b>Action:</b> Discard 1 tale token from Tormund Giantsbane to give a <i>Wildling</i> character +2 STR and renown until the end of the phase.",
+            "deckLimit": 3,
+            "illustrator": "Ryan Valle"
+        }
+    ]
+}
