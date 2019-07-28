@@ -592,7 +592,7 @@
                 "Item"
             ],
             "text": "<i>Lord</i> or <i>Lady</i> character only.\n<b>Action:</b> Kneel Seal of the Hand to stand attached character.",
-            "flavor": "The king eats, they say, and the Hand takes the shit.\" <cite>Robert Baratheon</cite>",
+            "flavor": "\"The king eats, they say, and the Hand takes the shit.\" <cite>Robert Baratheon</cite>",
             "deckLimit": 3,
             "illustrator": "Mauro Dal Bo"
         },
@@ -991,7 +991,7 @@
                 "Army"
             ],
             "text": "No attachments.\nWhile an opponent controls a <i>King</i> character, King's Hunting Party gains an [intrigue] icon .",
-            "flavor": "“Three of my men were cut down like dogs not a league from where we sit, and what does Robert do? He goes hunting.\" <cite>Eddard Stark</cite>",
+            "flavor": "\"Three of my men were cut down like dogs not a league from where we sit, and what does Robert do? He goes hunting.\" <cite>Eddard Stark</cite>",
             "deckLimit": 3,
             "illustrator": "Thomas Denmark"
         },
@@ -1406,7 +1406,7 @@
                 "Ironborn"
             ],
             "text": "+1 Initiative.",
-            "flavor": "No man ever truly knows what he can do unless he dares to leap.\" <cite>Euron Crow's Eye</cite>",
+            "flavor": "\"No man ever truly knows what he can do unless he dares to leap.\" <cite>Euron Crow's Eye</cite>",
             "deckLimit": 3,
             "illustrator": "Ryan Barger"
         },
@@ -2466,7 +2466,7 @@
                 "Ranger"
             ],
             "text": "No attachments except <i>Weapon</i>.",
-            "flavor": "We have a long ride before us. Eight days, maybe nine. And night is falling.\" <cite>Gared of the Night's Watch</cite>",
+            "flavor": "\"We have a long ride before us. Eight days, maybe nine. And night is falling.\" <cite>Gared of the Night's Watch</cite>",
             "deckLimit": 3,
             "illustrator": "Tomasz Jedruszek"
         },
