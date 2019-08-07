@@ -67,7 +67,7 @@
                 "Lord",
                 "Small Council"
             ],
-            "text": "Renown.\n<b>Reaction: </b>After Eddard Stark gains power using renown, choose another participating character you control. That character gains 1 power.",
+            "text": "Renown.\n<b>Reaction:</b> After Eddard Stark gains power using renown, choose another participating character you control. That character gains 1 power.",
             "flavor": "\"Know the men who follow you and let them know you. Don't ask your men to die for a stranger.\"",
             "deckLimit": 3,
             "illustrator": "Joshua Cairós"
@@ -91,7 +91,7 @@
                 "Knight",
                 "Lord"
             ],
-            "text": "Renown.\nWhile The Blackfish has 4 or more power, each <i>House Tully </i>character you control does not kneel when declared as an attacker.\n<b>Reaction:</b> After you win a [military] challenge as the attacking player, draw 1 card. (Limit once per phase.)",
+            "text": "Renown.\nWhile The Blackfish has 4 or more power, each <i>House Tully</i> character you control does not kneel when declared as an attacker.\n<b>Reaction:</b> After you win a [military] challenge as the attacking player, draw 1 card. (Limit once per phase.)",
             "designer": "Card design by 2009 World Champion, Erick A. Butzlaff.",
             "deckLimit": 3,
             "illustrator": "Cris Griffin"
@@ -221,7 +221,7 @@
             "traits": [
                 "Storyteller"
             ],
-            "text": "<b>Interrupt:</b> When a plot card is revealed, kneel Old Nan to have that plot card gain the <i>Summer </i>or <i>Winter</i> trait until the end of the round.",
+            "text": "<b>Interrupt:</b> When a plot card is revealed, kneel Old Nan to have that plot card gain the <i>Summer</i> or <i>Winter</i> trait until the end of the round.",
             "flavor": "\"Oh, my sweet summer child, what do you know of fear?\"",
             "deckLimit": 3,
             "illustrator": "Nicholas Gregory"
@@ -820,7 +820,7 @@
             "traits": [
                 "Citadel"
             ],
-            "text": "<b>Interrupt:</b> When a non-<i>Army </i>character you control would be killed, kneel a <i>Maester</i> character to save it.",
+            "text": "<b>Interrupt:</b> When a non-<i>Army</i> character you control would be killed, kneel a <i>Maester</i> character to save it.",
             "deckLimit": 3,
             "illustrator": "Drazenka Kimpel"
         },
