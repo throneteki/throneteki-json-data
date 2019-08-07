@@ -198,7 +198,7 @@
             "traits": [
                 "Raider"
             ],
-            "text": "Each<i> Weapon</i> card in your hand gains ambush (X). X is that card's printed cost.",
+            "text": "Each <i>Weapon</i> card in your hand gains ambush (X). X is that card's printed cost.",
             "deckLimit": 3,
             "illustrator": "Tomasz Jedruszek"
         },
@@ -325,7 +325,7 @@
             "traits": [
                 "Dream"
             ],
-            "text": "<b>Action: </b>Choose a character or location. Until the end of the phase, treat that card's printed text box as if it were blank (except for <i>Traits</i>).",
+            "text": "<b>Action:</b> Choose a character or location. Until the end of the phase, treat that card's printed text box as if it were blank (except for <i>Traits</i>).",
             "flavor": "Yet in his nightmare he faced it again...",
             "deckLimit": 3,
             "illustrator": "Jeremy Wilson"

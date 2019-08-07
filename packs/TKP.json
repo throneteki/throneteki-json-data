@@ -349,7 +349,7 @@
             "traits": [
                 "Summer"
             ],
-            "text": "Each<i> Knight</i> character you control gains renown and \"immune to opponents' events.\"",
+            "text": "Each <i>Knight</i> character you control gains renown and \"immune to opponents' events.\"",
             "deckLimit": 2,
             "illustrator": "Tomasz Jedruszek"
         },
