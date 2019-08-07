@@ -173,7 +173,7 @@
                 "Kingsguard",
                 "Knight"
             ],
-            "text": "Renown.\n<b>Reaction:</b> After a non-[lannister] Knight character enters play under your control, gain 2 gold. (Limit once per phase.)",
+            "text": "Renown.\n<b>Reaction:</b> After a non-[lannister] <i>Knight</i> character enters play under your control, gain 2 gold. (Limit once per phase.)",
             "deckLimit": 3,
             "illustrator": "Alexandre Dainche"
         },
