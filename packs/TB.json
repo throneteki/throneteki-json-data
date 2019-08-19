@@ -89,6 +89,7 @@
                 "Wandering Crow"
             ],
             "text": "<b>Reaction:</b> After Yoren enters play, choose a character with printed cost 5 or lower. Take control of that character until Yoren leaves play.",
+            "flavor": "\"Do what you want to the town, it's naught to me, but leave us be. We're no foes to you.\"",
             "deckLimit": 3,
             "illustrator": "Federico Musetti"
         },
@@ -193,6 +194,7 @@
                 "Maester"
             ],
             "text": "<b>Interrupt:</b> When another character would be killed, kill Maester Kerwin to save that character.",
+            "flavor": "Maesters had their uses, but Victarion had nothing but contempt for this Kerwin. With his smooth pink cheeks, soft hands, and brown curls, he looked more girlish that most girls.",
             "deckLimit": 3,
             "illustrator": "Andreia Ugrai"
         },
@@ -240,6 +242,7 @@
             "cost": 1,
             "traits": [],
             "text": "<b>Challenges Action:</b> Search your deck for a <i>Dragon</i> character, reveal it, and add it to your hand. Shuffle your deck.",
+            "flavor": "...for the first time in hundreds of years, the night came alive with the music of dragons.",
             "deckLimit": 3,
             "illustrator": "Jokubas Uogintas"
         },
