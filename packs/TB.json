@@ -5,6 +5,27 @@
     "releaseDate": null,
     "cards": [
         {
+            "code": "13081",
+            "type": "character",
+            "name": "Smallfolk Mob",
+            "unique": false,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Ally"
+            ],
+            "text": "Shadow (4).\n<b>Action:</b> Sacrifice a unique [stark] character to put Smallfolk Mob into play from shadows.",
+            "deckLimit": 3,
+            "illustrator": "Tamires Para"
+        },
+        {
             "code": "13082",
             "type": "event",
             "name": "Shadow of the North",
@@ -15,6 +36,28 @@
             "text": "Shadow (1). Play only during a challenge.\n<b>Action:</b> Raise the claim value on your revealed plot card by 1 until the end of the challenge. If there is a <i>Winter</i> plot card revealed, return Shadow of the North to your hand instead of placing it in your discard pile. (Max 1 per challenge.)",
             "deckLimit": 3,
             "illustrator": "Sebastian Rodriguez"
+        },
+        {
+            "code": "13083",
+            "type": "character",
+            "name": "Highgarden Jester",
+            "unique": false,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 1,
+            "traits": [
+                "Ally",
+                "Fool"
+            ],
+            "text": "Insight.\n<b>Forced Reaction:</b> After Highgarden Jester draws a card using insight, place a random card from your hand on top of your deck. (Choose a card from your hand and place it on top of your deck instead if there is another <i>Fool</i> character in play.)",
+            "deckLimit": 3,
+            "illustrator": "Stephen Stark"
         },
         {
             "code": "13084",
@@ -46,9 +89,42 @@
                 "Wandering Crow"
             ],
             "text": "<b>Reaction:</b> After Yoren enters play, choose a character with printed cost 5 or lower. Take control of that character until Yoren leaves play.",
-            "flavor": "\"Do what you want to the town, it's naught to me, but leave us be. We're no foes to you.\"",
             "deckLimit": 3,
             "illustrator": "Federico Musetti"
+        },
+        {
+            "code": "13086",
+            "type": "event",
+            "name": "Bound for the Wall",
+            "faction": "thenightswatch",
+            "loyal": true,
+            "cost": 2,
+            "traits": [],
+            "text": "<b>Reaction:</b> After you win a challenge as the attacking player, reveal the top 5 cards of the losing opponent's deck. You may put a character revealed this way into play under your control. Place the other revealed cards on the bottom of that player's deck in a random order. (Max 1 per challenge.)",
+            "deckLimit": 3,
+            "illustrator": "Federico Musetti"
+        },
+        {
+            "code": "13087",
+            "type": "character",
+            "name": "Ser Preston Greenfield",
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 4,
+            "traits": [
+                "Kingsguard",
+                "Knight"
+            ],
+            "text": "Shadow (4).\n<b>Reaction:</b> After you win a challenge in which Ser Preston Greenfield is participating, the losing opponent must move 1 power from his or her faction card to a standing character he or she controls.",
+            "deckLimit": 3,
+            "illustrator": "Adam Lane"
         },
         {
             "code": "13088",
@@ -100,6 +176,96 @@
             "illustrator": "Aleksander Karcz"
         },
         {
+            "code": "13091",
+            "type": "character",
+            "name": "Maester Kerwin",
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 1,
+            "traits": [
+                "Maester"
+            ],
+            "text": "<b>Interrupt:</b> When another character would be killed, kill Maester Kerwin to save that character.",
+            "deckLimit": 3,
+            "illustrator": "Andreia Ugrai"
+        },
+        {
+            "code": "13092",
+            "type": "event",
+            "name": "\"The Bloody Cup\"",
+            "faction": "greyjoy",
+            "loyal": true,
+            "cost": 2,
+            "traits": [
+                "Song"
+            ],
+            "text": "<b>Reaction:</b> After you win an unopposed challenge, choose a character controlled by the losing opponent and place it on top of its owner's deck. (Max 1 per challenge.)",
+            "deckLimit": 3,
+            "illustrator": "Tim Durning"
+        },
+        {
+            "code": "13093",
+            "type": "character",
+            "name": "Covert Loyalist",
+            "unique": false,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 4,
+            "traits": [
+                "Ally"
+            ],
+            "text": "Shadow (4).\n<b>Action:</b> Discard a [targaryen] card with printed cost 4 or higher from your hand to put Covert Loyalist into play from shadows.",
+            "deckLimit": 3,
+            "illustrator": "Quintin Gleim"
+        },
+        {
+            "code": "13094",
+            "type": "event",
+            "name": "Music of Dragons",
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 1,
+            "traits": [],
+            "text": "<b>Challenges Action:</b> Search your deck for a <i>Dragon</i> character, reveal it, and add it to your hand. Shuffle your deck.",
+            "deckLimit": 3,
+            "illustrator": "Jokubas Uogintas"
+        },
+        {
+            "code": "13095",
+            "type": "character",
+            "name": "Dagos Manwoody",
+            "unique": true,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "House Manwoody",
+                "Lord"
+            ],
+            "text": "While there are 5 or more different <i>Traits</i> among plot cards in your used pile, Dagos Manwoody gains renown and stealth.",
+            "deckLimit": 3,
+            "illustrator": "Aurelian Hubert"
+        },
+        {
             "code": "13096",
             "type": "attachment",
             "name": "The Mountain's Skull",
@@ -115,6 +281,26 @@
             "illustrator": "Carlos Palma Cruchaga"
         },
         {
+            "code": "13097",
+            "type": "character",
+            "name": "Sparrows",
+            "unique": false,
+            "faction": "neutral",
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "The Seven"
+            ],
+            "text": "Shadow (2).\n<b>Reaction:</b> After Sparrows comes out of shadows, move 1 power from an opponent's faction card to another <i>The Seven</i> card you control.",
+            "deckLimit": 3,
+            "illustrator": "Tamires Para"
+        },
+        {
             "code": "13098",
             "type": "attachment",
             "name": "White Cloak",
@@ -127,6 +313,34 @@
             "text": "<i>Knight</i> character you control only.\nAttached character gains the <i>Kingsguard</i> trait.\n<b>Interrupt:</b> When a <i>King</i> or <i>Queen</i> character would be killed, kneel attached character to save it.",
             "deckLimit": 3,
             "illustrator": "Michele Giorgi"
+        },
+        {
+            "code": "13099",
+            "type": "agenda",
+            "name": "The White Book",
+            "faction": "neutral",
+            "traits": [],
+            "text": "You may include non-loyal <i>Kingsguard</i> characters from any faction in your deck. You must include at least 7 different <i>Kingsguard</i> characters in your deck.\n<b>Reaction:</b> After you win a challenge, kneel your faction card to stand each defending <i>Kingsguard</i> character you control. (Each participating <i>Kingsguard</i> character you control instead if you control a <i>King</i> or <i>Queen</i> character.)",
+            "deckLimit": 1,
+            "illustrator": "Tim Durning"
+        },
+        {
+            "code": "13100",
+            "type": "plot",
+            "name": "King's Landing Riot",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 3,
+                "initiative": 1,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "City"
+            ],
+            "text": "<b>Forced Interrupt:</b> When the challenges phase ends, if there are 3 or more <i>City</i> plot cards in your used pile, discard each character from play.",
+            "deckLimit": 1,
+            "illustrator": "Mauro Dal Bo"
         }
     ]
 }
