@@ -2,7 +2,7 @@
     "cgdbId": 50,
     "code": "TB",
     "name": "The Blackwater",
-    "releaseDate": null,
+    "releaseDate": "2019-08-22",
     "cards": [
         {
             "code": "13081",
@@ -203,7 +203,7 @@
             "type": "event",
             "name": "\"The Bloody Cup\"",
             "faction": "greyjoy",
-            "loyal": true,
+            "loyal": false,
             "cost": 2,
             "traits": [
                 "Song"
