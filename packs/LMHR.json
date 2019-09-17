@@ -42,6 +42,81 @@
             "illustrator": "Leanna Crossan"
         },
         {
+            "code": "13103",
+            "type": "character",
+            "name": "The Queen's Retinue",
+            "unique": false,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Ally",
+                "Companion"
+            ],
+            "text": "Shadow (4).\n<b>Action:</b> Put The Queen's Retinue into play from shadows. Then, each opponent draws 2 cards.",
+            "deckLimit": 3,
+            "illustrator": "Drazenka Kimpel"
+        },
+        {
+            "code": "13104",
+            "type": "location",
+            "name": "Huntress",
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": true,
+            "cost": 3,
+            "traits": [
+                "Warship"
+            ],
+            "text": "While Huntress is standing, each [tyrell] character you control with printed cost 3 or lower gets +1 STR.\n<b>Action:</b> Kneel Huntress to choose a [tyrell] character with printed cost 3 or lower. It gets +3 STR until the end of the phase.",
+            "deckLimit": 3,
+            "illustrator": "Sebastian Rodriguez"
+        },
+        {
+            "code": "13105",
+            "type": "character",
+            "name": "Recruit from the Dungeons",
+            "unique": false,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Ally",
+                "Recruit"
+            ],
+            "text": "Shadow (2).\n<b>Action:</b> During a challenge in which you are the defending player, kneel Recruit from the Dungeons to have it participate in the challenge on your side. If you lose the challenge, return Recruit from the Dungeons to shadows.",
+            "deckLimit": 3,
+            "illustrator": "Federico Musetti"
+        },
+        {
+            "code": "13106",
+            "type": "location",
+            "name": "Rimegate",
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "The North"
+            ],
+            "text": "<b>Interrupt:</b> When another location you control would be discarded from play, kneel Rimegate to save it.",
+            "flavor": "Hoarfrost Hill and Rimegate still lacked garrisons, so Jon had asked their views on which of the remaining wildling chiefs and war lords might be best suited to hold them.",
+            "deckLimit": 3,
+            "illustrator": "Logan Feliciano"
+        },
+        {
             "code": "13107",
             "type": "character",
             "name": "Robert Baratheon",
@@ -60,8 +135,8 @@
                 "King"
             ],
             "text": "Renown.\n<b>Reaction:</b> After Robert Baratheon gains power, gain 1 power for your faction. (Limit twice per round.)",
-            "deckLimit": 3,
             "flavor": "\"I swear to you, I was never so alive as when I was winning this throne, or so dead now that I've won it.\"",
+            "deckLimit": 3,
             "illustrator": "Antonio José Manzanedo"
         },
         {
@@ -78,6 +153,81 @@
             "text": "<i>King</i> character only.\nAttached character cannot be killed.\n<b>Forced Reaction:</b> After you lose a [power] challenge as the defending player, sacrifice Long May He Reign.",
             "deckLimit": 3,
             "illustrator": "Sebastian Rodriguez"
+        },
+        {
+            "code": "13109",
+            "type": "character",
+            "name": "The Bastard of Driftmark",
+            "unique": true,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Bastard",
+                "Small Council"
+            ],
+            "text": "<b>Reaction:</b> After you win an [intrigue] challenge in which The Bastard of Driftmark is participating, choose and stand a location.",
+            "flavor": "Aurane Waters, the dashing young Bastard of Driftmark, would be her grand admiral.",
+            "deckLimit": 3,
+            "illustrator": "Andreia Ugrai"
+        },
+        {
+            "code": "13110",
+            "type": "location",
+            "name": "Alchemists' Guildhall",
+            "unique": true,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "King's Landing"
+            ],
+            "text": "Shadow (2).\n<b>Interrupt:</b> When the effects of a triggered character ability would initiate, if that character does not have shadow, kneel and return Alchemists' Guildhall to shadows to cancel those effects. (Max 1 per phase.)",
+            "deckLimit": 3,
+            "illustrator": "Brenda Bae"
+        },
+        {
+            "code": "13111",
+            "type": "character",
+            "name": "Blackwater Raiders",
+            "unique": false,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "Mercenary",
+                "Raider"
+            ],
+            "text": "Shadow (3).\n<b>Reaction:</b> After Blackwater Raiders comes out of shadows, choose a location with printed cost 2 or lower in an opponent's discard pile. Put it into play under your control.",
+            "deckLimit": 3,
+            "illustrator": "Michele Giorgi"
+        },
+        {
+            "code": "13112",
+            "type": "location",
+            "name": "Fishmonger's Square",
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": true,
+            "cost": 2,
+            "traits": [
+                "King's Landing"
+            ],
+            "text": "<b>Marshaling Action:</b> If there are 10 or more cards in an opponent's discard pile, kneel Fishmonger's Square to draw 1 card and gain 1 gold.",
+            "deckLimit": 3,
+            "illustrator": "Dinodrawing"
         },
         {
             "code": "13113",
@@ -115,6 +265,104 @@
             "text": "Attached character gains the <i>Mercenary</i> trait.\n<b>Reaction:</b> After you win a challenge in which attached character is attacking, pay 1 gold and kneel Mercenary Contract to stand attached character.",
             "deckLimit": 3,
             "illustrator": "Tiziano Baracchi"
+        },
+        {
+            "code": "13115",
+            "type": "character",
+            "name": "Friends at Court",
+            "unique": false,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Spy"
+            ],
+            "text": "Shadow (2).\n<b>Reaction:</b> After Friends at Court comes out of shadows, look at up to 3 cards in shadows. Then, you may pay 2 gold to choose 1 of those cards and return it to its owner's hand.",
+            "deckLimit": 3,
+            "illustrator": "Michele Frigo"
+        },
+        {
+            "code": "13116",
+            "type": "attachment",
+            "name": "Poisoned Dagger",
+            "unique": false,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "Weapon"
+            ],
+            "text": "Character you control only. Shadow (2).\nAttached character gets +2 STR.\n<b>Reaction:</b> After you win an [intrigue] challenge in which attached character is participating, sacrifice Poisoned Dagger to have the losing opponent choose and kill a participating character he or she controls.",
+            "deckLimit": 3,
+            "illustrator": "Matt Hansen"
+        },
+        {
+            "code": "13117",
+            "type": "location",
+            "name": "The Iron Throne",
+            "unique": true,
+            "faction": "neutral",
+            "cost": 2,
+            "traits": [
+                "Contested",
+                "King's Landing"
+            ],
+            "text": "<b>Reaction:</b> After a phase begins, kneel The Iron Throne to name a card. Until the end of the phase, that card cannot be marshaled, played, or put into play.",
+            "deckLimit": 3,
+            "illustrator": "Leanna Crossan"
+        },
+        {
+            "code": "13118",
+            "type": "agenda",
+            "name": "Valyrian Steel",
+            "faction": "neutral",
+            "traits": [],
+            "text": "Your minimum deck size is 75 cards. Your deck cannot include more than 1 copy of each attachment .&nbsp;\n<b>Action:</b> Kneel your faction card and pay X gold to put an attachment with printed cost X into play from your hand.\n<b>Reaction:</b> After an attachment enters play under your control, either: draw a card or gain 1 gold. (Limit 3 times per round.)",
+            "deckLimit": 1,
+            "illustrator": "Tim Durning"
+        },
+        {
+            "code": "13119",
+            "type": "plot",
+            "name": "City of Wealth",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 2,
+                "initiative": 2,
+                "claim": 2,
+                "reserve": 2
+            },
+            "traits": [
+                "City",
+                "Kingdom"
+            ],
+            "text": "Increase the gold, initiative, and reserve values on this plot card by 1 for each <i>City</i> plot card in your used pile.",
+            "deckLimit": 1,
+            "illustrator": "Josu Hernaiz"
+        },
+        {
+            "code": "13120",
+            "type": "plot",
+            "name": "Expose Duplicity",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 4,
+                "initiative": 5,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "Scheme"
+            ],
+            "text": "<b>When Revealed:</b> Discard each card in shadows.\nPlot deck limit: 1.",
+            "deckLimit": 2,
+            "illustrator": "Aleksander Karcz"
         }
     ]
 }
