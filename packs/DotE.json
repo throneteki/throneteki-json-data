@@ -29,6 +29,157 @@
             "illustrator": "Aleksander Karcz"
         },
         {
+            "code": "15002",
+            "type": "character",
+            "name": "Drogon",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 7,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 10,
+            "traits": [
+                "Dragon"
+            ],
+            "text": "No attachments.\nEach <i>Stormborn</i> character you control gains renown.\n<b>Reaction:</b> After you win a challenge in which Drogon is attacking, kill each character the defending player controls with STR 1 or lower.",
+            "deckLimit": 3,
+            "illustrator": "Jokubas Uogintas"
+        },
+        {
+            "code": "15003",
+            "type": "character",
+            "name": "Rhaegal",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 7,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 8,
+            "traits": [
+                "Dragon"
+            ],
+            "text": "No attachments.\n<b>Reaction:</b> After you win a challenge in which Rhaegal is attacking, choose and stand another character you control. Then, if that character has the <i>Dragon</i> or <i>Stormborn</i> trait, stand Rhaegal. (Limit once per phase.)",
+            "deckLimit": 3,
+            "illustrator": "Jokubas Uogintas"
+        },
+        {
+            "code": "15003",
+            "type": "character",
+            "name": "Rhaegal",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 7,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 8,
+            "traits": [
+                "Dragon"
+            ],
+            "text": "No attachments.\n<b>Reaction:</b> After you win a challenge in which Rhaegal is attacking, choose and stand another character you control. Then, if that character has the <i>Dragon</i> or <i>Stormborn</i> trait, stand Rhaegal. (Limit once per phase.)",
+            "deckLimit": 3,
+            "illustrator": "Jokubas Uogintas"
+        },
+        {
+            "code": "15004",
+            "type": "character",
+            "name": "Viserion",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 7,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 8,
+            "traits": [
+                "Dragon"
+            ],
+            "text": "No attachments.\nEach <i>Stormborn</i> character you control gains stealth.\nWhile Viserion is attacking, each participating non-<i>Dragon</i>, non-<i>Stormborn</i> characters gets -2 STR.",
+            "deckLimit": 3,
+            "illustrator": "Jokubas Uogintas"
+        },
+        {
+            "code": "15005",
+            "type": "character",
+            "name": "Khal Drogo",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 6,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 6,
+            "traits": [
+                "Dothraki",
+                "Lord"
+            ],
+            "text": "Renown.<b>Interrupt:</b> When an <i>Army</i> or <i>Dothraki</i> character would be returned to your hand, discard 1 card from your hand to save it.",
+            "flavor": "\"Come, my blood. The stallions call, this place is ashes. It is time to ride.\"",
+            "deckLimit": 3,
+            "illustrator": "Aleksander Karcz"
+        },
+        {
+            "code": "15006",
+            "type": "character",
+            "name": "Galazza Galare",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 6,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Grace"
+            ],
+            "text": "<b>Reaction:</b> After you marshal Galazza Galare, search the top 10 cards of your deck for, either: a [targaryen] character with printed cost 6 or higher, or up to 3 [targaryen] characters with printed cost 2 or lower. Reveal each searched-for card and add it to your hand. Shuffle your deck.",
+            "deckLimit": 3,
+            "illustrator": "Paolo Puggioni"
+        },
+        {
+            "code": "15007",
+            "type": "character",
+            "name": "Jhogo",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "Bloodrider",
+                "Dothraki"
+            ],
+            "text": "<b>Reaction:</b> After you win a [military] challenge in which you control 2 or more attacking <i>Dothraki</i> characters, move 1 power from the losing opponent's faction card to your own.",
+            "flavor": "\"Khaleesi, we saw him strike you. Would you see the color of his blood?\"",
+            "deckLimit": 3,
+            "illustrator": "Caravan Studio"
+        },
+        {
             "code": "15012",
             "type": "character",
             "name": "Captain Groleo",
