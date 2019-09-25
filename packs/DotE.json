@@ -71,27 +71,6 @@
             "illustrator": "Jokubas Uogintas"
         },
         {
-            "code": "15003",
-            "type": "character",
-            "name": "Rhaegal",
-            "unique": true,
-            "faction": "targaryen",
-            "loyal": true,
-            "cost": 7,
-            "icons": {
-                "military": true,
-                "intrigue": true,
-                "power": false
-            },
-            "strength": 8,
-            "traits": [
-                "Dragon"
-            ],
-            "text": "No attachments.\n<b>Reaction:</b> After you win a challenge in which Rhaegal is attacking, choose and stand another character you control. Then, if that character has the <i>Dragon</i> or <i>Stormborn</i> trait, stand Rhaegal. (Limit once per phase.)",
-            "deckLimit": 3,
-            "illustrator": "Jokubas Uogintas"
-        },
-        {
             "code": "15004",
             "type": "character",
             "name": "Viserion",
@@ -130,7 +109,7 @@
                 "Dothraki",
                 "Lord"
             ],
-            "text": "Renown.<b>Interrupt:</b> When an <i>Army</i> or <i>Dothraki</i> character would be returned to your hand, discard 1 card from your hand to save it.",
+            "text": "Renown.\n<b>Interrupt:</b> When an <i>Army</i> or <i>Dothraki</i> character would be returned to your hand, discard 1 card from your hand to save it.",
             "flavor": "\"Come, my blood. The stallions call, this place is ashes. It is time to ride.\"",
             "deckLimit": 3,
             "illustrator": "Aleksander Karcz"
@@ -180,6 +159,98 @@
             "illustrator": "Caravan Studio"
         },
         {
+            "code": "15008",
+            "type": "character",
+            "name": "The Shavepate",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 5,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "Commander",
+                "Guard"
+            ],
+            "text": "<b>Challenges Action:</b> Pay X gold to put a character with printed cost X or lower into play from your discard pile. (Limit once per phase.)",
+            "flavor": "\"... I say that blood must pay for blood. Take one man from each of the families I have named and kill him. The next time one of yours is slain, take two from each great House and kill them both. There will not be a third murder.\"",
+            "deckLimit": 3,
+            "illustrator": "Paolo Puggioni"
+        },
+        {
+            "code": "15009",
+            "type": "character",
+            "name": "Rakharo",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Bloodrider",
+                "Dothraki"
+            ],
+            "text": "<b>Reaction:</b> After you win a [military] challenge in which you control 2 or more attacking <i>Dothraki</i> characters, discard 1 card at random from the losing opponent's hand.",
+            "flavor": "\"Khaleesi, better a man should swallow scorpions than trust in the spawn of shadows, who dare not show their face beneath the sun. It is known.\"",
+            "deckLimit": 3,
+            "illustrator": "Caravan Studio"
+        },
+        {
+            "code": "15010",
+            "type": "character",
+            "name": "The Titan's Bastard",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Bastard",
+                "Commander",
+                "Mercenary"
+            ],
+            "text": "<b>Action:</b> Kneel The Titan's Bastard to return a <i>Mercenary</i> character from your discard pile to your hand.",
+            "flavor": "\"That one has an evil reputation, even in Westeros. Do not be misled by his manner, Your Grace.\" <cite>Ser Barristan Selmy</cite>",
+            "deckLimit": 3,
+            "illustrator": "Michele Frigo"
+        },
+        {
+            "code": "15011",
+            "type": "character",
+            "name": "Barsena Blackhair",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Pit Fighter"
+            ],
+            "text": "No attachments except <i>Weapon</i>.\nWhile there is a <i>Weapon</i> attachment attached to Barsena Blackhair, she gets +3 STR.",
+            "flavor": "Daenerys would have prohibited contests between women as well, but Barsena Blackhair protested that she had as much right to risk her life as any man.",
+            "deckLimit": 3,
+            "illustrator": "Michele Frigo"
+        },
+        {
             "code": "15012",
             "type": "character",
             "name": "Captain Groleo",
@@ -200,6 +271,94 @@
             "flavor": "At first Groleo had wanted the dragons caged and Dany had consented to put his fears at ease, but their misery was so palpable that she soon changed her mind and insisted they be freed.",
             "deckLimit": 3,
             "illustrator": "Scott Altmann"
+        },
+        {
+            "code": "15013",
+            "type": "character",
+            "name": "Blue Graces",
+            "unique": false,
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "Ally",
+                "Grace"
+            ],
+            "text": "<b>Challenges Action:</b> Remove Blue Graces from the game to choose a card with printed cost 6 or higher in your discard or dead pile and shuffle it into your deck.",
+            "deckLimit": 3,
+            "illustrator": "Paolo Puggioni"
+        },
+        {
+            "code": "15014",
+            "type": "character",
+            "name": "Dothraki Handmaiden",
+            "unique": false,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "Companion",
+                "Dothraki"
+            ],
+            "text": "While you control Daenerys Targaryen, you may marshal facedown cards attached to Dothraki Handmaiden as if they were in your hand.\n<b>Marshaling Action:</b> Reveal an attachment from your hand. Attach it to Dothraki Handmaiden facedown as an attachment.",
+            "deckLimit": 3,
+            "illustrator": "Stephen Stark"
+        },
+        {
+            "code": "15015",
+            "type": "character",
+            "name": "Horselord",
+            "unique": false,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 1,
+            "traits": [
+                "Dothraki"
+            ],
+            "text": "While Horselord is attacking, it gets +1 STR for each other attacking <i>Dothraki</i> character you control.",
+            "flavor": "The horselords might put on rich fabrics and sweet perfumes when they visited the Free Cities, but out under the open sky they kept the old ways.",
+            "deckLimit": 3,
+            "illustrator": "Magali Villeneuve"
+        },
+        {
+            "code": "15016",
+            "type": "character",
+            "name": "Brown Ben Plumm",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 1,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Mercenary"
+            ],
+            "text": "<b>Forced Interrupt:</b> When the challenges phase ends, if you have no gold in your gold pool, sacrifice Brown Ben Plumm.",
+            "flavor": "\"There are old sellswords and bold sellswords, but no old bold sellswords.\"",
+            "deckLimit": 3,
+            "illustrator": "Patrick McEvoy"
         },
         {
             "code": "15019",
