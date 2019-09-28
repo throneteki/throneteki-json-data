@@ -631,9 +631,31 @@
             "deckLimit": 3,
             "illustrator": "Sebastian Rodriguez"
         },
-
         {
-            "code": "15041",
+            "code": "15039",
+            "type": "character",
+            "name": "Lysa Arryn",
+            "unique": true,
+            "faction": "neutral",
+            "cost": 6,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "House Arryn",
+                "House Tully",
+                "Lady"
+            ],
+            "text": "<b>Interrupt:</b> When Lysa Arryn is killed, choose another character, location, or attachment and remove it from the game.",
+            "flavor": "\"We keep no headsman in the Eyrie, my lord of Lannister. Open the Moon Door.\"",
+            "deckLimit": 3,
+            "illustrator": "Mark Behm"
+        },
+        {
+            "code": "15040",
             "type": "character",
             "name": "Tormund Giantsbane",
             "unique": true,
@@ -652,6 +674,26 @@
             "text": "Intimidate.\n<b>Reaction:</b> After you win a challenge in which Tormund Giantsbane is participating, place a tale token on him.\n<b>Action:</b> Discard 1 tale token from Tormund Giantsbane to give a <i>Wildling</i> character +2 STR and renown until the end of the phase.",
             "deckLimit": 3,
             "illustrator": "Ryan Valle"
+        },
+        {
+            "code": "15041",
+            "type": "character",
+            "name": "Archmaester Marwyn",
+            "unique": true,
+            "faction": "neutral",
+            "cost": 5,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Maester"
+            ],
+            "text": "Once per phase, you may marshal or play a facedown card under your agenda as if it were in your hand.\n<b>Reaction:</b> After Archmaester Marwyn enters play, place the top 2 cards of your deck facedown under your agenda.",
+            "deckLimit": 3,
+            "illustrator": "Tiziano Baracchi"
         }
     ]
 }
