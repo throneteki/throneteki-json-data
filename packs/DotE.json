@@ -560,6 +560,45 @@
             "illustrator": "Logan Feliciano"
         },
         {
+            "code": "15033",
+            "type": "character",
+            "name": "Clydas",
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Steward"
+            ],
+            "text": "<b>Action:</b> Move 1 gold from an opponent's gold pool to your own. (Limit once per phase.)",
+            "flavor": "\"I am being foolish, Lord Commander, but ... this letter frightens me.\"",
+            "deckLimit": 3,
+            "illustrator": "Michele Frigo"
+        },
+        {
+            "code": "15034",
+            "type": "attachment",
+            "name": "Cage of Ravens",
+            "unique": false,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Item",
+                "Raven"
+            ],
+            "text": "<i>Steward</i> character only.\n<b>Action:</b> Kneel Cage of Ravens to put a card with printed cost 1 or lower into play from your hand.",
+            "deckLimit": 3,
+            "illustrator": "Sebastian Rodriguez"
+        },
+
+        {
             "code": "15041",
             "type": "character",
             "name": "Tormund Giantsbane",
