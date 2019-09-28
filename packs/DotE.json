@@ -560,6 +560,40 @@
             "illustrator": "Logan Feliciano"
         },
         {
+            "code": "15031",
+            "type": "character",
+            "name": "Spotted Sylva",
+            "unique": true,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "House Santagar",
+                "Lady"
+            ],
+            "text": "<b>Forced Reaction:</b> After you lose a challenge in which Spotted Sylva is attacking, each player must choose a participating character he or she controls, if able, and return it to its owner's hand.",
+            "flavor": "\"I should be honored if you'd let me serve you.\"",
+            "deckLimit": 3,
+            "illustrator": "Michele Frigo"
+        },
+        {
+            "code": "15032",
+            "type": "event",
+            "name": "Choosing the Spear",
+            "faction": "martell",
+            "loyal": false,
+            "cost": 0,
+            "traits": [],
+            "text": "<b>Reaction:</b> After a [martell] character you control is declared as an attacker in a [military] challenge, raise the claim value on your revealed plot card by 1 until the end of the challenge. If you lose the challenge, choose and kill a character you control. (Max 1 per challenge.)",
+            "deckLimit": 3
+        },
+        {
             "code": "15033",
             "type": "character",
             "name": "Clydas",
