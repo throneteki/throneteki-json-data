@@ -694,6 +694,45 @@
             "text": "Once per phase, you may marshal or play a facedown card under your agenda as if it were in your hand.\n<b>Reaction:</b> After Archmaester Marwyn enters play, place the top 2 cards of your deck facedown under your agenda.",
             "deckLimit": 3,
             "illustrator": "Tiziano Baracchi"
+        },
+        {
+            "code": "15042",
+            "type": "location",
+            "name": "Braavos",
+            "unique": true,
+            "faction": "neutral",
+            "cost": 3,
+            "traits": [
+                "Essos",
+                "Free Cities"
+            ],
+            "text": "<b>Marshaling Action:</b> Kneel Braavos to gain X gold. X is the number of different factions among characters you control.",
+            "flavor": "The Titan of Braavos ... was a giant as tall as a mountain, and whenever Braavos stood in danger he would wake with fire in his eyes, his rocky limbs grinding and groaning as he waded out into the sea to smash the enemies.",
+            "deckLimit": 3,
+            "illustrator": "Juan Carlos Barquet"
+        },
+        {
+            "code": "15044",
+            "type": "event",
+            "name": "Lay Waste",
+            "faction": "neutral",
+            "cost": 1,
+            "traits": [],
+            "text": "<b>Dominance Action:</b> Choose a non-limited location or attachment and discard it from play. Then, that card's owner may search his or her deck for a location or attachment with lower printed cost, put it into play, and shuffle his or her deck.",
+            "deckLimit": 3,
+            "illustrator": "JB Casacop"
+        },
+        {
+            "code": "15045",
+            "type": "event",
+            "name": "Bribery",
+            "faction": "neutral",
+            "cost": "X",
+            "traits": [],
+            "text": "<b>Action:</b> Choose and kneel a character with printed cost X or lower. If that character has the <i>Ally</i> or <i>Mercenary</i> trait, you may take control of it instead.",
+            "flavor": "The gaoler's eyes had gone big as boiled eggs as he yanked open the drawstring and beheld the glint of gold.",
+            "deckLimit": 3,
+            "illustrator": "Quintin Gleim"
         }
     ]
 }
