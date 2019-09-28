@@ -361,6 +361,38 @@
             "illustrator": "Patrick McEvoy"
         },
         {
+            "code": "15017",
+            "type": "location",
+            "name": "Womb of the World",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 4,
+            "traits": [
+                "Essos"
+            ],
+            "text": "<b>Action:</b> Kneel Womb of the World to reveal the top 5 cards of your deck. You may chose a <i>Dothraki</i> character revealed this way and put it into play. Shuffle your deck. At the end of the phase, if that character is still in play, return it to your hand.",
+            "deckLimit": 3,
+            "illustrator": "Zach Graves"
+        },
+        {
+            "code": "15018",
+            "type": "location",
+            "name": "Pentos",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 2,
+            "traits": [
+                "Essos",
+                "Free Cities"
+            ],
+            "text": "<b>Reaction:</b> After you draw an attachment, kneel Pentos to reveal that attachment and put it into play. Then, draw a card.",
+            "flavor": "\"There are orchards, farms, mines ... I own some such myself, though I seldom visit them. Why should I spend my days out here, with the myriad delights of Pentos close at hand?\" <cite>Magister Illyrio</cite>",
+            "deckLimit": 3,
+            "illustrator": "Sebastian Rodriguez"
+        },
+        {
             "code": "15019",
             "type": "attachment",
             "name": "Khaleesi",
@@ -392,6 +424,44 @@
             "illustrator": "Julepe"
         },
         {
+            "code": "15021",
+            "type": "attachment",
+            "name": "Pit Fighter's Blade",
+            "unique": false,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Weapon"
+            ],
+            "text": "Attached character gains renown during [military] challenges.",
+            "flavor": "No one wore armor in the fighting pits. It was blood the crowds came for: death, dismemberment, and the shrieks of agony, the music of scarlet sands.",
+            "deckLimit": 3,
+            "illustrator": "Paolo Puggioni"
+        },
+        {
+            "code": "15025",
+            "type": "character",
+            "name": "Delena Florent",
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "House Florent",
+                "Lady"
+            ],
+            "text": "During the challenges phase, non-<i>Bastard</i> characters cannot stand.\n<b>Reaction:</b> After Delena Florent enters play, search your deck for a <i>Bastard</i> character, reveal it, and add it to your hand. Shuffle your deck.",
+            "deckLimit": 3,
+            "illustrator": "Andeia Ugrai"
+        },
+        {
             "code": "15026",
             "type": "character",
             "name": "Dragonstone Convert",
@@ -412,6 +482,44 @@
             "text": "<b>Challenges Action:</b> Name an event. Until the end of the phase, events with that title cannot be played. (Limit once per phase.)",
             "deckLimit": 3,
             "illustrator": "Magali Villeneuve"
+        },
+        {
+            "code": "15027",
+            "type": "character",
+            "name": "Hotho Humpback",
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "House Harlaw"
+            ],
+            "text": "<b>Challenges Action:</b> Each player draws 1 card. Each player checks reserve. (Limit once per round.)",
+            "flavor": "\"Rodrik has no daughters, only books. Hotho will be his heir, and I will be the king.\" <cite>Victarion Greyjoy</cite>",
+            "deckLimit": 3,
+            "illustrator": "Quintin Gleim"
+        },
+        {
+            "code": "15028",
+            "type": "location",
+            "name": "Ten Towers Galley",
+            "unique": false,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "House Harlaw",
+                "Warship"
+            ],
+            "text": "While Ten Towers Galley is standing, reduce the reserve value on each opponent's revealed plot by 1.\n<b>Action:</b> Kneel a location with printed cost 2 or higher to kneel Ten Towers Galley. Any player may initiate this ability.",
+            "deckLimit": 3,
+            "illustrator": "Juan Carlos Barquet"
         },
         {
             "code": "15029",
