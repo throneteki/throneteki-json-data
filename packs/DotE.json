@@ -668,6 +668,43 @@
             "illustrator": "Sebastian Rodriguez"
         },
         {
+            "code": "15037",
+            "type": "character",
+            "name": "Mathis Rowan",
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Lord",
+                "Small Council"
+            ],
+            "text": "<b>Action:</b> Choose an opponent and a character, location, or attachment you control. That player takes control of that card. Then, gain 2 gold. (Limit once per round.)",
+            "flavor": "\"Mathis Rowan is sensible, prudent, well liked...\" <cite>Ser Kevan Lannister</cite>",
+            "deckLimit": 3,
+            "illustrator": "Adam Lane"
+        },
+        {
+            "code": "15038",
+            "type": "attachment",
+            "name": "Champion's Favor",
+            "unique": false,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 0,
+            "traits": [
+                "Item"
+            ],
+            "text": "<i>Lady</i> character only.\n<b>Action:</b> Kneel attached character to choose a participating non-<i>Lady</i> character and give it +X STR until the end of the challenge. X is 2 higher than attached character's STR.",
+            "deckLimit": 3
+        },
+        {
             "code": "15039",
             "type": "character",
             "name": "Lysa Arryn",
