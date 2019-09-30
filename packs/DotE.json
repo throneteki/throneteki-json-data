@@ -712,6 +712,20 @@
             "illustrator": "Juan Carlos Barquet"
         },
         {
+            "code": "15043",
+            "type": "attachment",
+            "name": "Water Dancer's Sword",
+            "unique": false,
+            "faction": "neutral",
+            "cost": 1,
+            "traits": [
+                "Weapon"
+            ],
+            "text": "Character with printed STR 3 or lower only. Ambush (1).\nAttached character gets +2 STR.\n<b>Forced Interrupt:</i> When the challenges phase ends, return Water Dancer's Sword to hand.",
+            "deckLimit": 3,
+            "illustrator": "JB Casacop"
+        },
+        {
             "code": "15044",
             "type": "event",
             "name": "Lay Waste",
