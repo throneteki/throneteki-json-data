@@ -747,6 +747,134 @@
             "flavor": "The gaoler's eyes had gone big as boiled eggs as he yanked open the drawstring and beheld the glint of gold.",
             "deckLimit": 3,
             "illustrator": "Quintin Gleim"
+        },
+        {
+            "code": "15046",
+            "type": "plot",
+            "name": "Fury of the Khalasar",
+            "faction": "targaryen",
+            "loyal": true,
+            "plotStats": {
+                "income": 3,
+                "initiative": 4,
+                "claim": 2,
+                "reserve": 4
+            },
+            "traits": [
+                "War"
+            ],
+            "text": "<b>Reaction:</b> After the challenges phase begins, put a <i>Dothraki</i> character into play from your hand. At the end of the phase, if that card is still in play, return it to your hand.",
+            "deckLimit": 1,
+            "illustrator": "Tomasz Jedruszek"
+        },
+        {
+            "code": "15047",
+            "type": "plot",
+            "name": "The Lost Message",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 5,
+                "initiative": 3,
+                "claim": 1,
+                "reserve": 7
+            },
+            "traits": [
+                "Scheme"
+            ],
+            "text": "<b>Action:</b> Each player shuffles his or her hand into his or her deck. Then, each player adds the top X cards of his or her deck to his or her hand. X is the number of cards he or she shuffled this way. (Limit once per round.)",
+            "deckLimit": 2,
+            "illustrator": "Ian Kirkpatrick"
+        },
+        {
+            "code": "15048",
+            "type": "plot",
+            "name": "The White Swords",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 4,
+                "initiative": 6,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "Kingsguard"
+            ],
+            "text": "<b>When Revealed:</b> You may put a <i>Kingsguard</i> character into play from your hand or discard pile.",
+            "deckLimit": 2,
+            "illustrator": "Alexandre Dainche"
+        },
+        {
+            "code": "15049",
+            "type": "plot",
+            "name": "Champion's Challenge",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 4,
+                "initiative": 2,
+                "claim": 1,
+                "reserve": 5
+            },
+            "traits": [
+                "War"
+            ],
+            "text": "<b>Reaction:</b> After an opponent initiates a challenge against you, kneel a character with the highest STR among character you control to end the challenge with no winner or loser. (Limit once per phase.)",
+            "deckLimit": 1,
+            "illustrator": "Charles Urbach"
+        },
+        {
+            "code": "15050",
+            "type": "plot",
+            "name": "At the Palace of Sorrows",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 5,
+                "initiative": 7,
+                "claim": 1,
+                "reserve": 5
+            },
+            "traits": [
+                "Omen"
+            ],
+            "text": "Set each character's STR to 3.",
+            "deckLimit": 2,
+            "illustrator": "Dimitri Bielak"
+        },
+        {
+            "code": "15051",
+            "type": "plot",
+            "name": "Loan from the Iron Bank",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 10,
+                "initiative": 1,
+                "claim": 1,
+                "reserve": 5
+            },
+            "traits": [
+                "Kingdom"
+            ],
+            "text": "While Loan from the Iron Bank is in your used pile, reduce the gold value on your revealed plot by 1.",
+            "deckLimit": 2,
+            "illustrator": "Brenda Bae"
+        },
+        {
+            "code": "15052",
+            "type": "plot",
+            "name": "The Prince Who Came Too Late",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 1,
+                "initiative": 1,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "Legacy",
+                "Noble"
+            ],
+            "text": "<b>Standing Action:</b> Search your deck for a character and put it into play. Shuffle your deck. (Limit once per round.)",
+            "deckLimit": 2,
+            "illustrator": "Ian Kirkpatrick"
         }
     ]
 }
