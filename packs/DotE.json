@@ -632,6 +632,42 @@
             "illustrator": "Sebastian Rodriguez"
         },
         {
+            "code": "15035",
+            "type": "character",
+            "name": "Wylla Manderly",
+            "unique": true,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "House Manderly",
+                "Lady"
+            ],
+            "text": "<b>Reaction:</b> After a character you control is sacrificed or killed, choose another card in your discard pile and place it on the bottom of your deck. (Limit once per phase.)",
+            "flavor": "\"He was our king! He was brave and good, and the Freys murdered him. If Lord Stannis will avenge him, we should join Lord Stannis.\"",
+            "deckLimit": 3,
+            "illustrator": "Sara Biddle"
+        },
+        {
+            "code": "15036",
+            "type": "event",
+            "name": "Fight to the Last",
+            "faction": "stark",
+            "loyal": false,
+            "cost": 0,
+            "traits": [],
+            "text": "<b>Interrupt:</b> When a character you control would be killed, save it, stand it, and set its STR to 1 until the end of the phase. At the end of the phase, if that character is still in play, kill it (cannot be saved).",
+            "flavor": "Crossbow bolts thudded into the wood, one two three, as he flung it down on top of his king.",
+            "deckLimit": 3,
+            "illustrator": "Sebastian Rodriguez"
+        },
+        {
             "code": "15039",
             "type": "character",
             "name": "Lysa Arryn",
