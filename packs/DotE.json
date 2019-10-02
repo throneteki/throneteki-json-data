@@ -440,6 +440,43 @@
             "illustrator": "Paolo Puggioni"
         },
         {
+            "code": "15022",
+            "type": "event",
+            "name": "Fire Made Flesh",
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 2,
+            "traits": [],
+            "text": "<b>Marshaling Action:</b> Sacrifice a <i>Hatchling</i> character to search your hand and deck for a <i>Dragon</i> character with the same title and put it into play. Shuffle your deck.",
+            "flavor": "\"For dragons are fire made flesh, and fire is power.\" <cite>Quaithe of the Shadow</cite>",
+            "deckLimit": 3,
+            "illustrator": "Jake Murray"
+        },
+        {
+            "code": "15023",
+            "type": "event",
+            "name": "Overwhelming Numbers",
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 2,
+            "traits": [],
+            "text": "Play only during a challenge in which you control 2 or more attacking <i>Dothraki</i> characters.\n<b>Action:</b> Put up to 2 <i>Dothraki</i> characters into play from your hand and/or discard pile knelt, participating as attackers. At the end of the challenge, if any of those characters are still in play, return them to your hand. (Max 1 per challenge.)",
+            "deckLimit": 3,
+            "illustrator": "Tomasz Jedruszek"
+        },
+        {
+            "code": "15024",
+            "type": "event",
+            "name": "Incinerate",
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 0,
+            "traits": [],
+            "text": "<b>Action:</b> Choose a participating character and discard 1 or more cards from your hand. Until the end of the challenge, that character gets -2 STR for each card discarded this way.",
+            "deckLimit": 3,
+            "illustrator": "Wibben"
+        },
+        {
             "code": "15025",
             "type": "character",
             "name": "Delena Florent",
