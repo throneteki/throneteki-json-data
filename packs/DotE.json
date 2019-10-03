@@ -442,6 +442,18 @@
         {
             "code": "15022",
             "type": "event",
+            "name": "Overwhelming Numbers",
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 2,
+            "traits": [],
+            "text": "Play only during a challenge in which you control 2 or more attacking <i>Dothraki</i> characters.\n<b>Action:</b> Put up to 2 <i>Dothraki</i> characters into play from your hand and/or discard pile knelt, participating as attackers. At the end of the challenge, if any of those characters are still in play, return them to your hand. (Max 1 per challenge.)",
+            "deckLimit": 3,
+            "illustrator": "Tomasz Jedruszek"
+        },
+        {
+            "code": "15023",
+            "type": "event",
             "name": "Fire Made Flesh",
             "faction": "targaryen",
             "loyal": false,
@@ -451,18 +463,6 @@
             "flavor": "\"For dragons are fire made flesh, and fire is power.\" <cite>Quaithe of the Shadow</cite>",
             "deckLimit": 3,
             "illustrator": "Jake Murray"
-        },
-        {
-            "code": "15023",
-            "type": "event",
-            "name": "Overwhelming Numbers",
-            "faction": "targaryen",
-            "loyal": true,
-            "cost": 2,
-            "traits": [],
-            "text": "Play only during a challenge in which you control 2 or more attacking <i>Dothraki</i> characters.\n<b>Action:</b> Put up to 2 <i>Dothraki</i> characters into play from your hand and/or discard pile knelt, participating as attackers. At the end of the challenge, if any of those characters are still in play, return them to your hand. (Max 1 per challenge.)",
-            "deckLimit": 3,
-            "illustrator": "Tomasz Jedruszek"
         },
         {
             "code": "15024",
