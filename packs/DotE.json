@@ -29,6 +29,228 @@
             "illustrator": "Aleksander Karcz"
         },
         {
+            "code": "15002",
+            "type": "character",
+            "name": "Drogon",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 7,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 10,
+            "traits": [
+                "Dragon"
+            ],
+            "text": "No attachments.\nEach <i>Stormborn</i> character you control gains renown.\n<b>Reaction:</b> After you win a challenge in which Drogon is attacking, kill each character the defending player controls with STR 1 or lower.",
+            "deckLimit": 3,
+            "illustrator": "Jokubas Uogintas"
+        },
+        {
+            "code": "15003",
+            "type": "character",
+            "name": "Rhaegal",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 7,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 8,
+            "traits": [
+                "Dragon"
+            ],
+            "text": "No attachments.\n<b>Reaction:</b> After you win a challenge in which Rhaegal is attacking, choose and stand another character you control. Then, if that character has the <i>Dragon</i> or <i>Stormborn</i> trait, stand Rhaegal. (Limit once per phase.)",
+            "deckLimit": 3,
+            "illustrator": "Jokubas Uogintas"
+        },
+        {
+            "code": "15004",
+            "type": "character",
+            "name": "Viserion",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 7,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 8,
+            "traits": [
+                "Dragon"
+            ],
+            "text": "No attachments.\nEach <i>Stormborn</i> character you control gains stealth.\nWhile Viserion is attacking, each participating non-<i>Dragon</i>, non-<i>Stormborn</i> characters gets -2 STR.",
+            "deckLimit": 3,
+            "illustrator": "Jokubas Uogintas"
+        },
+        {
+            "code": "15005",
+            "type": "character",
+            "name": "Khal Drogo",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 6,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 6,
+            "traits": [
+                "Dothraki",
+                "Lord"
+            ],
+            "text": "Renown.\n<b>Interrupt:</b> When an <i>Army</i> or <i>Dothraki</i> character would be returned to your hand, discard 1 card from your hand to save it.",
+            "flavor": "\"Come, my blood. The stallions call, this place is ashes. It is time to ride.\"",
+            "deckLimit": 3,
+            "illustrator": "Aleksander Karcz"
+        },
+        {
+            "code": "15006",
+            "type": "character",
+            "name": "Galazza Galare",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 6,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Grace"
+            ],
+            "text": "<b>Reaction:</b> After you marshal Galazza Galare, search the top 10 cards of your deck for, either: a [targaryen] character with printed cost 6 or higher, or up to 3 [targaryen] characters with printed cost 2 or lower. Reveal each searched-for card and add it to your hand. Shuffle your deck.",
+            "deckLimit": 3,
+            "illustrator": "Paolo Puggioni"
+        },
+        {
+            "code": "15007",
+            "type": "character",
+            "name": "Jhogo",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "Bloodrider",
+                "Dothraki"
+            ],
+            "text": "<b>Reaction:</b> After you win a [military] challenge in which you control 2 or more attacking <i>Dothraki</i> characters, move 1 power from the losing opponent's faction card to your own.",
+            "flavor": "\"Khaleesi, we saw him strike you. Would you see the color of his blood?\"",
+            "deckLimit": 3,
+            "illustrator": "Caravan Studio"
+        },
+        {
+            "code": "15008",
+            "type": "character",
+            "name": "The Shavepate",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 5,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "Commander",
+                "Guard"
+            ],
+            "text": "<b>Challenges Action:</b> Pay X gold to put a character with printed cost X or lower into play from your discard pile. (Limit once per phase.)",
+            "flavor": "\"... I say that blood must pay for blood. Take one man from each of the families I have named and kill him. The next time one of yours is slain, take two from each great House and kill them both. There will not be a third murder.\"",
+            "deckLimit": 3,
+            "illustrator": "Paolo Puggioni"
+        },
+        {
+            "code": "15009",
+            "type": "character",
+            "name": "Rakharo",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Bloodrider",
+                "Dothraki"
+            ],
+            "text": "<b>Reaction:</b> After you win a [military] challenge in which you control 2 or more attacking <i>Dothraki</i> characters, discard 1 card at random from the losing opponent's hand.",
+            "flavor": "\"Khaleesi, better a man should swallow scorpions than trust in the spawn of shadows, who dare not show their face beneath the sun. It is known.\"",
+            "deckLimit": 3,
+            "illustrator": "Caravan Studio"
+        },
+        {
+            "code": "15010",
+            "type": "character",
+            "name": "The Titan's Bastard",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Bastard",
+                "Commander",
+                "Mercenary"
+            ],
+            "text": "<b>Action:</b> Kneel The Titan's Bastard to return a <i>Mercenary</i> character from your discard pile to your hand.",
+            "flavor": "\"That one has an evil reputation, even in Westeros. Do not be misled by his manner, Your Grace.\" <cite>Ser Barristan Selmy</cite>",
+            "deckLimit": 3,
+            "illustrator": "Michele Frigo"
+        },
+        {
+            "code": "15011",
+            "type": "character",
+            "name": "Barsena Blackhair",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Pit Fighter"
+            ],
+            "text": "No attachments except <i>Weapon</i>.\nWhile there is a <i>Weapon</i> attachment attached to Barsena Blackhair, she gets +3 STR.",
+            "flavor": "Daenerys would have prohibited contests between women as well, but Barsena Blackhair protested that she had as much right to risk her life as any man.",
+            "deckLimit": 3,
+            "illustrator": "Michele Frigo"
+        },
+        {
             "code": "15012",
             "type": "character",
             "name": "Captain Groleo",
@@ -49,6 +271,126 @@
             "flavor": "At first Groleo had wanted the dragons caged and Dany had consented to put his fears at ease, but their misery was so palpable that she soon changed her mind and insisted they be freed.",
             "deckLimit": 3,
             "illustrator": "Scott Altmann"
+        },
+        {
+            "code": "15013",
+            "type": "character",
+            "name": "Blue Graces",
+            "unique": false,
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "Ally",
+                "Grace"
+            ],
+            "text": "<b>Challenges Action:</b> Remove Blue Graces from the game to choose a card with printed cost 6 or higher in your discard or dead pile and shuffle it into your deck.",
+            "deckLimit": 3,
+            "illustrator": "Paolo Puggioni"
+        },
+        {
+            "code": "15014",
+            "type": "character",
+            "name": "Dothraki Handmaiden",
+            "unique": false,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "Companion",
+                "Dothraki"
+            ],
+            "text": "While you control Daenerys Targaryen, you may marshal facedown cards attached to Dothraki Handmaiden as if they were in your hand.\n<b>Marshaling Action:</b> Reveal an attachment from your hand. Attach it to Dothraki Handmaiden facedown as an attachment.",
+            "deckLimit": 3,
+            "illustrator": "Stephen Stark"
+        },
+        {
+            "code": "15015",
+            "type": "character",
+            "name": "Horselord",
+            "unique": false,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 1,
+            "traits": [
+                "Dothraki"
+            ],
+            "text": "While Horselord is attacking, it gets +1 STR for each other attacking <i>Dothraki</i> character you control.",
+            "flavor": "The horselords might put on rich fabrics and sweet perfumes when they visited the Free Cities, but out under the open sky they kept the old ways.",
+            "deckLimit": 3,
+            "illustrator": "Magali Villeneuve"
+        },
+        {
+            "code": "15016",
+            "type": "character",
+            "name": "Brown Ben Plumm",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 1,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Mercenary"
+            ],
+            "text": "<b>Forced Interrupt:</b> When the challenges phase ends, if you have no gold in your gold pool, sacrifice Brown Ben Plumm.",
+            "flavor": "\"There are old sellswords and bold sellswords, but no old bold sellswords.\"",
+            "deckLimit": 3,
+            "illustrator": "Patrick McEvoy"
+        },
+        {
+            "code": "15017",
+            "type": "location",
+            "name": "Womb of the World",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 4,
+            "traits": [
+                "Essos"
+            ],
+            "text": "<b>Action:</b> Kneel Womb of the World to reveal the top 5 cards of your deck. You may chose a <i>Dothraki</i> character revealed this way and put it into play. Shuffle your deck. At the end of the phase, if that character is still in play, return it to your hand.",
+            "deckLimit": 3,
+            "illustrator": "Zach Graves"
+        },
+        {
+            "code": "15018",
+            "type": "location",
+            "name": "Pentos",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 2,
+            "traits": [
+                "Essos",
+                "Free Cities"
+            ],
+            "text": "<b>Reaction:</b> After you draw an attachment, kneel Pentos to reveal that attachment and put it into play. Then, draw a card.",
+            "flavor": "\"There are orchards, farms, mines ... I own some such myself, though I seldom visit them. Why should I spend my days out here, with the myriad delights of Pentos close at hand?\" <cite>Magister Illyrio</cite>",
+            "deckLimit": 3,
+            "illustrator": "Sebastian Rodriguez"
         },
         {
             "code": "15019",
@@ -82,6 +424,81 @@
             "illustrator": "Julepe"
         },
         {
+            "code": "15021",
+            "type": "attachment",
+            "name": "Pit Fighter's Blade",
+            "unique": false,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Weapon"
+            ],
+            "text": "Attached character gains renown during [military] challenges.",
+            "flavor": "No one wore armor in the fighting pits. It was blood the crowds came for: death, dismemberment, and the shrieks of agony, the music of scarlet sands.",
+            "deckLimit": 3,
+            "illustrator": "Paolo Puggioni"
+        },
+        {
+            "code": "15022",
+            "type": "event",
+            "name": "Overwhelming Numbers",
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 2,
+            "traits": [],
+            "text": "Play only during a challenge in which you control 2 or more attacking <i>Dothraki</i> characters.\n<b>Action:</b> Put up to 2 <i>Dothraki</i> characters into play from your hand and/or discard pile knelt, participating as attackers. At the end of the challenge, if any of those characters are still in play, return them to your hand. (Max 1 per challenge.)",
+            "deckLimit": 3,
+            "illustrator": "Tomasz Jedruszek"
+        },
+        {
+            "code": "15023",
+            "type": "event",
+            "name": "Fire Made Flesh",
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 2,
+            "traits": [],
+            "text": "<b>Marshaling Action:</b> Sacrifice a <i>Hatchling</i> character to search your hand and deck for a <i>Dragon</i> character with the same title and put it into play. Shuffle your deck.",
+            "flavor": "\"For dragons are fire made flesh, and fire is power.\" <cite>Quaithe of the Shadow</cite>",
+            "deckLimit": 3,
+            "illustrator": "Jake Murray"
+        },
+        {
+            "code": "15024",
+            "type": "event",
+            "name": "Incinerate",
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 0,
+            "traits": [],
+            "text": "<b>Action:</b> Choose a participating character and discard 1 or more cards from your hand. Until the end of the challenge, that character gets -2 STR for each card discarded this way.",
+            "deckLimit": 3,
+            "illustrator": "Wibben"
+        },
+        {
+            "code": "15025",
+            "type": "character",
+            "name": "Delena Florent",
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "House Florent",
+                "Lady"
+            ],
+            "text": "During the challenges phase, non-<i>Bastard</i> characters cannot stand.\n<b>Reaction:</b> After Delena Florent enters play, search your deck for a <i>Bastard</i> character, reveal it, and add it to your hand. Shuffle your deck.",
+            "deckLimit": 3,
+            "illustrator": "Andeia Ugrai"
+        },
+        {
             "code": "15026",
             "type": "character",
             "name": "Dragonstone Convert",
@@ -102,6 +519,44 @@
             "text": "<b>Challenges Action:</b> Name an event. Until the end of the phase, events with that title cannot be played. (Limit once per phase.)",
             "deckLimit": 3,
             "illustrator": "Magali Villeneuve"
+        },
+        {
+            "code": "15027",
+            "type": "character",
+            "name": "Hotho Humpback",
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "House Harlaw"
+            ],
+            "text": "<b>Challenges Action:</b> Each player draws 1 card. Each player checks reserve. (Limit once per round.)",
+            "flavor": "\"Rodrik has no daughters, only books. Hotho will be his heir, and I will be the king.\" <cite>Victarion Greyjoy</cite>",
+            "deckLimit": 3,
+            "illustrator": "Quintin Gleim"
+        },
+        {
+            "code": "15028",
+            "type": "location",
+            "name": "Ten Towers Galley",
+            "unique": false,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "House Harlaw",
+                "Warship"
+            ],
+            "text": "While Ten Towers Galley is standing, reduce the reserve value on each opponent's revealed plot by 1.\n<b>Action:</b> Kneel a location with printed cost 2 or higher to kneel Ten Towers Galley. Any player may initiate this ability.",
+            "deckLimit": 3,
+            "illustrator": "Juan Carlos Barquet"
         },
         {
             "code": "15029",
@@ -142,7 +597,175 @@
             "illustrator": "Logan Feliciano"
         },
         {
-            "code": "15041",
+            "code": "15031",
+            "type": "character",
+            "name": "Spotted Sylva",
+            "unique": true,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "House Santagar",
+                "Lady"
+            ],
+            "text": "<b>Forced Reaction:</b> After you lose a challenge in which Spotted Sylva is attacking, each player must choose a participating character he or she controls, if able, and return it to its owner's hand.",
+            "flavor": "\"I should be honored if you'd let me serve you.\"",
+            "deckLimit": 3,
+            "illustrator": "Michele Frigo"
+        },
+        {
+            "code": "15032",
+            "type": "event",
+            "name": "Choosing the Spear",
+            "faction": "martell",
+            "loyal": false,
+            "cost": 0,
+            "traits": [],
+            "text": "<b>Reaction:</b> After a [martell] character you control is declared as an attacker in a [military] challenge, raise the claim value on your revealed plot card by 1 until the end of the challenge. If you lose the challenge, choose and kill a character you control. (Max 1 per challenge.)",
+            "deckLimit": 3
+        },
+        {
+            "code": "15033",
+            "type": "character",
+            "name": "Clydas",
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Steward"
+            ],
+            "text": "<b>Action:</b> Move 1 gold from an opponent's gold pool to your own. (Limit once per phase.)",
+            "flavor": "\"I am being foolish, Lord Commander, but ... this letter frightens me.\"",
+            "deckLimit": 3,
+            "illustrator": "Michele Frigo"
+        },
+        {
+            "code": "15034",
+            "type": "attachment",
+            "name": "Cage of Ravens",
+            "unique": false,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Item",
+                "Raven"
+            ],
+            "text": "<i>Steward</i> character only.\n<b>Action:</b> Kneel Cage of Ravens to put a card with printed cost 1 or lower into play from your hand.",
+            "deckLimit": 3,
+            "illustrator": "Sebastian Rodriguez"
+        },
+        {
+            "code": "15035",
+            "type": "character",
+            "name": "Wylla Manderly",
+            "unique": true,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "House Manderly",
+                "Lady"
+            ],
+            "text": "<b>Reaction:</b> After a character you control is sacrificed or killed, choose another card in your discard pile and place it on the bottom of your deck. (Limit once per phase.)",
+            "flavor": "\"He was our king! He was brave and good, and the Freys murdered him. If Lord Stannis will avenge him, we should join Lord Stannis.\"",
+            "deckLimit": 3,
+            "illustrator": "Sara Biddle"
+        },
+        {
+            "code": "15036",
+            "type": "event",
+            "name": "Fight to the Last",
+            "faction": "stark",
+            "loyal": false,
+            "cost": 0,
+            "traits": [],
+            "text": "<b>Interrupt:</b> When a character you control would be killed, save it, stand it, and set its STR to 1 until the end of the phase. At the end of the phase, if that character is still in play, kill it (cannot be saved).",
+            "flavor": "Crossbow bolts thudded into the wood, one two three, as he flung it down on top of his king.",
+            "deckLimit": 3,
+            "illustrator": "Sebastian Rodriguez"
+        },
+        {
+            "code": "15037",
+            "type": "character",
+            "name": "Mathis Rowan",
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Lord",
+                "Small Council"
+            ],
+            "text": "<b>Action:</b> Choose an opponent and a character, location, or attachment you control. That player takes control of that card. Then, gain 2 gold. (Limit once per round.)",
+            "flavor": "\"Mathis Rowan is sensible, prudent, well liked...\" <cite>Ser Kevan Lannister</cite>",
+            "deckLimit": 3,
+            "illustrator": "Adam Lane"
+        },
+        {
+            "code": "15038",
+            "type": "attachment",
+            "name": "Champion's Favor",
+            "unique": false,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 0,
+            "traits": [
+                "Item"
+            ],
+            "text": "<i>Lady</i> character only.\n<b>Action:</b> Kneel attached character to choose a participating non-<i>Lady</i> character and give it +X STR until the end of the challenge. X is 2 higher than attached character's STR.",
+            "deckLimit": 3
+        },
+        {
+            "code": "15039",
+            "type": "character",
+            "name": "Lysa Arryn",
+            "unique": true,
+            "faction": "neutral",
+            "cost": 6,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "House Arryn",
+                "House Tully",
+                "Lady"
+            ],
+            "text": "<b>Interrupt:</b> When Lysa Arryn is killed, choose another character, location, or attachment and remove it from the game.",
+            "flavor": "\"We keep no headsman in the Eyrie, my lord of Lannister. Open the Moon Door.\"",
+            "deckLimit": 3,
+            "illustrator": "Mark Behm"
+        },
+        {
+            "code": "15040",
             "type": "character",
             "name": "Tormund Giantsbane",
             "unique": true,
@@ -161,6 +784,207 @@
             "text": "Intimidate.\n<b>Reaction:</b> After you win a challenge in which Tormund Giantsbane is participating, place a tale token on him.\n<b>Action:</b> Discard 1 tale token from Tormund Giantsbane to give a <i>Wildling</i> character +2 STR and renown until the end of the phase.",
             "deckLimit": 3,
             "illustrator": "Ryan Valle"
+        },
+        {
+            "code": "15041",
+            "type": "character",
+            "name": "Archmaester Marwyn",
+            "unique": true,
+            "faction": "neutral",
+            "cost": 5,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Maester"
+            ],
+            "text": "Once per phase, you may marshal or play a facedown card under your agenda as if it were in your hand.\n<b>Reaction:</b> After Archmaester Marwyn enters play, place the top 2 cards of your deck facedown under your agenda.",
+            "deckLimit": 3,
+            "illustrator": "Tiziano Baracchi"
+        },
+        {
+            "code": "15042",
+            "type": "location",
+            "name": "Braavos",
+            "unique": true,
+            "faction": "neutral",
+            "cost": 3,
+            "traits": [
+                "Essos",
+                "Free Cities"
+            ],
+            "text": "<b>Marshaling Action:</b> Kneel Braavos to gain X gold. X is the number of different factions among characters you control.",
+            "flavor": "The Titan of Braavos ... was a giant as tall as a mountain, and whenever Braavos stood in danger he would wake with fire in his eyes, his rocky limbs grinding and groaning as he waded out into the sea to smash the enemies.",
+            "deckLimit": 3,
+            "illustrator": "Juan Carlos Barquet"
+        },
+        {
+            "code": "15043",
+            "type": "attachment",
+            "name": "Water Dancer's Sword",
+            "unique": false,
+            "faction": "neutral",
+            "cost": 1,
+            "traits": [
+                "Weapon"
+            ],
+            "text": "Character with printed STR 3 or lower only. Ambush (1).\nAttached character gets +2 STR.\n<b>Forced Interrupt:</b> When the challenges phase ends, return Water Dancer's Sword to hand.",
+            "deckLimit": 3,
+            "illustrator": "JB Casacop"
+        },
+        {
+            "code": "15044",
+            "type": "event",
+            "name": "Lay Waste",
+            "faction": "neutral",
+            "cost": 1,
+            "traits": [],
+            "text": "<b>Dominance Action:</b> Choose a non-limited location or attachment and discard it from play. Then, that card's owner may search his or her deck for a location or attachment with lower printed cost, put it into play, and shuffle his or her deck.",
+            "deckLimit": 3,
+            "illustrator": "JB Casacop"
+        },
+        {
+            "code": "15045",
+            "type": "event",
+            "name": "Bribery",
+            "faction": "neutral",
+            "cost": "X",
+            "traits": [],
+            "text": "<b>Action:</b> Choose and kneel a character with printed cost X or lower. If that character has the <i>Ally</i> or <i>Mercenary</i> trait, you may take control of it instead.",
+            "flavor": "The gaoler's eyes had gone big as boiled eggs as he yanked open the drawstring and beheld the glint of gold.",
+            "deckLimit": 3,
+            "illustrator": "Quintin Gleim"
+        },
+        {
+            "code": "15046",
+            "type": "plot",
+            "name": "Fury of the Khalasar",
+            "faction": "targaryen",
+            "loyal": true,
+            "plotStats": {
+                "income": 3,
+                "initiative": 4,
+                "claim": 2,
+                "reserve": 4
+            },
+            "traits": [
+                "War"
+            ],
+            "text": "<b>Reaction:</b> After the challenges phase begins, put a <i>Dothraki</i> character into play from your hand. At the end of the phase, if that card is still in play, return it to your hand.",
+            "deckLimit": 1,
+            "illustrator": "Tomasz Jedruszek"
+        },
+        {
+            "code": "15047",
+            "type": "plot",
+            "name": "The Lost Message",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 5,
+                "initiative": 3,
+                "claim": 1,
+                "reserve": 7
+            },
+            "traits": [
+                "Scheme"
+            ],
+            "text": "<b>Action:</b> Each player shuffles his or her hand into his or her deck. Then, each player adds the top X cards of his or her deck to his or her hand. X is the number of cards he or she shuffled this way. (Limit once per round.)",
+            "deckLimit": 2,
+            "illustrator": "Ian Kirkpatrick"
+        },
+        {
+            "code": "15048",
+            "type": "plot",
+            "name": "The White Swords",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 4,
+                "initiative": 6,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "Kingsguard"
+            ],
+            "text": "<b>When Revealed:</b> You may put a <i>Kingsguard</i> character into play from your hand or discard pile.",
+            "deckLimit": 2,
+            "illustrator": "Alexandre Dainche"
+        },
+        {
+            "code": "15049",
+            "type": "plot",
+            "name": "Champion's Challenge",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 4,
+                "initiative": 2,
+                "claim": 1,
+                "reserve": 5
+            },
+            "traits": [
+                "War"
+            ],
+            "text": "<b>Reaction:</b> After an opponent initiates a challenge against you, kneel a character with the highest STR among character you control to end the challenge with no winner or loser. (Limit once per phase.)",
+            "deckLimit": 1,
+            "illustrator": "Charles Urbach"
+        },
+        {
+            "code": "15050",
+            "type": "plot",
+            "name": "At the Palace of Sorrows",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 5,
+                "initiative": 7,
+                "claim": 1,
+                "reserve": 5
+            },
+            "traits": [
+                "Omen"
+            ],
+            "text": "Set each character's STR to 3.",
+            "deckLimit": 2,
+            "illustrator": "Dimitri Bielak"
+        },
+        {
+            "code": "15051",
+            "type": "plot",
+            "name": "Loan from the Iron Bank",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 10,
+                "initiative": 1,
+                "claim": 1,
+                "reserve": 5
+            },
+            "traits": [
+                "Kingdom"
+            ],
+            "text": "While Loan from the Iron Bank is in your used pile, reduce the gold value on your revealed plot by 1.",
+            "deckLimit": 2,
+            "illustrator": "Brenda Bae"
+        },
+        {
+            "code": "15052",
+            "type": "plot",
+            "name": "The Prince Who Came Too Late",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 1,
+                "initiative": 1,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "Legacy",
+                "Noble"
+            ],
+            "text": "<b>Standing Action:</b> Search your deck for a character and put it into play. Shuffle your deck. (Limit once per round.)",
+            "deckLimit": 2,
+            "illustrator": "Ian Kirkpatrick"
         }
     ]
 }
