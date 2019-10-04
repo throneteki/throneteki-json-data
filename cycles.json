@@ -140,5 +140,12 @@
         "packs": [
             "DotE"
         ]
+    },
+    {
+        "id": "premium",
+        "name": "Premium Packs",
+        "packs": [
+            "TTWDFL"
+        ]
     }
 ]
