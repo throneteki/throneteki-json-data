@@ -1,0 +1,109 @@
+{
+    "cgdbId": 54,
+    "code": "TTWDFL",
+    "name": "The Things We Do For Love",
+    "releaseDate": null,
+    "cards": [
+        {
+            "code": "16011",
+            "type": "character",
+            "name": "Catelyn Stark",
+            "unique": true,
+            "faction": "stark",
+            "loyal": true,
+            "cost": 4,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "House Tully",
+                "Lady"
+            ],
+            "text": "<b>Action:</b> During an [intrigue] or [power] challenge in which you are the defending player, put Catleyn Stark into play from your hand knelt, participating as a defender. At the end of the phase, if Catelyn Stark is still in play, return her to your hand.",
+            "deckLimit": 3,
+            "illustrator": "Mark Evans"
+        },
+        {
+            "code": "16013",
+            "type": "character",
+            "name": "Mad King Aerys",
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 5,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "King",
+                "Lord"
+            ],
+            "text": "Prized 1. Renown.\nMad King Aerys cannot be killed unless an opponent controls a <i>Lord</i> or <i>Lady</i> character, or Ser Jaime Lannister.\n<b>Dominance Action:</b> Kneel Mad King Aerys to choose and kill a <i>Lord</i> or <i>Lady</i> character. (Limit once per round.)",
+            "designer": "Card design by 2012 Joust World Champion, John Bruno.",
+            "deckLimit": 3,
+            "illustrator": "Jake Murray"
+        },
+        {
+            "code": "16017",
+            "type": "character",
+            "name": "Littlefinger",
+            "unique": true,
+            "faction": "neutral",
+            "cost": 6,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Ally",
+                "Lord"
+            ],
+            "text": "Stealth.\nLittlefinger does not kneel when declared as an attacker.\n<b>Interrupt:</b> When the effects of an event would initiate, kneel Littlefinger to cancel those effects.",
+            "deckLimit": 3,
+            "illustrator": "Franz Vohwinkel"
+        },
+        {
+            "code": "16021",
+            "type": "location",
+            "name": "Harrenhal",
+            "unique": true,
+            "faction": "neutral",
+            "cost": 3,
+            "traits": [
+                "Contested",
+                "Westeros"
+            ],
+            "text": "Prized 2.\nIf Harrenhal has 3 or more ghost tokens on it, sacrifice it.\n<b>Interrupt:</b> When the effects of a non-plot, non-agenda triggered ability would initiate, kill a character you own and control to cancel those effects. Place a ghost token on Harrenhal. (Limit once per phase.)",
+            "deckLimit": 3,
+            "illustrator": "Lino Drieghe"
+        },
+        {
+            "code": "16028",
+            "type": "agenda",
+            "name": "Dark Wings, Dark Words",
+            "faction": "neutral",
+            "traits": [],
+            "text": "Your minimum deck size is 75 cards. You cannot include more than 1 copy of each event in your deck.\n<b>Reaction:</b> After you play an event, draw 1 card. (Limit 3 times per round.)",
+            "designer": "Card design by 2011 Melee World Champion, Corey Faherty.",
+            "deckLimit": 3,
+            "illustrator": "Tiziano Baracchi"
+        },
+        {
+            "code": "16030",
+            "type": "agenda",
+            "name": "The Long Voyage",
+            "faction": "neutral",
+            "traits": [],
+            "text": "Your minimum deck size is 100 cards.\n<b>Reaction:</b> After you draw cards in the draw phase, kneel your faction card to draw 1 card.",
+            "deckLimit": 3
+        }
+    ]
+}
