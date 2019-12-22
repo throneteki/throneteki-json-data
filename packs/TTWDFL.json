@@ -86,6 +86,16 @@
             "illustrator": "Lino Drieghe"
         },
         {
+            "code": "16023",
+            "type": "event",
+            "name": "Heads on Pikes",
+            "faction": "neutral",
+            "cost": 2,
+            "traits": [],
+            "text": "Prized 2.\n<b>Dominance Action:</b> For each character in his or her dead pile, each opponent discards the top 2 cards of his or her deck. (Max 1 per round.)",
+            "deckLimit": 3
+        },
+        {
             "code": "16028",
             "type": "agenda",
             "name": "Dark Wings, Dark Words",
