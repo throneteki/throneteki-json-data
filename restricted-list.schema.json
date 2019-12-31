@@ -21,11 +21,19 @@
                     "pattern": "^[0-9]{5}$"
                 }
             },
+            "bannedCards": {
+                "type": "array",
+                "items": {
+                    "type": "string",
+                    "pattern": "^[0-9]{5}$"
+                }
+            },
             "version": {
                 "type": "string"
             }
         },
         "required": [
+            "bannedCards",
             "date",
             "joustCards",
             "meleeCards",
