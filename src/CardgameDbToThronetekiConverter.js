@@ -9,7 +9,7 @@ class CardgameDbToThronetekiConverter {
 
         return this.getCGDBData(pack.cgdbId)
             .then(cards => {
-                let currentPackCards = cards.filter(card => this.cleanUpField(card.setname) === pack.name).map(card => this.convertCard(card));
+                let currentPackCards = cards.filter(card => this.cleanUpField(card.setname).toLowerCase() === pack.name.toLowerCase()).map(card => this.convertCard(card));
                 currentPackCards.sort((a, b) => a.code < b.code ? -1 : 1);
 
                 if(currentPackCards.length == 0) {
