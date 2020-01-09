@@ -5,6 +5,191 @@
     "releaseDate": "2020-01-10",
     "cards": [
         {
+            "code": "16001",
+            "type": "character",
+            "name": "Ser Davos Seaworth",
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": true,
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "Knight"
+            ],
+            "text": "Ser Davos Seaworth cannot be killed.",
+            "flavor": "\"A grey man... neither white nor black, but partaking of both. Is that what you are, Ser Davos?\" <cite>Melisandre</cite>",
+            "deckLimit": 3,
+            "illustrator": "Chris Dien"
+        },
+        {
+            "code": "16002",
+            "type": "attachment",
+            "name": "Melisandre's Favor",
+            "unique": false,
+            "faction": "baratheon",
+            "loyal": true,
+            "cost": 4,
+            "traits": [
+                "R'hllor"
+            ],
+            "text": "Terminal.\nTake control of attached character.\n<b>Forced Interrupt:</b> When the dominance phase ends, sacrifice Melisandre's Favor. (Cannot be canceled.)",
+            "deckLimit": 3,
+            "illustrator": "Sara Biddle"
+        },
+        {
+            "code": "16003",
+            "type": "character",
+            "name": "Wintertime Marauders",
+            "unique": false,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Army",
+                "Ironborn"
+            ],
+            "text": "While there are more <i>Summer</i> plot cards than <i>Winter</i> plot cards revealed, Wintertime Marauders cannot be declared as an attacker or defender.\n<b>Reaction:</b> After you win a challenge in which Wintertime Marauders is participating, if there are more <i>Winter</i> plot cards than <i>Summer</i> plot cards revealed, choose a non-unique card and discard it from play.",
+            "deckLimit": 3,
+            "illustrator": "Tomasz Jedruszek"
+        },
+        {
+            "code": "16004",
+            "type": "attachment",
+            "name": "Conquer",
+            "unique": false,
+            "faction": "greyjoy",
+            "loyal": true,
+            "cost": 2,
+            "traits": [
+                "Condition"
+            ],
+            "text": "Non-unique location only.\nTake control of attached location.",
+            "deckLimit": 3,
+            "illustrator": "Thomas Denmark"
+        },
+        {
+            "code": "16005",
+            "type": "character",
+            "name": "Spider's Whisperer",
+            "unique": false,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Ally"
+            ],
+            "text": "<b>Forced Reaction:</b> After Spider's Whisperer enters play, choose an <i>Ally</i> character and discard it from play.",
+            "flavor": "\"The Red Keep has ways known only to ghosts and spiders.\" <cite>Varys</cite>",
+            "deckLimit": 3,
+            "illustrator": "Alexander Petkov"
+        },
+        {
+            "code": "16006",
+            "type": "event",
+            "name": "Wheels Within Wheels",
+            "faction": "lannister",
+            "loyal": true,
+            "cost": 3,
+            "traits": [],
+            "text": "<b>Action:</b> Kneel a unique [lannister] character to choose and reveal a new plot card. (Max 1 per round.)",
+            "flavor": "\"Sometimes the best way to baffle them is to make moves that have no purpose, or even seem to work against you. Remember that, Sansa, when you come to play the game.\" <cite>Littlefinger</cite>",
+            "deckLimit": 3,
+            "illustrator": "Jason Engle"
+        },
+        {
+            "code": "16007",
+            "type": "character",
+            "name": "Prince's Loyalist",
+            "unique": false,
+            "faction": "martell",
+            "loyal": true,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 4,
+            "traits": [
+                "Ally"
+            ],
+            "text": "Prized 1. Stealth. Immune to events.\n<b>Interrupt:</b> When the effects of a triggered character ability would initiate, pay 2 gold to cancel those effects.",
+            "deckLimit": 3,
+            "illustrator": "Rafal Hrynkiewicz"
+        },
+        {
+            "code": "16008",
+            "type": "event",
+            "name": "You Murdered Her Children",
+            "faction": "martell",
+            "loyal": true,
+            "cost": 2,
+            "traits": [],
+            "text": "<b>Reaction:</b> After you lose a challenge as the defending player, choose an attacking character and discard it from play (cannot be saved). Then, search its controller's hand and deck for any number of copies of that character and discard them. Shuffle that player's deck.",
+            "deckLimit": 3,
+            "illustrator": "Mark Bulahao"
+        },
+        {
+            "code": "16009",
+            "type": "character",
+            "name": "Samwell Tarly",
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 1,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 1,
+            "traits": [
+                "Steward"
+            ],
+            "text": "No attachments except <i>Raven</i>.\n<b>Action:</b> Kneel Samwell Tarly to look at the top 4 cards of your deck. Switch one of those cards with a card in your hand, if able. Then, place the remaining cards on top of your deck in any order.",
+            "deckLimit": 3,
+            "illustrator": "Natascha Roeoesli"
+        },
+        {
+            "code": "16010",
+            "type": "character",
+            "name": "Old Bear Mormont",
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": true,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "Commander",
+                "Lord"
+            ],
+            "text": "<b>Action:</b> Kneel Old Bear Mormont to choose and stand another [thenightswatch] or <i>Lord</i> character.\n<b>Reaction:</b> After a character you control is killed, stand Old Bear Mormont.",
+            "deckLimit": 3,
+            "illustrator": "John Matson"
+        },
+        {
             "code": "16011",
             "type": "character",
             "name": "Catelyn Stark",
@@ -22,9 +207,24 @@
                 "House Tully",
                 "Lady"
             ],
-            "text": "<b>Action:</b> During an [intrigue] or [power] challenge in which you are the defending player, put Catleyn Stark into play from your hand knelt, participating as a defender. At the end of the phase, if Catelyn Stark is still in play, return her to your hand.",
+            "text": "<b>Action:</b> During an [intrigue] or [power] challenge in which you are the defending player, put Catelyn Stark into play from your hand knelt, participating as a defender. At the end of the phase, if Catelyn Stark is still in play, return her to your hand.",
             "deckLimit": 3,
             "illustrator": "Mark Evans"
+        },
+        {
+            "code": "16012",
+            "type": "location",
+            "name": "Snow Castle",
+            "unique": true,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "House Arryn"
+            ],
+            "text": "<b>Action:</b> Kneel Snow Castle to choose a [stark] character. Until the end of the phase, that character gets +1 STR for each [stark] character you control.",
+            "deckLimit": 3,
+            "illustrator": "Erica Lyn Huppe"
         },
         {
             "code": "16013",
@@ -50,6 +250,54 @@
             "illustrator": "Jake Murray"
         },
         {
+            "code": "16014",
+            "type": "event",
+            "name": "The Hatchlings' Feast",
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 2,
+            "traits": [],
+            "text": "<b>Action:</b> Choose 3 characters without attachments. Until the end of the phase, one of those characters gets -1 STR, one gets -2 STR, and one gets -3 STR.",
+            "deckLimit": 3,
+            "illustrator": "Raya Golden"
+        },
+        {
+            "code": "16015",
+            "type": "character",
+            "name": "The Queen of Thorns",
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Lady"
+            ],
+            "text": "While The Queen of Thorns is standing, opponents cannot initiate [intrigue] challenges against you.",
+            "deckLimit": 3,
+            "illustrator": "Anders Finer"
+        },
+        {
+            "code": "16016",
+            "type": "location",
+            "name": "Olenna's Study",
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 3,
+            "traits": [
+                "Highgarden"
+            ],
+            "text": "Each player may initiate an additional [intrigue] challenge each round.\nNon-unique characters cannot be declared as attackers or defenders in [intrigue] challenges.",
+            "deckLimit": 3,
+            "illustrator": "Jonny Klein"
+        },
+        {
             "code": "16017",
             "type": "character",
             "name": "Littlefinger",
@@ -71,6 +319,59 @@
             "illustrator": "Franz Vohwinkel"
         },
         {
+            "code": "16018",
+            "type": "character",
+            "name": "Vale Refugee",
+            "unique": false,
+            "faction": "neutral",
+            "cost": 0,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 1,
+            "traits": [
+                "Ally",
+                "House Arryn"
+            ],
+            "text": "<b>Forced Reaction:</b> After dominance is determined, if you did not win, discard Vale Refugee from play unless you pay 2 gold.",
+            "flavor": "\"No one can hurt me as long as I stay here.\" <cite>Robert Arryn</cite>",
+            "deckLimit": 3,
+            "illustrator": "Mike Capprotti"
+        },
+        {
+            "code": "16019",
+            "type": "location",
+            "name": "High Ground",
+            "unique": false,
+            "faction": "neutral",
+            "cost": 1,
+            "traits": [
+                "Westeros"
+            ],
+            "text": "<b>Challenges Action:</b> Kneel High Ground to choose and stand an <i>Army</i> character.",
+            "flavor": "Lord Tywin almost always chose to command the reserve; he would take the high ground and watch the battle unfold below him, committing his forces when and where they were needed most.",
+            "deckLimit": 3,
+            "illustrator": "Carlo Bocchio"
+        },
+        {
+            "code": "16020",
+            "type": "location",
+            "name": "King's Landing",
+            "unique": true,
+            "faction": "neutral",
+            "cost": 3,
+            "traits": [
+                "Contested",
+                "King's Landing"
+            ],
+            "text": "<b>Reaction:</b> After you marshal a location, draw 1 card. (Limit 3 times per round.)",
+            "flavor": "Now the city covered the shore as far as Catelyn could see; manses and arobrs and granaries, brick storehouses and timbered inns and merchant's stalls, taverns and graveyards and brothels, all piled one on another.",
+            "deckLimit": 3,
+            "illustrator": "Martina Pilceroya"
+        },
+        {
             "code": "16021",
             "type": "location",
             "name": "Harrenhal",
@@ -86,6 +387,20 @@
             "illustrator": "Lino Drieghe"
         },
         {
+            "code": "16022",
+            "type": "attachment",
+            "name": "Sky Cell",
+            "unique": false,
+            "faction": "neutral",
+            "cost": 2,
+            "traits": [
+                "House Arryn"
+            ],
+            "text": "Terminal.\n<b>Forced Interrupt:</b> When attached character's controller would draw 1 or more cards, kneel attached character. Then, that player draws 1 less card instead.\nAttached character gains \"<b>Action:</b> Kill this character (cannot be saved).\"",
+            "deckLimit": 3,
+            "illustrator": "Thomas Denmark"
+        },
+        {
             "code": "16023",
             "type": "event",
             "name": "Heads on Pikes",
@@ -93,7 +408,54 @@
             "cost": 2,
             "traits": [],
             "text": "Prized 2.\n<b>Dominance Action:</b> For each character in his or her dead pile, each opponent discards the top 2 cards of his or her deck. (Max 1 per round.)",
-            "deckLimit": 3
+            "flavor": "... even from a distance she could see the heads rotting atop the high red walls.",
+            "deckLimit": 3,
+            "illustrator": "Bjarne Hansen"
+        },
+        {
+            "code": "16024",
+            "type": "event",
+            "name": "Narrow Escape",
+            "faction": "neutral",
+            "cost": 0,
+            "traits": [],
+            "text": "<b>Action:</b> Put each character that was killed or discarded from play this phase into play from its owner's dead or discard pile. An opponent may discard his or her hand (of at least 1 card) to cancel this effect. (Max 1 per phase.)",
+            "deckLimit": 3,
+            "illustrator": "Sedone Thongvilay"
+        },
+        {
+            "code": "16025",
+            "type": "event",
+            "name": "Seductive Promise",
+            "faction": "neutral",
+            "cost": 1,
+            "traits": [],
+            "text": "<b>Reaction:</b> After you win a [power] challenge by 5 or more STR, choose a non-unique character controlled by the losing opponent. Take control of that character. (Max 1 per challenge.)",
+            "deckLimit": 3,
+            "illustrator": "Andrew Navaro"
+        },
+        {
+            "code": "16026",
+            "type": "event",
+            "name": "Westeros Bleeds",
+            "faction": "neutral",
+            "cost": 4,
+            "traits": [],
+            "text": "<b>Dominance Action:</b> Discard each character from play.",
+            "flavor": "When the old king was still alive, he'd not have stood for this.",
+            "deckLimit": 3,
+            "illustrator": "Thomas Denmark"
+        },
+        {
+            "code": "16027",
+            "type": "agenda",
+            "name": "Aloof and Apart",
+            "faction": "neutral",
+            "traits": [
+                "House Arryn"
+            ],
+            "text": "Reduce the cost of the first character with printed cost 6 or higher you marshal each round by 2.\nEach character you control with printed cost 6 or higher gains prized 1.",
+            "deckLimit": 1
         },
         {
             "code": "16028",
@@ -101,10 +463,20 @@
             "name": "Dark Wings, Dark Words",
             "faction": "neutral",
             "traits": [],
-            "text": "Your minimum deck size is 75 cards. You cannot include more than 1 copy of each event in your deck.\n<b>Reaction:</b> After you play an event, draw 1 card. (Limit 3 times per round.)",
+            "text": "Your minimum deck size is 75 cards. You cannot include more than 1 copy of each event  in your deck.\n<b>Reaction:</b> After you play an event, draw 1 card. (Limit 3 times per round.)",
             "designer": "Card design by 2011 Melee World Champion, Corey Faherty.",
-            "deckLimit": 3,
+            "deckLimit": 1,
             "illustrator": "Tiziano Baracchi"
+        },
+        {
+            "code": "16029",
+            "type": "agenda",
+            "name": "Knights of the Realm",
+            "faction": "neutral",
+            "traits": [],
+            "text": "While you control more <i>Knight</i> characters than each other player, increase the number of cards you draw in the draw phase by 1.\nWhile you control fewer <i>Knight</i> characters than each other player, reduce the number of cards you draw in the draw phase by 1.",
+            "deckLimit": 1,
+            "illustrator": "Brian Schomburg"
         },
         {
             "code": "16030",
@@ -113,7 +485,117 @@
             "faction": "neutral",
             "traits": [],
             "text": "Your minimum deck size is 100 cards.\n<b>Reaction:</b> After you draw cards in the draw phase, kneel your faction card to draw 1 card.",
-            "deckLimit": 3
+            "deckLimit": 1
+        },
+        {
+            "code": "16031",
+            "type": "plot",
+            "name": "Benjen's Cache",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 2,
+                "initiative": 0,
+                "claim": 1,
+                "reserve": 5
+            },
+            "traits": [
+                "Kingdom",
+                "Winter"
+            ],
+            "text": "<b>When Revealed:</b> If there are no <i>Kingdom</i> plot cards in your used pile, search your deck for a card and add it to your hand. Shuffle your deck.",
+            "deckLimit": 1,
+            "illustrator": "Carlo Bocchio"
+        },
+        {
+            "code": "16032",
+            "type": "plot",
+            "name": "Rioting",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 3,
+                "initiative": 0,
+                "claim": 1,
+                "reserve": 5
+            },
+            "traits": [
+                "Kingdom"
+            ],
+            "text": "<b>Forced Reaction:</b> After the standing phase begins, discard each kneeling character from play (cannot be saved).",
+            "deckLimit": 1,
+            "illustrator": "Thomas Denmark"
+        },
+        {
+            "code": "16033",
+            "type": "plot",
+            "name": "Rule By Decree",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 5,
+                "initiative": 4,
+                "claim": 1,
+                "reserve": 5
+            },
+            "traits": [
+                "Edict"
+            ],
+            "text": "<b>When Revealed:</b> Each player with the most cards in hand chooses and discards cards from his or her hand until he or she has 4 cards in hand.",
+            "deckLimit": 1,
+            "illustrator": "Mark Evans"
+        },
+        {
+            "code": "16034",
+            "type": "plot",
+            "name": "Search and Detain",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 5,
+                "initiative": 5,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "Edict"
+            ],
+            "text": "<b>When Revealed:</b> Choose a card without attachments controlled by the first player. Return it to its owner's hand (cannot be saved).",
+            "deckLimit": 1,
+            "illustrator": "Anna Christenson"
+        },
+        {
+            "code": "16035",
+            "type": "plot",
+            "name": "The Art of Seduction",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 3,
+                "initiative": 2,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "Noble"
+            ],
+            "text": "<b>When Revealed:</b> Choose an opponent. That opponent cannot reveal a new plot card during the next plot phase.",
+            "deckLimit": 1,
+            "illustrator": "Michael Koch"
+        },
+        {
+            "code": "16036",
+            "type": "plot",
+            "name": "The Gathering Storm",
+            "faction": "neutral",
+            "plotStats": {
+                "income": 6,
+                "initiative": 8,
+                "claim": 2,
+                "reserve": 6
+            },
+            "traits": [
+                "Omen",
+                "Summer"
+            ],
+            "text": "<b>When Revealed:</b> Each opponent may return his or her revealed plot card to his or her plot deck and reveal a new plot card.",
+            "deckLimit": 1,
+            "illustrator": "Carlo Bocchio"
         }
     ]
 }
