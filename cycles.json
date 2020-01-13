@@ -3,7 +3,9 @@
         "id": "variants",
         "name": "Variants",
         "packs": [
-            "VDS"
+            "VDS",
+            "VKm",
+            "VHotK"
         ]
     },
     {
