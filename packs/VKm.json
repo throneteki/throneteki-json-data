@@ -1,0 +1,88 @@
+{
+    "cgdbId": null,
+    "code": "VKm",
+    "name": "Kingsmoot Variant",
+    "releaseDate": "2018-11-01",
+    "cards": [
+        {
+            "code": "00022",
+            "type": "title",
+            "name": "The Knight",
+            "faction": "neutral",
+            "traits": [],
+            "text": "<b>Forced Reaction:</b> After an opponent wins a [power] challenge against you, that opponent takes control of The Knight.\n+1 STR [power]",
+            "deckLimit": 1,
+            "illustrator": "Paolo Puggioni"
+        },
+        {
+            "code": "00023",
+            "type": "title",
+            "name": "Captain of the Iron Fleet",
+            "faction": "neutral",
+            "traits": [],
+            "text": "<b>Forced Reaction:</b> After an opponent wins a [military] challenge against you, that opponent takes control of Captain of the Iron Fleet.\n+1 STR [military]",
+            "deckLimit": 1,
+            "illustrator": "Alexandre Dainche"
+        },
+        {
+            "code": "00024",
+            "type": "title",
+            "name": "The Reader",
+            "faction": "neutral",
+            "traits": [],
+            "text": "<b>Forced Reaction:</b> After an opponent wins a [intrigue] challenge against you, that opponent takes control of The Reader.\n+1 STR [intrigue]",
+            "deckLimit": 1,
+            "illustrator": "Nacho Molina"
+        },
+        {
+            "code": "00025",
+            "type": "title",
+            "name": "Priest of the Drowned God",
+            "faction": "neutral",
+            "traits": [],
+            "text": "Each gold in your gold pool contributes 1 additional STR to your total for dominance.\n<b>Forced Reaction:</b> After an opponent wins dominance, that opponent takes control of Priest of the Drowned God.",
+            "deckLimit": 1,
+            "illustrator": "Nacho Molina"
+        },
+        {
+            "code": "00026",
+            "type": "title",
+            "name": "Heir to the Iron Islands",
+            "faction": "neutral",
+            "traits": [],
+            "text": "<b>Reaction:</b> After you win a unopposed challenge, gain 1 power for your faction.\n<b>Forced Reaction:</b> After an opponent wins an unopposed challenge against you, that opponent takes control of Heir to the Iron Islands.",
+            "deckLimit": 1,
+            "illustrator": "Magali Villeneuve"
+        },
+        {
+            "code": "00027",
+            "type": "title",
+            "name": "Pirate Marauder",
+            "faction": "neutral",
+            "traits": [],
+            "text": "<b>Reaction:</b> After you win initiative, gain 2 gold.\n<b>Forced Reaction:</b> After an opponent wins initiative, that opponent takes control of Pirate Marauder.",
+            "deckLimit": 1,
+            "illustrator": "JB Casacop"
+        },
+        {
+            "code": "00028",
+            "type": "title",
+            "name": "Reek",
+            "faction": "neutral",
+            "traits": [],
+            "text": "<b>Forced Reaction:</b> After a player loses a challenge by 5 or more STR, that player takes control of Reek.\n-1 Income.\n-1 Initiative.",
+            "deckLimit": 1,
+            "illustrator": "Kim Sokol"
+        },
+        {
+            "code": "00029",
+            "type": "title",
+            "name": "Lord Reaper of Pyke",
+            "faction": "neutral",
+            "traits": [],
+            "text": "<b>Forced Interrupt:</b> When a player's power total reaches 15, that player takes control of Lord Reaper of Pyke.",
+            "deckLimit": 1,
+            "illustrator": "David Griffith"
+        }
+    ]
+}

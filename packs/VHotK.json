@@ -1,0 +1,17 @@
+{
+    "cgdbId": null,
+    "code": "VHotK",
+    "name": "Hand of the King Variant",
+    "releaseDate": "2020-02-06",
+    "cards": [
+        {
+            "code": "00030",
+            "type": "agenda",
+            "name": "The King's Voice",
+            "faction": "neutral",
+            "traits": [],
+            "text": "You may run an agenda in addition to this one and may include non-loyal <i>Small Council</i> characters from any faction in your deck.\nYour Hand of the King gains the <i>Small Council</i> trait. <i>Small Council</i> characters cannot be knelt by non-plot card effects, cannot have their STR reduced, cannot have their icons removed, and gain \"No <i>Condition</i> attachments.\"\n<b>Hand of the King format only.</b>",
+            "deckLimit": 1
+        }
+    ]
+}
