@@ -30,6 +30,9 @@
             },
             "version": {
                 "type": "string"
+            },
+            "category": {
+                "type": "string"
             }
         },
         "required": [
@@ -37,7 +40,8 @@
             "date",
             "joustCards",
             "meleeCards",
-            "version"
+            "version",
+            "category"
         ]
     }
 }
