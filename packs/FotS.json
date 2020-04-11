@@ -598,9 +598,25 @@
             "traits": [
                 "House Manwoody"
             ],
-            "text": "<b>Reaction:</b> After you lose a [power] challenge by 5 or more STR, kneel and sacrifice Kingsgrave to choose a participating character and return it to its owner's hand. (You may kill that character instead if it has the <i>King</i> trait.)\n<em>Errata from FAQ v2.2</em>",
+            "text": "<b>Reaction:</b> After you lose a [power] challenge by 5 or more STR, kneel and sacrifice Kingsgrave to choose a participating character and return it to its owner's hand. (You may kill that character instead if it has the <i>King</i> trait.)",
             "deckLimit": 3,
-            "illustrator": "Logan Feliciano"
+            "illustrator": "Logan Feliciano",
+            "errata": [
+                {
+                    "issuer": "Fantasy Flight Games",
+                    "version": "original",
+                    "text": "<b>Reaction:</b> After you lose a [power] challenge by 5 or more STR, kneel and sacrifice Kingsgrave to choose a participating character and return it to its owner's hand. (You may kill that character instead if it has the <i>King</i> trait.)",
+                    "notes": null
+
+                },
+                {
+                    "issuer": "Fantasy Flight Games",
+                    "version": "2.2",
+                    "link": "https://images-cdn.fantasyflightgames.com/filer_public/7c/64/7c642fb4-cce0-4aae-8633-3a861d7727fd/agot_lcg_faq_30.pdf",
+                    "text": "<b>Reaction:</b> After you lose a [power] challenge by 5 or more STR, kneel and sacrifice Kingsgrave to choose a participating character and return it to its owner's hand. (You may kill that character instead if it has the <i>King</i> trait.)",
+                    "notes": "Card text is improperly formatted; the word \"Kingsgrave\" should not be formatted as a trait."
+                }
+            ]
         },
         {
             "code": "14031",
@@ -709,9 +725,24 @@
             "traits": [
                 "Warhorse"
             ],
-            "text": "Limit 1 copy per character.\nWhile attached character is attacking, it gets +1 STR (+3 STR instead if it has the <i>Dothraki</i> trait).\n<em>Errata from FAQ v2.2</em>",
+            "text": "Limit 1 copy per character.\nWhile attached character is attacking, it gets +1 STR (+3 STR instead if it has the <i>Dothraki</i> trait).",
             "deckLimit": 3,
-            "illustrator": "Carlos Palma Cruchaga"
+            "illustrator": "Carlos Palma Cruchaga",
+            "errata": [
+                {
+                    "issuer": "Fantasy Flight Games",
+                    "version": "original",
+                    "text": "While attached character is attacking, it gets +1 STR (+3 STR instead if it has the <i>Dothraki</i> trait).",
+                    "notes": null
+                },
+                {
+                    "issuer": "Fantasy Flight Games",
+                    "version": "2.2",
+                    "link": "https://images-cdn.fantasyflightgames.com/filer_public/7c/64/7c642fb4-cce0-4aae-8633-3a861d7727fd/agot_lcg_faq_30.pdf",
+                    "text": "Limit 1 copy per character.\nWhile attached character is attacking, it gets +1 STR (+3 STR instead if it has the <i>Dothraki</i> trait).",
+                    "notes": "Should read: \"Limit 1 copy per character.\""
+                }
+            ]
         },
         {
             "code": "14037",

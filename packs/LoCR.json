@@ -546,9 +546,24 @@
             "traits": [
                 "Iron Islands"
             ],
-            "text": "<b>Reaction:</b> After you initiate a [power] challenge, kneel Old Wyk to put the top <i>Drowned God</i> character in your dead pile into play knelt, participating as an attacker. Then, if you win the challenge by 5 or more STR, return that character to your hand. Otherwise, place it on the bottom of your deck.\n<em>Errata from FAQ v2.0</em>",
+            "text": "<b>Reaction:</b> After you initiate a [power] challenge, kneel Old Wyk to put the top <i>Drowned God</i> character in your dead pile into play knelt, participating as an attacker. Then, if you win the challenge by 5 or more STR, return that character to your hand. Otherwise, place it on the bottom of your deck.",
             "deckLimit": 3,
-            "illustrator": "Juan Carlos Barquet"
+            "illustrator": "Juan Carlos Barquet",
+            "errata": [
+                {
+                    "issuer": "Fantasy Flight Games",
+                    "version": "original",
+                    "text": "<b>Reaction:</b> After you initiate a [power] challenge, kneel Old Wyk to put the top <i>Drowned God</i> character in your dead pile into play knelt, participating as an attacker. If you win the challenge by 5 or more STR, return that character to your hand. Otherwise, place it on the bottom of your deck.",
+                    "notes": null
+                },
+                {
+                    "issuer": "Fantasy Flight Games",
+                    "version": "2.0",
+                    "link": "https://images-cdn.fantasyflightgames.com/filer_public/7c/64/7c642fb4-cce0-4aae-8633-3a861d7727fd/agot_lcg_faq_30.pdf",
+                    "text": "<b>Reaction:</b> After you initiate a [power] challenge, kneel Old Wyk to put the top <i>Drowned God</i> character in your dead pile into play knelt, participating as an attacker. Then, if you win the challenge by 5 or more STR, return that character to your hand. Otherwise, place it on the bottom of your deck.",
+                    "notes": "Should read: \"...Then, if you win the challenge by 5 or more STR, return that character to your hand. Otherwise, place it on the bottom of your deck.\""
+                }
+            ]
         },
         {
             "code": "05029",

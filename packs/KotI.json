@@ -22,9 +22,24 @@
                 "Ironborn",
                 "Lord"
             ],
-            "text": "Pillage. Renown.\n<b>Action:</b> Kneel your faction card to choose a card in an opponent's discard pile and put it into play under your control. At the end of the phase, if that card is still in play, shuffle it into its owner's deck.\n<em>Errata from FAQ v2.0</em>",
+            "text": "Pillage. Renown.\n<b>Action:</b> Kneel your faction card to choose a card in an opponent's discard pile and put it into play under your control. At the end of the phase, if that card is still in play, shuffle it into its owner's deck.",
             "deckLimit": 3,
-            "illustrator": "Michele Frigo"
+            "illustrator": "Michele Frigo",
+            "errata": [
+                {
+                    "issuer" : "Fantasy Flight Games",
+                    "version": "original",
+                    "text": "Pillage. Renown.\n<b>Action:</b> Kneel your faction card to choose a card in an opponent's discard pile and put it into play under your control. At the end of the phase shuffle it into its owner's deck.",
+                    "notes": null
+                },
+                {
+                    "issuer" : "Fantasy Flight Games",
+                    "version": "2.0",
+                    "link": "https://images-cdn.fantasyflightgames.com/filer_public/7c/64/7c642fb4-cce0-4aae-8633-3a861d7727fd/agot_lcg_faq_30.pdf",
+                    "text": "Pillage. Renown.\n<b>Action:</b> Kneel your faction card to choose a card in an opponent's discard pile and put it into play under your control. At the end of the phase, if that card is still in play, shuffle it into its owner's deck.",
+                    "notes": "Should read: \"...At the end of the phase, if that card is still in play, shuffle it into its owner’s deck.\""
+                }
+            ]
         },
         {
             "code": "12002",
