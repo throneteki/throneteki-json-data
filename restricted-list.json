@@ -1,6 +1,7 @@
 [
     {
         "version": "1.1",
+        "issuer": "Fantasy Flight Games",
         "date": "2016-10-10",
         "joustCards": [],
         "meleeCards": [],
@@ -8,6 +9,7 @@
     },
     {
         "version": "1.2",
+        "issuer": "Fantasy Flight Games",
         "date": "2017-10-12",
         "joustCards": [],
         "meleeCards": [
@@ -30,6 +32,7 @@
     },
     {
         "version": "1.3",
+        "issuer": "Fantasy Flight Games",
         "date": "2018-03-26",
         "joustCards": [
             "01045",
@@ -58,6 +61,7 @@
     },
     {
         "version": "1.4",
+        "issuer": "Fantasy Flight Games",
         "date": "2018-06-11",
         "joustCards": [
             "01100",
@@ -100,6 +104,7 @@
     },
     {
         "version": "2.0",
+        "issuer": "Fantasy Flight Games",
         "date": "2018-10-08",
         "joustCards": [
             "01100",
@@ -147,6 +152,7 @@
     },
     {
         "version": "2.1",
+        "issuer": "Fantasy Flight Games",
         "date": "2019-02-21",
         "joustCards": [
             "01100",
@@ -207,6 +213,7 @@
     },
     {
         "version": "2.2",
+        "issuer": "Fantasy Flight Games",
         "date": "2019-06-06",
         "joustCards": [
             "01109",
@@ -269,6 +276,7 @@
     },
     {
         "version": "2.3",
+        "issuer": "Fantasy Flight Games",
         "date": "2019-09-20",
         "joustCards": [
             "01109",
@@ -378,6 +386,7 @@
     },
     {
         "version": "3.0",
+        "issuer": "Fantasy Flight Games",
         "date": "2020-01-13",
         "joustCards": [
             "01109",

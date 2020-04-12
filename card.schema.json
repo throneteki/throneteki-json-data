@@ -15,6 +15,17 @@
                     "enum": ["X", "-"]
                 }
             ]
+        },
+        "erratum": {
+            "type": "object",
+            "properties": {
+                "issuer": { "enum": ["Fantasy Flight Games", "The Conclave"] },
+                "version": { "type": "string", "minLength": 1 },
+                "link": { "type": "string", "format": "uri" },
+                "text": { "type": "string", "minLength": 1 },
+                "notes":  { "type": [ "string", "null" ] }
+            },
+            "required": ["issuer", "version", "text", "notes"]
         }
     },
     "properties": {
@@ -115,6 +126,9 @@
         },
         "quantity": {
             "type": "integer"
+        },
+        "errata": {
+            "items": { "$ref": "#/definitions/erratum" }
         }
     },
     "required": [

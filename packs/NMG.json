@@ -72,7 +72,23 @@
             "text": "<b>Reaction:</b> After Ser Horas Redwyne is knelt, choose and stand a <i>Lady</i> character.",
             "flavor": "Arya had seen them in the bailey a hundred times; the Redwyne twins, Ser Horas and Ser Hobber, homely youths with orange hair and square, freckled faces.",
             "deckLimit": 3,
-            "illustrator": "Joshua Cairós"
+            "illustrator": "Joshua Cairós",
+            "errata": [
+                {
+                    "issuer": "Fantasy Flight Games",
+                    "version": "original",
+                    "text": "<b>Reaction:</b> After Ser Horas Redwyne is knelt, choose and stand a Lady character.",
+                    "notes": null
+                },
+                {
+                    "issuer": "Fantasy Flight Games",
+                    "version": "1.0",
+                    "link": "https://images-cdn.fantasyflightgames.com/filer_public/7c/64/7c642fb4-cce0-4aae-8633-3a861d7727fd/agot_lcg_faq_30.pdf",
+                    "text": "<b>Reaction:</b> After Ser Horas Redwyne is knelt, choose and stand a <i>Lady</i> character.",
+                    "notes": "Should read: \"...choose and stand a <i>Lady</i> character.\""
+                }
+            ]
+
         },
         {
             "code": "02064",
