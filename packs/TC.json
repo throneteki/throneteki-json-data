@@ -206,9 +206,24 @@
             "traits": [
                 "Ironborn"
             ],
-            "text": "Stealth.\nIf you control Asha Greyjoy, sacrifice Esgred. Then, your Asha Greyjoy gains 1 power.\nEsgred may bypass an additional character using stealth.\n<em>Errata from FAQ v2.1</em>",
+            "text": "Stealth.\nIf you control Asha Greyjoy, sacrifice Esgred. Then, your Asha Greyjoy gains 1 power.\nEsgred may bypass an additional character using stealth.",
             "deckLimit": 3,
-            "illustrator": "Nicholas Gregory"
+            "illustrator": "Nicholas Gregory",
+            "errata": [
+                {
+                    "issuer": "Fantasy Flight Games",
+                    "version": "original",
+                    "text": "Stealth.\nIf you control Asha Greyjoy, sacrifice Esgred and have your Asha Greyjoy gains 1 power.\nEsgred may bypass an additional character using stealth.",
+                    "notes": null
+                },
+                {
+                    "issuer": "Fantasy Flight Games",
+                    "version": "2.1",
+                    "link": "https://images-cdn.fantasyflightgames.com/filer_public/7c/64/7c642fb4-cce0-4aae-8633-3a861d7727fd/agot_lcg_faq_30.pdf",
+                    "text": "Stealth.\nIf you control Asha Greyjoy, sacrifice Esgred. Then, your Asha Greyjoy gains 1 power.\nEsgred may bypass an additional character using stealth.",
+                    "notes": "Should read: \"If you control Asha Greyjoy, sacrifice Esgred. Then, your Asha Greyjoy gains 1 power.\""
+                }
+            ]
         },
         {
             "code": "04112",

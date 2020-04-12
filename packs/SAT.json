@@ -217,9 +217,24 @@
                 "Drowned God",
                 "Weapon"
             ],
-            "text": "<i>Drowned God</i> character only.\nAttached character gets +1 STR for each character in your dead pile.\n<b>Interrupt:</b> When attached character is killed, move Driftwood Cudgel to another eligible character. That character gains 1 power. (Limit once per phase.)\n<em>Errata from FAQ v1.4</em>",
+            "text": "<i>Drowned God</i> character only.\nAttached character gets +1 STR for each character in your dead pile.\n<b>Interrupt:</b> When attached character is killed, move Driftwood Cudgel to another eligible character. That character gains 1 power. (Limit once per phase.)",
             "deckLimit": 3,
-            "illustrator": "Sara Biddle"
+            "illustrator": "Sara Biddle",
+            "errata": [
+                {
+                    "issuer": "Fantasy Flight Games",
+                    "version": "original",
+                    "text": "<i>Drowned God</i> character only.\nAttached character gets +1 STR for each character in your dead pile.\n<b>Interrupt:</b> When attached character is killed, move Driftwood Cudgel to another eligible character. That character gains 1 power.",
+                    "notes": null
+                },
+                {
+                    "issuer": "Fantasy Flight Games",
+                    "version": "1.4",
+                    "link": "https://images-cdn.fantasyflightgames.com/filer_public/7c/64/7c642fb4-cce0-4aae-8633-3a861d7727fd/agot_lcg_faq_30.pdf",
+                    "text": "<i>Drowned God</i> character only.\nAttached character gets +1 STR for each character in your dead pile.\n<b>Interrupt:</b> When attached character is killed, move Driftwood Cudgel to another eligible character. That character gains 1 power. (Limit once per phase.)",
+                    "notes": "Interrupt ability should have the text: \"(Limit once per phase.)\""
+                }
+            ]
         },
         {
             "code": "08113",
@@ -253,9 +268,24 @@
             "traits": [
                 "Prophecy"
             ],
-            "text": "<b>Dominance Action:</b> Each player may shuffle his or her hand (of at least 1 card) into his or her deck. Each player that does draws 5 cards.\n<em>Errata from FAQ v1.4</em>",
+            "text": "<b>Dominance Action:</b> Each player may shuffle his or her hand (of at least 1 card) into his or her deck. Each player that does draws 5 cards.",
             "deckLimit": 3,
-            "illustrator": "Kristina Carroll"
+            "illustrator": "Kristina Carroll",
+            "errata": [
+                {
+                    "issuer": "Fantasy Flight Games",
+                    "version": "original",
+                    "text": "<b>Dominance Action:</b> Each player may shuffle his or her hand (of at least 1 card) into his or her deck to draw 5 cards.",
+                    "notes": null
+                },
+                {
+                    "issuer": "Fantasy Flight Games",
+                    "version": "1.4",
+                    "link": "https://images-cdn.fantasyflightgames.com/filer_public/7c/64/7c642fb4-cce0-4aae-8633-3a861d7727fd/agot_lcg_faq_30.pdf",
+                    "text": "<b>Dominance Action:</b> Each player may shuffle his or her hand (of at least 1 card) into his or her deck. Each player that does draws 5 cards.",
+                    "notes": "Should read: \"<b>Dominance Action:</b> Each player may shuffle his or her hand (of at least 1 card) into his or her deck. Each player that does draws 5 cards.\""
+                }
+            ]
         },
         {
             "code": "08115",
