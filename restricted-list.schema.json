@@ -30,6 +30,12 @@
             },
             "version": {
                 "type": "string"
+            },
+            "issuer": {
+                "enum": [
+                    "Fantasy Flight Games",
+                    "The Conclave"
+                ]
             }
         },
         "required": [
@@ -37,7 +43,8 @@
             "date",
             "joustCards",
             "meleeCards",
-            "version"
+            "version",
+            "issuer"
         ]
     }
 }
