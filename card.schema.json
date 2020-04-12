@@ -121,6 +121,12 @@
         "unique": {
             "type": "boolean"
         },
+        "octgnId": {
+            "type": ["string", "null"]
+        },
+        "quantity": {
+            "type": "integer"
+        },
         "errata": {
             "items": { "$ref": "#/definitions/erratum" }
         }
@@ -132,6 +138,7 @@
         "name",
         "text",
         "traits",
-        "type"
+        "type",
+        "quantity"
     ]
 }

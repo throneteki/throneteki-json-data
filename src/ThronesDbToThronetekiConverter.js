@@ -18,6 +18,8 @@ class ThronesDbToThronetekiConverter {
         properties.code = card.code;
         properties.type = card.type_code;
         properties.name = card.name;
+        properties.octgnId = card.octgn_id;
+        properties.quantity = card.quantity;
 
         if(['attachment', 'character', 'location'].includes(card.type_code)) {
             properties.unique = card.is_unique;
