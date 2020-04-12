@@ -109,6 +109,12 @@
         },
         "unique": {
             "type": "boolean"
+        },
+        "octgnId": {
+            "type": ["string", "null"]
+        },
+        "quantity": {
+            "type": "integer"
         }
     },
     "required": [
@@ -118,6 +124,7 @@
         "name",
         "text",
         "traits",
-        "type"
+        "type",
+        "quantity"
     ]
 }
