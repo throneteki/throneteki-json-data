@@ -1,5 +1,30 @@
 {
     "additionalProperties": false,
+    "definitions": {
+        "cardCodeArray": {
+            "type": "array",
+            "items": {
+                "type": "string",
+                "pattern": "^[0-9]{5}$"
+            }
+        },
+        "format": {
+            "additionalProperties": false,
+            "type": "object",
+            "properties": {
+                "name": {
+                    "enum": ["joust", "melee"]
+                },
+                "restricted": {
+                    "$ref": "#/definitions/cardCodeArray"
+                },
+                "banned": {
+                    "$ref": "#/definitions/cardCodeArray"
+                }
+            },
+            "required": ["restricted"]
+        }
+    },
     "type": "array",
     "items": {
         "properties": {
@@ -10,34 +35,11 @@
             "formats": {
                 "type": "array",
                 "items": {
-                    "properties": {
-                        "name": {
-                            "enum": ["joust", "melee"]
-                        },
-                        "restricted": {
-                            "type": "array",
-                            "items": {
-                                "type": "string",
-                                "pattern": "^[0-9]{5}$"
-                            }
-                        },
-                        "banned": {
-                            "type": "array",
-                            "items": {
-                                "type": "string",
-                                "pattern": "^[0-9]{5}$"
-                            }
-                        }
-                    },
-                    "required": ["restricted"]
+                    "$ref": "#/definitions/format"
                 }
             },
             "bannedCards": {
-                "type": "array",
-                "items": {
-                    "type": "string",
-                    "pattern": "^[0-9]{5}$"
-                }
+                "$ref": "#/definitions/cardCodeArray"
             },
             "version": {
                 "type": "string"
