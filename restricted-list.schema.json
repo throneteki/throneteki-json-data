@@ -8,6 +8,19 @@
                 "pattern": "^[0-9]{5}$"
             }
         },
+        "pod": {
+            "type": "object",
+            "properties": {
+                "restricted": {
+                    "type": "string",
+                    "pattern": "^[0-9]{5}$"
+                },
+                "cards": {
+                    "$ref": "#/definitions/cardCodeArray"
+                }
+            },
+            "required": ["restricted", "cards"]
+        },
         "format": {
             "additionalProperties": false,
             "type": "object",
@@ -20,6 +33,12 @@
                 },
                 "banned": {
                     "$ref": "#/definitions/cardCodeArray"
+                },
+                "pods": {
+                    "type": "array",
+                    "items": {
+                        "$ref": "#/definitions/pod"
+                    }
                 }
             },
             "required": ["restricted"]
