@@ -12,6 +12,7 @@
     "import": "node scripts/import.js",
     "import-cgdb": "node scripts/import-cgdb.js",
     "lint": "eslint src/ scripts/",
+    "print-rl": "node scripts/print-rl.js",
     "test": "npm run validate",
     "validate": "node scripts/validate.js"
   },
