@@ -129,6 +129,10 @@
         },
         "errata": {
             "items": { "$ref": "#/definitions/erratum" }
+        },
+        "imageUrl": {
+            "minLength": 1,
+            "type": "string"
         }
     },
     "required": [
