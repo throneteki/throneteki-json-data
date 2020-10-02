@@ -1,0 +1,1251 @@
+{
+    "cgdbId": null,
+    "code": "R",
+    "name": "Redesigns",
+    "releaseDate": "2020-10-01",
+    "cards": [
+        {
+            "code": "17101",
+            "type": "character",
+            "name": "Selyse Baratheon",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "House Florent",
+                "Lady",
+                "Queen",
+                "R'hllor"
+            ],
+            "text": "Reduce the cost of the first <i>R'hllor</i> attachment you marshal each round by 3.",
+            "flavor": "\"A queen should be a mistress beneath her own roof.\"",
+            "deckLimit": 3,
+            "illustrator": "Quintin Gleim",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/GT52_8.jpg"
+        },
+        {
+            "code": "17102",
+            "type": "character",
+            "name": "Victarion Greyjoy",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": true,
+            "cost": 7,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 7,
+            "traits": [
+                "Captain",
+                "Ironborn",
+                "Lord"
+            ],
+            "text": "<b>Challenges Action:</b> Kneel a <i>Warship</i> location to stand Victarion Greyjoy (Limit twice per phase.)\n<b>Challenges Action:</b> Kneel a <i>Warship</i> location to either: choose and kneel a location, or have Victarion Greyjoy gain renown until the end of the challenge.",
+            "deckLimit": 3,
+            "illustrator": "Jason Jenicke",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/GT34_71.jpg"
+        },
+        {
+            "code": "17103",
+            "type": "character",
+            "name": "Euron Crow's Eye",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": true,
+            "cost": 6,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Captain",
+                "Ironborn",
+                "Lord",
+                "Raider"
+            ],
+            "text": "While you control another <i>Raider</i> character, Euron Crow's Eye gains intimidate.\n<b>Reaction:</b> After Euron Crow's Eye enters play, either: put a <i>Warship</i> location into play from your hand, or search your deck for Silence, reveal it, add it to your hand, and shuffle your deck.",
+            "flavor": "\"You serve one god, Damphair, but I have served ten thousand. From Ib to Asshai, when men see my sails, they pray.\"",
+            "deckLimit": 3,
+            "illustrator": "Allen Douglas",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/GT45_2.jpg"
+        },
+        {
+            "code": "17104",
+            "type": "character",
+            "name": "Nighttime Marauders",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Raider"
+            ],
+            "text": "Pillage. Shadow (3).\n<b>Reaction:</b> After Nighttime Marauders comes out of shadows during the challenges phase, choose a card in an opponent's discard pile. That player reveals his or her hand and discards from it each card with the same printed cost as the chosen card.",
+            "deckLimit": 3,
+            "illustrator": "Ramon Ignacio Bunge",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/GT31_12.jpg"
+        },
+        {
+            "code": "17105",
+            "type": "character",
+            "name": "Drowned Disciple",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Drowned God"
+            ],
+            "text": "<b>Reaction:</b> After a character enters play from your dead pile, choose a <i>Drowned God</i> character and have it gain 1 power. (Max twice per phase.)",
+            "flavor": "\"Comforts I shall know in the Drowned God's watery halls beneath the waves.\" <cite>Aeron Damphair</cite>",
+            "deckLimit": 3,
+            "illustrator": "Andreia Ugrai",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/GT16_11.jpg"
+        },
+        {
+            "code": "17106",
+            "type": "character",
+            "name": "Drowned God Fanatic",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "greyjoy",
+            "loyal": true,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Drowned God"
+            ],
+            "text": "<b>Action:</b> Kill a [greyjoy] character you own and control to put Drowned God Fanatic into play from your dead pile. (Max once per round.)\n<b>Interrupt:</b> When the effects of an opponent's triggered character ability would initiate, discard Drowned God Fanatic from your hand to cancel those effects.",
+            "designer": "Card design by 2013 European Melee champion, Vincent Teulé.",
+            "deckLimit": 3,
+            "illustrator": "Aleksander Karcz",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/GT33_51.jpg"
+        },
+        {
+            "code": "17107",
+            "type": "character",
+            "name": "Raider from Pyke",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Raider"
+            ],
+            "text": "Each <i>Item</i> or <i>Weapon</i> card in your hand with printed cost 0 or higher gains ambush (X). X is that card's printed cost.",
+            "deckLimit": 3,
+            "illustrator": "Tomasz Jedruszek",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/GT06_91.jpg"
+        },
+        {
+            "code": "17108",
+            "type": "location",
+            "name": "Iron Mines",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Iron Islands"
+            ],
+            "text": "<b>Interrupt:</b> When a character would be killed, if it is not the plot phase, kneel and sacrifice Iron Mines to save that character.",
+            "flavor": "In those days, the ironborn did not work mines; that was labor for the captives brought back from the hostings.",
+            "deckLimit": 3,
+            "illustrator": "Matthew Cowdery",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/GT06_92.jpg"
+        },
+        {
+            "code": "17109",
+            "type": "plot",
+            "name": "We Take Westeros!",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "greyjoy",
+            "loyal": true,
+            "plotStats": {
+                "income": 5,
+                "initiative": 9,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "War"
+            ],
+            "text": "<b>Challenges Action:</b> Kneel a <i>Raider</i> character to put a location with lower printed cost into play under your control from a discard pile. (Limit once per phase.)",
+            "deckLimit": 1,
+            "illustrator": "Federico Musetti",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/GT45_46.jpg"
+        },
+        {
+            "code": "17110",
+            "type": "character",
+            "name": "Taena Merryweather",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "Companion",
+                "Lady"
+            ],
+            "text": "<b>Reaction:</b> After you play an event, choose and discard 1 card from your hand to draw 1 card. (Limit once per phase.)",
+            "flavor": "\"Dreams turn to dust in light of day.\"",
+            "deckLimit": 3,
+            "illustrator": "Christine Mitzuk",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/GT15_10.jpg"
+        },
+        {
+            "code": "17111",
+            "type": "location",
+            "name": "The Red Keep",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 4,
+            "traits": [
+                "King's Landing"
+            ],
+            "text": "<b>Interrupt:</b> When the effects of an opponent's triggered character, location, or attachment ability would initiate, kneel The Red Keep and pay 1 gold to cancel those effects.\n+1 Income.",
+            "deckLimit": 3,
+            "illustrator": "Logan Feliciano",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/GT53_30.jpg"
+        },
+        {
+            "code": "17112",
+            "type": "character",
+            "name": "Desert Raider",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Ally",
+                "House Dayne",
+                "Raider"
+            ],
+            "text": "Prized 1.\n<b>Reaction:</b> After you lose a challenge, put Desert Raider into play from your dead pile to choose a character controlled by the winning opponent. Until the end of the phase, that character loses an [intrigue] or [power] icon and Desert Raider gains that icon.",
+            "designer": "Card design by 2012 European Melee Champion, Istvan Cserdi.",
+            "deckLimit": 3,
+            "illustrator": "Diego Gisbert Llorens",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/GT45_29.jpg"
+        },
+        {
+            "code": "17113",
+            "type": "location",
+            "name": "Dorne",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "martell",
+            "loyal": true,
+            "cost": 4,
+            "traits": [
+                "Dorne"
+            ],
+            "text": "<b>Reaction:</b> After you lose a [military] or [power] challenge, look at the top 2 cards of your deck, add 1 to your hand and place the other on the bottom of your deck.\n+1 Reserve.",
+            "deckLimit": 3,
+            "illustrator": "Cristi Balanescu",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/GT30_17.jpg"
+        },
+        {
+            "code": "17114",
+            "type": "event",
+            "name": "Doran's Game",
+            "octgnId": null,
+            "quantity": 1,
+            "faction": "martell",
+            "loyal": true,
+            "cost": 1,
+            "traits": [],
+            "text": "<b>Reaction:</b> After you win an [intrigue] challenge by 5 or more STR, gain X power for your faction (to a maximum of 5). X is the number of plot cards in your used pile. (Max 1 per challenge.)",
+            "deckLimit": 3,
+            "illustrator": "Jean Tay",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/GT01_119.jpg"
+        },
+        {
+            "code": "17115",
+            "type": "event",
+            "name": "A Mission in Essos",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "martell",
+            "loyal": true,
+            "cost": "-",
+            "traits": [],
+            "text": "Shadow (0).\n<b>Action</b>: Return a [martell] character you control to your hand. Then, search your deck for a character with lower printed cost that shares a <i>Trait</i> with that character, and put it into play. Shuffle your deck.",
+            "deckLimit": 3,
+            "illustrator": "Paolo Puggioni",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/GT34_76.jpg"
+        },
+        {
+            "code": "17116",
+            "type": "character",
+            "name": "Yoren",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": true,
+            "cost": 6,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Wandering Crow"
+            ],
+            "text": "<b>Reaction:</b> After Yoren enters play, choose an opponent. That player must choose a standing character they control with printed cost 5 or lower. Take control of that character until Yoren leaves play.",
+            "flavor": "\"Do what you want to the town, it's naught to me, but leave us be. We're no foes to you.\"",
+            "deckLimit": 3,
+            "illustrator": "Federico Musetti",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/GT50_85.jpg"
+        },
+        {
+            "code": "17117",
+            "type": "character",
+            "name": "Clydas",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Steward"
+            ],
+            "text": "<b>Action:</b> Kneel Clydas or a <i>Raven</i> card to move 1 gold from an opponent's gold pool to your own. (Limit twice per round.)",
+            "flavor": "\"I am being foolish, Lord Commander, but ... this letter frightens me.\"",
+            "deckLimit": 3,
+            "illustrator": "Michele Frigo",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/GT53_33.jpg"
+        },
+        {
+            "code": "17118",
+            "type": "character",
+            "name": "Halder",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "Builder"
+            ],
+            "text": "No attachments except <i>Weapon</i>.\n<b>Action:</b> Action: Kneel X [thenightswatch] locations and/or attachments to choose a [thenightswatch] character. Until the end of the phase, that character gets +X STR. (Limit twice per phase.)",
+            "flavor": "\"It's the builders for me. What use would rangers be if the Wall fell down?\"",
+            "deckLimit": 3,
+            "illustrator": "Richard Hanuschek",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/GT05_65.jpg"
+        },
+        {
+            "code": "17119",
+            "type": "character",
+            "name": "Three-Finger Hobb",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": true,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 1,
+            "traits": [
+                "Steward"
+            ],
+            "text": "No attachments except <i>Weapon</i>.\n<b>Reaction:</b> After you check reserve, if your hand size is lower than your reserve value, draw 1 card. (draw 2 cards instead if your hand size is at least 5 lower than your reserve value.)",
+            "flavor": "That night, Three-Finger Hobb cooked the boys a special meal to mark the occasion.",
+            "deckLimit": 3,
+            "illustrator": "Aleksander Karcz",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/GT35_85.jpg"
+        },
+        {
+            "code": "17120",
+            "type": "location",
+            "name": "Abandoned Stronghold",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "Stronghold",
+                "The North"
+            ],
+            "text": "<b>Action:</b> Kneel Abandoned Stronghold to choose a defending character. Until the end of the challenge, that character gets +X STR. X is the number of <i>Builder</i> characters you control.",
+            "deckLimit": 3,
+            "illustrator": "Sergey Glushakov",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/GT22_18.jpg"
+        },
+        {
+            "code": "17121",
+            "type": "event",
+            "name": "Bound for the Wall",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "thenightswatch",
+            "loyal": true,
+            "cost": 2,
+            "traits": [],
+            "text": "<b>Reaction:</b> After you win a challenge as the attacking player, discard the top 2 cards of the losing opponent's deck. You may put an eligible character of the losing player’s choice from their discard pile into play under your control. (Max 1 per challenge.)",
+            "deckLimit": 3,
+            "illustrator": "Federico Musetti",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/GT50_86.jpg"
+        },
+        {
+            "code": "17122",
+            "type": "character",
+            "name": "Wyman Manderly",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "stark",
+            "loyal": true,
+            "cost": 6,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "House Manderly",
+                "Lord"
+            ],
+            "text": "<b>Action:</b> Kill a standing character you control.\n<b>Reaction:</b> After 1 or more characters you control are sacrificed or killed, stand Wyman Manderly and draw 1 card. (Limit once per phase.)",
+            "flavor": "\"The best pie you have ever tasted, my lords... Wash it down with Arbor gold and savor every bite. I know I shall.\"",
+            "deckLimit": 3,
+            "illustrator": "Borja Pindado",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/GT32_21.jpg"
+        },
+        {
+            "code": "17123",
+            "type": "character",
+            "name": "Meera Reed",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "stark",
+            "loyal": true,
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 1,
+            "traits": [
+                "House Reed",
+                "Lady"
+            ],
+            "text": "Shadow (2). Stealth.\n<b>Forced Reaction:</b> After a <i>Winter</i> plot card is revealed, return Meera Reed to shadows.\n<b>Reaction:</b> After Meera Reed comes out of shadows, choose a character. Until the end of the phase, treat it as if its printed text box were blank (except for <i>Traits</i>).",
+            "designer": "Card design by 2010 Castle Stahleck Champion, Andrea Gualdoni.",
+            "deckLimit": 3,
+            "illustrator": "Tiziano Baracchi",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/GT34_61.jpg"
+        },
+        {
+            "code": "17124",
+            "type": "character",
+            "name": "Bear Island Scout",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "stark",
+            "loyal": true,
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 1,
+            "traits": [
+                "House Mormont"
+            ],
+            "text": "<b>Reaction:</b> After you marshal Bear Island Scout, if each character you control has the [stark] affiliation, search the top 10 cards of your deck for a <i>House Mormont</i> card, reveal it, and add it to your hand. Shuffle your deck.",
+            "deckLimit": 3,
+            "illustrator": "Aleksander Karcz",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/GT35_81.jpg"
+        },
+        {
+            "code": "17125",
+            "type": "location",
+            "name": "Skagos",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "The North"
+            ],
+            "text": "Shadow (1).\n<b>Action:</b> Kneel and return Skagos to shadows and sacrifice a standing [stark] card to search your deck for a card with the same title as the sacrificed card and put it into play knelt. Shuffle your deck.",
+            "deckLimit": 3,
+            "illustrator": "Juan Carlos Barquet",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/GT35_82.jpg"
+        },
+        {
+            "code": "17126",
+            "type": "attachment",
+            "name": "Ward",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 4,
+            "traits": [
+                "Condition"
+            ],
+            "text": "Unique character with printed cost 4 or lower only. Terminal.\nTake control of attached character.\nAttached character gains prized 1 (prized 2 instead if attached character's printed cost is 3 or higher).",
+            "deckLimit": 3,
+            "illustrator": "Khasis Lieb",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/GT07_102.jpg"
+        },
+        {
+            "code": "17127",
+            "type": "event",
+            "name": "I Am No One",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "stark",
+            "loyal": true,
+            "cost": 1,
+            "traits": [],
+            "text": "<b>Action:</b> Choose Arya Stark or a unique character you control with printed cost 3 or lower. Until the end of the phase, that character loses all faction affiliations and <i>Traits</i>, gains insight, and does not kneel when declared as an attacker.",
+            "deckLimit": 3,
+            "illustrator": "Christine Mitzuk",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/GT27_82.jpg"
+        },
+        {
+            "code": "17128",
+            "type": "character",
+            "name": "Daenerys Targaryen",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 8,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "Lady",
+                "Queen",
+                "Stormborn"
+            ],
+            "text": "<b>Action:</b>Kneel your faction card to search the top 10 cards of your deck for a <i>Dragon</i> or <i>Title</i> card and put it into play. Shuffle your deck. At the end of the phase, if that card is still in play and not attached to Daenerys Targaryen, return it to your hand (cannot be saved).",
+            "flavor": "\"Why do the gods make kings and queens, if not to protect the ones who can't protect themselves?\"",
+            "deckLimit": 3,
+            "illustrator": "Aleksander Karcz",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/GT53_1.jpg"
+        },
+        {
+            "code": "17129",
+            "type": "character",
+            "name": "Drogon",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 6,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 6,
+            "traits": [
+                "Dragon"
+            ],
+            "text": "Ambush (6). No attachments.\n<b>Reaction:</b> After you win a challenge in which Drogon is attacking, choose a character without attachments controlled by the losing opponent. Until the end of the phase, that character gets -3 STR and is killed if its STR is 0.",
+            "deckLimit": 3,
+            "illustrator": "Carlos Palma Cruchaga",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/GT35_93.jpg"
+        },
+        {
+            "code": "17130",
+            "type": "character",
+            "name": "Hizdahr zo Loraq",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 6,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "King"
+            ],
+            "text": "<b>Action:</b> Discard 1 character card from your hand to reduce the cost of the next card you marshal, ambush, or bring out of shadows this phase by 3. (Limit once per round.)",
+            "flavor": "\"One day all men must die, but it serves no good to dwell on death. I prefer to take each day as it comes.\"",
+            "deckLimit": 3,
+            "illustrator": "Borja Pindado",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/GT32_33.jpg"
+        },
+        {
+            "code": "17131",
+            "type": "character",
+            "name": "Qotho",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 5,
+            "traits": [
+                "Bloodrider",
+                "Dothraki"
+            ],
+            "text": "<b>Action:</b>  If there is a Summer plot card revealed, discard 2 [targaryen] cards from your hand to put Qotho into play from your hand.",
+            "flavor": "Qotho was ever the cruelest of the bloodriders.",
+            "deckLimit": 3,
+            "illustrator": "Joshua Cairós",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/GT29_37.jpg"
+        },
+        {
+            "code": "17132",
+            "type": "location",
+            "name": "Womb of the World",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 4,
+            "traits": [
+                "Essos"
+            ],
+            "text": "<b>Action:</b> Kneel Womb of the World to reveal the top 5 cards of your deck. Put an eligible <i>Dothraki</i> character with the lowest printed cost revealed this way into play. Shuffle your deck. At the end of the phase, if that card is still in play, return it to your hand.",
+            "deckLimit": 3,
+            "illustrator": "Zach Graves",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/GT53_17.jpg"
+        },
+        {
+            "code": "17133",
+            "type": "location",
+            "name": "Meereen",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 3,
+            "traits": [
+                "Meereen"
+            ],
+            "text": "<b>Action:</b> Kneel Meereen and discard 1 card from your hand to place each card in your hand facedown under Meereen and draw 3 cards. At the end of the phase, or if Meereen leaves play, discard your hand and return each card you placed under Meereen to your hand.",
+            "flavor": "Meereen would always be the Harpy's city...",
+            "deckLimit": 3,
+            "illustrator": "Tomasz Jedruszek",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/GT32_34.jpg"
+        },
+        {
+            "code": "17134",
+            "type": "attachment",
+            "name": "Crown of Gold",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 4,
+            "traits": [
+                "Item"
+            ],
+            "text": "Prized 1. Terminal.\nAttached character gains the <i>King</i> trait.\nAttached character gets -4 STR.",
+            "deckLimit": 3,
+            "illustrator": "Sara Biddle",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/GT03_34.jpg"
+        },
+        {
+            "code": "17135",
+            "type": "event",
+            "name": "Gifts for the Widow",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": "X",
+            "traits": [],
+            "text": "<b>Action:</b> Kneel your faction card to search your deck for an attachment with printed cost X or lower and put it into play attached to a character you control. Shuffle your deck.",
+            "flavor": "\"Gloves for my poor old wrinkled hands. How nice.\" <cite>The Widow of the Waterfront</cite>",
+            "deckLimit": 3,
+            "illustrator": "Preston Stone",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/GT36_114.jpg"
+        },
+        {
+            "code": "17136",
+            "type": "character",
+            "name": "Mace Tyrell",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": true,
+            "cost": 7,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "Lord"
+            ],
+            "text": "<b>Reaction:</b> After a unique [tyrell] character enters play under your control, pay 1 gold to have that character gain 1 power. (Limit once per phase.)\n<b>Action:</b> Kneel your faction card to remove another [tyrell] character you control from the game until the beginning of the next phase.",
+            "deckLimit": 3,
+            "illustrator": "Lukasz Jaskolski",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/GT29_1.jpg"
+        },
+        {
+            "code": "17137",
+            "type": "character",
+            "name": "The Queen's Retinue",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Ally",
+                "Companion"
+            ],
+            "text": "Shadow (4).\n<b>Action:</b> Put The Queen's Retinue into play from shadows. Then, each opponent may draw 2 cards.",
+            "deckLimit": 3,
+            "illustrator": "Drazenka Kimpel",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/GT51_103.jpg"
+        },
+        {
+            "code": "17138",
+            "type": "character",
+            "name": "Oldtown Informer",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "tyrell",
+            "loyal": true,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Ally",
+                "Spy"
+            ],
+            "text": "Ambush (2). Bestow (3).\n<b>Reaction:</b> After a card enters play during the challenges phase, draw X cards. Then, discard X cards. X is the number of gold Oldtown Informer has. (Limit twice per phase.)",
+            "deckLimit": 3,
+            "illustrator": "Sara Biddle",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/GT19_63.jpg"
+        },
+        {
+            "code": "17139",
+            "type": "attachment",
+            "name": "Unexpected Guile",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "tyrell",
+            "loyal": true,
+            "cost": 2,
+            "traits": [
+                "Skill"
+            ],
+            "text": "Character with shadow you control only. Shadow (0).\nAttached character gets +2 STR.\n<b>Reaction:</b> After you win a challenge in which attached character is participating, return it to shadows.",
+            "deckLimit": 3,
+            "illustrator": "Drazenka Kimpel",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/GT48_44.jpg"
+        },
+        {
+            "code": "17140",
+            "type": "event",
+            "name": "All Men Are Fools",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "tyrell",
+            "loyal": true,
+            "cost": 0,
+            "traits": [],
+            "text": "<b>Reaction:</b> After you win a challenge by 5 or more STR, choose up to 5 <i>Lady</i> characters you control. Each of the chosen characters gains 1 power. (Max 1 per phase.)",
+            "flavor": "\"...but the ones in motley are more amusing than ones with crowns.\" <cite>The Queen of Thorns</cite>",
+            "deckLimit": 3,
+            "illustrator": "Drazenka Kimpel",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/GT16_4.jpg"
+        },
+        {
+            "code": "17141",
+            "type": "event",
+            "name": "To the Rose Banner!",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 0,
+            "traits": [],
+            "text": "<b>Action:</b> Kneel your faction card to remove another [tyrell] character you control from the game until the beginning of the next phase.",
+            "deckLimit": 3,
+            "illustrator": "Jason Engle",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/GT08_38.jpg"
+        },
+        {
+            "code": "17142",
+            "type": "location",
+            "name": "Flea Bottom",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "neutral",
+            "cost": 1,
+            "traits": [
+                "King's Landing"
+            ],
+            "text": "Bestow (3).\n<b>Challenges Action:</b> Discard 1 gold from Flea Bottom and kneel it to put a character with printed cost 3 or lower into play from your discard pile. At the end of the phase, if that card is still in play, place it on the bottom of your deck.",
+            "designer": "Card design by 2004 World Champion, Greg Atkinson.",
+            "deckLimit": 3,
+            "illustrator": "Regis Moulun",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/GT20_98.jpg"
+        },
+        {
+            "code": "17143",
+            "type": "location",
+            "name": "The Iron Bank",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "neutral",
+            "cost": 1,
+            "traits": [
+                "Braavos"
+            ],
+            "text": "Bestow (1).\nDuring the marshaling phase, you may spend gold on The Iron Bank as if it were in your gold pool.\n<b>Reaction:</b> After you collect income, move X gold (to a maximum of 5 gold) from the treasury to The Iron Bank. X is the number of gold on The Iron Bank.",
+            "deckLimit": 3,
+            "illustrator": "Logan Feliciano",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/GT23_19.jpg"
+        },
+        {
+            "code": "17144",
+            "type": "location",
+            "name": "Great Hall",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "neutral",
+            "cost": 1,
+            "traits": [
+                "Westeros"
+            ],
+            "text": "Limited.\n<b>Marshaling Action:</b> Kneel Great Hall to reduce the cost of the next unique character you marshal this phase by 1. (By 2 instead if that character's printed cost is 6 or higher.)",
+            "deckLimit": 3,
+            "illustrator": "Mark Molnar",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/GT17_38.jpg"
+        },
+        {
+            "code": "17145",
+            "type": "event",
+            "name": "\"The Dornishman's Wife\"",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "cost": 1,
+            "traits": [
+                "Song"
+            ],
+            "text": "<b>Interrupt:</b> When a unique character is killed: \n- if it has a [military] icon, gain 2 gold. \n- if it has an [intrigue] icon, draw 2 cards. \n- if it has a [power] icon, it gains 2 power. (Max 1 per phase.)",
+            "deckLimit": 3,
+            "illustrator": "Serena Malyon",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/GT17_39.jpg"
+        },
+        {
+            "code": "17146",
+            "type": "event",
+            "name": "Bribery",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "cost": "X",
+            "traits": [],
+            "text": "<b>Action:</b> Choose and kneel a character with printed cost X or lower. Then, if there is no attachment attached to that character and it has the <i>Ally</i> or <i>Mercenary</i> trait, you may take control of it.",
+            "flavor": "The gaoler's eyes had gone big as boiled eggs as he yanked open the drawstring and beheld the glint of gold.",
+            "deckLimit": 3,
+            "illustrator": "Quintin Gleim",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/GT53_45.jpg"
+        },
+        {
+            "code": "17147",
+            "type": "event",
+            "name": "The Dragon's Tail",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "cost": 0,
+            "traits": [
+                "Omen"
+            ],
+            "text": "<b>Action:</b> Choose an opponent. You and that player each draw 2 cards.\n<b>Melee format only.</b>",
+            "flavor": "The comet's tail spread across the dawn, a red slash that bled above the crags of Dragonstone like a wound in the pink and purple sky.",
+            "deckLimit": 3,
+            "illustrator": "Jokubas Uogintas",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/GT09_1.jpg"
+        },
+        {
+            "code": "17148",
+            "type": "agenda",
+            "name": "Kingdom of Shadows",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "traits": [],
+            "text": "You may include non-loyal characters with the printed shadow keyword from any faction in your deck. While you control no in-faction characters, increase the cost to marshal each of your cards into shadows by 1.",
+            "deckLimit": 1,
+            "illustrator": "Tim Durning",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/GT49_79.jpg"
+        },
+        {
+            "code": "17149",
+            "type": "agenda",
+            "name": "Sea of Blood",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "traits": [
+                "Prophecy"
+            ],
+            "text": "You cannot include neutral events in your deck.\n<b>Action</b>: Discard 1 blood token from Sea of Blood to reduce the cost of the next event you play this phase by 2.\n<b>Reaction:</b> After you win a [military] challenge by 5 or more STR, kneel your faction card to place a blood token on Sea of Blood and search the top 10 cards of your deck for an event, reveal it, and add it to your hand. Shuffle your deck.",
+            "deckLimit": 1,
+            "illustrator": "Tim Durning",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/GT45_45.jpg"
+        },
+        {
+            "code": "17150",
+            "type": "agenda",
+            "name": "The Free Folk",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "traits": [],
+            "text": "Your plot deck and draw deck can only include neutral cards and non-loyal <i>Wildling</i> characters from any faction.\n<b>Reaction:</b> After you win a challenge in which you control an attacking <i>Wildling</i> character, kneel your faction card to raise the claim value on your revealed plot card by 1 until the end of the challenge.",
+            "deckLimit": 1,
+            "illustrator": "Tim Durning",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/GT34_79.jpg"
+        },
+        {
+            "code": "17151",
+            "type": "agenda",
+            "name": "The Wars To Come",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "traits": [
+                "Omen"
+            ],
+            "text": "Your plot deck must be exactly 10 cards. You may include a second copy of up to 2 different cards in your plot deck. While there are 2 or more plot cards in your used pile, your non-<i>War</i> plot cards gain Prized 1.",
+            "designer": "Card design by 2014 European Joust Champion, Donovan van Beek.",
+            "deckLimit": 1,
+            "illustrator": "Tim Durning",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/GT30_45.jpg"
+        },
+        {
+            "code": "17152",
+            "type": "agenda",
+            "name": "Valyrian Steel",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "traits": [],
+            "text": "Your minimum deck size is 75 cards. Your deck cannot include more than 1 copy of each attachment.\n<b>Action:</b> Kneel your faction card and pay X gold to put an attachment with printed cost X into play from your hand.\n<b>Reaction:</b> After an attachment enters play under your control, either: draw a card or gain 1 gold. (Limit once per phase.)",
+            "designer": "Card design by 2015 Melee World Champion, Corey Faherty.",
+            "deckLimit": 1,
+            "illustrator": "Tim Durning",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/GT51_118.jpg"
+        },
+        {
+            "code": "17153",
+            "type": "plot",
+            "name": "Breaking Ties",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "plotStats": {
+                "income": 4,
+                "initiative": 7,
+                "claim": 1,
+                "reserve": 5
+            },
+            "traits": [
+                "House Frey",
+                "Scheme"
+            ],
+            "text": "<b>Action:</b> Shuffle a standing loyal character into your deck to choose a non-loyal character or location and return it to its owner's hand. (Limit X times per round, where X is the number of opponents you have.)",
+            "designer": "Card design by 2016 European Melee Champion, Luiz Gustavo Bretas.",
+            "deckLimit": 1,
+            "illustrator": "Borja Pindado",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/GT30_50.jpg"
+        },
+        {
+            "code": "17154",
+            "type": "plot",
+            "name": "Forced March",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "plotStats": {
+                "income": 4,
+                "initiative": 9,
+                "claim": 1,
+                "reserve": 5
+            },
+            "traits": [
+                "Edict",
+                "War"
+            ],
+            "text": "<b>When Revealed:</b> Kneel X characters you control with a [military] icon. Then, each opponent must choose and kneel X characters they control with a [military] icon, if able.",
+            "deckLimit": 1,
+            "illustrator": "Niten",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/GT30_48.jpg"
+        },
+        {
+            "code": "17155",
+            "type": "plot",
+            "name": "Littlefinger's Meddling",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "plotStats": {
+                "income": 4,
+                "initiative": 1,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "Kingdom",
+                "Scheme"
+            ],
+            "text": "Reduce the cost of the first event you play each phase by 2.",
+            "deckLimit": 2,
+            "illustrator": "Chris Rallis",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/GT15_49.jpg"
+        },
+        {
+            "code": "17156",
+            "type": "plot",
+            "name": "At the Palace of Sorrows",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "plotStats": {
+                "income": 5,
+                "initiative": 7,
+                "claim": 1,
+                "reserve": 5
+            },
+            "traits": [
+                "Omen"
+            ],
+            "text": "Set each character's STR to 3.",
+            "deckLimit": 1,
+            "illustrator": "Dimitri Bielak",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/GT53_50.jpg"
+        },
+        {
+            "code": "17157",
+            "type": "plot",
+            "name": "Return to the Fields",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "plotStats": {
+                "income": 4,
+                "initiative": 6,
+                "claim": 1,
+                "reserve": 7
+            },
+            "traits": [
+                "Edict"
+            ],
+            "text": "<b>When Revealed:</b> You may sacrifice up to 3 characters. For each character sacrificed this way, draw 1 card.",
+            "deckLimit": 1,
+            "illustrator": "Aleksander Karcz",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/GT45_47.jpg"
+        },
+        {
+            "code": "17158",
+            "type": "plot",
+            "name": "The Annals of Castle Black",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "plotStats": {
+                "income": 4,
+                "initiative": 4,
+                "claim": 1,
+                "reserve": 7
+            },
+            "traits": [
+                "Legacy"
+            ],
+            "text": "Twice per phase, each player may play an event in their discard pile as if it were in their hand. Forced Reaction: After an event is placed in a discard pile, remove it from the game.",
+            "designer": "Card design by 2014 Overall World Champion, Alexander Hynes.",
+            "deckLimit": 2,
+            "illustrator": "Serena Malyon",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/GT17_40.jpg"
+        },
+        {
+            "code": "17159",
+            "type": "plot",
+            "name": "The King in the North",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "plotStats": {
+                "income": 5,
+                "initiative": 2,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "Kingdom"
+            ],
+            "text": "Players cannot trigger abilities on characters, locations, or attachments, unless those cards have the <i>King</i> or <i>Queen</i> trait.",
+            "designer": "Card design by 2015 Joust World Champion, Jakob Hultman.",
+            "deckLimit": 1,
+            "illustrator": "JB Casacop",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/GT26_80.jpg"
+        },
+        {
+            "code": "17160",
+            "type": "plot",
+            "name": "Trade Routes",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "plotStats": {
+                "income": 2,
+                "initiative": 2,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "Kingdom",
+                "Summer"
+            ],
+            "text": "<b>When Revealed:</b> Choose a player. Gain 1 gold for each location that player controls.",
+            "deckLimit": 2,
+            "illustrator": "Dinodrawing",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/GT29_51.jpg"
+        }
+    ]
+}
