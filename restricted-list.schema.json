@@ -69,6 +69,12 @@
                     "The Conclave",
                     "Redesigns"
                 ]
+            },
+            "cardSet": {
+                "enum": [
+                    "original",
+                    "redesign"
+                ]
             }
         },
         "required": [
@@ -76,7 +82,8 @@
             "date",
             "formats",
             "version",
-            "issuer"
+            "issuer",
+            "cardSet"
         ]
     }
 }
