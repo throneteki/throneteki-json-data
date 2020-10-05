@@ -53,7 +53,7 @@
                 "Ironborn",
                 "Lord"
             ],
-            "text": "<b>Challenges Action:</b> Kneel a <i>Warship</i> location to stand Victarion Greyjoy (Limit twice per phase.)\n<b>Challenges Action:</b> Kneel a <i>Warship</i> location to either: choose and kneel a location, or have Victarion Greyjoy gain renown until the end of the challenge.",
+            "text": "<b>Challenges Action:</b> Kneel a <i>Warship</i> location to stand Victarion Greyjoy. (Limit twice per phase.)\n<b>Challenges Action:</b> Kneel a <i>Warship</i> location to either: choose and kneel a location, or have Victarion Greyjoy gain renown until the end of the challenge.",
             "deckLimit": 3,
             "illustrator": "Jason Jenicke",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/GT34_71.jpg"
@@ -105,7 +105,7 @@
             "traits": [
                 "Raider"
             ],
-            "text": "Pillage. Shadow (3).\n<b>Reaction:</b> After Nighttime Marauders comes out of shadows during the challenges phase, choose a card in an opponent's discard pile. That player reveals his or her hand and discards from it each card with the same printed cost as the chosen card.",
+            "text": "Pillage. Shadow (3).\n<b>Reaction:</b> After Nighttime Marauders comes out of shadows during the challenges phase, choose a card in an opponent's discard pile. That player reveals their hand and discards from it each card with the same printed cost as the chosen card.",
             "deckLimit": 3,
             "illustrator": "Ramon Ignacio Bunge",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/GT31_12.jpg"
@@ -220,7 +220,7 @@
             "traits": [
                 "War"
             ],
-            "text": "<b>Challenges Action:</b> Kneel a <i>Raider</i> character to put a location with lower printed cost into play under your control from a discard pile. (Limit once per phase.)",
+            "text": "<b>Challenges Action:</b> Kneel a <i>Raider</i> character to choose a location with lower printed cost in a discard pile and put it into play under your control. (Limit once per phase.)",
             "deckLimit": 1,
             "illustrator": "Federico Musetti",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/GT45_46.jpg"
@@ -309,7 +309,7 @@
             "traits": [
                 "Dorne"
             ],
-            "text": "<b>Reaction:</b> After you lose a [military] or [power] challenge, look at the top 2 cards of your deck, add 1 to your hand and place the other on the bottom of your deck.\n+1 Reserve.",
+            "text": "<b>Reaction:</b> After you lose a [military] or [power] challenge, look at the top 2 cards of your deck. Add 1 to your hand and place the other on the bottom of your deck.\n+1 Reserve.",
             "deckLimit": 3,
             "illustrator": "Cristi Balanescu",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/GT30_17.jpg"
@@ -413,7 +413,7 @@
             "traits": [
                 "Builder"
             ],
-            "text": "No attachments except <i>Weapon</i>.\n<b>Action:</b> Action: Kneel X [thenightswatch] locations and/or attachments to choose a [thenightswatch] character. Until the end of the phase, that character gets +X STR. (Limit twice per phase.)",
+            "text": "No attachments except <i>Weapon</i>.\n<b>Action:</b> Kneel X [thenightswatch] locations and/or attachments to choose a [thenightswatch] character. Until the end of the phase, that character gets +X STR. (Limit twice per phase.)",
             "flavor": "\"It's the builders for me. What use would rangers be if the Wall fell down?\"",
             "deckLimit": 3,
             "illustrator": "Richard Hanuschek",
@@ -438,7 +438,7 @@
             "traits": [
                 "Steward"
             ],
-            "text": "No attachments except <i>Weapon</i>.\n<b>Reaction:</b> After you check reserve, if your hand size is lower than your reserve value, draw 1 card. (draw 2 cards instead if your hand size is at least 5 lower than your reserve value.)",
+            "text": "No attachments except <i>Weapon</i>.\n<b>Reaction:</b> After you check reserve, if your hand size is lower than your reserve value, draw 1 card (draw 2 cards instead if your hand size is at least 5 lower than your reserve value.)",
             "flavor": "That night, Three-Finger Hobb cooked the boys a special meal to mark the occasion.",
             "deckLimit": 3,
             "illustrator": "Aleksander Karcz",
@@ -498,7 +498,7 @@
                 "House Manderly",
                 "Lord"
             ],
-            "text": "<b>Action:</b> Kill a standing character you control.\n<b>Reaction:</b> After 1 or more characters you control are sacrificed or killed, stand Wyman Manderly and draw 1 card. (Limit once per phase.)",
+            "text": "<b>Action:</b> Kill a standing character you control.\n<b>Reaction:</b> After a character you control is sacrificed or killed, stand Wyman Manderly and draw 1 card. (Limit once per phase.)",
             "flavor": "\"The best pie you have ever tasted, my lords... Wash it down with Arbor gold and savor every bite. I know I shall.\"",
             "deckLimit": 3,
             "illustrator": "Borja Pindado",
@@ -626,7 +626,7 @@
                 "Queen",
                 "Stormborn"
             ],
-            "text": "<b>Action:</b>Kneel your faction card to search the top 10 cards of your deck for a <i>Dragon</i> or <i>Title</i> card and put it into play. Shuffle your deck. At the end of the phase, if that card is still in play and not attached to Daenerys Targaryen, return it to your hand (cannot be saved).",
+            "text": "<b>Action:</b> Kneel your faction card to search the top 10 cards of your deck for a <i>Dragon</i> or <i>Title</i> card and put it into play. Shuffle your deck. At the end of the phase, if that card is still in play and not attached to Daenerys Targaryen, return it to your hand (cannot be saved).",
             "flavor": "\"Why do the gods make kings and queens, if not to protect the ones who can't protect themselves?\"",
             "deckLimit": 3,
             "illustrator": "Aleksander Karcz",
@@ -736,6 +736,7 @@
             "loyal": true,
             "cost": 3,
             "traits": [
+                "Contested",
                 "Meereen"
             ],
             "text": "<b>Action:</b> Kneel Meereen and discard 1 card from your hand to place each card in your hand facedown under Meereen and draw 3 cards. At the end of the phase, or if Meereen leaves play, discard your hand and return each card you placed under Meereen to your hand.",
@@ -757,7 +758,7 @@
             "traits": [
                 "Item"
             ],
-            "text": "Prized 1. Terminal.\nAttached character gains the <i>King</i> trait.\nAttached character gets -4 STR.",
+            "text": "Prized 1. Terminal.\nAttached character gains the <i>King</i> trait and gets -4 STR.",
             "deckLimit": 3,
             "illustrator": "Sara Biddle",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/GT03_34.jpg"
@@ -880,7 +881,7 @@
             "loyal": true,
             "cost": 0,
             "traits": [],
-            "text": "<b>Reaction:</b> After you win a challenge by 5 or more STR, choose up to 5 <i>Lady</i> characters you control. Each of the chosen characters gains 1 power. (Max 1 per phase.)",
+            "text": "<b>Reaction:</b> After you win a challenge by 5 or more STR, choose up to 5 <i>Lady</i> characters you control. Each chosen character gains 1 power. (Max 1 per phase.)",
             "flavor": "\"...but the ones in motley are more amusing than ones with crowns.\" <cite>The Queen of Thorns</cite>",
             "deckLimit": 3,
             "illustrator": "Drazenka Kimpel",
@@ -896,7 +897,7 @@
             "loyal": false,
             "cost": 0,
             "traits": [],
-            "text": "<b>Action:</b> Kneel your faction card to remove another [tyrell] character you control from the game until the beginning of the next phase.",
+            "text": "<b>Action:</b> Kneel your faction card to remove a [tyrell] character you control from the game until the beginning of the next phase.",
             "deckLimit": 3,
             "illustrator": "Jason Engle",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/GT08_38.jpg"
@@ -913,7 +914,7 @@
             "traits": [
                 "King's Landing"
             ],
-            "text": "Bestow (3).\n<b>Challenges Action:</b> Discard 1 gold from Flea Bottom and kneel it to put a character with printed cost 3 or lower into play from your discard pile. At the end of the phase, if that card is still in play, place it on the bottom of your deck.",
+            "text": "Bestow (3).\n<b>Challenges Action:</b> Kneel Flea Bottom and discard 1 gold from it to put a character with printed cost 3 or lower into play from your discard pile. At the end of the phase, if that card is still in play, place it on the bottom of your deck.",
             "designer": "Card design by 2004 World Champion, Greg Atkinson.",
             "deckLimit": 3,
             "illustrator": "Regis Moulun",
@@ -1009,7 +1010,7 @@
             "quantity": 3,
             "faction": "neutral",
             "traits": [],
-            "text": "You may include non-loyal characters with the printed shadow keyword from any faction in your deck. While you control no in-faction characters, increase the cost to marshal each of your cards into shadows by 1.",
+            "text": "You may include non-loyal characters with the printed shadow keyword from any faction in your deck.\nWhile you control no in-faction characters, increase the cost to marshal each of your cards into shadows by 1.",
             "deckLimit": 1,
             "illustrator": "Tim Durning",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/GT49_79.jpg"
@@ -1052,7 +1053,7 @@
             "traits": [
                 "Omen"
             ],
-            "text": "Your plot deck must be exactly 10 cards. You may include a second copy of up to 2 different cards in your plot deck. While there are 2 or more plot cards in your used pile, your non-<i>War</i> plot cards gain Prized 1.",
+            "text": "Your plot deck must be exactly 10 cards. You may include a second copy of up to 2 different cards in your plot deck.\nWhile there are 3 or more plot cards in your used pile, your non-<i>War</i> plot cards gain Prized 1.",
             "designer": "Card design by 2014 European Joust Champion, Donovan van Beek.",
             "deckLimit": 1,
             "illustrator": "Tim Durning",
@@ -1197,7 +1198,7 @@
             "traits": [
                 "Legacy"
             ],
-            "text": "Twice per phase, each player may play an event in their discard pile as if it were in their hand. Forced Reaction: After an event is placed in a discard pile, remove it from the game.",
+            "text": "Twice per phase, each player may play an event in their discard pile as if it were in their hand.\n<b>Forced Reaction:</b> After an event is placed in a discard pile, remove it from the game.",
             "designer": "Card design by 2014 Overall World Champion, Alexander Hynes.",
             "deckLimit": 2,
             "illustrator": "Serena Malyon",
