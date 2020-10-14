@@ -881,7 +881,7 @@
             "loyal": true,
             "cost": 0,
             "traits": [],
-            "text": "<b>Reaction:</b> After you win a challenge by 5 or more STR, choose up to 5 <i>Lady</i> characters you control. Each chosen character gains 1 power. (Max 1 per phase.)",
+            "text": "<b>Reaction:</b> After you win a challenge by 5 or more STR, choose up to 5 <i>Lady</i> characters. Each chosen character gains 1 power. (Max 1 per phase.)",
             "flavor": "\"...but the ones in motley are more amusing than ones with crowns.\" <cite>The Queen of Thorns</cite>",
             "deckLimit": 3,
             "illustrator": "Drazenka Kimpel",
