@@ -63,6 +63,9 @@
             "version": {
                 "type": "string"
             },
+            "code": {
+                "type": "string"
+            },
             "issuer": {
                 "enum": [
                     "Fantasy Flight Games",
@@ -83,7 +86,8 @@
             "formats",
             "version",
             "issuer",
-            "cardSet"
+            "cardSet",
+            "code"
         ]
     }
 }
