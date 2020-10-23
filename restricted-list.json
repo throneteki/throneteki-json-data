@@ -3,6 +3,7 @@
         "version": "1.1",
         "issuer": "Fantasy Flight Games",
         "cardSet": "original",
+        "code": "ffg1.1",
         "date": "2016-10-10",
         "formats": [
             {
@@ -20,6 +21,7 @@
         "version": "1.2",
         "issuer": "Fantasy Flight Games",
         "cardSet": "original",
+        "code": "ffg1.2",
         "date": "2017-10-12",
         "formats": [
             {
@@ -113,6 +115,7 @@
         "version": "1.3",
         "issuer": "Fantasy Flight Games",
         "cardSet": "original",
+        "code": "ffg1.3",
         "date": "2018-03-26",
         "formats": [
             {
@@ -212,6 +215,7 @@
         "version": "1.4",
         "issuer": "Fantasy Flight Games",
         "cardSet": "original",
+        "code": "ffg1.4",
         "date": "2018-06-11",
         "formats": [
             {
@@ -325,6 +329,7 @@
         "version": "2.0",
         "issuer": "Fantasy Flight Games",
         "cardSet": "original",
+        "code": "ffg2.0",
         "date": "2018-10-08",
         "formats": [
             {
@@ -443,6 +448,7 @@
         "version": "2.1",
         "issuer": "Fantasy Flight Games",
         "cardSet": "original",
+        "code": "ffg2.1",
         "date": "2019-02-21",
         "formats": [
             {
@@ -574,6 +580,7 @@
         "version": "2.2",
         "issuer": "Fantasy Flight Games",
         "cardSet": "original",
+        "code": "ffg2.2",
         "date": "2019-06-06",
         "formats": [
             {
@@ -707,6 +714,7 @@
         "version": "2.3",
         "issuer": "Fantasy Flight Games",
         "cardSet": "original",
+        "code": "ffg2.3",
         "date": "2019-09-20",
         "formats": [
             {
@@ -886,6 +894,7 @@
         "version": "3.0",
         "issuer": "Fantasy Flight Games",
         "cardSet": "original",
+        "code": "ffg3.0",
         "date": "2020-01-13",
         "formats": [
             {
@@ -1071,6 +1080,7 @@
         "version": "1.0",
         "issuer": "The Conclave",
         "cardSet": "original",
+        "code": "conclave1.0",
         "date": "2020-04-13",
         "formats": [
             {
@@ -1268,6 +1278,7 @@
         "version": "2.0",
         "issuer": "The Conclave",
         "cardSet": "original",
+        "code": "conclave2.0",
         "date": "2020-07-03",
         "formats": [
             {
@@ -1517,6 +1528,7 @@
         "version": "2.1",
         "issuer": "Redesigns",
         "cardSet": "redesign",
+        "code": "redesigns2.1",
         "date": "2020-10-03",
         "formats": [
             {
