@@ -1,0 +1,485 @@
+{
+    "cgdbId": null,
+    "code": "FH",
+    "name": "Forgotten Heroes",
+    "releaseDate": "2020-11-27",
+    "cards": [
+        {
+            "code": "18001",
+            "type": "character",
+            "name": "Bonifer the Good",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": true,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Commander",
+                "Knight",
+                "The Seven"
+            ],
+            "text": "Each non-neutral <i>The Seven</i> character you control gains insight.",
+            "flavor": "\"The Crone will light our way, and the Warrior will give strength to our arms.\"",
+            "deckLimit": 3,
+            "illustrator": "Fabio Leone"
+        },
+        {
+            "code": "18002",
+            "type": "character",
+            "name": "Godry the Giantslayer",
+            "octgnId": "null",
+            "quantity": 3,
+            "unique": true,
+            "loyal": false,
+            "faction": "baratheon",
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": "X",
+            "traits": [
+                "Knight",
+                "R'hllor"
+            ],
+            "text": "Bestow (1).\nX is the number of gold Godry the Giantslayer has. While he has 5 or more gold, he gains intimidate.\n<b>Reaction:</b> After you marshal or play another <i>Knight</i> or <i>R'hllor</i> card, Godry the Giantslayer gains 1 gold. (Limit once per phase.)",
+            "flavor": "\"I have slain a giant, boy. Why should I fear some flea-ridden northman who paints one on his shield?\"",
+            "deckLimit": 3,
+            "illustrator": "Mike Gardner"
+        },
+        {
+            "code": "18003",
+            "type": "character",
+            "name": "Left-Hand Lucas Codd",
+            "octgnId": "null",
+            "quantity": 3,
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Captain",
+                "Ironborn",
+                "Raider"
+            ],
+            "text": "Stealth.\n<b>Reaction:</b> After the defending player declares no defender during a challenge in which you control an attacking <i>Raider</i> character, place 1 gold from the treasury on a card.",
+            "flavor": "\"I am unwed.\"", 
+            "deckLimit": 3,
+            "illustrator": "Unknown"
+        },
+        {
+            "code": "18004",
+            "type": "character",
+            "name": "Cragorn",
+            "octgnId": "null",
+            "quantity": 3,
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Raider"
+            ],
+            "text": "Bestow (3).\n<b>Challenges Action:</b> Discard 1 gold from a <i>Raider</i> character to search the top 10 cards of your deck for an <i>Item</i> or <i>Weapon</i> attachment with printed cost 3 or lower and put it into play. Shuffle your deck. (Limit once per phase.)",
+            "deckLimit": 3,
+            "illustrator": "Yoann Boissonnet"
+        },
+        {
+            "code": "18005",
+            "type": "character",
+            "name": "Ser Addam Marbrand",
+            "octgnId": "null",
+            "quantity": 3,
+            "unique": true,
+            "faction": "lannister",
+            "loyal": true,
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Commander",
+                "Knight"
+            ],
+            "text": "<b>Reaction:</b> After an <i>Army</i> or <i>Knight</i> card enters play under your control, Ser Addam Marbrand gains 1 gold. (Limit once per phase.)\n<b>Reaction:</b> After a character enters your discard pile, discard 1 gold from Ser Addam Marbrand to return it to your hand. (Limit twice per round.)",
+            "deckLimit": 3,
+            "illustrator": "Stefan Kopinski"
+        },
+        {
+            "code": "18006",
+            "type": "character",
+            "name": "Ser Harys Swyft",
+            "octgnId": "null",
+            "quantity": 3,
+            "unique": true,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Knight",
+                "Lord",
+                "Small Council"
+            ],
+            "text": "<b>Action:</b> Move 1 gold from your gold pool to a card without gold. (Limit twice per round.)\n+1 Income.",
+            "flavor": "?", 
+            "deckLimit": 3,
+            "illustrator": "Nicole Cardiff"
+        },
+        {
+            "code": "18007",
+            "type": "character",
+            "name": "Mellario of Norvos",
+            "octgnId": "null",
+            "quantity": 3,
+            "unique": true,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Lady"
+            ],
+            "text": "Reduce the cost for you to marshal Arianne Martell by 1.\nWhile you control:\n- Doran Martell, he gains: \"immune to opponents' plot effects.\"\n- Quentyn Martell, he gets +2 STR.\n- Trystane Martell, he gains insight.",
+            "deckLimit": 3,
+            "illustrator": "Karla Ortiz"
+        },
+        {
+            "code": "18008",
+            "type": "character",
+            "name": "The Tattered Prince",
+            "octgnId": "null",
+            "quantity": 3,
+            "unique": true,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Commander",
+                "Mercenary"
+            ],
+            "text": "Bestow (2). Renown. Shadow (2).\n<b>Forced Reaction:</b> After a plot card enters your used pile, return The Tattered Prince to shadows unless you discard 1 gold from him.",
+            "flavor": "?", 
+            "deckLimit": 3,
+            "illustrator": "Diego Gisbert Llorens"
+        },
+        {
+            "code": "18009",
+            "type": "character",
+            "name": "Dywen",
+            "octgnId": "null",
+            "quantity": 3,
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 6,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 4,
+            "traits": [
+                "Ranger"
+            ],
+            "text": "Stealth.\nEach [thenightswatch] character you control with stealth does not kneel to attack during [military] challenges.\n+1 Reserve.",
+            "flavor": "?", 
+            "deckLimit": 3,
+            "illustrator": "Unknown"
+        },
+        {
+            "code": "18010",
+            "type": "character",
+            "name": "Leathers",
+            "octgnId": "null",
+            "quantity": 3,
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Ranger",
+                "Wildling"
+            ],
+            "text": "Each <i>Wildling</i> character you control gains the [thenightswatch] affiliation and each <i>Giant</i> character you control gains an [intrigue] icon.\n<b>Reaction:</b> After Leathers enters play, search your deck for a <i>Giant</i> character, reveal it and add it to your hand. Shuffle your deck.",
+            "flavor": "?", 
+            "deckLimit": 3,
+            "illustrator": "Juan Hernández"
+        },
+        {
+            "code": "18011",
+            "type": "character",
+            "name": "Rickard Karstark",
+            "octgnId": "null",
+            "quantity": 3,
+            "unique": true,
+            "faction": "stark",
+            "loyal": true,
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "House Karstark",
+                "Lord"
+            ],
+            "text": "<b>Challenges Action:</b> Kneel a <i>The North</i> location to have each player sacrifice a character or location. (Limit once per phase.)\n<b>Reaction:</b> After a <i>Winter</i> plot card is revealed, return a <i>The North</i> location from your discard pile to your hand. (Limit once per phase.)",
+            "deckLimit": 3,
+            "illustrator": "Unknown"
+        },
+        {
+            "code": "18012",
+            "type": "character",
+            "name": "Harwin",
+            "octgnId": "null",
+            "quantity": 3,
+            "unique": true,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Brotherhood",
+                "R'hllor"
+            ],
+            "text": "Bestow (2). No attachments except <i>Warhorse</i>.\n<b>Action:</b> During a challenge in which you control a participating non-loyal character, discard 1 gold from Harwin to choose a character you control with 2 or more keywords and have it participate in the challenge on your side. (Limit once per phase.)",
+            "deckLimit": 3,
+            "illustrator": "JB Casacop"
+        },
+        {
+            "code": "18013",
+            "type": "character",
+            "name": "Reznak mo Reznak",
+            "octgnId": "null",
+            "quantity": 3,
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "Ally",
+                "Steward"
+            ],
+            "text": "Bestow (3).\n<b>Reaction:</b> After a character is discarded from your hand, Reznak mo Reznak gains 1 gold. Then, you may discard X gold from him to put that character into play from your discard pile, where X is that character's printed cost. (Limit twice per round.)",
+            "deckLimit": 3,
+            "illustrator": "Unknown"
+        },
+        {
+            "code": "18014",
+            "type": "character",
+            "name": "Haldon Halfmaester",
+            "octgnId": "null",
+            "quantity": 3,
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "Companion",
+                "Maester"
+            ],
+            "text": "<b>Reaction:</b> After you win a challenge in which Haldon Halfmaester is participating, reveal the top card of your deck:\n- Place 1 gold from the treasury on a card with the same cardtype.\n- If it is an event, draw it.\n- If it is Aegon Targaryen, put him into play.",
+            "deckLimit": 3,
+            "illustrator": "Kerry Barnett"
+        },
+        {
+            "code": "18015",
+            "type": "character",
+            "name": "Orton Merryweather",
+            "octgnId": "null",
+            "quantity": 4,
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "Lord",
+                "Small Council"
+            ],
+            "text": "<b>Reaction:</b> After a player marshals or plays a <i>Small Council</i> card, return an event card from your discard pile to your hand. (Limit once per phase.)\n<b>Interrupt:</b> When Orton Merryweather leaves play, put a non-unique <i>Spy</i> character into play from your hand.",
+            "deckLimit": 3,
+            "illustrator": "Unknown"
+        },
+        {
+            "code": "18016",
+            "type": "character",
+            "name": "Ser Emmon Cuy",
+            "octgnId": "null",
+            "quantity": 3,
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Kingsguard",
+                "Knight",
+                "Rainbow Guard"
+            ],
+            "text": "Bestow (1).\n<b>Reaction:</b> After you initiate a challenge, discard 1 gold from Ser Emmon Cuy to raise the claim value on your revealed plot card by 1 until the end of the challenge. Then, if he has no gold, kill him. (Limit once per phase.)",
+            "deckLimit": 3,
+            "illustrator": "Jason Engle"
+        }, 
+        {
+            "code": "18017",
+            "type": "character",
+            "name": "Vargo Hoat",
+            "octgnId": "null",
+            "quantity": 3,
+            "unique": true,
+            "faction": "neutral",
+            "loyal": false,
+            "cost": 6,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "Commander",
+                "Mercenary"
+            ],
+            "text": "Bestow (2).\n<b>Reaction:</b> After a card with bestow enters play, it gains 1 gold. (Limit twice per phase.)\n<b>Action:</b> Move 1 gold from Vargo Hoat to a character with 2 or less gold. Until the end of the phase, Vargo Hoat gains that character's keywords.",
+            "deckLimit": 3,
+            "illustrator": "Andrius Anezin"
+        },
+        {
+            "code": "18018",
+            "type": "character",
+            "name": "Balerion",
+            "octgnId": "null",
+            "quantity": 3,
+            "unique": true,
+            "faction": "neutral",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 1,
+            "traits": [
+                "Cat"
+            ],
+            "text": "Ambush (2). No attachments except <i>Cat</i>.\nBalerion cannot be killed.\n<b>Action:</b> Kneel Balerion to discard 1 gold from a card.",
+            "flavor": "\"That's the real king of this castle right there, older than sin and twice as mean.\"", 
+            "deckLimit": 3,
+            "illustrator": "Joshua Cairos"
+        },
+        {
+            "code": "18019",
+            "type": "agenda",
+            "name": "Free Companies",
+            "octgnId": "null",
+            "quantity": 3,
+            "unique": true,
+            "faction": "neutral",
+            "traits": [
+                "Banner"
+            ],
+            "text": "Each neutral character you control gets -1 STR if it has no gold.\n<b>Action:</b> Kneel your faction card to place 1 gold from the treasury on either: a card without gold, or a <i>Mercenary</i> character.",
+            "deckLimit": 1,
+            "illustrator": "Juan Hernández"
+        },
+        {
+            "code": "18020",
+            "type": "plot",
+            "name": "The Pointy End",
+            "octgnId": "null",
+            "quantity": 3,
+            "faction": "neutral",
+            "plotStats": {
+                "income": 4,
+                "initiative": 3,
+                "claim": 1,
+                "reserve": 5
+            },
+            "traits": [
+                "Scheme",
+                "War"
+            ],
+            "text": "<b>When Revealed:</b> Choose a character. If it has more than 1 attachment, discard each attachment from it. Otherwise, discard each duplicate and each power from it.",
+            "flavor": "\"Do you know the first thing about sword fighting?\" <cite>Eddard Stark</cite>",
+            "deckLimit": 2,
+            "illustrator": "Lap Pun Cheung"
+        }
+    ]
+}
