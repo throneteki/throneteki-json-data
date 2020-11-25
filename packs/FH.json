@@ -182,7 +182,7 @@
             "text": "Reduce the cost for you to marshal Arianne Martell by 1.\nWhile you control:\n- Doran Martell, he gains: \"immune to opponents' plot effects.\"\n- Quentyn Martell, he gets +2 STR.\n- Trystane Martell, he gains insight.",
             "deckLimit": 3,
             "illustrator": "Karla Ortiz",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/1_Mellario.png"
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/7_Mellario.png"
         },
         {
             "code": "18008",
@@ -229,7 +229,7 @@
             "traits": [
                 "Ranger"
             ],
-            "text": "Stealth.\nEach [thenightswatch] character you control with stealth does not kneel to attack during [military] challenges.\n+1 Reserve.",
+            "text": "Stealth.\nEach [thenightswatch] character you control with stealth does not kneel when declared as an attacker during a [military] challenge.\n+1 Reserve.",
             "flavor": "?", 
             "deckLimit": 3,
             "illustrator": "Unknown",
