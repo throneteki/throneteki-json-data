@@ -78,7 +78,7 @@
                 "Ironborn",
                 "Raider"
             ],
-            "text": "Stealth.\n<b>Reaction:</b> After the defending player declares no defender during a challenge in which you control an attacking <i>Raider</i> character, place 1 gold from the treasury on a card.",
+            "text": "Stealth.\n<b>Reaction:</b> After no defenders are declared in a challenge in which you control an attacking <i>Raider</i> character, place 1 gold from the treasury on a card.",
             "flavor": "\"I am unwed.\"", 
             "deckLimit": 3,
             "illustrator": "Unknown",
@@ -255,7 +255,7 @@
                 "Ranger",
                 "Wildling"
             ],
-            "text": "Each <i>Wildling</i> character you control gains the [thenightswatch] affiliation and each <i>Giant</i> character you control gains an [intrigue] icon.\n<b>Reaction:</b> After Leathers enters play, search your deck for a <i>Giant</i> character, reveal it and add it to your hand. Shuffle your deck.",
+            "text": "Each <i>Wildling</i> character you control gains the [thenightswatch] affiliation.\nEach <i>Giant</i> character you control gains an [intrigue] icon.\n<b>Reaction:</b> After Leathers enters play, search your deck for a <i>Giant</i> character, reveal it and add it to your hand. Shuffle your deck.",
             "flavor": "?", 
             "deckLimit": 3,
             "illustrator": "Juan Hernández",
@@ -381,7 +381,7 @@
                 "Lord",
                 "Small Council"
             ],
-            "text": "<b>Reaction:</b> After a player marshals or plays a <i>Small Council</i> card, return an event card from your discard pile to your hand. (Limit once per phase.)\n<b>Interrupt:</b> When Orton Merryweather leaves play, put a non-unique <i>Spy</i> character into play from your hand.",
+            "text": "<b>Reaction:</b> After a player marshals or plays a <i>Small Council</i> card, return an event from your discard pile to your hand. (Limit once per phase.)\n<b>Interrupt:</b> When Orton Merryweather leaves play, put a non-unique <i>Spy</i> character into play from your hand.",
             "deckLimit": 3,
             "illustrator": "Unknown",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/15_Orton.png"
@@ -473,7 +473,7 @@
             "traits": [
                 "Banner"
             ],
-            "text": "Each neutral character you control gets -1 STR if it has no gold.\n<b>Action:</b> Kneel your faction card to place 1 gold from the treasury on either: a card without gold, or a <i>Mercenary</i> character.",
+            "text": "Each neutral character you control gets -1 STR if it has no gold.\n<b>Action:</b> Kneel your faction card to place 1 gold from the treasury on, either: a card without gold, or a <i>Mercenary</i> character.",
             "deckLimit": 1,
             "illustrator": "Juan Hernández",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/19_Free_Companies.png"
@@ -495,7 +495,7 @@
                 "Scheme",
                 "War"
             ],
-            "text": "<b>When Revealed:</b> Choose a character. If it has more than 1 attachment, discard each attachment from it. Otherwise, discard each duplicate and each power from it.",
+            "text": "<b>When Revealed:</b> Choose a character. If there are 2 or more attachments attached to that character, discard each attachment from it. Otherwise, discard each duplicate and each power from it.",
             "flavor": "\"Do you know the first thing about sword fighting?\" <cite>Eddard Stark</cite>",
             "deckLimit": 2,
             "illustrator": "Lap Pun Cheung",
