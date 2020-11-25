@@ -324,7 +324,7 @@
             "loyal": true,
             "cost": 1,
             "traits": [],
-            "text": "<b>Reaction:</b> After you win an [intrigue] challenge by 5 or more STR, gain X power for your faction (to a maximum of 5). X is the number of plot cards in your used pile. (Max 1 per challenge.)",
+            "text": "<b>Reaction:</b> After you win an [intrigue] challenge by 5 or more STR, gain X power for your faction (to a maximum of 5 power). X is the number of plot cards in your used pile. (Max 1 per challenge.)",
             "deckLimit": 3,
             "illustrator": "Jean Tay",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/GT01_119.jpg"
@@ -473,7 +473,7 @@
             "loyal": true,
             "cost": 2,
             "traits": [],
-            "text": "<b>Reaction:</b> After you win a challenge as the attacking player, discard the top 2 cards of the losing opponent's deck. You may put an eligible character of the losing player’s choice from their discard pile into play under your control. (Max 1 per challenge.)",
+            "text": "<b>Reaction:</b> After you win a challenge as the attacking player, discard the top 2 cards of the losing opponent's deck. You may put an eligible character of that player's choice from their discard pile into play under your control. (Max 1 per challenge.)",
             "deckLimit": 3,
             "illustrator": "Federico Musetti",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/GT50_86.jpg"
