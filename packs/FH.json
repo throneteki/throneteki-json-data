@@ -82,7 +82,7 @@
             "flavor": "\"I am unwed.\"", 
             "deckLimit": 3,
             "illustrator": "Unknown",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/3_Left_hand.png"
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/3_Left-Hand.png"
         },
         {
             "code": "18004",
@@ -208,7 +208,7 @@
             "flavor": "?", 
             "deckLimit": 3,
             "illustrator": "Diego Gisbert Llorens",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/8_Tattered_prince.png"
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/8_Tattered.png"
         },
         {
             "code": "18009",
@@ -410,7 +410,7 @@
             "text": "Bestow (1).\n<b>Reaction:</b> After you initiate a challenge, discard 1 gold from Ser Emmon Cuy to raise the claim value on your revealed plot card by 1 until the end of the challenge. Then, if he has no gold, kill him. (Limit once per phase.)",
             "deckLimit": 3,
             "illustrator": "Jason Engle",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/16_Ser_Emmom.png"
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/16_Ser_Emmon.png"
         }, 
         {
             "code": "18017",
