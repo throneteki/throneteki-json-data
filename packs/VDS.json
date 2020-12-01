@@ -14,7 +14,8 @@
             "traits": [],
             "text": "When you announce The Power of Wealth as your agenda, name 1 faction. You may include cards from that faction in your draw deck and plot deck.\nReduce the cost of the first in-faction card you marshal or play each round by 1.\n<b>Draft format only.</b>",
             "deckLimit": 1,
-            "illustrator": "David Griffith"
+            "illustrator": "David Griffith",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/VDS/00001.png"
         },
         {
             "code": "00002",
@@ -26,7 +27,8 @@
             "traits": [],
             "text": "You may include <i>Knight</i> and <i>Army</i> characters from any faction in your deck.\n<b>Action:</b> Kneel your faction card to choose a <i>Knight</i> or <i>Army</i> character. Until the end of the phase, that character gains renown.\n<b>Draft format only.</b>",
             "deckLimit": 1,
-            "illustrator": "David Griffith"
+            "illustrator": "David Griffith",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/VDS/00002.png"
         },
         {
             "code": "00003",
@@ -38,7 +40,8 @@
             "traits": [],
             "text": "When you announce Treaty as your agenda, name 2 factions. You may include cards from those factions in your draw deck and plot deck.\n<b>Action:</b> Kneel your faction card to draw 1 card. Then, choose and discard 1 card from your hand.\n<b>Draft format only.</b>",
             "deckLimit": 1,
-            "illustrator": "David Griffith"
+            "illustrator": "David Griffith",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/VDS/00003.png"
         },
         {
             "code": "00004",
@@ -50,7 +53,8 @@
             "traits": [],
             "text": "You may include cards from any faction in your draw deck.\nIncrease the cost of each out-of-faction card you marshal or play by 1.\n<b>Draft format only.</b>",
             "deckLimit": 1,
-            "illustrator": "David Griffith"
+            "illustrator": "David Griffith",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/VDS/00004.png"
         },
         {
             "code": "00005",
@@ -71,7 +75,8 @@
                 "Ally"
             ],
             "text": "<b>Marshaling Action:</b> Kneel House Bannerman to reduce the cost of the next in-faction character you marshal this phase by 1.\n<b>Draft format only.</b>",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/VDS/00005.png"
         },
         {
             "code": "00006",
@@ -91,7 +96,8 @@
                 "Winter"
             ],
             "text": "<b>When Revealed:</b> You may increase the gold value on Feast or Famine by 5. If you do, reduce the claim value on Feast of Famine by 2.\n<b>Draft format only.</b>",
-            "deckLimit": 2
+            "deckLimit": 2,
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/VDS/00006.png"
         },
         {
             "code": "00007",
@@ -110,7 +116,8 @@
                 "Kingdom"
             ],
             "text": "<b>When Revealed:</b> Search the top 10 cards of your deck for an in-faction card, reveal it, and add it to your hand. Shuffle your deck.\n<b>Draft format only.</b>",
-            "deckLimit": 2
+            "deckLimit": 2,
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/VDS/00007.png"
         },
         {
             "code": "00008",
@@ -129,7 +136,8 @@
                 "Omen"
             ],
             "text": "<b>When Revealed:</b> Each player chooses any number of characters he or she controls with total printed cost 10 or lower. Kill each character not chosen (cannot be saved).\n<b>Draft format only.</b>",
-            "deckLimit": 2
+            "deckLimit": 2,
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/VDS/00008.png"
         },
         {
             "code": "00009",
@@ -143,7 +151,8 @@
             "traits": [],
             "text": "<b>Reaction:</b> After the dominance phase begins, choose and stand a character you control. If you win dominance this phase, that character gains 1 power.\n<b>Draft format only.</b>",
             "deckLimit": 3,
-            "illustrator": "John Matson"
+            "illustrator": "John Matson",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/VDS/00009.png"
         },
         {
             "code": "00010",
@@ -160,7 +169,8 @@
             ],
             "text": "[greyjoy] character only.\nAttached character gains stealth.\n<b>Reaction:</b> After you win an unopposed challenge in which attached character is attacking, stand attached character.\n<b>Draft format only.</b>",
             "deckLimit": 3,
-            "illustrator": "Eric Braddock"
+            "illustrator": "Eric Braddock",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/VDS/00010.png"
         },
         {
             "code": "00011",
@@ -183,7 +193,8 @@
             ],
             "text": "Stealth.\n<b>Reaction:</b> After you win an [intrigue] challenge or a challenge in which Tyrion Lannister is participating, pay 1 gold to draw 1 card.\n<b>Draft format only.</b>",
             "deckLimit": 3,
-            "illustrator": "Sebastian Giacobino"
+            "illustrator": "Sebastian Giacobino",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/VDS/00011.png"
         },
         {
             "code": "00012",
@@ -197,7 +208,8 @@
             "traits": [],
             "text": "<b>Reaction:</b> After you lose a challenge by 5 or more STR as the defending player, each character controlled by the attacking player loses a [military], an [intrigue], and a [power] icon until the end of the phase.\n<b>Draft format only.</b>",
             "deckLimit": 3,
-            "illustrator": "Tomasz Jedruszek"
+            "illustrator": "Tomasz Jedruszek",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/VDS/00012.png"
         },
         {
             "code": "00013",
@@ -214,7 +226,8 @@
             ],
             "text": "<b>Challenges Action:</b> Kneel The Nightfort to choose a defending [thenightswatch] character. Until the end of the challenge, that character gets +1 STR for each attacking character.\n<b>Draft format only.</b>",
             "deckLimit": 3,
-            "illustrator": "Yoann Boissonnet"
+            "illustrator": "Yoann Boissonnet",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/VDS/00013.png"
         },
         {
             "code": "00014",
@@ -238,7 +251,8 @@
             ],
             "text": "No attachments. Stealth.\nEach <i>House Tully</i> you control gains \"immune to opponents' triggered effects\" while it is participating in a challenge.\n<b>Draft format only.</b>",
             "deckLimit": 3,
-            "illustrator": "Tomasz Jedruszek"
+            "illustrator": "Tomasz Jedruszek",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/VDS/00014.png"
         },
         {
             "code": "00015",
@@ -251,7 +265,8 @@
             "cost": 1,
             "traits": [],
             "text": "<b>Challenges Action:</b> Choose an attacking [targaryen] character you control. Until the end of the challenge, that character gets +1 STR for each <i>Dothraki</i> character you control and gains intimidate.\n<b>Draft format only.</b>",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/VDS/00015.png"
         },
         {
             "code": "00016",
@@ -275,7 +290,8 @@
             ],
             "text": "No attachments.\n<b>Reaction:</b> After you win a [power] challenge in which Blackcrown Knights is participating, discard 1 card from your hand to have Blackcrown Knights gain 2 power.\n<b>Draft format only.</b>",
             "deckLimit": 3,
-            "illustrator": "Andrius Anezin"
+            "illustrator": "Andrius Anezin",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/VDS/00016.png"
         },
         {
             "code": "00017",
@@ -298,7 +314,8 @@
             ],
             "text": "Stealth.\nEach non-<i>Army</i> character you control with printed cost 6 or higher gets +2 STR.\n<b>Draft format only.</b>",
             "deckLimit": 3,
-            "illustrator": "Alexandre Dainche"
+            "illustrator": "Alexandre Dainche",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/VDS/00017.png"
         },
         {
             "code": "00018",
@@ -313,7 +330,8 @@
                 "Westeros"
             ],
             "text": "<b>Reaction:</b> After you marshal a character with a faction affiliation that does not match any other card you control, draw 1 card.\n<b>Draft format only.</b>",
-            "deckLimit": 3
+            "deckLimit": 3,
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/VDS/00018.png"
         },
         {
             "code": "00019",
@@ -326,7 +344,8 @@
             "traits": [],
             "text": "<b>Marshaling Action:</b> Kneel a <i>Knight</i> character to search your deck for a <i>Knight</i> character, reveal it, and add it to your hand. Shuffle your deck.\n<b>Draft format only.</b>",
             "deckLimit": 3,
-            "illustrator": "JB Casacop"
+            "illustrator": "JB Casacop",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/VDS/00019.png"
         },
         {
             "code": "00020",
@@ -345,7 +364,8 @@
                 "War"
             ],
             "text": "While you control fewer characters than each opponent, each character you control gets +2 STR.\n<b>Draft format only.</b>",
-            "deckLimit": 2
+            "deckLimit": 2,
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/VDS/00020.png"
         },
         {
             "code": "00021",
@@ -365,7 +385,8 @@
             ],
             "text": "X is the number of different faction affiliations among characters you control.\n<b>Draft format only.</b>",
             "deckLimit": 2,
-            "illustrator": "Nicholas Gregory"
+            "illustrator": "Nicholas Gregory",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/VDS/00021.png"
         }
     ]
 }
