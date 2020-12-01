@@ -81,7 +81,7 @@
             "text": "Stealth.\n<b>Reaction:</b> After no defenders are declared in a challenge in which you control an attacking <i>Raider</i> character, place 1 gold from the treasury on a card.",
             "flavor": "\"I am unwed.\"", 
             "deckLimit": 3,
-            "illustrator": "Unknown",
+            "illustrator": "David Benzal",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/3_Left-Hand.png"
         },
         {
@@ -232,7 +232,7 @@
             "text": "Stealth.\nEach [thenightswatch] character you control with stealth does not kneel when declared as an attacker during a [military] challenge.\n+1 Reserve.",
             "flavor": "?", 
             "deckLimit": 3,
-            "illustrator": "Unknown",
+            "illustrator": "Grafit Studi",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/9_Dywen.png"
         },
         {
@@ -283,7 +283,7 @@
             ],
             "text": "<b>Challenges Action:</b> Kneel a <i>The North</i> location to have each player sacrifice a character or location. (Limit once per phase.)\n<b>Reaction:</b> After a <i>Winter</i> plot card is revealed, return a <i>The North</i> location from your discard pile to your hand. (Limit once per phase.)",
             "deckLimit": 3,
-            "illustrator": "Unknown",
+            "illustrator": "Reza Afshar",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/11_Rickard.png"
         },
         {
@@ -333,7 +333,7 @@
             ],
             "text": "Bestow (3).\n<b>Reaction:</b> After a character is discarded from your hand, Reznak mo Reznak gains 1 gold. Then, you may discard X gold from him to put that character into play from your discard pile, where X is that character's printed cost. (Limit twice per round.)",
             "deckLimit": 3,
-            "illustrator": "Unknown",
+            "illustrator": "Joshua Cairos",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/13_Reznak.png"
         },
         {
@@ -383,7 +383,7 @@
             ],
             "text": "<b>Reaction:</b> After a player marshals or plays a <i>Small Council</i> card, return an event from your discard pile to your hand. (Limit once per phase.)\n<b>Interrupt:</b> When Orton Merryweather leaves play, put a non-unique <i>Spy</i> character into play from your hand.",
             "deckLimit": 3,
-            "illustrator": "Unknown",
+            "illustrator": "Sandra Chlewińska",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/15_Orton.png"
         },
         {
