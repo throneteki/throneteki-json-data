@@ -1,5 +1,1895 @@
 [
     {
+        "id": "Core-1",
+        "name": "The Old Ways (Core)",
+        "releaseDate": "2015-10-08",
+        "faction": "stark",
+        "agenda": "01199",
+        "cards": [
+            {
+                "code": "01008",
+                "count": 1
+            },
+            {
+                "code": "01009",
+                "count": 1
+            },
+            {
+                "code": "01017",
+                "count": 1
+            },
+            {
+                "code": "01019",
+                "count": 1
+            },
+            {
+                "code": "01022",
+                "count": 1
+            },
+            {
+                "code": "01023",
+                "count": 1
+            },
+            {
+                "code": "01025",
+                "count": 1
+            },
+            {
+                "code": "01065",
+                "count": 1
+            },
+            {
+                "code": "01066",
+                "count": 1
+            },
+            {
+                "code": "01141",
+                "count": 1
+            },
+            {
+                "code": "01067",
+                "count": 1
+            },
+            {
+                "code": "01068",
+                "count": 1
+            },
+            {
+                "code": "01072",
+                "count": 1
+            },
+            {
+                "code": "01142",
+                "count": 1
+            },
+            {
+                "code": "01143",
+                "count": 1
+            },
+            {
+                "code": "01149",
+                "count": 1
+            },
+            {
+                "code": "01073",
+                "count": 1
+            },
+            {
+                "code": "01144",
+                "count": 1
+            },
+            {
+                "code": "01069",
+                "count": 1
+            },
+            {
+                "code": "01145",
+                "count": 1
+            },
+            {
+                "code": "01074",
+                "count": 1
+            },
+            {
+                "code": "01028",
+                "count": 1
+            },
+            {
+                "code": "01075",
+                "count": 1
+            },
+            {
+                "code": "01070",
+                "count": 1
+            },
+            {
+                "code": "01030",
+                "count": 1
+            },
+            {
+                "code": "01146",
+                "count": 1
+            },
+            {
+                "code": "01076",
+                "count": 1
+            },
+            {
+                "code": "01147",
+                "count": 1
+            },
+            {
+                "code": "01148",
+                "count": 1
+            },
+            {
+                "code": "01071",
+                "count": 1
+            },
+            {
+                "code": "01150",
+                "count": 1
+            },
+            {
+                "code": "01151",
+                "count": 1
+            },
+            {
+                "code": "01029",
+                "count": 1
+            },
+            {
+                "code": "01152",
+                "count": 1
+            },
+            {
+                "code": "01153",
+                "count": 1
+            },
+            {
+                "code": "01035",
+                "count": 1
+            },
+            {
+                "code": "01032",
+                "count": 1
+            },
+            {
+                "code": "01077",
+                "count": 1
+            },
+            {
+                "code": "01154",
+                "count": 1
+            },
+            {
+                "code": "01078",
+                "count": 1
+            },
+            {
+                "code": "01156",
+                "count": 1
+            },
+            {
+                "code": "01079",
+                "count": 1
+            },
+            {
+                "code": "01080",
+                "count": 1
+            },
+            {
+                "code": "01039",
+                "count": 1
+            },
+            {
+                "code": "01040",
+                "count": 1
+            },
+            {
+                "code": "01155",
+                "count": 1
+            },
+            {
+                "code": "01157",
+                "count": 1
+            },
+            {
+                "code": "01158",
+                "count": 1
+            },
+            {
+                "code": "01081",
+                "count": 1
+            },
+            {
+                "code": "01082",
+                "count": 1
+            },
+            {
+                "code": "01083",
+                "count": 1
+            },
+            {
+                "code": "01159",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "Core-2",
+        "name": "At the Wall (Core)",
+        "releaseDate": "2015-10-08",
+        "faction": "thenightswatch",
+        "agenda": "01198",
+        "cards": [
+            {
+                "code": "01006",
+                "count": 1
+            },
+            {
+                "code": "01011",
+                "count": 1
+            },
+            {
+                "code": "01012",
+                "count": 1
+            },
+            {
+                "code": "01014",
+                "count": 1
+            },
+            {
+                "code": "01015",
+                "count": 1
+            },
+            {
+                "code": "01016",
+                "count": 1
+            },
+            {
+                "code": "01026",
+                "count": 1
+            },
+            {
+                "code": "01053",
+                "count": 1
+            },
+            {
+                "code": "01122",
+                "count": 1
+            },
+            {
+                "code": "01056",
+                "count": 1
+            },
+            {
+                "code": "01054",
+                "count": 1
+            },
+            {
+                "code": "01123",
+                "count": 1
+            },
+            {
+                "code": "01124",
+                "count": 1
+            },
+            {
+                "code": "01055",
+                "count": 1
+            },
+            {
+                "code": "01125",
+                "count": 1
+            },
+            {
+                "code": "01046",
+                "count": 1
+            },
+            {
+                "code": "01047",
+                "count": 1
+            },
+            {
+                "code": "01130",
+                "count": 1
+            },
+            {
+                "code": "01126",
+                "count": 1
+            },
+            {
+                "code": "01131",
+                "count": 1
+            },
+            {
+                "code": "01132",
+                "count": 1
+            },
+            {
+                "code": "01030",
+                "count": 1
+            },
+            {
+                "code": "01048",
+                "count": 1
+            },
+            {
+                "code": "01127",
+                "count": 1
+            },
+            {
+                "code": "01049",
+                "count": 1
+            },
+            {
+                "code": "01050",
+                "count": 1
+            },
+            {
+                "code": "01128",
+                "count": 1
+            },
+            {
+                "code": "01051",
+                "count": 1
+            },
+            {
+                "code": "01052",
+                "count": 1
+            },
+            {
+                "code": "01133",
+                "count": 1
+            },
+            {
+                "code": "01057",
+                "count": 1
+            },
+            {
+                "code": "01134",
+                "count": 1
+            },
+            {
+                "code": "01031",
+                "count": 1
+            },
+            {
+                "code": "01129",
+                "count": 1
+            },
+            {
+                "code": "01058",
+                "count": 1
+            },
+            {
+                "code": "01135",
+                "count": 1
+            },
+            {
+                "code": "01037",
+                "count": 1
+            },
+            {
+                "code": "01136",
+                "count": 1
+            },
+            {
+                "code": "01060",
+                "count": 1
+            },
+            {
+                "code": "01059",
+                "count": 1
+            },
+            {
+                "code": "01038",
+                "count": 1
+            },
+            {
+                "code": "01039",
+                "count": 1
+            },
+            {
+                "code": "01061",
+                "count": 1
+            },
+            {
+                "code": "01040",
+                "count": 1
+            },
+            {
+                "code": "01137",
+                "count": 1
+            },
+            {
+                "code": "01138",
+                "count": 1
+            },
+            {
+                "code": "01062",
+                "count": 1
+            },
+            {
+                "code": "01063",
+                "count": 1
+            },
+            {
+                "code": "01042",
+                "count": 1
+            },
+            {
+                "code": "01064",
+                "count": 1
+            },
+            {
+                "code": "01043",
+                "count": 1
+            },
+            {
+                "code": "01139",
+                "count": 1
+            },
+            {
+                "code": "01140",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "Core-3",
+        "name": "From East to West (Core)",
+        "releaseDate": "2015-10-08",
+        "faction": "targaryen",
+        "agenda": "01201",
+        "cards": [
+            {
+                "code": "01001",
+                "count": 1
+            },
+            {
+                "code": "01002",
+                "count": 1
+            },
+            {
+                "code": "01004",
+                "count": 1
+            },
+            {
+                "code": "01005",
+                "count": 1
+            },
+            {
+                "code": "01010",
+                "count": 1
+            },
+            {
+                "code": "01018",
+                "count": 1
+            },
+            {
+                "code": "01022",
+                "count": 1
+            },
+            {
+                "code": "01103",
+                "count": 1
+            },
+            {
+                "code": "01104",
+                "count": 1
+            },
+            {
+                "code": "01168",
+                "count": 1
+            },
+            {
+                "code": "01160",
+                "count": 1
+            },
+            {
+                "code": "01110",
+                "count": 1
+            },
+            {
+                "code": "01105",
+                "count": 1
+            },
+            {
+                "code": "01111",
+                "count": 1
+            },
+            {
+                "code": "01161",
+                "count": 1
+            },
+            {
+                "code": "01106",
+                "count": 1
+            },
+            {
+                "code": "01112",
+                "count": 1
+            },
+            {
+                "code": "01169",
+                "count": 1
+            },
+            {
+                "code": "01113",
+                "count": 1
+            },
+            {
+                "code": "01162",
+                "count": 1
+            },
+            {
+                "code": "01107",
+                "count": 1
+            },
+            {
+                "code": "01163",
+                "count": 1
+            },
+            {
+                "code": "01108",
+                "count": 1
+            },
+            {
+                "code": "01114",
+                "count": 1
+            },
+            {
+                "code": "01164",
+                "count": 1
+            },
+            {
+                "code": "01165",
+                "count": 1
+            },
+            {
+                "code": "01170",
+                "count": 1
+            },
+            {
+                "code": "01109",
+                "count": 1
+            },
+            {
+                "code": "01171",
+                "count": 1
+            },
+            {
+                "code": "01029",
+                "count": 1
+            },
+            {
+                "code": "01166",
+                "count": 1
+            },
+            {
+                "code": "01167",
+                "count": 1
+            },
+            {
+                "code": "01031",
+                "count": 1
+            },
+            {
+                "code": "01115",
+                "count": 1
+            },
+            {
+                "code": "01172",
+                "count": 1
+            },
+            {
+                "code": "01035",
+                "count": 1
+            },
+            {
+                "code": "01036",
+                "count": 1
+            },
+            {
+                "code": "01118",
+                "count": 1
+            },
+            {
+                "code": "01174",
+                "count": 1
+            },
+            {
+                "code": "01116",
+                "count": 1
+            },
+            {
+                "code": "01175",
+                "count": 1
+            },
+            {
+                "code": "01173",
+                "count": 1
+            },
+            {
+                "code": "01117",
+                "count": 1
+            },
+            {
+                "code": "01039",
+                "count": 1
+            },
+            {
+                "code": "01040",
+                "count": 1
+            },
+            {
+                "code": "01121",
+                "count": 1
+            },
+            {
+                "code": "01119",
+                "count": 1
+            },
+            {
+                "code": "01176",
+                "count": 1
+            },
+            {
+                "code": "01177",
+                "count": 1
+            },
+            {
+                "code": "01041",
+                "count": 1
+            },
+            {
+                "code": "01042",
+                "count": 1
+            },
+            {
+                "code": "01120",
+                "count": 1
+            },
+            {
+                "code": "01178",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "Core-4",
+        "name": "Secrets and Schemes (Core)",
+        "releaseDate": "2015-10-08",
+        "faction": "lannister",
+        "agenda": "01205",
+        "cards": [
+            {
+                "code": "01003",
+                "count": 1
+            },
+            {
+                "code": "01007",
+                "count": 1
+            },
+            {
+                "code": "01013",
+                "count": 1
+            },
+            {
+                "code": "01020",
+                "count": 1
+            },
+            {
+                "code": "01021",
+                "count": 1
+            },
+            {
+                "code": "01024",
+                "count": 1
+            },
+            {
+                "code": "01026",
+                "count": 1
+            },
+            {
+                "code": "01091",
+                "count": 1
+            },
+            {
+                "code": "01084",
+                "count": 1
+            },
+            {
+                "code": "01187",
+                "count": 1
+            },
+            {
+                "code": "01188",
+                "count": 1
+            },
+            {
+                "code": "01092",
+                "count": 1
+            },
+            {
+                "code": "01085",
+                "count": 1
+            },
+            {
+                "code": "01086",
+                "count": 1
+            },
+            {
+                "code": "01094",
+                "count": 1
+            },
+            {
+                "code": "01093",
+                "count": 1
+            },
+            {
+                "code": "01179",
+                "count": 1
+            },
+            {
+                "code": "01028",
+                "count": 1
+            },
+            {
+                "code": "01180",
+                "count": 1
+            },
+            {
+                "code": "01181",
+                "count": 1
+            },
+            {
+                "code": "01189",
+                "count": 1
+            },
+            {
+                "code": "01182",
+                "count": 1
+            },
+            {
+                "code": "01183",
+                "count": 1
+            },
+            {
+                "code": "01184",
+                "count": 1
+            },
+            {
+                "code": "01087",
+                "count": 1
+            },
+            {
+                "code": "01185",
+                "count": 1
+            },
+            {
+                "code": "01186",
+                "count": 1
+            },
+            {
+                "code": "01095",
+                "count": 1
+            },
+            {
+                "code": "01088",
+                "count": 1
+            },
+            {
+                "code": "01089",
+                "count": 1
+            },
+            {
+                "code": "01090",
+                "count": 1
+            },
+            {
+                "code": "01190",
+                "count": 1
+            },
+            {
+                "code": "01033",
+                "count": 1
+            },
+            {
+                "code": "01191",
+                "count": 1
+            },
+            {
+                "code": "01034",
+                "count": 1
+            },
+            {
+                "code": "01096",
+                "count": 1
+            },
+            {
+                "code": "01097",
+                "count": 1
+            },
+            {
+                "code": "01192",
+                "count": 1
+            },
+            {
+                "code": "01098",
+                "count": 1
+            },
+            {
+                "code": "01194",
+                "count": 1
+            },
+            {
+                "code": "01039",
+                "count": 1
+            },
+            {
+                "code": "01193",
+                "count": 1
+            },
+            {
+                "code": "01040",
+                "count": 1
+            },
+            {
+                "code": "01099",
+                "count": 1
+            },
+            {
+                "code": "01197",
+                "count": 1
+            },
+            {
+                "code": "01195",
+                "count": 1
+            },
+            {
+                "code": "01100",
+                "count": 1
+            },
+            {
+                "code": "01196",
+                "count": 1
+            },
+            {
+                "code": "01043",
+                "count": 1
+            },
+            {
+                "code": "01044",
+                "count": 1
+            },
+            {
+                "code": "01045",
+                "count": 1
+            },
+            {
+                "code": "01101",
+                "count": 1
+            },
+            {
+                "code": "01102",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "WotN-1",
+        "name": "Wolves of Winter (WotN)",
+        "releaseDate": "2016-04-07",
+        "faction": "stark",
+        "agenda": "01027",
+        "cards": [
+            {
+                "code": "01005",
+                "count": 1
+            },
+            {
+                "code": "03046",
+                "count": 1
+            },
+            {
+                "code": "01007",
+                "count": 1
+            },
+            {
+                "code": "01015",
+                "count": 1
+            },
+            {
+                "code": "03049",
+                "count": 1
+            },
+            {
+                "code": "01025",
+                "count": 1
+            },
+            {
+                "code": "01026",
+                "count": 1
+            },
+            {
+                "code": "01144",
+                "count": 1
+            },
+            {
+                "code": "01146",
+                "count": 1
+            },
+            {
+                "code": "03005",
+                "count": 3
+            },
+            {
+                "code": "03006",
+                "count": 3
+            },
+            {
+                "code": "01145",
+                "count": 1
+            },
+            {
+                "code": "03008",
+                "count": 1
+            },
+            {
+                "code": "01151",
+                "count": 1
+            },
+            {
+                "code": "03007",
+                "count": 3
+            },
+            {
+                "code": "01030",
+                "count": 2
+            },
+            {
+                "code": "03012",
+                "count": 3
+            },
+            {
+                "code": "03011",
+                "count": 3
+            },
+            {
+                "code": "03010",
+                "count": 3
+            },
+            {
+                "code": "01148",
+                "count": 1
+            },
+            {
+                "code": "03013",
+                "count": 1
+            },
+            {
+                "code": "03014",
+                "count": 3
+            },
+            {
+                "code": "01142",
+                "count": 1
+            },
+            {
+                "code": "01150",
+                "count": 1
+            },
+            {
+                "code": "01149",
+                "count": 1
+            },
+            {
+                "code": "03016",
+                "count": 1
+            },
+            {
+                "code": "01152",
+                "count": 1
+            },
+            {
+                "code": "03017",
+                "count": 2
+            },
+            {
+                "code": "01040",
+                "count": 3
+            },
+            {
+                "code": "01039",
+                "count": 3
+            },
+            {
+                "code": "01156",
+                "count": 2
+            },
+            {
+                "code": "01155",
+                "count": 1
+            },
+            {
+                "code": "03019",
+                "count": 3
+            },
+            {
+                "code": "03021",
+                "count": 2
+            },
+            {
+                "code": "01153",
+                "count": 1
+            },
+            {
+                "code": "03022",
+                "count": 2
+            },
+            {
+                "code": "03023",
+                "count": 3
+            },
+            {
+                "code": "01158",
+                "count": 1
+            },
+            {
+                "code": "01041",
+                "count": 1
+            },
+            {
+                "code": "01159",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "WotN-2",
+        "name": "Family, Duty, Honor (WotN)",
+        "releaseDate": "2016-04-07",
+        "faction": "stark",
+        "agenda": "01027",
+        "cards": [
+            {
+                "code": "01002",
+                "count": 1
+            },
+            {
+                "code": "01004",
+                "count": 1
+            },
+            {
+                "code": "03050",
+                "count": 1
+            },
+            {
+                "code": "01007",
+                "count": 1
+            },
+            {
+                "code": "01013",
+                "count": 1
+            },
+            {
+                "code": "01026",
+                "count": 1
+            },
+            {
+                "code": "01023",
+                "count": 1
+            },
+            {
+                "code": "03001",
+                "count": 1
+            },
+            {
+                "code": "03002",
+                "count": 3
+            },
+            {
+                "code": "03003",
+                "count": 3
+            },
+            {
+                "code": "03004",
+                "count": 3
+            },
+            {
+                "code": "01146",
+                "count": 1
+            },
+            {
+                "code": "03005",
+                "count": 3
+            },
+            {
+                "code": "03008",
+                "count": 3
+            },
+            {
+                "code": "03009",
+                "count": 3
+            },
+            {
+                "code": "01141",
+                "count": 1
+            },
+            {
+                "code": "01147",
+                "count": 1
+            },
+            {
+                "code": "03012",
+                "count": 3
+            },
+            {
+                "code": "03011",
+                "count": 1
+            },
+            {
+                "code": "01148",
+                "count": 1
+            },
+            {
+                "code": "03015",
+                "count": 3
+            },
+            {
+                "code": "01142",
+                "count": 1
+            },
+            {
+                "code": "01150",
+                "count": 1
+            },
+            {
+                "code": "03016",
+                "count": 1
+            },
+            {
+                "code": "01152",
+                "count": 1
+            },
+            {
+                "code": "01040",
+                "count": 3
+            },
+            {
+                "code": "01039",
+                "count": 3
+            },
+            {
+                "code": "01156",
+                "count": 2
+            },
+            {
+                "code": "01154",
+                "count": 1
+            },
+            {
+                "code": "03018",
+                "count": 3
+            },
+            {
+                "code": "03019",
+                "count": 2
+            },
+            {
+                "code": "03020",
+                "count": 2
+            },
+            {
+                "code": "03021",
+                "count": 3
+            },
+            {
+                "code": "01032",
+                "count": 1
+            },
+            {
+                "code": "01033",
+                "count": 1
+            },
+            {
+                "code": "03024",
+                "count": 3
+            },
+            {
+                "code": "01043",
+                "count": 2
+            },
+            {
+                "code": "01159",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "LoCR-1",
+        "name": "Iron Loyalties (LoCR)",
+        "releaseDate": "2016-11-03",
+        "faction": "lannister",
+        "agenda": "01027",
+        "cards": [
+            {
+                "code": "01007",
+                "count": 1
+            },
+            {
+                "code": "01008",
+                "count": 1
+            },
+            {
+                "code": "05052",
+                "count": 1
+            },
+            {
+                "code": "05050",
+                "count": 1
+            },
+            {
+                "code": "01015",
+                "count": 1
+            },
+            {
+                "code": "01022",
+                "count": 1
+            },
+            {
+                "code": "01026",
+                "count": 1
+            },
+            {
+                "code": "01091",
+                "count": 1
+            },
+            {
+                "code": "05007",
+                "count": 3
+            },
+            {
+                "code": "01092",
+                "count": 1
+            },
+            {
+                "code": "01085",
+                "count": 1
+            },
+            {
+                "code": "01086",
+                "count": 1
+            },
+            {
+                "code": "05016",
+                "count": 3
+            },
+            {
+                "code": "01094",
+                "count": 1
+            },
+            {
+                "code": "01093",
+                "count": 1
+            },
+            {
+                "code": "05011",
+                "count": 3
+            },
+            {
+                "code": "01030",
+                "count": 1
+            },
+            {
+                "code": "05008",
+                "count": 3
+            },
+            {
+                "code": "05014",
+                "count": 1
+            },
+            {
+                "code": "05009",
+                "count": 3
+            },
+            {
+                "code": "05010",
+                "count": 1
+            },
+            {
+                "code": "01088",
+                "count": 1
+            },
+            {
+                "code": "05004",
+                "count": 3
+            },
+            {
+                "code": "05002",
+                "count": 3
+            },
+            {
+                "code": "05006",
+                "count": 3
+            },
+            {
+                "code": "01031",
+                "count": 2
+            },
+            {
+                "code": "01035",
+                "count": 2
+            },
+            {
+                "code": "05020",
+                "count": 1
+            },
+            {
+                "code": "01096",
+                "count": 1
+            },
+            {
+                "code": "05019",
+                "count": 2
+            },
+            {
+                "code": "05018",
+                "count": 3
+            },
+            {
+                "code": "01039",
+                "count": 3
+            },
+            {
+                "code": "01040",
+                "count": 3
+            },
+            {
+                "code": "01099",
+                "count": 2
+            },
+            {
+                "code": "05022",
+                "count": 2
+            },
+            {
+                "code": "01041",
+                "count": 1
+            },
+            {
+                "code": "01042",
+                "count": 2
+            },
+            {
+                "code": "01101",
+                "count": 1
+            },
+            {
+                "code": "01102",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "LoCR-2",
+        "name": "You Win Or You Die (LoCR)",
+        "releaseDate": "2016-11-03",
+        "faction": "lannister",
+        "agenda": "05045",
+        "cards": [
+            {
+                "code": "01003",
+                "count": 1
+            },
+            {
+                "code": "01011",
+                "count": 1
+            },
+            {
+                "code": "01013",
+                "count": 1
+            },
+            {
+                "code": "05046",
+                "count": 1
+            },
+            {
+                "code": "05049",
+                "count": 1
+            },
+            {
+                "code": "01018",
+                "count": 1
+            },
+            {
+                "code": "05048",
+                "count": 1
+            },
+            {
+                "code": "01022",
+                "count": 1
+            },
+            {
+                "code": "05051",
+                "count": 2
+            },
+            {
+                "code": "05047",
+                "count": 1
+            },
+            {
+                "code": "01026",
+                "count": 1
+            },
+            {
+                "code": "05013",
+                "count": 3
+            },
+            {
+                "code": "05001",
+                "count": 3
+            },
+            {
+                "code": "01092",
+                "count": 1
+            },
+            {
+                "code": "01085",
+                "count": 1
+            },
+            {
+                "code": "05016",
+                "count": 3
+            },
+            {
+                "code": "01094",
+                "count": 1
+            },
+            {
+                "code": "01028",
+                "count": 2
+            },
+            {
+                "code": "01030",
+                "count": 2
+            },
+            {
+                "code": "05012",
+                "count": 3
+            },
+            {
+                "code": "05003",
+                "count": 3
+            },
+            {
+                "code": "05010",
+                "count": 3
+            },
+            {
+                "code": "01095",
+                "count": 1
+            },
+            {
+                "code": "05015",
+                "count": 3
+            },
+            {
+                "code": "01089",
+                "count": 1
+            },
+            {
+                "code": "01090",
+                "count": 1
+            },
+            {
+                "code": "01029",
+                "count": 2
+            },
+            {
+                "code": "01033",
+                "count": 1
+            },
+            {
+                "code": "01035",
+                "count": 2
+            },
+            {
+                "code": "01032",
+                "count": 1
+            },
+            {
+                "code": "05021",
+                "count": 3
+            },
+            {
+                "code": "01096",
+                "count": 1
+            },
+            {
+                "code": "01097",
+                "count": 1
+            },
+            {
+                "code": "05017",
+                "count": 2
+            },
+            {
+                "code": "01098",
+                "count": 1
+            },
+            {
+                "code": "01039",
+                "count": 3
+            },
+            {
+                "code": "01040",
+                "count": 3
+            },
+            {
+                "code": "01099",
+                "count": 2
+            },
+            {
+                "code": "05023",
+                "count": 3
+            },
+            {
+                "code": "01044",
+                "count": 1
+            },
+            {
+                "code": "01045",
+                "count": 1
+            },
+            {
+                "code": "01101",
+                "count": 1
+            },
+            {
+                "code": "01102",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "WotW-1",
+        "name": "Defending The Wall (WotW)",
+        "releaseDate": "2017-04-06",
+        "faction": "thenightswatch",
+        "agenda": "01027",
+        "cards": [
+            {
+                "code": "01006",
+                "count": 1
+            },
+            {
+                "code": "01007",
+                "count": 1
+            },
+            {
+                "code": "01008",
+                "count": 1
+            },
+            {
+                "code": "01011",
+                "count": 1
+            },
+            {
+                "code": "07047",
+                "count": 1
+            },
+            {
+                "code": "07046",
+                "count": 1
+            },
+            {
+                "code": "01026",
+                "count": 1
+            },
+            {
+                "code": "01122",
+                "count": 1
+            },
+            {
+                "code": "07016",
+                "count": 3
+            },
+            {
+                "code": "07009",
+                "count": 3
+            },
+            {
+                "code": "07006",
+                "count": 3
+            },
+            {
+                "code": "07001",
+                "count": 3
+            },
+            {
+                "code": "07005",
+                "count": 3
+            },
+            {
+                "code": "01130",
+                "count": 1
+            },
+            {
+                "code": "01126",
+                "count": 1
+            },
+            {
+                "code": "01131",
+                "count": 1
+            },
+            {
+                "code": "01132",
+                "count": 1
+            },
+            {
+                "code": "01030",
+                "count": 2
+            },
+            {
+                "code": "01127",
+                "count": 1
+            },
+            {
+                "code": "07015",
+                "count": 3
+            },
+            {
+                "code": "07007",
+                "count": 3
+            },
+            {
+                "code": "01128",
+                "count": 1
+            },
+            {
+                "code": "01133",
+                "count": 1
+            },
+            {
+                "code": "01134",
+                "count": 1
+            },
+            {
+                "code": "01031",
+                "count": 1
+            },
+            {
+                "code": "07020",
+                "count": 3
+            },
+            {
+                "code": "07021",
+                "count": 2
+            },
+            {
+                "code": "01135",
+                "count": 1
+            },
+            {
+                "code": "01035",
+                "count": 2
+            },
+            {
+                "code": "07043",
+                "count": 2
+            },
+            {
+                "code": "07018",
+                "count": 3
+            },
+            {
+                "code": "01136",
+                "count": 1
+            },
+            {
+                "code": "01039",
+                "count": 3
+            },
+            {
+                "code": "01040",
+                "count": 3
+            },
+            {
+                "code": "01137",
+                "count": 1
+            },
+            {
+                "code": "01138",
+                "count": 2
+            },
+            {
+                "code": "07024",
+                "count": 2
+            },
+            {
+                "code": "01045",
+                "count": 1
+            },
+            {
+                "code": "01140",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "WotW-2",
+        "name": "Taking the Black (WotW)",
+        "releaseDate": "2017-04-06",
+        "faction": "thenightswatch",
+        "agenda": "01027",
+        "cards": [
+            {
+                "code": "01003",
+                "count": 1
+            },
+            {
+                "code": "01007",
+                "count": 1
+            },
+            {
+                "code": "01008",
+                "count": 1
+            },
+            {
+                "code": "01009",
+                "count": 1
+            },
+            {
+                "code": "01015",
+                "count": 1
+            },
+            {
+                "code": "01022",
+                "count": 1
+            },
+            {
+                "code": "01025",
+                "count": 1
+            },
+            {
+                "code": "01122",
+                "count": 1
+            },
+            {
+                "code": "07002",
+                "count": 3
+            },
+            {
+                "code": "07016",
+                "count": 3
+            },
+            {
+                "code": "07004",
+                "count": 1
+            },
+            {
+                "code": "01123",
+                "count": 1
+            },
+            {
+                "code": "07010",
+                "count": 2
+            },
+            {
+                "code": "01124",
+                "count": 1
+            },
+            {
+                "code": "01028",
+                "count": 1
+            },
+            {
+                "code": "01125",
+                "count": 1
+            },
+            {
+                "code": "01130",
+                "count": 1
+            },
+            {
+                "code": "07003",
+                "count": 3
+            },
+            {
+                "code": "01131",
+                "count": 1
+            },
+            {
+                "code": "07011",
+                "count": 2
+            },
+            {
+                "code": "01132",
+                "count": 1
+            },
+            {
+                "code": "07012",
+                "count": 3
+            },
+            {
+                "code": "07013",
+                "count": 3
+            },
+            {
+                "code": "07008",
+                "count": 1
+            },
+            {
+                "code": "01128",
+                "count": 1
+            },
+            {
+                "code": "01133",
+                "count": 1
+            },
+            {
+                "code": "01029",
+                "count": 1
+            },
+            {
+                "code": "01129",
+                "count": 1
+            },
+            {
+                "code": "01135",
+                "count": 1
+            },
+            {
+                "code": "01035",
+                "count": 2
+            },
+            {
+                "code": "07022",
+                "count": 3
+            },
+            {
+                "code": "07043",
+                "count": 3
+            },
+            {
+                "code": "07019",
+                "count": 2
+            },
+            {
+                "code": "01039",
+                "count": 3
+            },
+            {
+                "code": "07017",
+                "count": 3
+            },
+            {
+                "code": "01040",
+                "count": 3
+            },
+            {
+                "code": "01138",
+                "count": 2
+            },
+            {
+                "code": "07023",
+                "count": 3
+            },
+            {
+                "code": "01139",
+                "count": 1
+            },
+            {
+                "code": "01044",
+                "count": 1
+            }
+        ]
+    },
+    {
         "id": "CHP05",
         "name": "2016 World Championship Deck",
         "releaseDate": "2017-06-01",
@@ -137,6 +2027,674 @@
             {
                 "code": "04049",
                 "count": 1
+            }
+        ]
+    },
+    {
+        "id": "HoT-1",
+        "name": "Steel Thorns (HoT)",
+        "releaseDate": "2017-10-26",
+        "faction": "tyrell",
+        "agenda": "01027",
+        "cards": [
+            {
+                "code": "01004",
+                "count": 1
+            },
+            {
+                "code": "09047",
+                "count": 1
+            },
+            {
+                "code": "01013",
+                "count": 1
+            },
+            {
+                "code": "01014",
+                "count": 1
+            },
+            {
+                "code": "09051",
+                "count": 1
+            },
+            {
+                "code": "09046",
+                "count": 1
+            },
+            {
+                "code": "01026",
+                "count": 1
+            },
+            {
+                "code": "09002",
+                "count": 3
+            },
+            {
+                "code": "09013",
+                "count": 1
+            },
+            {
+                "code": "09011",
+                "count": 2
+            },
+            {
+                "code": "09040",
+                "count": 1
+            },
+            {
+                "code": "01188",
+                "count": 1
+            },
+            {
+                "code": "09009",
+                "count": 1
+            },
+            {
+                "code": "09012",
+                "count": 3
+            },
+            {
+                "code": "09015",
+                "count": 3
+            },
+            {
+                "code": "09005",
+                "count": 3
+            },
+            {
+                "code": "09016",
+                "count": 3
+            },
+            {
+                "code": "01181",
+                "count": 1
+            },
+            {
+                "code": "01183",
+                "count": 1
+            },
+            {
+                "code": "01030",
+                "count": 1
+            },
+            {
+                "code": "09003",
+                "count": 3
+            },
+            {
+                "code": "09007",
+                "count": 3
+            },
+            {
+                "code": "01190",
+                "count": 1
+            },
+            {
+                "code": "09008",
+                "count": 2
+            },
+            {
+                "code": "01033",
+                "count": 1
+            },
+            {
+                "code": "01191",
+                "count": 1
+            },
+            {
+                "code": "01035",
+                "count": 2
+            },
+            {
+                "code": "09043",
+                "count": 2
+            },
+            {
+                "code": "09021",
+                "count": 3
+            },
+            {
+                "code": "09019",
+                "count": 3
+            },
+            {
+                "code": "09018",
+                "count": 1
+            },
+            {
+                "code": "01194",
+                "count": 2
+            },
+            {
+                "code": "01039",
+                "count": 3
+            },
+            {
+                "code": "01193",
+                "count": 1
+            },
+            {
+                "code": "01040",
+                "count": 3
+            },
+            {
+                "code": "01195",
+                "count": 1
+            },
+            {
+                "code": "09022",
+                "count": 2
+            },
+            {
+                "code": "01041",
+                "count": 1
+            },
+            {
+                "code": "01043",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "HoT-2",
+        "name": "Forging the Chain (HoT)",
+        "releaseDate": "2017-10-26",
+        "faction": "tyrell",
+        "agenda": "09045",
+        "cards": [
+            {
+                "code": "01022",
+                "count": 1
+            },
+            {
+                "code": "01004",
+                "count": 1
+            },
+            {
+                "code": "01008",
+                "count": 1
+            },
+            {
+                "code": "01003",
+                "count": 1
+            },
+            {
+                "code": "01010",
+                "count": 1
+            },
+            {
+                "code": "01026",
+                "count": 1
+            },
+            {
+                "code": "09049",
+                "count": 1
+            },
+            {
+                "code": "09001",
+                "count": 1
+            },
+            {
+                "code": "09004",
+                "count": 3
+            },
+            {
+                "code": "09039",
+                "count": 3
+            },
+            {
+                "code": "09007",
+                "count": 3
+            },
+            {
+                "code": "09006",
+                "count": 3
+            },
+            {
+                "code": "09011",
+                "count": 3
+            },
+            {
+                "code": "01190",
+                "count": 1
+            },
+            {
+                "code": "01189",
+                "count": 1
+            },
+            {
+                "code": "01180",
+                "count": 1
+            },
+            {
+                "code": "01125",
+                "count": 1
+            },
+            {
+                "code": "01107",
+                "count": 1
+            },
+            {
+                "code": "01046",
+                "count": 1
+            },
+            {
+                "code": "01070",
+                "count": 1
+            },
+            {
+                "code": "09014",
+                "count": 1
+            },
+            {
+                "code": "09041",
+                "count": 3
+            },
+            {
+                "code": "09013",
+                "count": 2
+            },
+            {
+                "code": "01188",
+                "count": 1
+            },
+            {
+                "code": "09043",
+                "count": 3
+            },
+            {
+                "code": "01035",
+                "count": 2
+            },
+            {
+                "code": "09020",
+                "count": 1
+            },
+            {
+                "code": "01040",
+                "count": 3
+            },
+            {
+                "code": "01039",
+                "count": 3
+            },
+            {
+                "code": "09018",
+                "count": 2
+            },
+            {
+                "code": "09042",
+                "count": 3
+            },
+            {
+                "code": "09017",
+                "count": 1
+            },
+            {
+                "code": "09024",
+                "count": 3
+            },
+            {
+                "code": "09023",
+                "count": 2
+            },
+            {
+                "code": "09044",
+                "count": 2
+            },
+            {
+                "code": "01045",
+                "count": 1
+            },
+            {
+                "code": "01044",
+                "count": 1
+            },
+            {
+                "code": "01196",
+                "count": 1
+            },
+            {
+                "code": "01197",
+                "count": 1
+            },
+            {
+                "code": "01192",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "SoD-1",
+        "name": "His Viper Eyes (SoD)",
+        "releaseDate": "2018-03-29",
+        "faction": "martell",
+        "agenda": "01027",
+        "cards": [
+            {
+                "code": "10049",
+                "count": 1
+            },
+            {
+                "code": "01010",
+                "count": 1
+            },
+            {
+                "code": "01013",
+                "count": 1
+            },
+            {
+                "code": "01015",
+                "count": 1
+            },
+            {
+                "code": "10047",
+                "count": 2
+            },
+            {
+                "code": "01026",
+                "count": 1
+            },
+            {
+                "code": "01103",
+                "count": 1
+            },
+            {
+                "code": "01104",
+                "count": 1
+            },
+            {
+                "code": "10004",
+                "count": 1
+            },
+            {
+                "code": "01110",
+                "count": 1
+            },
+            {
+                "code": "10002",
+                "count": 3
+            },
+            {
+                "code": "01112",
+                "count": 1
+            },
+            {
+                "code": "01113",
+                "count": 1
+            },
+            {
+                "code": "10013",
+                "count": 3
+            },
+            {
+                "code": "01107",
+                "count": 1
+            },
+            {
+                "code": "10014",
+                "count": 1
+            },
+            {
+                "code": "10007",
+                "count": 3
+            },
+            {
+                "code": "10009",
+                "count": 3
+            },
+            {
+                "code": "10005",
+                "count": 3
+            },
+            {
+                "code": "10010",
+                "count": 3
+            },
+            {
+                "code": "10016",
+                "count": 3
+            },
+            {
+                "code": "10003",
+                "count": 3
+            },
+            {
+                "code": "10008",
+                "count": 3
+            },
+            {
+                "code": "10021",
+                "count": 2
+            },
+            {
+                "code": "01035",
+                "count": 2
+            },
+            {
+                "code": "10020",
+                "count": 2
+            },
+            {
+                "code": "01118",
+                "count": 2
+            },
+            {
+                "code": "01116",
+                "count": 1
+            },
+            {
+                "code": "10042",
+                "count": 2
+            },
+            {
+                "code": "10018",
+                "count": 1
+            },
+            {
+                "code": "01117",
+                "count": 1
+            },
+            {
+                "code": "01039",
+                "count": 3
+            },
+            {
+                "code": "01040",
+                "count": 3
+            },
+            {
+                "code": "10022",
+                "count": 3
+            },
+            {
+                "code": "01041",
+                "count": 1
+            },
+            {
+                "code": "01044",
+                "count": 1
+            },
+            {
+                "code": "01120",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "SoD-2",
+        "name": "The Long Plan (SoD)",
+        "releaseDate": "2018-03-29",
+        "faction": "martell",
+        "agenda": "10045",
+        "cards": [
+            {
+                "code": "01003",
+                "count": 1
+            },
+            {
+                "code": "01004",
+                "count": 1
+            },
+            {
+                "code": "10046",
+                "count": 1
+            },
+            {
+                "code": "01008",
+                "count": 1
+            },
+            {
+                "code": "01010",
+                "count": 1
+            },
+            {
+                "code": "10047",
+                "count": 2
+            },
+            {
+                "code": "01022",
+                "count": 1
+            },
+            {
+                "code": "01026",
+                "count": 2
+            },
+            {
+                "code": "10006",
+                "count": 2
+            },
+            {
+                "code": "01104",
+                "count": 1
+            },
+            {
+                "code": "01110",
+                "count": 1
+            },
+            {
+                "code": "10001",
+                "count": 3
+            },
+            {
+                "code": "01111",
+                "count": 1
+            },
+            {
+                "code": "01106",
+                "count": 1
+            },
+            {
+                "code": "01112",
+                "count": 1
+            },
+            {
+                "code": "10015",
+                "count": 3
+            },
+            {
+                "code": "01113",
+                "count": 1
+            },
+            {
+                "code": "01107",
+                "count": 1
+            },
+            {
+                "code": "10014",
+                "count": 1
+            },
+            {
+                "code": "01114",
+                "count": 1
+            },
+            {
+                "code": "10011",
+                "count": 3
+            },
+            {
+                "code": "10012",
+                "count": 3
+            },
+            {
+                "code": "10016",
+                "count": 3
+            },
+            {
+                "code": "01109",
+                "count": 1
+            },
+            {
+                "code": "10021",
+                "count": 3
+            },
+            {
+                "code": "10019",
+                "count": 2
+            },
+            {
+                "code": "01035",
+                "count": 2
+            },
+            {
+                "code": "10020",
+                "count": 1
+            },
+            {
+                "code": "01118",
+                "count": 1
+            },
+            {
+                "code": "10017",
+                "count": 3
+            },
+            {
+                "code": "01116",
+                "count": 1
+            },
+            {
+                "code": "10042",
+                "count": 2
+            },
+            {
+                "code": "10018",
+                "count": 3
+            },
+            {
+                "code": "01117",
+                "count": 1
+            },
+            {
+                "code": "01039",
+                "count": 3
+            },
+            {
+                "code": "01040",
+                "count": 3
+            },
+            {
+                "code": "01121",
+                "count": 1
+            },
+            {
+                "code": "01119",
+                "count": 1
+            },
+            {
+                "code": "10023",
+                "count": 2
+            },
+            {
+                "code": "01044",
+                "count": 1
+            },
+            {
+                "code": "01045",
+                "count": 1
+            },
+            {
+                "code": "10024",
+                "count": 2
             }
         ]
     },
@@ -1706,6 +4264,352 @@
         ]
     },
     {
+        "id": "KotI-1",
+        "name": "The Iron Fleet (KotI)",
+        "releaseDate": "2018-12-27",
+        "faction": "greyjoy",
+        "agenda": "01027",
+        "cards": [
+            {
+                "code": "01004",
+                "count": 1
+            },
+            {
+                "code": "01006",
+                "count": 1
+            },
+            {
+                "code": "01007",
+                "count": 1
+            },
+            {
+                "code": "01008",
+                "count": 1
+            },
+            {
+                "code": "12049",
+                "count": 1
+            },
+            {
+                "code": "01010",
+                "count": 1
+            },
+            {
+                "code": "01026",
+                "count": 1
+            },
+            {
+                "code": "12005",
+                "count": 3
+            },
+            {
+                "code": "12003",
+                "count": 3
+            },
+            {
+                "code": "01068",
+                "count": 1
+            },
+            {
+                "code": "01073",
+                "count": 1
+            },
+            {
+                "code": "12013",
+                "count": 3
+            },
+            {
+                "code": "12014",
+                "count": 3
+            },
+            {
+                "code": "12002",
+                "count": 3
+            },
+            {
+                "code": "01074",
+                "count": 1
+            },
+            {
+                "code": "01075",
+                "count": 1
+            },
+            {
+                "code": "12010",
+                "count": 1
+            },
+            {
+                "code": "01070",
+                "count": 1
+            },
+            {
+                "code": "12011",
+                "count": 2
+            },
+            {
+                "code": "12012",
+                "count": 3
+            },
+            {
+                "code": "12009",
+                "count": 3
+            },
+            {
+                "code": "01076",
+                "count": 1
+            },
+            {
+                "code": "12004",
+                "count": 1
+            },
+            {
+                "code": "01071",
+                "count": 1
+            },
+            {
+                "code": "12022",
+                "count": 3
+            },
+            {
+                "code": "01034",
+                "count": 1
+            },
+            {
+                "code": "01035",
+                "count": 2
+            },
+            {
+                "code": "12018",
+                "count": 2
+            },
+            {
+                "code": "01078",
+                "count": 1
+            },
+            {
+                "code": "01079",
+                "count": 1
+            },
+            {
+                "code": "12019",
+                "count": 2
+            },
+            {
+                "code": "12020",
+                "count": 2
+            },
+            {
+                "code": "01080",
+                "count": 2
+            },
+            {
+                "code": "12016",
+                "count": 2
+            },
+            {
+                "code": "01039",
+                "count": 3
+            },
+            {
+                "code": "01040",
+                "count": 3
+            },
+            {
+                "code": "01081",
+                "count": 1
+            },
+            {
+                "code": "01083",
+                "count": 1
+            },
+            {
+                "code": "12023",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "id": "KotI-2",
+        "name": "The Old Way (KotI)",
+        "releaseDate": "2018-12-27",
+        "faction": "greyjoy",
+        "agenda": "12045",
+        "cards": [
+            {
+                "code": "01004",
+                "count": 1
+            },
+            {
+                "code": "01007",
+                "count": 1
+            },
+            {
+                "code": "01010",
+                "count": 1
+            },
+            {
+                "code": "01015",
+                "count": 1
+            },
+            {
+                "code": "01021",
+                "count": 1
+            },
+            {
+                "code": "12050",
+                "count": 1
+            },
+            {
+                "code": "12046",
+                "count": 1
+            },
+            {
+                "code": "01066",
+                "count": 1
+            },
+            {
+                "code": "12008",
+                "count": 3
+            },
+            {
+                "code": "12003",
+                "count": 3
+            },
+            {
+                "code": "12001",
+                "count": 3
+            },
+            {
+                "code": "01072",
+                "count": 1
+            },
+            {
+                "code": "01069",
+                "count": 1
+            },
+            {
+                "code": "12007",
+                "count": 1
+            },
+            {
+                "code": "01074",
+                "count": 1
+            },
+            {
+                "code": "01028",
+                "count": 1
+            },
+            {
+                "code": "01075",
+                "count": 1
+            },
+            {
+                "code": "12010",
+                "count": 3
+            },
+            {
+                "code": "12015",
+                "count": 3
+            },
+            {
+                "code": "01030",
+                "count": 2
+            },
+            {
+                "code": "12040",
+                "count": 1
+            },
+            {
+                "code": "01076",
+                "count": 1
+            },
+            {
+                "code": "12006",
+                "count": 2
+            },
+            {
+                "code": "01071",
+                "count": 1
+            },
+            {
+                "code": "01031",
+                "count": 2
+            },
+            {
+                "code": "01034",
+                "count": 1
+            },
+            {
+                "code": "12043",
+                "count": 2
+            },
+            {
+                "code": "12021",
+                "count": 1
+            },
+            {
+                "code": "01077",
+                "count": 1
+            },
+            {
+                "code": "12018",
+                "count": 2
+            },
+            {
+                "code": "12019",
+                "count": 1
+            },
+            {
+                "code": "12020",
+                "count": 3
+            },
+            {
+                "code": "01080",
+                "count": 2
+            },
+            {
+                "code": "01039",
+                "count": 3
+            },
+            {
+                "code": "01040",
+                "count": 3
+            },
+            {
+                "code": "12024",
+                "count": 3
+            },
+            {
+                "code": "01041",
+                "count": 1
+            },
+            {
+                "code": "01042",
+                "count": 1
+            },
+            {
+                "code": "01081",
+                "count": 1
+            },
+            {
+                "code": "01082",
+                "count": 1
+            },
+            {
+                "code": "01083",
+                "count": 1
+            },
+            {
+                "code": "12023",
+                "count": 1
+            },
+            {
+                "code": "12044",
+                "count": 1
+            }
+        ]
+    },
+    {
         "id": "uCHP10",
         "name": "2018 World Championship Deck",
         "releaseDate": "2019-04-04",
@@ -1855,6 +4759,682 @@
             {
                 "code": "11056",
                 "count": 3
+            }
+        ]
+    },
+    {
+        "id": "FotS-1",
+        "name": "In the Name of Your King (FotS)",
+        "releaseDate": "2019-06-06",
+        "faction": "baratheon",
+        "agenda": "01027",
+        "cards": [
+            {
+                "code": "14046",
+                "count": 1
+            },
+            {
+                "code": "14048",
+                "count": 1
+            },
+            {
+                "code": "01004",
+                "count": 1
+            },
+            {
+                "code": "01011",
+                "count": 1
+            },
+            {
+                "code": "01007",
+                "count": 1
+            },
+            {
+                "code": "01026",
+                "count": 1
+            },
+            {
+                "code": "01022",
+                "count": 1
+            },
+            {
+                "code": "14001",
+                "count": 3
+            },
+            {
+                "code": "01052",
+                "count": 1
+            },
+            {
+                "code": "01047",
+                "count": 1
+            },
+            {
+                "code": "01028",
+                "count": 2
+            },
+            {
+                "code": "14007",
+                "count": 2
+            },
+            {
+                "code": "14008",
+                "count": 1
+            },
+            {
+                "code": "01050",
+                "count": 1
+            },
+            {
+                "code": "14009",
+                "count": 3
+            },
+            {
+                "code": "01046",
+                "count": 1
+            },
+            {
+                "code": "14011",
+                "count": 1
+            },
+            {
+                "code": "14010",
+                "count": 1
+            },
+            {
+                "code": "01054",
+                "count": 1
+            },
+            {
+                "code": "14012",
+                "count": 3
+            },
+            {
+                "code": "14040",
+                "count": 3
+            },
+            {
+                "code": "01051",
+                "count": 1
+            },
+            {
+                "code": "14013",
+                "count": 1
+            },
+            {
+                "code": "01057",
+                "count": 1
+            },
+            {
+                "code": "01053",
+                "count": 1
+            },
+            {
+                "code": "14014",
+                "count": 3
+            },
+            {
+                "code": "14015",
+                "count": 3
+            },
+            {
+                "code": "01056",
+                "count": 1
+            },
+            {
+                "code": "01063",
+                "count": 1
+            },
+            {
+                "code": "01062",
+                "count": 1
+            },
+            {
+                "code": "01064",
+                "count": 1
+            },
+            {
+                "code": "14024",
+                "count": 2
+            },
+            {
+                "code": "14020",
+                "count": 2
+            },
+            {
+                "code": "14021",
+                "count": 3
+            },
+            {
+                "code": "14022",
+                "count": 2
+            },
+            {
+                "code": "01035",
+                "count": 2
+            },
+            {
+                "code": "01033",
+                "count": 1
+            },
+            {
+                "code": "01040",
+                "count": 3
+            },
+            {
+                "code": "01039",
+                "count": 3
+            },
+            {
+                "code": "01059",
+                "count": 2
+            },
+            {
+                "code": "01038",
+                "count": 1
+            },
+            {
+                "code": "01060",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "FotS-2",
+        "name": "Warrior of Fire (FotS)",
+        "releaseDate": "2019-06-06",
+        "faction": "baratheon",
+        "agenda": "14045",
+        "cards": [
+            {
+                "code": "14046",
+                "count": 1
+            },
+            {
+                "code": "14051",
+                "count": 1
+            },
+            {
+                "code": "01004",
+                "count": 1
+            },
+            {
+                "code": "01007",
+                "count": 1
+            },
+            {
+                "code": "01001",
+                "count": 1
+            },
+            {
+                "code": "01009",
+                "count": 1
+            },
+            {
+                "code": "01010",
+                "count": 1
+            },
+            {
+                "code": "01048",
+                "count": 1
+            },
+            {
+                "code": "14002",
+                "count": 3
+            },
+            {
+                "code": "14003",
+                "count": 3
+            },
+            {
+                "code": "14005",
+                "count": 1
+            },
+            {
+                "code": "14006",
+                "count": 3
+            },
+            {
+                "code": "14009",
+                "count": 3
+            },
+            {
+                "code": "01049",
+                "count": 1
+            },
+            {
+                "code": "14010",
+                "count": 1
+            },
+            {
+                "code": "14011",
+                "count": 1
+            },
+            {
+                "code": "14012",
+                "count": 3
+            },
+            {
+                "code": "14040",
+                "count": 2
+            },
+            {
+                "code": "14013",
+                "count": 1
+            },
+            {
+                "code": "01057",
+                "count": 1
+            },
+            {
+                "code": "01053",
+                "count": 1
+            },
+            {
+                "code": "14015",
+                "count": 3
+            },
+            {
+                "code": "14016",
+                "count": 3
+            },
+            {
+                "code": "01056",
+                "count": 1
+            },
+            {
+                "code": "01063",
+                "count": 1
+            },
+            {
+                "code": "01043",
+                "count": 2
+            },
+            {
+                "code": "14023",
+                "count": 2
+            },
+            {
+                "code": "01032",
+                "count": 1
+            },
+            {
+                "code": "14021",
+                "count": 3
+            },
+            {
+                "code": "01058",
+                "count": 1
+            },
+            {
+                "code": "01035",
+                "count": 2
+            },
+            {
+                "code": "01033",
+                "count": 1
+            },
+            {
+                "code": "01040",
+                "count": 3
+            },
+            {
+                "code": "01039",
+                "count": 3
+            },
+            {
+                "code": "01059",
+                "count": 2
+            },
+            {
+                "code": "14017",
+                "count": 3
+            },
+            {
+                "code": "01061",
+                "count": 1
+            },
+            {
+                "code": "14018",
+                "count": 2
+            },
+            {
+                "code": "14019",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "DotE-1",
+        "name": "Mother of Dragons (DotE)",
+        "releaseDate": "2019-11-08",
+        "faction": "targaryen",
+        "agenda": "01027",
+        "cards": [
+            {
+                "code": "15051",
+                "count": 2
+            },
+            {
+                "code": "15052",
+                "count": 1
+            },
+            {
+                "code": "01010",
+                "count": 1
+            },
+            {
+                "code": "01007",
+                "count": 1
+            },
+            {
+                "code": "01026",
+                "count": 1
+            },
+            {
+                "code": "01013",
+                "count": 1
+            },
+            {
+                "code": "15001",
+                "count": 3
+            },
+            {
+                "code": "15002",
+                "count": 2
+            },
+            {
+                "code": "15003",
+                "count": 2
+            },
+            {
+                "code": "15004",
+                "count": 2
+            },
+            {
+                "code": "15006",
+                "count": 2
+            },
+            {
+                "code": "15008",
+                "count": 2
+            },
+            {
+                "code": "01163",
+                "count": 1
+            },
+            {
+                "code": "01161",
+                "count": 1
+            },
+            {
+                "code": "01164",
+                "count": 1
+            },
+            {
+                "code": "15012",
+                "count": 2
+            },
+            {
+                "code": "15013",
+                "count": 3
+            },
+            {
+                "code": "15014",
+                "count": 3
+            },
+            {
+                "code": "01166",
+                "count": 1
+            },
+            {
+                "code": "01165",
+                "count": 1
+            },
+            {
+                "code": "01169",
+                "count": 1
+            },
+            {
+                "code": "15016",
+                "count": 1
+            },
+            {
+                "code": "01167",
+                "count": 1
+            },
+            {
+                "code": "01170",
+                "count": 1
+            },
+            {
+                "code": "15023",
+                "count": 3
+            },
+            {
+                "code": "15024",
+                "count": 2
+            },
+            {
+                "code": "01176",
+                "count": 1
+            },
+            {
+                "code": "01177",
+                "count": 1
+            },
+            {
+                "code": "15019",
+                "count": 3
+            },
+            {
+                "code": "01032",
+                "count": 1
+            },
+            {
+                "code": "15020",
+                "count": 3
+            },
+            {
+                "code": "15043",
+                "count": 2
+            },
+            {
+                "code": "01035",
+                "count": 2
+            },
+            {
+                "code": "01033",
+                "count": 1
+            },
+            {
+                "code": "01173",
+                "count": 1
+            },
+            {
+                "code": "15018",
+                "count": 2
+            },
+            {
+                "code": "01040",
+                "count": 3
+            },
+            {
+                "code": "01039",
+                "count": 3
+            },
+            {
+                "code": "01175",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "id": "DotE-2",
+        "name": "Fury of the Khalasar (DotE)",
+        "releaseDate": "2019-11-08",
+        "faction": "targaryen",
+        "agenda": "01027",
+        "cards": [
+            {
+                "code": "15046",
+                "count": 1
+            },
+            {
+                "code": "15051",
+                "count": 1
+            },
+            {
+                "code": "01005",
+                "count": 1
+            },
+            {
+                "code": "01007",
+                "count": 1
+            },
+            {
+                "code": "01015",
+                "count": 1
+            },
+            {
+                "code": "01010",
+                "count": 1
+            },
+            {
+                "code": "01021",
+                "count": 1
+            },
+            {
+                "code": "01160",
+                "count": 1
+            },
+            {
+                "code": "15005",
+                "count": 3
+            },
+            {
+                "code": "15007",
+                "count": 3
+            },
+            {
+                "code": "15040",
+                "count": 2
+            },
+            {
+                "code": "01163",
+                "count": 1
+            },
+            {
+                "code": "01031",
+                "count": 2
+            },
+            {
+                "code": "15009",
+                "count": 3
+            },
+            {
+                "code": "01171",
+                "count": 1
+            },
+            {
+                "code": "15010",
+                "count": 2
+            },
+            {
+                "code": "01161",
+                "count": 1
+            },
+            {
+                "code": "01164",
+                "count": 1
+            },
+            {
+                "code": "15011",
+                "count": 2
+            },
+            {
+                "code": "15015",
+                "count": 3
+            },
+            {
+                "code": "15013",
+                "count": 1
+            },
+            {
+                "code": "15014",
+                "count": 3
+            },
+            {
+                "code": "01165",
+                "count": 1
+            },
+            {
+                "code": "01166",
+                "count": 1
+            },
+            {
+                "code": "01168",
+                "count": 1
+            },
+            {
+                "code": "15016",
+                "count": 2
+            },
+            {
+                "code": "01167",
+                "count": 1
+            },
+            {
+                "code": "01170",
+                "count": 1
+            },
+            {
+                "code": "15022",
+                "count": 3
+            },
+            {
+                "code": "01041",
+                "count": 1
+            },
+            {
+                "code": "15044",
+                "count": 2
+            },
+            {
+                "code": "01042",
+                "count": 1
+            },
+            {
+                "code": "01178",
+                "count": 1
+            },
+            {
+                "code": "01172",
+                "count": 1
+            },
+            {
+                "code": "15021",
+                "count": 3
+            },
+            {
+                "code": "15017",
+                "count": 3
+            },
+            {
+                "code": "01174",
+                "count": 1
+            },
+            {
+                "code": "01039",
+                "count": 3
+            },
+            {
+                "code": "01040",
+                "count": 3
+            },
+            {
+                "code": "01175",
+                "count": 2
             }
         ]
     }
