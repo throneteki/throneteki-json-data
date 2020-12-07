@@ -1,5 +1,885 @@
 [
     {
+        "id": "Core-1",
+        "name": "The Old Ways (Core)",
+        "releaseDate": "2015-10-08",
+        "faction": "stark",
+        "agenda": "01199",
+        "cards": [
+            {
+                "code": "01008",
+                "count": 1
+            },
+            {
+                "code": "01009",
+                "count": 1
+            },
+            {
+                "code": "01017",
+                "count": 1
+            },
+            {
+                "code": "01019",
+                "count": 1
+            },
+            {
+                "code": "01022",
+                "count": 1
+            },
+            {
+                "code": "01023",
+                "count": 1
+            },
+            {
+                "code": "01025",
+                "count": 1
+            },
+            {
+                "code": "01065",
+                "count": 1
+            },
+            {
+                "code": "01066",
+                "count": 1
+            },
+            {
+                "code": "01141",
+                "count": 1
+            },
+            {
+                "code": "01067",
+                "count": 1
+            },
+            {
+                "code": "01068",
+                "count": 1
+            },
+            {
+                "code": "01072",
+                "count": 1
+            },
+            {
+                "code": "01142",
+                "count": 1
+            },
+            {
+                "code": "01143",
+                "count": 1
+            },
+            {
+                "code": "01149",
+                "count": 1
+            },
+            {
+                "code": "01073",
+                "count": 1
+            },
+            {
+                "code": "01144",
+                "count": 1
+            },
+            {
+                "code": "01069",
+                "count": 1
+            },
+            {
+                "code": "01145",
+                "count": 1
+            },
+            {
+                "code": "01074",
+                "count": 1
+            },
+            {
+                "code": "01028",
+                "count": 1
+            },
+            {
+                "code": "01075",
+                "count": 1
+            },
+            {
+                "code": "01070",
+                "count": 1
+            },
+            {
+                "code": "01030",
+                "count": 1
+            },
+            {
+                "code": "01146",
+                "count": 1
+            },
+            {
+                "code": "01076",
+                "count": 1
+            },
+            {
+                "code": "01147",
+                "count": 1
+            },
+            {
+                "code": "01148",
+                "count": 1
+            },
+            {
+                "code": "01071",
+                "count": 1
+            },
+            {
+                "code": "01150",
+                "count": 1
+            },
+            {
+                "code": "01151",
+                "count": 1
+            },
+            {
+                "code": "01029",
+                "count": 1
+            },
+            {
+                "code": "01152",
+                "count": 1
+            },
+            {
+                "code": "01153",
+                "count": 1
+            },
+            {
+                "code": "01035",
+                "count": 1
+            },
+            {
+                "code": "01032",
+                "count": 1
+            },
+            {
+                "code": "01077",
+                "count": 1
+            },
+            {
+                "code": "01154",
+                "count": 1
+            },
+            {
+                "code": "01078",
+                "count": 1
+            },
+            {
+                "code": "01156",
+                "count": 1
+            },
+            {
+                "code": "01079",
+                "count": 1
+            },
+            {
+                "code": "01080",
+                "count": 1
+            },
+            {
+                "code": "01039",
+                "count": 1
+            },
+            {
+                "code": "01040",
+                "count": 1
+            },
+            {
+                "code": "01155",
+                "count": 1
+            },
+            {
+                "code": "01157",
+                "count": 1
+            },
+            {
+                "code": "01158",
+                "count": 1
+            },
+            {
+                "code": "01081",
+                "count": 1
+            },
+            {
+                "code": "01082",
+                "count": 1
+            },
+            {
+                "code": "01083",
+                "count": 1
+            },
+            {
+                "code": "01159",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "Core-2",
+        "name": "At the Wall (Core)",
+        "releaseDate": "2015-10-08",
+        "faction": "thenightswatch",
+        "agenda": "01198",
+        "cards": [
+            {
+                "code": "01006",
+                "count": 1
+            },
+            {
+                "code": "01011",
+                "count": 1
+            },
+            {
+                "code": "01012",
+                "count": 1
+            },
+            {
+                "code": "01014",
+                "count": 1
+            },
+            {
+                "code": "01015",
+                "count": 1
+            },
+            {
+                "code": "01016",
+                "count": 1
+            },
+            {
+                "code": "01026",
+                "count": 1
+            },
+            {
+                "code": "01053",
+                "count": 1
+            },
+            {
+                "code": "01122",
+                "count": 1
+            },
+            {
+                "code": "01056",
+                "count": 1
+            },
+            {
+                "code": "01054",
+                "count": 1
+            },
+            {
+                "code": "01123",
+                "count": 1
+            },
+            {
+                "code": "01124",
+                "count": 1
+            },
+            {
+                "code": "01055",
+                "count": 1
+            },
+            {
+                "code": "01125",
+                "count": 1
+            },
+            {
+                "code": "01046",
+                "count": 1
+            },
+            {
+                "code": "01047",
+                "count": 1
+            },
+            {
+                "code": "01130",
+                "count": 1
+            },
+            {
+                "code": "01126",
+                "count": 1
+            },
+            {
+                "code": "01131",
+                "count": 1
+            },
+            {
+                "code": "01132",
+                "count": 1
+            },
+            {
+                "code": "01030",
+                "count": 1
+            },
+            {
+                "code": "01048",
+                "count": 1
+            },
+            {
+                "code": "01127",
+                "count": 1
+            },
+            {
+                "code": "01049",
+                "count": 1
+            },
+            {
+                "code": "01050",
+                "count": 1
+            },
+            {
+                "code": "01128",
+                "count": 1
+            },
+            {
+                "code": "01051",
+                "count": 1
+            },
+            {
+                "code": "01052",
+                "count": 1
+            },
+            {
+                "code": "01133",
+                "count": 1
+            },
+            {
+                "code": "01057",
+                "count": 1
+            },
+            {
+                "code": "01134",
+                "count": 1
+            },
+            {
+                "code": "01031",
+                "count": 1
+            },
+            {
+                "code": "01129",
+                "count": 1
+            },
+            {
+                "code": "01058",
+                "count": 1
+            },
+            {
+                "code": "01135",
+                "count": 1
+            },
+            {
+                "code": "01037",
+                "count": 1
+            },
+            {
+                "code": "01136",
+                "count": 1
+            },
+            {
+                "code": "01060",
+                "count": 1
+            },
+            {
+                "code": "01059",
+                "count": 1
+            },
+            {
+                "code": "01038",
+                "count": 1
+            },
+            {
+                "code": "01039",
+                "count": 1
+            },
+            {
+                "code": "01061",
+                "count": 1
+            },
+            {
+                "code": "01040",
+                "count": 1
+            },
+            {
+                "code": "01137",
+                "count": 1
+            },
+            {
+                "code": "01138",
+                "count": 1
+            },
+            {
+                "code": "01062",
+                "count": 1
+            },
+            {
+                "code": "01063",
+                "count": 1
+            },
+            {
+                "code": "01042",
+                "count": 1
+            },
+            {
+                "code": "01064",
+                "count": 1
+            },
+            {
+                "code": "01043",
+                "count": 1
+            },
+            {
+                "code": "01139",
+                "count": 1
+            },
+            {
+                "code": "01140",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "Core-3",
+        "name": "From East to West (Core)",
+        "releaseDate": "2015-10-08",
+        "faction": "targaryen",
+        "agenda": "01201",
+        "cards": [
+            {
+                "code": "01001",
+                "count": 1
+            },
+            {
+                "code": "01002",
+                "count": 1
+            },
+            {
+                "code": "01004",
+                "count": 1
+            },
+            {
+                "code": "01005",
+                "count": 1
+            },
+            {
+                "code": "01010",
+                "count": 1
+            },
+            {
+                "code": "01018",
+                "count": 1
+            },
+            {
+                "code": "01022",
+                "count": 1
+            },
+            {
+                "code": "01103",
+                "count": 1
+            },
+            {
+                "code": "01104",
+                "count": 1
+            },
+            {
+                "code": "01168",
+                "count": 1
+            },
+            {
+                "code": "01160",
+                "count": 1
+            },
+            {
+                "code": "01110",
+                "count": 1
+            },
+            {
+                "code": "01105",
+                "count": 1
+            },
+            {
+                "code": "01111",
+                "count": 1
+            },
+            {
+                "code": "01161",
+                "count": 1
+            },
+            {
+                "code": "01106",
+                "count": 1
+            },
+            {
+                "code": "01112",
+                "count": 1
+            },
+            {
+                "code": "01169",
+                "count": 1
+            },
+            {
+                "code": "01113",
+                "count": 1
+            },
+            {
+                "code": "01162",
+                "count": 1
+            },
+            {
+                "code": "01107",
+                "count": 1
+            },
+            {
+                "code": "01163",
+                "count": 1
+            },
+            {
+                "code": "01108",
+                "count": 1
+            },
+            {
+                "code": "01114",
+                "count": 1
+            },
+            {
+                "code": "01164",
+                "count": 1
+            },
+            {
+                "code": "01165",
+                "count": 1
+            },
+            {
+                "code": "01170",
+                "count": 1
+            },
+            {
+                "code": "01109",
+                "count": 1
+            },
+            {
+                "code": "01171",
+                "count": 1
+            },
+            {
+                "code": "01029",
+                "count": 1
+            },
+            {
+                "code": "01166",
+                "count": 1
+            },
+            {
+                "code": "01167",
+                "count": 1
+            },
+            {
+                "code": "01031",
+                "count": 1
+            },
+            {
+                "code": "01115",
+                "count": 1
+            },
+            {
+                "code": "01172",
+                "count": 1
+            },
+            {
+                "code": "01035",
+                "count": 1
+            },
+            {
+                "code": "01036",
+                "count": 1
+            },
+            {
+                "code": "01118",
+                "count": 1
+            },
+            {
+                "code": "01174",
+                "count": 1
+            },
+            {
+                "code": "01116",
+                "count": 1
+            },
+            {
+                "code": "01175",
+                "count": 1
+            },
+            {
+                "code": "01173",
+                "count": 1
+            },
+            {
+                "code": "01117",
+                "count": 1
+            },
+            {
+                "code": "01039",
+                "count": 1
+            },
+            {
+                "code": "01040",
+                "count": 1
+            },
+            {
+                "code": "01121",
+                "count": 1
+            },
+            {
+                "code": "01119",
+                "count": 1
+            },
+            {
+                "code": "01176",
+                "count": 1
+            },
+            {
+                "code": "01177",
+                "count": 1
+            },
+            {
+                "code": "01041",
+                "count": 1
+            },
+            {
+                "code": "01042",
+                "count": 1
+            },
+            {
+                "code": "01120",
+                "count": 1
+            },
+            {
+                "code": "01178",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "Core-4",
+        "name": "Secrets and Schemes (Core)",
+        "releaseDate": "2015-10-08",
+        "faction": "lannister",
+        "agenda": "01205",
+        "cards": [
+            {
+                "code": "01003",
+                "count": 1
+            },
+            {
+                "code": "01007",
+                "count": 1
+            },
+            {
+                "code": "01013",
+                "count": 1
+            },
+            {
+                "code": "01020",
+                "count": 1
+            },
+            {
+                "code": "01021",
+                "count": 1
+            },
+            {
+                "code": "01024",
+                "count": 1
+            },
+            {
+                "code": "01026",
+                "count": 1
+            },
+            {
+                "code": "01091",
+                "count": 1
+            },
+            {
+                "code": "01084",
+                "count": 1
+            },
+            {
+                "code": "01187",
+                "count": 1
+            },
+            {
+                "code": "01188",
+                "count": 1
+            },
+            {
+                "code": "01092",
+                "count": 1
+            },
+            {
+                "code": "01085",
+                "count": 1
+            },
+            {
+                "code": "01086",
+                "count": 1
+            },
+            {
+                "code": "01094",
+                "count": 1
+            },
+            {
+                "code": "01093",
+                "count": 1
+            },
+            {
+                "code": "01179",
+                "count": 1
+            },
+            {
+                "code": "01028",
+                "count": 1
+            },
+            {
+                "code": "01180",
+                "count": 1
+            },
+            {
+                "code": "01181",
+                "count": 1
+            },
+            {
+                "code": "01189",
+                "count": 1
+            },
+            {
+                "code": "01182",
+                "count": 1
+            },
+            {
+                "code": "01183",
+                "count": 1
+            },
+            {
+                "code": "01184",
+                "count": 1
+            },
+            {
+                "code": "01087",
+                "count": 1
+            },
+            {
+                "code": "01185",
+                "count": 1
+            },
+            {
+                "code": "01186",
+                "count": 1
+            },
+            {
+                "code": "01095",
+                "count": 1
+            },
+            {
+                "code": "01088",
+                "count": 1
+            },
+            {
+                "code": "01089",
+                "count": 1
+            },
+            {
+                "code": "01090",
+                "count": 1
+            },
+            {
+                "code": "01190",
+                "count": 1
+            },
+            {
+                "code": "01033",
+                "count": 1
+            },
+            {
+                "code": "01191",
+                "count": 1
+            },
+            {
+                "code": "01034",
+                "count": 1
+            },
+            {
+                "code": "01096",
+                "count": 1
+            },
+            {
+                "code": "01097",
+                "count": 1
+            },
+            {
+                "code": "01192",
+                "count": 1
+            },
+            {
+                "code": "01098",
+                "count": 1
+            },
+            {
+                "code": "01194",
+                "count": 1
+            },
+            {
+                "code": "01039",
+                "count": 1
+            },
+            {
+                "code": "01193",
+                "count": 1
+            },
+            {
+                "code": "01040",
+                "count": 1
+            },
+            {
+                "code": "01099",
+                "count": 1
+            },
+            {
+                "code": "01197",
+                "count": 1
+            },
+            {
+                "code": "01195",
+                "count": 1
+            },
+            {
+                "code": "01100",
+                "count": 1
+            },
+            {
+                "code": "01196",
+                "count": 1
+            },
+            {
+                "code": "01043",
+                "count": 1
+            },
+            {
+                "code": "01044",
+                "count": 1
+            },
+            {
+                "code": "01045",
+                "count": 1
+            },
+            {
+                "code": "01101",
+                "count": 1
+            },
+            {
+                "code": "01102",
+                "count": 1
+            }
+        ]
+    },
+    {
         "id": "WotN-1",
         "name": "Wolves of Winter (WotN)",
         "releaseDate": "2016-04-07",
