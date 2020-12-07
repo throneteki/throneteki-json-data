@@ -4415,5 +4415,347 @@
                 "count": 3
             }
         ]
+    },
+    {
+        "id": "FotS-1",
+        "name": "In the Name of Your King (FotS)",
+        "releaseDate": "2019-06-06",
+        "faction": "baratheon",
+        "agenda": "01027",
+        "cards": [
+            {
+                "code": "14046",
+                "count": 1
+            },
+            {
+                "code": "14048",
+                "count": 1
+            },
+            {
+                "code": "01004",
+                "count": 1
+            },
+            {
+                "code": "01011",
+                "count": 1
+            },
+            {
+                "code": "01007",
+                "count": 1
+            },
+            {
+                "code": "01026",
+                "count": 1
+            },
+            {
+                "code": "01022",
+                "count": 1
+            },
+            {
+                "code": "14001",
+                "count": 3
+            },
+            {
+                "code": "01052",
+                "count": 1
+            },
+            {
+                "code": "01047",
+                "count": 1
+            },
+            {
+                "code": "01028",
+                "count": 2
+            },
+            {
+                "code": "14007",
+                "count": 2
+            },
+            {
+                "code": "14008",
+                "count": 1
+            },
+            {
+                "code": "01050",
+                "count": 1
+            },
+            {
+                "code": "14009",
+                "count": 3
+            },
+            {
+                "code": "01046",
+                "count": 1
+            },
+            {
+                "code": "14011",
+                "count": 1
+            },
+            {
+                "code": "14010",
+                "count": 1
+            },
+            {
+                "code": "01054",
+                "count": 1
+            },
+            {
+                "code": "14012",
+                "count": 3
+            },
+            {
+                "code": "14040",
+                "count": 3
+            },
+            {
+                "code": "01051",
+                "count": 1
+            },
+            {
+                "code": "14013",
+                "count": 1
+            },
+            {
+                "code": "01057",
+                "count": 1
+            },
+            {
+                "code": "01053",
+                "count": 1
+            },
+            {
+                "code": "14014",
+                "count": 3
+            },
+            {
+                "code": "14015",
+                "count": 3
+            },
+            {
+                "code": "01056",
+                "count": 1
+            },
+            {
+                "code": "01063",
+                "count": 1
+            },
+            {
+                "code": "01062",
+                "count": 1
+            },
+            {
+                "code": "01064",
+                "count": 1
+            },
+            {
+                "code": "14024",
+                "count": 2
+            },
+            {
+                "code": "14020",
+                "count": 2
+            },
+            {
+                "code": "14021",
+                "count": 3
+            },
+            {
+                "code": "14022",
+                "count": 2
+            },
+            {
+                "code": "01035",
+                "count": 2
+            },
+            {
+                "code": "01033",
+                "count": 1
+            },
+            {
+                "code": "01040",
+                "count": 3
+            },
+            {
+                "code": "01039",
+                "count": 3
+            },
+            {
+                "code": "01059",
+                "count": 2
+            },
+            {
+                "code": "01038",
+                "count": 1
+            },
+            {
+                "code": "01060",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "FotS-2",
+        "name": "Warrior of Fire (FotS)",
+        "releaseDate": "2019-06-06",
+        "faction": "baratheon",
+        "agenda": "14045",
+        "cards": [
+            {
+                "code": "14046",
+                "count": 1
+            },
+            {
+                "code": "14051",
+                "count": 1
+            },
+            {
+                "code": "01004",
+                "count": 1
+            },
+            {
+                "code": "01007",
+                "count": 1
+            },
+            {
+                "code": "01001",
+                "count": 1
+            },
+            {
+                "code": "01009",
+                "count": 1
+            },
+            {
+                "code": "01010",
+                "count": 1
+            },
+            {
+                "code": "01048",
+                "count": 1
+            },
+            {
+                "code": "14002",
+                "count": 3
+            },
+            {
+                "code": "14003",
+                "count": 3
+            },
+            {
+                "code": "14005",
+                "count": 1
+            },
+            {
+                "code": "14006",
+                "count": 3
+            },
+            {
+                "code": "14009",
+                "count": 3
+            },
+            {
+                "code": "01049",
+                "count": 1
+            },
+            {
+                "code": "14010",
+                "count": 1
+            },
+            {
+                "code": "14011",
+                "count": 1
+            },
+            {
+                "code": "14012",
+                "count": 3
+            },
+            {
+                "code": "14040",
+                "count": 2
+            },
+            {
+                "code": "14013",
+                "count": 1
+            },
+            {
+                "code": "01057",
+                "count": 1
+            },
+            {
+                "code": "01053",
+                "count": 1
+            },
+            {
+                "code": "14015",
+                "count": 3
+            },
+            {
+                "code": "14016",
+                "count": 3
+            },
+            {
+                "code": "01056",
+                "count": 1
+            },
+            {
+                "code": "01063",
+                "count": 1
+            },
+            {
+                "code": "01043",
+                "count": 2
+            },
+            {
+                "code": "14023",
+                "count": 2
+            },
+            {
+                "code": "01032",
+                "count": 1
+            },
+            {
+                "code": "14021",
+                "count": 3
+            },
+            {
+                "code": "01058",
+                "count": 1
+            },
+            {
+                "code": "01035",
+                "count": 2
+            },
+            {
+                "code": "01033",
+                "count": 1
+            },
+            {
+                "code": "01040",
+                "count": 3
+            },
+            {
+                "code": "01039",
+                "count": 3
+            },
+            {
+                "code": "01059",
+                "count": 2
+            },
+            {
+                "code": "14017",
+                "count": 3
+            },
+            {
+                "code": "01061",
+                "count": 1
+            },
+            {
+                "code": "14018",
+                "count": 2
+            },
+            {
+                "code": "14019",
+                "count": 1
+            }
+        ]
     }
 ]
