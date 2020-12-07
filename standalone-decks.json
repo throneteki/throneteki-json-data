@@ -1210,6 +1210,340 @@
         ]
     },
     {
+        "id": "WotW-1",
+        "name": "Defending The Wall (WotW)",
+        "releaseDate": "2017-04-06",
+        "faction": "thenightswatch",
+        "agenda": "01027",
+        "cards": [
+            {
+                "code": "01006",
+                "count": 1
+            },
+            {
+                "code": "01007",
+                "count": 1
+            },
+            {
+                "code": "01008",
+                "count": 1
+            },
+            {
+                "code": "01011",
+                "count": 1
+            },
+            {
+                "code": "07047",
+                "count": 1
+            },
+            {
+                "code": "07046",
+                "count": 1
+            },
+            {
+                "code": "01026",
+                "count": 1
+            },
+            {
+                "code": "01122",
+                "count": 1
+            },
+            {
+                "code": "07016",
+                "count": 3
+            },
+            {
+                "code": "07009",
+                "count": 3
+            },
+            {
+                "code": "07006",
+                "count": 3
+            },
+            {
+                "code": "07001",
+                "count": 3
+            },
+            {
+                "code": "07005",
+                "count": 3
+            },
+            {
+                "code": "01130",
+                "count": 1
+            },
+            {
+                "code": "01126",
+                "count": 1
+            },
+            {
+                "code": "01131",
+                "count": 1
+            },
+            {
+                "code": "01132",
+                "count": 1
+            },
+            {
+                "code": "01030",
+                "count": 2
+            },
+            {
+                "code": "01127",
+                "count": 1
+            },
+            {
+                "code": "07015",
+                "count": 3
+            },
+            {
+                "code": "07007",
+                "count": 3
+            },
+            {
+                "code": "01128",
+                "count": 1
+            },
+            {
+                "code": "01133",
+                "count": 1
+            },
+            {
+                "code": "01134",
+                "count": 1
+            },
+            {
+                "code": "01031",
+                "count": 1
+            },
+            {
+                "code": "07020",
+                "count": 3
+            },
+            {
+                "code": "07021",
+                "count": 2
+            },
+            {
+                "code": "01135",
+                "count": 1
+            },
+            {
+                "code": "01035",
+                "count": 2
+            },
+            {
+                "code": "07043",
+                "count": 2
+            },
+            {
+                "code": "07018",
+                "count": 3
+            },
+            {
+                "code": "01136",
+                "count": 1
+            },
+            {
+                "code": "01039",
+                "count": 3
+            },
+            {
+                "code": "01040",
+                "count": 3
+            },
+            {
+                "code": "01137",
+                "count": 1
+            },
+            {
+                "code": "01138",
+                "count": 2
+            },
+            {
+                "code": "07024",
+                "count": 2
+            },
+            {
+                "code": "01045",
+                "count": 1
+            },
+            {
+                "code": "01140",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "WotW-2",
+        "name": "Taking the Black (WotW)",
+        "releaseDate": "2017-04-06",
+        "faction": "thenightswatch",
+        "agenda": "01027",
+        "cards": [
+            {
+                "code": "01003",
+                "count": 1
+            },
+            {
+                "code": "01007",
+                "count": 1
+            },
+            {
+                "code": "01008",
+                "count": 1
+            },
+            {
+                "code": "01009",
+                "count": 1
+            },
+            {
+                "code": "01015",
+                "count": 1
+            },
+            {
+                "code": "01022",
+                "count": 1
+            },
+            {
+                "code": "01025",
+                "count": 1
+            },
+            {
+                "code": "01122",
+                "count": 1
+            },
+            {
+                "code": "07002",
+                "count": 3
+            },
+            {
+                "code": "07016",
+                "count": 3
+            },
+            {
+                "code": "07004",
+                "count": 1
+            },
+            {
+                "code": "01123",
+                "count": 1
+            },
+            {
+                "code": "07010",
+                "count": 2
+            },
+            {
+                "code": "01124",
+                "count": 1
+            },
+            {
+                "code": "01028",
+                "count": 1
+            },
+            {
+                "code": "01125",
+                "count": 1
+            },
+            {
+                "code": "01130",
+                "count": 1
+            },
+            {
+                "code": "07003",
+                "count": 3
+            },
+            {
+                "code": "01131",
+                "count": 1
+            },
+            {
+                "code": "07011",
+                "count": 2
+            },
+            {
+                "code": "01132",
+                "count": 1
+            },
+            {
+                "code": "07012",
+                "count": 3
+            },
+            {
+                "code": "07013",
+                "count": 3
+            },
+            {
+                "code": "07008",
+                "count": 1
+            },
+            {
+                "code": "01128",
+                "count": 1
+            },
+            {
+                "code": "01133",
+                "count": 1
+            },
+            {
+                "code": "01029",
+                "count": 1
+            },
+            {
+                "code": "01129",
+                "count": 1
+            },
+            {
+                "code": "01135",
+                "count": 1
+            },
+            {
+                "code": "01035",
+                "count": 2
+            },
+            {
+                "code": "07022",
+                "count": 3
+            },
+            {
+                "code": "07043",
+                "count": 3
+            },
+            {
+                "code": "07019",
+                "count": 2
+            },
+            {
+                "code": "01039",
+                "count": 3
+            },
+            {
+                "code": "07017",
+                "count": 3
+            },
+            {
+                "code": "01040",
+                "count": 3
+            },
+            {
+                "code": "01138",
+                "count": 2
+            },
+            {
+                "code": "07023",
+                "count": 3
+            },
+            {
+                "code": "01139",
+                "count": 1
+            },
+            {
+                "code": "01044",
+                "count": 1
+            }
+        ]
+    },
+    {
         "id": "CHP05",
         "name": "2016 World Championship Deck",
         "releaseDate": "2017-06-01",
