@@ -4757,5 +4757,339 @@
                 "count": 1
             }
         ]
+    },
+    {
+        "id": "DotE-1",
+        "name": "Mother of Dragons (DotE)",
+        "releaseDate": "2019-11-08",
+        "faction": "targaryen",
+        "agenda": "01027",
+        "cards": [
+            {
+                "code": "15051",
+                "count": 2
+            },
+            {
+                "code": "15052",
+                "count": 1
+            },
+            {
+                "code": "01010",
+                "count": 1
+            },
+            {
+                "code": "01007",
+                "count": 1
+            },
+            {
+                "code": "01026",
+                "count": 1
+            },
+            {
+                "code": "01013",
+                "count": 1
+            },
+            {
+                "code": "15001",
+                "count": 3
+            },
+            {
+                "code": "15002",
+                "count": 2
+            },
+            {
+                "code": "15003",
+                "count": 2
+            },
+            {
+                "code": "15004",
+                "count": 2
+            },
+            {
+                "code": "15006",
+                "count": 2
+            },
+            {
+                "code": "15008",
+                "count": 2
+            },
+            {
+                "code": "01163",
+                "count": 1
+            },
+            {
+                "code": "01161",
+                "count": 1
+            },
+            {
+                "code": "01164",
+                "count": 1
+            },
+            {
+                "code": "15012",
+                "count": 2
+            },
+            {
+                "code": "15013",
+                "count": 3
+            },
+            {
+                "code": "15014",
+                "count": 3
+            },
+            {
+                "code": "01166",
+                "count": 1
+            },
+            {
+                "code": "01165",
+                "count": 1
+            },
+            {
+                "code": "01169",
+                "count": 1
+            },
+            {
+                "code": "15016",
+                "count": 1
+            },
+            {
+                "code": "01167",
+                "count": 1
+            },
+            {
+                "code": "01170",
+                "count": 1
+            },
+            {
+                "code": "15023",
+                "count": 3
+            },
+            {
+                "code": "15024",
+                "count": 2
+            },
+            {
+                "code": "01176",
+                "count": 1
+            },
+            {
+                "code": "01177",
+                "count": 1
+            },
+            {
+                "code": "15019",
+                "count": 3
+            },
+            {
+                "code": "01032",
+                "count": 1
+            },
+            {
+                "code": "15020",
+                "count": 3
+            },
+            {
+                "code": "15043",
+                "count": 2
+            },
+            {
+                "code": "01035",
+                "count": 2
+            },
+            {
+                "code": "01033",
+                "count": 1
+            },
+            {
+                "code": "01173",
+                "count": 1
+            },
+            {
+                "code": "15018",
+                "count": 2
+            },
+            {
+                "code": "01040",
+                "count": 3
+            },
+            {
+                "code": "01039",
+                "count": 3
+            },
+            {
+                "code": "01175",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "id": "DotE-2",
+        "name": "Fury of the Khalasar (DotE)",
+        "releaseDate": "2019-11-08",
+        "faction": "targaryen",
+        "agenda": "01027",
+        "cards": [
+            {
+                "code": "15046",
+                "count": 1
+            },
+            {
+                "code": "15051",
+                "count": 1
+            },
+            {
+                "code": "01005",
+                "count": 1
+            },
+            {
+                "code": "01007",
+                "count": 1
+            },
+            {
+                "code": "01015",
+                "count": 1
+            },
+            {
+                "code": "01010",
+                "count": 1
+            },
+            {
+                "code": "01021",
+                "count": 1
+            },
+            {
+                "code": "01160",
+                "count": 1
+            },
+            {
+                "code": "15005",
+                "count": 3
+            },
+            {
+                "code": "15007",
+                "count": 3
+            },
+            {
+                "code": "15040",
+                "count": 2
+            },
+            {
+                "code": "01163",
+                "count": 1
+            },
+            {
+                "code": "01031",
+                "count": 2
+            },
+            {
+                "code": "15009",
+                "count": 3
+            },
+            {
+                "code": "01171",
+                "count": 1
+            },
+            {
+                "code": "15010",
+                "count": 2
+            },
+            {
+                "code": "01161",
+                "count": 1
+            },
+            {
+                "code": "01164",
+                "count": 1
+            },
+            {
+                "code": "15011",
+                "count": 2
+            },
+            {
+                "code": "15015",
+                "count": 3
+            },
+            {
+                "code": "15013",
+                "count": 1
+            },
+            {
+                "code": "15014",
+                "count": 3
+            },
+            {
+                "code": "01165",
+                "count": 1
+            },
+            {
+                "code": "01166",
+                "count": 1
+            },
+            {
+                "code": "01168",
+                "count": 1
+            },
+            {
+                "code": "15016",
+                "count": 2
+            },
+            {
+                "code": "01167",
+                "count": 1
+            },
+            {
+                "code": "01170",
+                "count": 1
+            },
+            {
+                "code": "15022",
+                "count": 3
+            },
+            {
+                "code": "01041",
+                "count": 1
+            },
+            {
+                "code": "15044",
+                "count": 2
+            },
+            {
+                "code": "01042",
+                "count": 1
+            },
+            {
+                "code": "01178",
+                "count": 1
+            },
+            {
+                "code": "01172",
+                "count": 1
+            },
+            {
+                "code": "15021",
+                "count": 3
+            },
+            {
+                "code": "15017",
+                "count": 3
+            },
+            {
+                "code": "01174",
+                "count": 1
+            },
+            {
+                "code": "01039",
+                "count": 3
+            },
+            {
+                "code": "01040",
+                "count": 3
+            },
+            {
+                "code": "01175",
+                "count": 2
+            }
+        ]
     }
 ]
