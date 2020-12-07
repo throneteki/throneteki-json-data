@@ -2019,6 +2019,340 @@
         ]
     },
     {
+        "id": "SoD-1",
+        "name": "His Viper Eyes (SoD)",
+        "releaseDate": "2018-03-29",
+        "faction": "martell",
+        "agenda": "01027",
+        "cards": [
+            {
+                "code": "10049",
+                "count": 1
+            },
+            {
+                "code": "01010",
+                "count": 1
+            },
+            {
+                "code": "01013",
+                "count": 1
+            },
+            {
+                "code": "01015",
+                "count": 1
+            },
+            {
+                "code": "10047",
+                "count": 2
+            },
+            {
+                "code": "01026",
+                "count": 1
+            },
+            {
+                "code": "01103",
+                "count": 1
+            },
+            {
+                "code": "01104",
+                "count": 1
+            },
+            {
+                "code": "10004",
+                "count": 1
+            },
+            {
+                "code": "01110",
+                "count": 1
+            },
+            {
+                "code": "10002",
+                "count": 3
+            },
+            {
+                "code": "01112",
+                "count": 1
+            },
+            {
+                "code": "01113",
+                "count": 1
+            },
+            {
+                "code": "10013",
+                "count": 3
+            },
+            {
+                "code": "01107",
+                "count": 1
+            },
+            {
+                "code": "10014",
+                "count": 1
+            },
+            {
+                "code": "10007",
+                "count": 3
+            },
+            {
+                "code": "10009",
+                "count": 3
+            },
+            {
+                "code": "10005",
+                "count": 3
+            },
+            {
+                "code": "10010",
+                "count": 3
+            },
+            {
+                "code": "10016",
+                "count": 3
+            },
+            {
+                "code": "10003",
+                "count": 3
+            },
+            {
+                "code": "10008",
+                "count": 3
+            },
+            {
+                "code": "10021",
+                "count": 2
+            },
+            {
+                "code": "01035",
+                "count": 2
+            },
+            {
+                "code": "10020",
+                "count": 2
+            },
+            {
+                "code": "01118",
+                "count": 2
+            },
+            {
+                "code": "01116",
+                "count": 1
+            },
+            {
+                "code": "10042",
+                "count": 2
+            },
+            {
+                "code": "10018",
+                "count": 1
+            },
+            {
+                "code": "01117",
+                "count": 1
+            },
+            {
+                "code": "01039",
+                "count": 3
+            },
+            {
+                "code": "01040",
+                "count": 3
+            },
+            {
+                "code": "10022",
+                "count": 3
+            },
+            {
+                "code": "01041",
+                "count": 1
+            },
+            {
+                "code": "01044",
+                "count": 1
+            },
+            {
+                "code": "01120",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "SoD-2",
+        "name": "The Long Plan (SoD)",
+        "releaseDate": "2018-03-29",
+        "faction": "martell",
+        "agenda": "10045",
+        "cards": [
+            {
+                "code": "01003",
+                "count": 1
+            },
+            {
+                "code": "01004",
+                "count": 1
+            },
+            {
+                "code": "10046",
+                "count": 1
+            },
+            {
+                "code": "01008",
+                "count": 1
+            },
+            {
+                "code": "01010",
+                "count": 1
+            },
+            {
+                "code": "10047",
+                "count": 2
+            },
+            {
+                "code": "01022",
+                "count": 1
+            },
+            {
+                "code": "01026",
+                "count": 2
+            },
+            {
+                "code": "10006",
+                "count": 2
+            },
+            {
+                "code": "01104",
+                "count": 1
+            },
+            {
+                "code": "01110",
+                "count": 1
+            },
+            {
+                "code": "10001",
+                "count": 3
+            },
+            {
+                "code": "01111",
+                "count": 1
+            },
+            {
+                "code": "01106",
+                "count": 1
+            },
+            {
+                "code": "01112",
+                "count": 1
+            },
+            {
+                "code": "10015",
+                "count": 3
+            },
+            {
+                "code": "01113",
+                "count": 1
+            },
+            {
+                "code": "01107",
+                "count": 1
+            },
+            {
+                "code": "10014",
+                "count": 1
+            },
+            {
+                "code": "01114",
+                "count": 1
+            },
+            {
+                "code": "10011",
+                "count": 3
+            },
+            {
+                "code": "10012",
+                "count": 3
+            },
+            {
+                "code": "10016",
+                "count": 3
+            },
+            {
+                "code": "01109",
+                "count": 1
+            },
+            {
+                "code": "10021",
+                "count": 3
+            },
+            {
+                "code": "10019",
+                "count": 2
+            },
+            {
+                "code": "01035",
+                "count": 2
+            },
+            {
+                "code": "10020",
+                "count": 1
+            },
+            {
+                "code": "01118",
+                "count": 1
+            },
+            {
+                "code": "10017",
+                "count": 3
+            },
+            {
+                "code": "01116",
+                "count": 1
+            },
+            {
+                "code": "10042",
+                "count": 2
+            },
+            {
+                "code": "10018",
+                "count": 3
+            },
+            {
+                "code": "01117",
+                "count": 1
+            },
+            {
+                "code": "01039",
+                "count": 3
+            },
+            {
+                "code": "01040",
+                "count": 3
+            },
+            {
+                "code": "01121",
+                "count": 1
+            },
+            {
+                "code": "01119",
+                "count": 1
+            },
+            {
+                "code": "10023",
+                "count": 2
+            },
+            {
+                "code": "01044",
+                "count": 1
+            },
+            {
+                "code": "01045",
+                "count": 1
+            },
+            {
+                "code": "10024",
+                "count": 2
+            }
+        ]
+    },
+    {
         "id": "uCHP07",
         "name": "2017 World Championship Deck",
         "releaseDate": "2018-04-05",
