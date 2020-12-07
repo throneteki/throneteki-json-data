@@ -1,5 +1,335 @@
 [
     {
+        "id": "WotN-1",
+        "name": "Wolves of Winter (WotN)",
+        "releaseDate": "2016-04-07",
+        "faction": "stark",
+        "agenda": "01027",
+        "cards": [
+            {
+                "code": "01005",
+                "count": 1
+            },
+            {
+                "code": "03046",
+                "count": 1
+            },
+            {
+                "code": "01007",
+                "count": 1
+            },
+            {
+                "code": "01015",
+                "count": 1
+            },
+            {
+                "code": "03049",
+                "count": 1
+            },
+            {
+                "code": "01025",
+                "count": 1
+            },
+            {
+                "code": "01026",
+                "count": 1
+            },
+            {
+                "code": "01144",
+                "count": 1
+            },
+            {
+                "code": "01146",
+                "count": 1
+            },
+            {
+                "code": "03005",
+                "count": 3
+            },
+            {
+                "code": "03006",
+                "count": 3
+            },
+            {
+                "code": "01145",
+                "count": 1
+            },
+            {
+                "code": "03008",
+                "count": 1
+            },
+            {
+                "code": "01151",
+                "count": 1
+            },
+            {
+                "code": "03007",
+                "count": 3
+            },
+            {
+                "code": "01030",
+                "count": 2
+            },
+            {
+                "code": "03012",
+                "count": 3
+            },
+            {
+                "code": "03011",
+                "count": 3
+            },
+            {
+                "code": "03010",
+                "count": 3
+            },
+            {
+                "code": "01148",
+                "count": 1
+            },
+            {
+                "code": "03013",
+                "count": 1
+            },
+            {
+                "code": "03014",
+                "count": 3
+            },
+            {
+                "code": "01142",
+                "count": 1
+            },
+            {
+                "code": "01150",
+                "count": 1
+            },
+            {
+                "code": "01149",
+                "count": 1
+            },
+            {
+                "code": "03016",
+                "count": 1
+            },
+            {
+                "code": "01152",
+                "count": 1
+            },
+            {
+                "code": "03017",
+                "count": 2
+            },
+            {
+                "code": "01040",
+                "count": 3
+            },
+            {
+                "code": "01039",
+                "count": 3
+            },
+            {
+                "code": "01156",
+                "count": 2
+            },
+            {
+                "code": "01155",
+                "count": 1
+            },
+            {
+                "code": "03019",
+                "count": 3
+            },
+            {
+                "code": "03021",
+                "count": 2
+            },
+            {
+                "code": "01153",
+                "count": 1
+            },
+            {
+                "code": "03022",
+                "count": 2
+            },
+            {
+                "code": "03023",
+                "count": 3
+            },
+            {
+                "code": "01158",
+                "count": 1
+            },
+            {
+                "code": "01041",
+                "count": 1
+            },
+            {
+                "code": "01159",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "WotN-2",
+        "name": "Family, Duty, Honor (WotN)",
+        "releaseDate": "2016-04-07",
+        "faction": "stark",
+        "agenda": "01027",
+        "cards": [
+            {
+                "code": "01002",
+                "count": 1
+            },
+            {
+                "code": "01004",
+                "count": 1
+            },
+            {
+                "code": "03050",
+                "count": 1
+            },
+            {
+                "code": "01007",
+                "count": 1
+            },
+            {
+                "code": "01013",
+                "count": 1
+            },
+            {
+                "code": "01026",
+                "count": 1
+            },
+            {
+                "code": "01023",
+                "count": 1
+            },
+            {
+                "code": "03001",
+                "count": 1
+            },
+            {
+                "code": "03002",
+                "count": 3
+            },
+            {
+                "code": "03003",
+                "count": 3
+            },
+            {
+                "code": "03004",
+                "count": 3
+            },
+            {
+                "code": "01146",
+                "count": 1
+            },
+            {
+                "code": "03005",
+                "count": 3
+            },
+            {
+                "code": "03008",
+                "count": 3
+            },
+            {
+                "code": "03009",
+                "count": 3
+            },
+            {
+                "code": "01141",
+                "count": 1
+            },
+            {
+                "code": "01147",
+                "count": 1
+            },
+            {
+                "code": "03012",
+                "count": 3
+            },
+            {
+                "code": "03011",
+                "count": 1
+            },
+            {
+                "code": "01148",
+                "count": 1
+            },
+            {
+                "code": "03015",
+                "count": 3
+            },
+            {
+                "code": "01142",
+                "count": 1
+            },
+            {
+                "code": "01150",
+                "count": 1
+            },
+            {
+                "code": "03016",
+                "count": 1
+            },
+            {
+                "code": "01152",
+                "count": 1
+            },
+            {
+                "code": "01040",
+                "count": 3
+            },
+            {
+                "code": "01039",
+                "count": 3
+            },
+            {
+                "code": "01156",
+                "count": 2
+            },
+            {
+                "code": "01154",
+                "count": 1
+            },
+            {
+                "code": "03018",
+                "count": 3
+            },
+            {
+                "code": "03019",
+                "count": 2
+            },
+            {
+                "code": "03020",
+                "count": 2
+            },
+            {
+                "code": "03021",
+                "count": 3
+            },
+            {
+                "code": "01032",
+                "count": 1
+            },
+            {
+                "code": "01033",
+                "count": 1
+            },
+            {
+                "code": "03024",
+                "count": 3
+            },
+            {
+                "code": "01043",
+                "count": 2
+            },
+            {
+                "code": "01159",
+                "count": 1
+            }
+        ]
+    },
+    {
         "id": "CHP05",
         "name": "2016 World Championship Deck",
         "releaseDate": "2017-06-01",
