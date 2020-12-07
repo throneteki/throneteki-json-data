@@ -3918,6 +3918,352 @@
         ]
     },
     {
+        "id": "KotI-1",
+        "name": "The Iron Fleet (KotI)",
+        "releaseDate": "2018-12-27",
+        "faction": "greyjoy",
+        "agenda": "01027",
+        "cards": [
+            {
+                "code": "01004",
+                "count": 1
+            },
+            {
+                "code": "01006",
+                "count": 1
+            },
+            {
+                "code": "01007",
+                "count": 1
+            },
+            {
+                "code": "01008",
+                "count": 1
+            },
+            {
+                "code": "12049",
+                "count": 1
+            },
+            {
+                "code": "01010",
+                "count": 1
+            },
+            {
+                "code": "01026",
+                "count": 1
+            },
+            {
+                "code": "12005",
+                "count": 3
+            },
+            {
+                "code": "12003",
+                "count": 3
+            },
+            {
+                "code": "01068",
+                "count": 1
+            },
+            {
+                "code": "01073",
+                "count": 1
+            },
+            {
+                "code": "12013",
+                "count": 3
+            },
+            {
+                "code": "12014",
+                "count": 3
+            },
+            {
+                "code": "12002",
+                "count": 3
+            },
+            {
+                "code": "01074",
+                "count": 1
+            },
+            {
+                "code": "01075",
+                "count": 1
+            },
+            {
+                "code": "12010",
+                "count": 1
+            },
+            {
+                "code": "01070",
+                "count": 1
+            },
+            {
+                "code": "12011",
+                "count": 2
+            },
+            {
+                "code": "12012",
+                "count": 3
+            },
+            {
+                "code": "12009",
+                "count": 3
+            },
+            {
+                "code": "01076",
+                "count": 1
+            },
+            {
+                "code": "12004",
+                "count": 1
+            },
+            {
+                "code": "01071",
+                "count": 1
+            },
+            {
+                "code": "12022",
+                "count": 3
+            },
+            {
+                "code": "01034",
+                "count": 1
+            },
+            {
+                "code": "01035",
+                "count": 2
+            },
+            {
+                "code": "12018",
+                "count": 2
+            },
+            {
+                "code": "01078",
+                "count": 1
+            },
+            {
+                "code": "01079",
+                "count": 1
+            },
+            {
+                "code": "12019",
+                "count": 2
+            },
+            {
+                "code": "12020",
+                "count": 2
+            },
+            {
+                "code": "01080",
+                "count": 2
+            },
+            {
+                "code": "12016",
+                "count": 2
+            },
+            {
+                "code": "01039",
+                "count": 3
+            },
+            {
+                "code": "01040",
+                "count": 3
+            },
+            {
+                "code": "01081",
+                "count": 1
+            },
+            {
+                "code": "01083",
+                "count": 1
+            },
+            {
+                "code": "12023",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "id": "KotI-2",
+        "name": "The Old Way (KotI)",
+        "releaseDate": "2018-12-27",
+        "faction": "greyjoy",
+        "agenda": "12045",
+        "cards": [
+            {
+                "code": "01004",
+                "count": 1
+            },
+            {
+                "code": "01007",
+                "count": 1
+            },
+            {
+                "code": "01010",
+                "count": 1
+            },
+            {
+                "code": "01015",
+                "count": 1
+            },
+            {
+                "code": "01021",
+                "count": 1
+            },
+            {
+                "code": "12050",
+                "count": 1
+            },
+            {
+                "code": "12046",
+                "count": 1
+            },
+            {
+                "code": "01066",
+                "count": 1
+            },
+            {
+                "code": "12008",
+                "count": 3
+            },
+            {
+                "code": "12003",
+                "count": 3
+            },
+            {
+                "code": "12001",
+                "count": 3
+            },
+            {
+                "code": "01072",
+                "count": 1
+            },
+            {
+                "code": "01069",
+                "count": 1
+            },
+            {
+                "code": "12007",
+                "count": 1
+            },
+            {
+                "code": "01074",
+                "count": 1
+            },
+            {
+                "code": "01028",
+                "count": 1
+            },
+            {
+                "code": "01075",
+                "count": 1
+            },
+            {
+                "code": "12010",
+                "count": 3
+            },
+            {
+                "code": "12015",
+                "count": 3
+            },
+            {
+                "code": "01030",
+                "count": 2
+            },
+            {
+                "code": "12040",
+                "count": 1
+            },
+            {
+                "code": "01076",
+                "count": 1
+            },
+            {
+                "code": "12006",
+                "count": 2
+            },
+            {
+                "code": "01071",
+                "count": 1
+            },
+            {
+                "code": "01031",
+                "count": 2
+            },
+            {
+                "code": "01034",
+                "count": 1
+            },
+            {
+                "code": "12043",
+                "count": 2
+            },
+            {
+                "code": "12021",
+                "count": 1
+            },
+            {
+                "code": "01077",
+                "count": 1
+            },
+            {
+                "code": "12018",
+                "count": 2
+            },
+            {
+                "code": "12019",
+                "count": 1
+            },
+            {
+                "code": "12020",
+                "count": 3
+            },
+            {
+                "code": "01080",
+                "count": 2
+            },
+            {
+                "code": "01039",
+                "count": 3
+            },
+            {
+                "code": "01040",
+                "count": 3
+            },
+            {
+                "code": "12024",
+                "count": 3
+            },
+            {
+                "code": "01041",
+                "count": 1
+            },
+            {
+                "code": "01042",
+                "count": 1
+            },
+            {
+                "code": "01081",
+                "count": 1
+            },
+            {
+                "code": "01082",
+                "count": 1
+            },
+            {
+                "code": "01083",
+                "count": 1
+            },
+            {
+                "code": "12023",
+                "count": 1
+            },
+            {
+                "code": "12044",
+                "count": 1
+            }
+        ]
+    },
+    {
         "id": "uCHP10",
         "name": "2018 World Championship Deck",
         "releaseDate": "2019-04-04",
