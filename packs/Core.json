@@ -3,6 +3,7 @@
     "code": "Core",
     "name": "Core Set",
     "releaseDate": "2015-10-08",
+    "cardSet": "original",
     "cards": [
         {
             "code": "01001",

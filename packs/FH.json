@@ -3,6 +3,7 @@
     "code": "FH",
     "name": "Forgotten Heroes",
     "releaseDate": "2020-12-11",
+    "cardSet": "redesign",
     "cards": [
         {
             "code": "18001",
@@ -79,7 +80,7 @@
                 "Raider"
             ],
             "text": "Stealth.\n<b>Reaction:</b> After no defenders are declared in a challenge in which you control an attacking <i>Raider</i> character, place 1 gold from the treasury on a card.",
-            "flavor": "\"I am unwed.\"", 
+            "flavor": "\"I am unwed.\"",
             "deckLimit": 3,
             "illustrator": "Helder Almeida",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/3_Left-Hand.png"
@@ -155,7 +156,7 @@
                 "Small Council"
             ],
             "text": "<b>Action:</b> Move 1 gold from your gold pool to a card without gold. (Limit twice per round.)\n+1 Income.",
-            "flavor": "?", 
+            "flavor": "?",
             "deckLimit": 3,
             "illustrator": "Kirill Nedorosol",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/6_Ser_Harys.png"
@@ -205,7 +206,7 @@
                 "Mercenary"
             ],
             "text": "Bestow (2). Renown. Shadow (2).\n<b>Forced Reaction:</b> After a plot card enters your used pile, return The Tattered Prince to shadows unless you discard 1 gold from him.",
-            "flavor": "?", 
+            "flavor": "?",
             "deckLimit": 3,
             "illustrator": "Diego Gisbert Llorens",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/8_Tattered.png"
@@ -230,7 +231,7 @@
                 "Ranger"
             ],
             "text": "Stealth.\nEach [thenightswatch] character you control with stealth does not kneel when declared as an attacker during a [military] challenge.\n+1 Reserve.",
-            "flavor": "?", 
+            "flavor": "?",
             "deckLimit": 3,
             "illustrator": "Tony Nguyen",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/9_Dywen.png"
@@ -256,7 +257,7 @@
                 "Wildling"
             ],
             "text": "Each <i>Giant</i> character you control gains an [intrigue] icon.\nEach <i>Wildling</i> character you control gains the [thenightswatch] affiliation.\n<b>Reaction:</b> After Leathers enters play, search your deck for a <i>Giant</i> character, reveal it and add it to your hand. Shuffle your deck.",
-            "flavor": "?", 
+            "flavor": "?",
             "deckLimit": 3,
             "illustrator": "Juan Hernández",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/10_Leathers.png"
@@ -411,7 +412,7 @@
             "deckLimit": 3,
             "illustrator": "Jason Engle",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/16_Ser_Emmon.png"
-        }, 
+        },
         {
             "code": "18017",
             "type": "character",
@@ -457,7 +458,7 @@
                 "Cat"
             ],
             "text": "Ambush (2). No attachments except <i>Cat</i>.\nBalerion cannot be killed.\n<b>Action:</b> Kneel Balerion to discard 1 gold from a card.",
-            "flavor": "\"That's the real king of this castle right there, older than sin and twice as mean.\"", 
+            "flavor": "\"That's the real king of this castle right there, older than sin and twice as mean.\"",
             "deckLimit": 3,
             "illustrator": "Joshua Cairos",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/18_Balerion.png"

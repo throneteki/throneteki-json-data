@@ -28,6 +28,12 @@
                     "type": "null"
                 }
             ]
+        },
+        "cardSet": {
+            "enum": [
+                "original",
+                "redesign"
+            ]
         }
     },
     "required": [
