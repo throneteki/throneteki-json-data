@@ -1,6 +1,13 @@
 {
     "additionalProperties": false,
     "definitions": {
+        "cardSetArray": {
+            "type": "array",
+            "items": {
+                "type": "string",
+                "enum": ["original", "redesign"]
+            }
+        },
         "cardCodeArray": {
             "type": "array",
             "items": {
@@ -78,6 +85,12 @@
                     "original",
                     "redesign"
                 ]
+            },
+            "incompatibleCards": {
+                "$ref": "#/definitions/cardCodeArray"
+            },
+            "incompatibleCardSers": {
+                "$ref": "#/definitions/cardSetArray"
             }
         },
         "required": [
@@ -87,7 +100,9 @@
             "version",
             "issuer",
             "cardSet",
-            "code"
+            "code",
+            "incompatibleCards",
+            "incompatibleCardSets"
         ]
     }
 }
