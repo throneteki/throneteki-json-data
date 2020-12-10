@@ -130,7 +130,7 @@
             ],
             "text": "<b>Reaction:</b> After an <i>Army</i> or <i>Knight</i> card enters play under your control, Ser Addam Marbrand gains 1 gold. (Limit once per phase.)\n<b>Reaction:</b> After a character enters your discard pile, discard 1 gold from Ser Addam Marbrand to return it to your hand. (Limit twice per round.)",
             "deckLimit": 3,
-            "illustrator": "Stefan Kopinski",
+            "illustrator": "Darren Tan",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/5_Ser_Addam.png"
         },
         {
@@ -157,7 +157,7 @@
             "text": "<b>Action:</b> Move 1 gold from your gold pool to a card without gold. (Limit twice per round.)\n+1 Income.",
             "flavor": "?", 
             "deckLimit": 3,
-            "illustrator": "Nicole Cardiff",
+            "illustrator": "Kirill Nedorosol",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/6_Ser_Harys.png"
         },
         {
@@ -383,7 +383,7 @@
             ],
             "text": "<b>Reaction:</b> After a player marshals or plays a <i>Small Council</i> card, return an event from your discard pile to your hand. (Limit once per phase.)\n<b>Interrupt:</b> When Orton Merryweather leaves play, put a non-unique <i>Spy</i> character into play from your hand.",
             "deckLimit": 3,
-            "illustrator": "Darek Zabrocki",
+            "illustrator": "Roman Kazjuka",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/15_Orton.png"
         },
         {
@@ -496,9 +496,8 @@
                 "War"
             ],
             "text": "<b>When Revealed:</b> Choose a character. If there are 2 or more attachments attached to that character, discard each attachment from it. Otherwise, discard each duplicate and each power from it.",
-            "flavor": "\"Do you know the first thing about sword fighting?\" <cite>Eddard Stark</cite>",
             "deckLimit": 2,
-            "illustrator": "Lap Pun Cheung",
+            "illustrator": "Darren Tan",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/20_Pointy.png"
         }
     ]
