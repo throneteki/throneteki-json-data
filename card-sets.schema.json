@@ -1,0 +1,44 @@
+{
+  "additionalProperties": false,
+  "definitions": {
+    "cardSetArray": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": [
+          "original",
+          "redesign",
+          "draft",
+          "kingsmoot",
+          "handoftheking"
+        ]
+      }
+    },
+    "cardCodeArray": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^[0-9]{5}$"
+      }
+    }
+  },
+  "type": "array",
+  "items": {
+    "properties": {
+      "code": {
+        "type": "string"
+      },
+      "incompatibleCards": {
+        "$ref": "#/definitions/cardCodeArray"
+      },
+      "incompatibleCardSets": {
+        "$ref": "#/definitions/cardSetArray"
+      }
+    },
+    "required": [
+      "code",
+      "incompatibleCards",
+      "incompatibleCardSets"
+    ]
+  }
+}

@@ -37,6 +37,15 @@ if(!restrictedListResult.valid) {
     valid = false;
 }
 
+let cardSetsValidator = new BasicValidator(require('../card-sets.schema.json'));
+let cardSets = require('../card-sets.json');
+let cardSetsResult = cardSetsValidator.validate(cardSets);
+
+if(!cardSetsResult.valid) {
+    console.error(`Errors in card-sets.json:\n${cardSetsResult.errors.join('\n')}`);
+    valid = false;
+}
+
 let standaloneDecksValidator = new BasicValidator(require('../standalone-decks.schema.json'));
 let standaloneDecks = require('../standalone-decks.json');
 let standaloneDecksResult = standaloneDecksValidator.validate(standaloneDecks);

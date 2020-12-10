@@ -85,12 +85,6 @@
                     "original",
                     "redesign"
                 ]
-            },
-            "incompatibleCards": {
-                "$ref": "#/definitions/cardCodeArray"
-            },
-            "incompatibleCardSers": {
-                "$ref": "#/definitions/cardSetArray"
             }
         },
         "required": [
@@ -100,9 +94,7 @@
             "version",
             "issuer",
             "cardSet",
-            "code",
-            "incompatibleCards",
-            "incompatibleCardSets"
+            "code"
         ]
     }
 }

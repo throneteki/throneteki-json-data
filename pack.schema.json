@@ -32,7 +32,10 @@
         "cardSet": {
             "enum": [
                 "original",
-                "redesign"
+                "redesign",
+                "draft",
+                "kingsmoot",
+                "handoftheking"
             ]
         }
     },
