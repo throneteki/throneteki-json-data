@@ -28,7 +28,7 @@
             "text": "Each non-neutral <i>The Seven</i> character you control gains insight.",
             "flavor": "\"The Crone will light our way, and the Warrior will give strength to our arms.\"",
             "deckLimit": 3,
-            "illustrator": "Fabio Leone",
+            "illustrator": "Ben Guldemond",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/1_Bonifer.png"
         },
         {
@@ -81,7 +81,7 @@
             "text": "Stealth.\n<b>Reaction:</b> After no defenders are declared in a challenge in which you control an attacking <i>Raider</i> character, place 1 gold from the treasury on a card.",
             "flavor": "\"I am unwed.\"", 
             "deckLimit": 3,
-            "illustrator": "David Benzal",
+            "illustrator": "Helder Almeida",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/3_Left-Hand.png"
         },
         {
@@ -130,7 +130,7 @@
             ],
             "text": "<b>Reaction:</b> After an <i>Army</i> or <i>Knight</i> card enters play under your control, Ser Addam Marbrand gains 1 gold. (Limit once per phase.)\n<b>Reaction:</b> After a character enters your discard pile, discard 1 gold from Ser Addam Marbrand to return it to your hand. (Limit twice per round.)",
             "deckLimit": 3,
-            "illustrator": "Stefan Kopinski",
+            "illustrator": "Darren Tan",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/5_Ser_Addam.png"
         },
         {
@@ -157,7 +157,7 @@
             "text": "<b>Action:</b> Move 1 gold from your gold pool to a card without gold. (Limit twice per round.)\n+1 Income.",
             "flavor": "?", 
             "deckLimit": 3,
-            "illustrator": "Nicole Cardiff",
+            "illustrator": "Kirill Nedorosol",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/6_Ser_Harys.png"
         },
         {
@@ -179,7 +179,7 @@
             "traits": [
                 "Lady"
             ],
-            "text": "Reduce the cost for you to marshal Arianne Martell by 1.\nWhile you control:\n- Doran Martell, he gains: \"immune to opponents' plot effects.\"\n- Quentyn Martell, he gets +2 STR.\n- Trystane Martell, he gains insight.",
+            "text": "While you have Arianne Martell in your hand, reduce the cost to marshal her by 1.\nWhile you control:\n- Doran Martell, he gains: \"immune to opponents' plot effects.\"\n- Quentyn Martell, he gets +2 STR.\n- Trystane Martell, he gains insight.",
             "deckLimit": 3,
             "illustrator": "Karla Ortiz",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/7_Mellario.png"
@@ -232,7 +232,7 @@
             "text": "Stealth.\nEach [thenightswatch] character you control with stealth does not kneel when declared as an attacker during a [military] challenge.\n+1 Reserve.",
             "flavor": "?", 
             "deckLimit": 3,
-            "illustrator": "Grafit Studi",
+            "illustrator": "Tony Nguyen",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/9_Dywen.png"
         },
         {
@@ -255,7 +255,7 @@
                 "Ranger",
                 "Wildling"
             ],
-            "text": "Each <i>Wildling</i> character you control gains the [thenightswatch] affiliation.\nEach <i>Giant</i> character you control gains an [intrigue] icon.\n<b>Reaction:</b> After Leathers enters play, search your deck for a <i>Giant</i> character, reveal it and add it to your hand. Shuffle your deck.",
+            "text": "Each <i>Giant</i> character you control gains an [intrigue] icon.\nEach <i>Wildling</i> character you control gains the [thenightswatch] affiliation.\n<b>Reaction:</b> After Leathers enters play, search your deck for a <i>Giant</i> character, reveal it and add it to your hand. Shuffle your deck.",
             "flavor": "?", 
             "deckLimit": 3,
             "illustrator": "Juan Hernández",
@@ -283,7 +283,7 @@
             ],
             "text": "<b>Challenges Action:</b> Kneel a <i>The North</i> location to have each player sacrifice a character or location. (Limit once per phase.)\n<b>Reaction:</b> After a <i>Winter</i> plot card is revealed, return a <i>The North</i> location from your discard pile to your hand. (Limit once per phase.)",
             "deckLimit": 3,
-            "illustrator": "Reza Afshar",
+            "illustrator": "Palamarchuk Mikhail",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/11_Rickard.png"
         },
         {
@@ -358,7 +358,7 @@
             ],
             "text": "<b>Reaction:</b> After you win a challenge in which Haldon Halfmaester is participating, reveal the top card of your deck:\n- Place 1 gold from the treasury on a card with the same cardtype.\n- If it is an event, draw it.\n- If it is Aegon Targaryen, put him into play.",
             "deckLimit": 3,
-            "illustrator": "Kerry Barnett",
+            "illustrator": "Mike Gardner",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/14_Haldon.png"
         },
         {
@@ -383,7 +383,7 @@
             ],
             "text": "<b>Reaction:</b> After a player marshals or plays a <i>Small Council</i> card, return an event from your discard pile to your hand. (Limit once per phase.)\n<b>Interrupt:</b> When Orton Merryweather leaves play, put a non-unique <i>Spy</i> character into play from your hand.",
             "deckLimit": 3,
-            "illustrator": "Sandra Chlewińska",
+            "illustrator": "Roman Kazjuka",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/15_Orton.png"
         },
         {
@@ -496,9 +496,8 @@
                 "War"
             ],
             "text": "<b>When Revealed:</b> Choose a character. If there are 2 or more attachments attached to that character, discard each attachment from it. Otherwise, discard each duplicate and each power from it.",
-            "flavor": "\"Do you know the first thing about sword fighting?\" <cite>Eddard Stark</cite>",
             "deckLimit": 2,
-            "illustrator": "Lap Pun Cheung",
+            "illustrator": "Darren Tan",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/20_Pointy.png"
         }
     ]
