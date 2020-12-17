@@ -32,10 +32,7 @@
         "cardpool": {
             "enum": [
                 "original",
-                "redesign",
-                "draft",
-                "kingsmoot",
-                "handoftheking"
+                "redesign"
             ]
         }
     },
