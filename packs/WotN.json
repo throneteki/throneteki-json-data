@@ -3,7 +3,7 @@
     "code": "WotN",
     "name": "Wolves of the North",
     "releaseDate": "2016-04-07",
-    "cardSet": "original",
+    "cardpool": "original",
     "cards": [
         {
             "code": "03001",

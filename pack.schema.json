@@ -29,7 +29,7 @@
                 }
             ]
         },
-        "cardSet": {
+        "cardpool": {
             "enum": [
                 "original",
                 "redesign",

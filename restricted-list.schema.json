@@ -1,7 +1,7 @@
 {
     "additionalProperties": false,
     "definitions": {
-        "cardSetArray": {
+        "cardpoolArray": {
             "type": "array",
             "items": {
                 "type": "string",
@@ -80,7 +80,7 @@
                     "Redesigns"
                 ]
             },
-            "cardSet": {
+            "cardpool": {
                 "enum": [
                     "original",
                     "redesign"
@@ -93,7 +93,7 @@
             "formats",
             "version",
             "issuer",
-            "cardSet",
+            "cardpool",
             "code"
         ]
     }

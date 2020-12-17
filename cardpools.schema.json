@@ -1,7 +1,7 @@
 {
   "additionalProperties": false,
   "definitions": {
-    "cardSetArray": {
+    "cardpoolArray": {
       "type": "array",
       "items": {
         "type": "string",
@@ -31,14 +31,14 @@
       "incompatibleCards": {
         "$ref": "#/definitions/cardCodeArray"
       },
-      "incompatibleCardSets": {
-        "$ref": "#/definitions/cardSetArray"
+      "incompatibleCardpools": {
+        "$ref": "#/definitions/cardpoolArray"
       }
     },
     "required": [
       "code",
       "incompatibleCards",
-      "incompatibleCardSets"
+      "incompatibleCardpools"
     ]
   }
 }

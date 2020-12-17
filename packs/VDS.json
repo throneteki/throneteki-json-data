@@ -3,7 +3,7 @@
     "code": "VDS",
     "name": "Valyrian Draft Set",
     "releaseDate": null,
-    "cardSet": "draft",
+    "cardpool": "draft",
     "cards": [
         {
             "code": "00001",

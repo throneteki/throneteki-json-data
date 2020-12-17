@@ -37,12 +37,12 @@ if(!restrictedListResult.valid) {
     valid = false;
 }
 
-let cardSetsValidator = new BasicValidator(require('../card-sets.schema.json'));
-let cardSets = require('../card-sets.json');
-let cardSetsResult = cardSetsValidator.validate(cardSets);
+let cardpoolsValidator = new BasicValidator(require('../cardpools.schema.json'));
+let cardpools = require('../cardpools.json');
+let cardpoolsResult = cardpoolsValidator.validate(cardpools);
 
-if(!cardSetsResult.valid) {
-    console.error(`Errors in card-sets.json:\n${cardSetsResult.errors.join('\n')}`);
+if(!cardpoolsResult.valid) {
+    console.error(`Errors in cardpools.json:\n${cardpoolsResult.errors.join('\n')}`);
     valid = false;
 }
 

@@ -3,7 +3,7 @@
     "code": "VKm",
     "name": "Kingsmoot Variant",
     "releaseDate": null,
-    "cardSet": "kingsmoot",
+    "cardpool": "kingsmoot",
     "cards": [
         {
             "code": "00022",

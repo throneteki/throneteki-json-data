@@ -2,7 +2,7 @@
   {
     "code": "original",
     "incompatibleCards": [],
-    "incompatibleCardSets": [
+    "incompatibleCardpools": [
       "redesign"
     ]
   },
@@ -70,21 +70,21 @@
       "15045",
       "15050"
     ],
-    "incompatibleCardSets": []
+    "incompatibleCardpools": []
   },
   {
     "code": "draft",
     "incompatibleCards": [],
-    "incompatibleCardSets": []
+    "incompatibleCardpools": []
   },
   {
     "code": "kingsmoot",
     "incompatibleCards": [],
-    "incompatibleCardSets": []
+    "incompatibleCardpools": []
   },
   {
     "code": "handoftheking",
     "incompatibleCards": [],
-    "incompatibleCardSets": []
+    "incompatibleCardpools": []
   }
 ]
