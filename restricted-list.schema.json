@@ -19,7 +19,7 @@
                     "$ref": "#/definitions/cardCodeArray"
                 }
             },
-            "required": ["restricted", "cards"]
+            "required": ["cards"]
         },
         "format": {
             "additionalProperties": false,
