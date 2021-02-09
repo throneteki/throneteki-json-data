@@ -1,0 +1,450 @@
+{
+   "cgdbId":null,
+   "code":"JS",
+   "name":"Jade Sea",
+   "releaseDate":"2021-02-15",
+   "cards":[
+      {
+         "code":"19001",
+         "type":"location",
+         "name":"Wraith",
+         "octgnId": null,
+         "quantity":3,
+         "unique":true,
+         "faction":"baratheon",
+         "loyal":false,
+         "cost":0,
+         "traits":[
+            "Warship"
+         ],
+         "text":"While you control Dale Seaworth, he gains stealth.\n<b>Action:</b> Kneel and sacrifice Wraith to choose and kneel a location.",
+         "deckLimit":3,
+         "illustrator":"Luciano Neves",
+         "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JS/1_Wraith_ENG.png"
+      },
+      {
+         "code":"19002",
+         "type":"event",
+         "name":"Support from the Iron Bank",
+         "octgnId": null,
+         "quantity":3,
+         "faction":"baratheon",
+         "loyal":false,
+         "cost":0,
+         "traits":[
+            
+         ],
+         "text":"<b>Action:</b> Reduce the cost of each [baratheon] non-character card you marshal or play this phase by 1.",
+         "deckLimit":3,
+         "flavor": "If Stannis was not too stiff-necked to accept their terms, the Braavosi would give him all the gold and silver he required, coin enough to buy a dozen sellsword companies, to bribe a hundred lords, to keep his men paid, fed, clothed, and armed.",
+         "illustrator":"Aleksander Karcz",
+         "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JS/2_Support_of_TIB_ENG.png"
+      },
+      {
+         "code":"19003",
+         "type":"location",
+         "name":"Harlaw",
+         "octgnId": null,
+         "quantity":3,
+         "unique":true,
+         "faction":"greyjoy",
+         "loyal":false,
+         "cost":3,
+         "traits":[
+            "House Harlaw",
+            "Iron Islands"
+         ],
+         "text":"Reduce the reserve value on each opponent's revealed plot card by 1.\nReduce the cost of each <i>House Harlaw</i> card you marshal by 1.\n+1 Reserve.",
+         "deckLimit":3,
+         "illustrator":"Kieran Belshaw",
+         "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JS/3_Harlaw_ENG.png"
+      },
+      {
+         
+         "code":"19004",
+         "type":"location",
+         "name":"Silence",
+         "octgnId": null,
+         "quantity":3,
+         "unique":true,
+         "faction":"greyjoy",
+         "loyal":true,
+         "cost":2,
+         "traits":[
+            "Warship"
+         ],
+         "text":"Each <i>Raider</i> character you control gains pillage.\nWhile an opponent has 10 or more cards in their discard pile, each <i>Raider</i> character you control gets +1 STR.",
+         "deckLimit":3,
+         "illustrator":"Juan Carlos Barquet",
+         "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JS/4_Silence_ENG.png"
+      },
+      {
+         "code":"19005",
+         "type":"character",
+         "name":"Milk Snakes",
+         "octgnId": null,
+         "quantity":3,
+         "unique":false,
+         "faction":"lannister",
+         "loyal":false,
+         "cost":3,
+         "icons":{
+            "military":true,
+            "intrigue":false,
+            "power":false
+         },
+         "strength":2,
+         "traits":[
+            "Clansman"
+         ],
+         "text":"Ambush (4). Bestow (1). Stealth.\nEach <i>Clansman</i> character you control with 1 or more gold gains a [power] icon.\n<b>Action:</b> Move 1 gold from Milk Snakes to a <i>Clansman</i> character you control.",
+         "deckLimit":3,
+         "illustrator":"Daria Rashev",
+         "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JS/5_Milk_Snakes_ENG.png"
+      },
+      {
+         "code":"19006",
+         "type":"character",
+         "name":"Ser Boros Blount",
+         "octgnId": null,
+         "quantity":3,
+         "unique":true,
+         "faction":"lannister",
+         "loyal":false,
+         "cost":2,
+         "icons":{
+            "military":true,
+            "intrigue":true,
+            "power":false
+         },
+         "strength":1,
+         "traits":[
+            "Kingsguard",
+            "Knight"
+         ],
+         "text":"Ambush (3). Shadow (1).\n<b>Reaction:</b> After Ser Boros Blount enters play, search the top 10 cards of your deck for a <i>Kingsguard</i> character or a non-[lannister] <i>Knight</i> character and put it into play. Shuffle your deck. At the end of the phase, if that card is still in play, discard it from play.",
+         "deckLimit":3,
+         "illustrator":"Henning Ludvigsen",
+         "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JS/6_Ser_Boros_Blount_ENG.png"
+      },
+      {
+         "code":"19007",
+         "type":"character",
+         "name":"Elia Sand",
+         "octgnId": null,
+         "quantity":3,
+         "unique":true,
+         "faction":"martell",
+         "loyal":true,
+         "cost":4,
+         "icons":{
+            "military":true,
+            "intrigue":true,
+            "power":false
+         },
+         "strength":3,
+         "traits":[
+            "Bastard",
+            "Sand Snake"
+         ],
+         "text":"While Elia Sand is attacking, if you control another attacking <i>Sand Snake</i> character, raise the claim value on your revealed plot card by 1.",
+         "flavor": "The girl was mad for horses, which might be why she often smelled like one, to the despair of her mother.",
+         "deckLimit":3,
+         "illustrator":"Cristina Vela",
+         "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JS/7_Elia_Sand_ENG.png"
+      },
+      {
+         "code":"19008",
+         "type":"location",
+         "name":"Brimstone",
+         "octgnId": null,
+         "quantity":3,
+         "unique":true,
+         "faction":"martell",
+         "loyal":false,
+         "cost":1,
+         "traits":[
+            "Dorne"
+         ],
+         "text":"Each <i>Sand Snake</i> character you control gets +1 STR.\n<b>Challenges Action:</b> Kneel Brimstone and return a <i>Sand Snake</i> character to your hand to gain 1 gold.",
+         "deckLimit":3,
+         "illustrator":"Sebastián Aguirre",
+         "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JS/8_Brimstone_ENG.png"
+      },
+      {
+         "code":"19009",
+         "type":"character",
+         "name":"Left Hand Lew",
+         "octgnId": null,
+         "quantity":3,
+         "unique":true,
+         "faction":"thenightswatch",
+         "loyal":false,
+         "cost":3,
+         "icons":{
+            "military":true,
+            "intrigue":true,
+            "power":false
+         },
+         "strength":2,
+         "traits":[
+            "Steward"
+         ],
+         "text":"No attachments except <i>Weapon</i>.\n<b>Action:</b> Kneel Left Hand Lew to choose and stand a character owned by an opponent.",
+         "deckLimit":3,
+         "illustrator":"Roman Papsuev",
+         "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JS/9_Left_Hand_Lew_ENG.png"
+      },
+      {
+         "code":"19010",
+         "type":"character",
+         "name":"Old Steward",
+         "octgnId": null,
+         "quantity":3,
+         "unique":false,
+         "faction":"thenightswatch",
+         "loyal":false,
+         "cost":2,
+         "icons":{
+            "military":false,
+            "intrigue":true,
+            "power":false
+         },
+         "strength":2,
+         "traits":[
+            "Steward"
+         ],
+         "text":"+1 Reserve.",
+         "deckLimit":3,
+         "illustrator":"Aaron Riley",
+         "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JS/10_Old_Steward_ENG.png"
+      },
+      {
+         "code":"19011",
+         "type":"location",
+         "name":"Greywater Watch",
+         "octgnId": null,
+         "quantity":3,
+         "unique":true,
+         "faction":"stark",
+         "loyal":true,
+         "cost":2,
+         "traits":[
+            "House Reed",
+            "The North"
+         ],
+         "text":"Shadow (1).\n<b>Action:</b> Kneel and return Greywater Watch to shadows and kneel a [stark] character to have it participate in the challenge on your side. (Max 1 per challenge.)",
+         "deckLimit":3,
+         "illustrator":"Sebastián Aguirre",
+         "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JS/11_Greywater_Watch_ENG.png"
+      },
+      {
+         "code":"19012",
+         "type":"event",
+         "name":"\"The Winter Maid\"",
+         "octgnId": null,
+         "quantity":3,
+         "unique":false,
+         "faction":"stark",
+         "loyal":false,
+         "cost":0,
+         "traits":[
+            "Song"
+         ],
+         "text":"<b>Interrupt:</b> When a plot card is revealed, that plot card gains the <i>Winter</i> trait until the end of the round. If there are no <i>Summer</i> plot cards revealed, return \"The Winter Maid\" to your hand instead of placing it in your discard pile. (Max 1 per phase.)",
+         "deckLimit":3,
+         "illustrator":"Anne Stokes",
+         "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JS/12_The_Winter_Maid_ENG.png"
+      },
+      {
+         "code":"19013",
+         "type":"character",
+         "name":"Grey Worm",
+         "octgnId": null,
+         "quantity":3,
+         "unique":true,
+         "faction":"targaryen",
+         "loyal":true,
+         "cost":5,
+         "icons":{
+            "military":true,
+            "intrigue":true,
+            "power":false
+         },
+         "strength":5,
+         "traits":[
+            "Companion",
+            "Guard"
+         ],
+         "text":"No attachments except <i>Weapon</i>.\nGrey Worm does not kneel when declared as a defender against an opponent with more cards in their hand than you.",
+         "deckLimit":3,
+         "illustrator":"Tomasz Jedruszek",
+         "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JS/13_Grey_Worm_ENG.png"
+      },
+      {
+         "code":"19014",
+         "type":"character",
+         "name":"Tyrion Lannister",
+         "octgnId":null,
+         "quantity":3,
+         "unique":true,
+         "faction":"targaryen",
+         "loyal":false,
+         "cost":4,
+         "icons":{
+            "military":false,
+            "intrigue":true,
+            "power":true
+         },
+         "strength":3,
+         "traits":[
+            "Mercenary"
+         ],
+         "text":"Bestow (3). Stealth.\n<b>Action:</b> Discard 1 gold from Tyrion Lannister to put a <i>Mercenary</i> character into play under your control from any player’s discard pile. At the end of the phase, if that card is still in play, place it on the bottom of its owner's deck. (Limit once per phase.)",
+         "deckLimit":3,
+         "illustrator":"Lukasz Jaskolski",
+         "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JS/14_Tyrion_Lannister_ENG.png"
+      },
+      {
+         "code":"19015",
+         "type":"character",
+         "name":"Randyll Tarly",
+         "octgnId":"",
+         "quantity":3,
+         "unique":true,
+         "faction":"tyrell",
+         "loyal":true,
+         "cost":7,
+         "icons":{
+            "military":true,
+            "intrigue":false,
+            "power":true
+         },
+         "strength":6,
+         "traits":[
+            "House Tarly",
+            "Lord",
+            "Small Council"
+         ],
+         "text":"Renown.\n<b>Action:</b> Kneel a <i>The Reach</i> location to, either: stand an <i>Army</i> character, or reveal the top card of your deck. If it is a location, draw it (put it into play instead if it has the <i>The Reach</i> trait). (Limit twice per phase.)",
+         "deckLimit":3,
+         "illustrator":"Francisco Rico Torres",
+         "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JS/15_Randyll_Tarly_ENG.png"
+      },
+      {
+         "code":"19016",
+         "type":"character",
+         "name":"Ser Bryce Caron",
+         "octgnId": null,
+         "quantity":3,
+         "unique":true,
+         "faction":"tyrell",
+         "loyal":false,
+         "cost":5,
+         "icons":{
+            "military":true,
+            "intrigue":false,
+            "power":true
+         },
+         "strength":3,
+         "traits":[
+            "Kingsguard",
+            "Knight",
+            "Lord",
+            "Rainbow Guard"
+         ],
+         "text":"Each <i>Knight</i> character you control gets +1 STR.",
+         "deckLimit":3,
+         "illustrator":"Michael Chrzanowski",
+         "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JS/16_Ser_Bryce_Caron_ENG.png"
+      },
+      {
+         "code":"19017",
+         "type":"character",
+         "name":"Gulltown City Guard",
+         "octgnId": null,
+         "quantity":3,
+         "unique":false,
+         "faction":"neutral",
+         "cost":6,
+         "icons":{
+            "military":true,
+            "intrigue":false,
+            "power":true
+         },
+         "strength":5,
+         "traits":[
+            "Army",
+            "Guard",
+            "House Arryn"
+         ],
+         "text":"No attachments except <i>Weapon</i>.\nReduce the cost to marshal Gulltown City Guard by 1 for each <i>City</i> plot card in your used pile (to a minimum of 1).",
+         "deckLimit":3,
+         "illustrator":"Robbie McSweeney",
+         "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JS/17_Gulltown_City_Guard_ENG.png"
+      },
+      {
+         "code":"19018",
+         "type":"character",
+         "name":"King's Landing Smuggler",
+         "octgnId": null,
+         "quantity":3,
+         "unique":false,
+         "faction":"neutral",
+         "cost":2,
+         "icons":{
+            "military":true,
+            "intrigue":false,
+            "power":false
+         },
+         "strength":1,
+         "traits":[
+            "Ally",
+            "Smuggler"
+         ],
+         "text":"<b>Interrupt:</b> When King's Landing Smuggler leaves play, place 1 gold from the treasury on a card without gold.",
+         "deckLimit":3,
+         "illustrator":"ZG Fisher",
+         "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JS/18_Kings_Landing_Smuggler_ENG.png"
+      },
+      {
+         "code":"19019",
+         "type":"location",
+         "name":"Gulltown",
+         "octgnId": null,
+         "quantity":3,
+         "unique":true,
+         "faction":"neutral",
+         "cost":1,
+         "traits":[
+            "House Arryn"
+         ],
+         "text":"Limited.\nEach player is considered to have 1 additional <i>City</i> plot card in their used pile.\n+1 Income.",
+         "deckLimit":3,
+         "illustrator":"Taehoon Kang",
+         "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JS/19_Gulltown_ENG.png"
+      },
+      {
+         "code":"19020",
+         "type":"plot",
+         "name":"City Festival",
+         "octgnId": null,
+         "quantity":3,
+         "faction":"neutral",
+         "plotStats":{
+            "income":2,
+            "initiative":2,
+            "claim":1,
+            "reserve":6
+         },
+         "traits":[
+            "City",
+            "Kingdom"
+         ],
+         "text":"<b>When Revealed:</b> Gain 3 gold. (6 gold instead if there are 2 or more <i>City</i> plot cards in your used pile.)",
+         "deckLimit":1,
+         "illustrator":"Taehoon Kang",
+         "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JS/20_City_Festival_ENG.png"
+      }
+    ]
+}

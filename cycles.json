@@ -163,5 +163,12 @@
         "packs": [
             "FH"
         ]
+    },
+    {
+        "id": "jade",
+        "name": "Jade Sea",
+        "packs": [
+            "JS"
+        ]
     }
 ]
