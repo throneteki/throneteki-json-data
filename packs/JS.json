@@ -162,7 +162,7 @@
          "unique":true,
          "faction":"martell",
          "loyal":false,
-         "cost":1,
+         "cost":2,
          "traits":[
             "Dorne"
          ],
