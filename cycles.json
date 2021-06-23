@@ -170,5 +170,12 @@
         "packs": [
             "JS"
         ]
+    },
+    {
+        "id": "words",
+        "name": "Hear My Words",
+        "packs": [
+            "HMW"
+        ]
     }
 ]
