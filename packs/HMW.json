@@ -3,6 +3,7 @@
     "code": "HMW",
     "name": "Hear My Words",
     "releaseDate": "2021-06-30",
+    "workInProgress": true,
     "cards": [
         {
             "code": "20001",
@@ -26,7 +27,7 @@
             ],
             "text": "Renown.\nSer Richard Horpe gets +1 STR for each power he has.\n<b>Action:</b> Move 1 power from a card you control to another card in play. (Limit once per round.)",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "Tomasz Jedruszek"
         },
         {
             "code": "20002",
@@ -51,7 +52,7 @@
             ],
             "text": "Bestow (2).\n<b>Action:</b> Discard 1 gold from Sellsails to choose and stand a <i>Smuggler</i> or <i>Warship</i> card. (Limit once per phase.)",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "Dimitri Bielak"
         },
         {
             "code": "20003",
@@ -68,7 +69,7 @@
             "text": "Play only if you control a <i>R'hllor</i> character.\n<b>Action:</b> Choose a kneeling character with STR 3 or lower and place it in shadows with a shadow token on it. While that card is in shadows, it gains shadow (X). X is its printed cost.",
             "flavor": "\"For the night is dark and full of terrors.\"",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "Jen Zee"
         },
         {
             "code": "20004",
@@ -96,7 +97,7 @@
             "traits": [],
             "text": "<b>Action:</b> Kneel your faction card to discard up to 3 power from a card you own. Draw 2 cards for each power discarded this way.",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "Patrick McEvoy"
         },
         {
             "code": "20006",
@@ -121,7 +122,7 @@
             "text": "Bestow (1).\n<b>Reaction:</b> After you win a challenge in which Black Lorren is attacking, discard 1 gold from an attacking <i>Raider</i> character to choose and kill a defending character.",
             "flavor": "\"The singers call Andrik best now. And Black Lorren and Qarl the Maid are near as dread.\" <cite>Dagmer Cleftjaw</cite>",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "Tommy Arnold"
         },
         {
             "code": "20007",
@@ -139,7 +140,7 @@
             ],
             "text": "While you control The Reader, he gains insight.\n<b>Reaction:</b> After 1 or more cards are discarded for reserve, either: draw 1 card, or gain 1 power for your faction. (Limit twice per round.)",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "Lukasz Jaskolski"
         },
         {
             "code": "20008",
@@ -156,7 +157,7 @@
             ],
             "text": "<b>Action:</b> Kneel Saltcliffe to move 1 gold from the treasury or a card in play to a <i>Raider</i> character without gold.",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "Tysen Johnson"
         },
         {
             "code": "20009",
@@ -171,7 +172,7 @@
                 ],
             "text": "<b>Reaction:</b> After no defenders are declared, each attacking <i>Raider</i> character gains 1 power. (Max 1 per challenge.)",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "Aurelien Hubert"
         },
         {
             "code": "20010",
@@ -188,7 +189,7 @@
             "text": "<b>Reaction:</b> After you win a [power] challenge in which you control a participating <i>Drowned God</i> character, for every 5 STR by which you won the challenge, draw 1 card and discard 1 card at random from the losing opponent’s hand. (Max 1 per challenge.)",
             "flavor": "\"No godless man may sit the Seastone Chair.\" <cite>Aeron Damphair</cite>",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "Marc Simonetti"
         },
         {
             "code": "20011",
@@ -213,7 +214,7 @@
             "text": "Power on <i>Lord</i> or <i>Lady</i> characters does not count towards their controllers' power total.\n<b>Action:</b> Kneel Ser Lancel Lannister to put Warrior's Sons into play from your hand or discard pile.",
             "flavor": "\"On the morrow I will return to King's Landing and swear my sword to the new High Septon and the Seven. I mean to take vows and join the Warrior's Sons.\"",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "Tomasz Jedruszek"
         },
         {
             "code": "20012",
@@ -238,7 +239,7 @@
             "text": "Bestow (3). No attachments except <i>Weapon</i>.\nBronn gets +2 STR for each gold he has.\n<b>Interrupt:</b> When a <i>Lord</i> or <i>Lady</i> character would be killed, discard each gold (cannot be 0) from Bronn to save it. Then, if that character was Tyrion Lannister, you may return Bronn to your hand.",
             "flavor": "\"It's good to be a knight. No more looking for the cheaper brothels down the street.\"",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "Natascha Röösli"
         },
         {
             "code": "20013",
@@ -257,7 +258,7 @@
             "text": "[lannister] character only.\nAttached character gains the <i>House Clegane</i> trait.\n<b>Reaction:</b> After attached character discards a card using pillage, choose and kneel a card with lower printed cost than that card's.",
             "flavor": "\"Unleash Ser Gregor and send him before us with his reavers. Tell them I want to see the riverlands afire from the Gods Eye to the Red Fork.\" <cite>Tywin Lannister</cite>",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "Roman Papsuev"
         },
         {
             "code": "20014",
@@ -274,7 +275,7 @@
             "text": "Reduce the cost to play \"A Lion Still Has Claws\" by 1 for each <i>Scheme</i> plot card revealed.\n<b>Reaction:</b> After you win an [intrigue] challenge by 5 or more STR, choose a <i>Trait</i>. Return each character with that <i>Trait</i> and printed cost X or lower to its owner’s hand.",
             "flavor": "\"In a coat of gold or a coat of red, a lion still has claws. And mine are long and sharp, my lord, as long and sharp as yours.\" <cite>The Rains of Castamere</cite>",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "Hana Horková"
         },
         {
             "code": "20015",
@@ -315,7 +316,7 @@
             "text": "Intimidate.\nWhile you are not the first player, each <i>House Yronwood</i> character you control does not kneel when decleared as an attacker in the first challenge you initiate each phase.",
             "flavor": "The most powerful of the Dornish lords was Anders Yronwood, the Bloodroyal, Lord of Yronwood and Warden of the Stone Way, but Arianne knew better than to look for help from the man who had fostered her brother Quentyn.",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "Lukasz Jaskolski"
         },
         {
             "code": "20017",
@@ -340,7 +341,7 @@
             ],
             "text": "<b>Reaction:</b> After a non-loyal card enters your discard pile, place it in shadows <em>(without that card gaining the shadow keyword.)</em>. (Limit once per round.)",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "Dimitri Bielak"
         },
         {
             "code": "20018",
@@ -357,7 +358,7 @@
             ],
             "text": "Unique [martell] character or <i>House Dayne</i> character only.\nWhile attached character is attacking, it gets +1 STR for each defending character.\n<b>Reaction:</b> After attached character is declared as an attacker, choose up to 3 characters controlled by the defending player. Each of those characters must be declared as a defender for this challenge, if able.",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "Henning Ludvigsen"
         },
         {
             "code": "20019",
@@ -375,7 +376,7 @@
             "text": "<i>Sand Snake</i> character only. Ambush (2).\nIf attached character is Elia Sand, she gains stealth.\n<b>Reaction:</b> After you lose a challenge in which attached character is attacking, the winning opponent must choose and return a defending character to its owner’s hand.",
             "flavor": "\"You may be a lance, but you are no lady.\" <cite>Arianne Martell</cite>",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "Patrick McEvoy"
         },
         {
             "code": "20020",
@@ -391,7 +392,7 @@
             ],
             "text": "<b>Action:</b> Choose X characters with the <i>Guard</i> or <i>House Yronwood</i> trait. Until the end of the phase, each chosen character gains renown and does not kneel when declared as a defender.",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "Tomasz Jedruszek"
         },
 
         {
@@ -415,7 +416,7 @@
             ],
             "text": "Shadow (2).\n<b>Reaction:</b> After Old Tattersalt enters play, search the top X cards of your deck for a card with printed cost 1 or lower, reveal it, and add it to your hand. Shuffle your deck. X is your reserve value.\n<b>Action:</b> Kneel Blackbird to return Old Tattersalt to shadows.",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "Raymond Bonilla"
         },
         {
             "code": "20022",
@@ -432,7 +433,7 @@
             ],
             "text": "Unique character only.\nAttached character gains a [military] icon and the <i>Ranger</i> trait.\n<b>Reaction:</b> After you win a [military] challenge in which you control a participating <i>Ranger</i> character, choose and kill a non-unique character with STR X or lower controlled by the losing opponent. X is the number of <i>Ranger</i> characters you control. (Limit once per phase.)",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "Mark Evans"
         },
         {
             "code": "20023",
@@ -449,7 +450,7 @@
             ],
             "text": "Unique character only.\nAttached character gains an [intrigue] icon and the <i>Steward</i> trait.\n<b>Reaction:</b> After you win an [intrigue] challenge in which you control a participating <i>Steward</i> character, choose a character with printed cost X or lower controlled by the losing opponent. Take control of it until the end of the phase. X is the number of <i>Steward</i> characters you control. (Limit once per phase.)",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "Roman Papsuev"
         },
         {
             "code": "20024",
@@ -477,7 +478,7 @@
             "traits": [],
             "text": "<b>Interrupt:</b> When the challenges phase ends, kneel a <i>Steward</i> or <i>Raven</i> card to choose an opponent who does not support you and a challenge type that has not been initiated against you this phase. That player must satisfy the claim of that challenge type as if you were the winning opponent. (Max 1 per phase.)",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "Dimitri Bielak"
         },
         {
             "code": "20026",
@@ -500,7 +501,7 @@
             ],
             "text": "Each unique <i>Direwolf</i> character you control gains renown.\n<b>Reaction:</b> After you marshal Farlen, search your hand, deck, and discard pile for The Wolfswood and put it into play. Shuffle your deck.",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "Patrick McEvoy"
         },
         {
             "code": "20027",
@@ -524,7 +525,7 @@
             ],
             "text": "Shadow (2).\nIf you control Theon Greyjoy, sacrifice Reek.\n<b>Reaction:</b> After you win an unopposed challenge in which you control an attacking <i>House Bolton</i> character, give control of Reek to the losing opponent. Then, choose a non-loyal character controlled by that player and take control of it.",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "Jeff Lee Johnson"
         },
         {
             "code": "20028",
@@ -556,7 +557,7 @@
             ],
             "text": "<b>Interrupt:</b> When a <i>House Tully</i> character you control would leave play, discard 1 power from that character to save it.",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "Roman Papsuev"
         },
         {
             "code": "20030",
@@ -572,7 +573,7 @@
             ],
             "text": "Play only if you control a standing <i>House Mormont</i> character.\n<b>Dominance Action:</b> Search the top 10 cards of your deck for any number of Bear Island, Bearskin Cloak, and <i>House Mormont</i> cards, reveal them, and add them to your hand. Shuffle your deck.",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "Kelly Perry"
         },
         {
             "code": "20031",
@@ -597,7 +598,7 @@
             "text": "Bestow (1).\nWhile Golden Company has 1 or more gold, it gains renown.\n<b>Interrupt:</b> When a <i>Mercenary</i> character would be returned to your hand, discard 1 gold from Golden Company to save that character.",
             "flavor": "These were the heirs of Bittersteel, and discipline was mother's milk to them.",
             "deckLimit": 3,
-            "illustrator": "Adam Lane"
+            "illustrator": "Tomasz Jedruszek"
         },
         {
             "code": "20032",
@@ -621,7 +622,7 @@
             ],
             "text": "While you control Aegon Targaryen, he gains insight.\n<b>Interrupt:</b> When Septa Lemore leaves play, choose a [targaryen] character you control with shadow. Return that character to shadows.",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "Roman Papsuev"
         },
         {
             "code": "20033",
@@ -636,7 +637,7 @@
             "text": "<b>Action:</b> Search the top 10 cards of your deck for a <i>Mercenary</i> character and put it into play. Shuffle your deck. At the end of the phase, if that card is still in play, return it to your hand.",
             "flavor": "Our word is good as gold has been their boast since the days of Bittersteel.",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "Tomasz Jedruszek"
         },
         {
             "code": "20034",
@@ -652,7 +653,7 @@
             ],
             "text": "<b>Action:</b> Until the end of the phase, each <i>Dragon</i> character you control gains:\n- intimidate, if you control Drogon.\n- renown, if you control Rhaegal.\n- stealth, if you control Viserion.",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "Tomasz Jedruszek"
         },
         {
             "code": "20035",
@@ -666,7 +667,7 @@
             "traits": [],
             "text": "<b>Challenges Action:</b> Choose a <i>Mercenary</i> character with 1 or more gold. Until the end of the phase, it gains renown and no attachments except <i>Item</i>. If it has 3 or more gold, it gains insight and intimidate until the end of the phase.",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "Marc Simonetti"
         },  
         {
             "code": "20036",
@@ -690,7 +691,7 @@
             ],
             "text": "<b>Reaction:</b> After The Queen of Thorns or a <i>House Redwyne</i> card enters play under your control or your discard pile, draw 1 card. (Limit once per phase.)",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "Joshua Cairós"
         },
         {
             "code": "20037",
@@ -715,7 +716,7 @@
             ],
             "text": "Bestow (1).\nEach <i>Rainbow Guard</i> character you control with 1 or more gold gains an [intrigue] icon.\n<b>Reaction:</b> After a <i>Summer</i> plot card is revealed, place 1 gold from the treasury on, either: a <i>Knight</i> character, or each <i>Rainbow Guard</i> character you control. (Limit once per phase.)",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "Tiziano Baracchi"
         },
         {
             "code": "20038",
@@ -761,7 +762,7 @@
             ],
             "text": "<b>Action:</b> Kneel a <i>House Hightower</i> or <i>Oldtown</i> card to place the top card of your deck in shadows with a shadow token on it. While that card is in shadows, it gains shadow (X). X is its printed cost.",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "Folko Streese"
         },
         {
             "code": "20041",
@@ -807,7 +808,7 @@
             ],
             "text": "Bestow (1). Pillage.\nBrave Companions get +1 STR for each character you control with 1 or more gold.\n<b>Reaction:</b> After you marshal Brave Companions, search the top 10 cards of your deck for an <i>Army</i> character, a <i>Commander</i> character, and a <i>Mercenary</i> character, reveal them, and add them to your hand. Shuffle your deck.",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "Tomasz Jedruszek"
         },
         {
             "code": "20043",
@@ -832,7 +833,7 @@
             "text": "Bestow (2).\nEach unique character you control with 2 or more gold gains insight.",
             "deckLimit": 3,
             "flavor":"\"I pray to the Warrior for strength, but the gods made me weak.\"",
-            "illustrator": "?"
+            "illustrator": "Jeff Lee Johnson"
         },
         {
             "code": "20044",
@@ -853,7 +854,7 @@
                 ],
             "text": "Ambush (4). Shadow (2).\n<b>Reaction:</b> After Kindly Man stands, choose an agenda or a card in play and, either: place a non-gold, non-power token of your choice on that card, or discard a non-gold, non-power token from that card. (Limit 3 times per round.)",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "Wibben"
         },
         {
             "code": "20045",
@@ -877,7 +878,7 @@
             "text": "Bestow (1).\nEach <i>Fool</i> character with 1 or more gold gains the keywords of each other character with 1 or more gold.",
             "deckLimit": 3,
             "flavor":"\"You mustn't hurt sweet Shagwell, I'm too droll to die.\"",
-            "illustrator": "?"
+            "illustrator": "Rafal Hrynkiewicz"
         },
         {
             "code": "20046",
@@ -917,7 +918,7 @@
             ],
             "text": "Terminal.\nTreat the printed text box of each other attachment attached to the attached card as if it were blank (except for <i>Traits</i>).",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "Tiziano Baracchi"
         },
         {
             "code": "20048",
@@ -932,7 +933,7 @@
             ],
             "text": "<b>Reaction:</b> After you win a challenge in which you control a participating <i>Maester</i> character, reveal the top card of your deck and put it into play.",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "Rafal Hrynkiewicz"
         },
        {
             "code": "20049",
@@ -947,7 +948,7 @@
             ],
             "text": "<b>Marshaling Action:</b> Kneel a neutral location with printed cost 1 or higher to put a neutral card into play from your hand knelt. Then, if that card has the <i>House Arryn</i> trait, stand it.",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "Stephen Najarian"
         },
         {
             "code": "20050",
@@ -962,7 +963,7 @@
             ],
             "text": "<b>Reaction:</b> After you win a challenge, choose and stand an attacking <i>House Frey</i> character. (Stand each attacking <i>House Frey</i> character instead if it was the third challenge you initiated this phase.)",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "Roman Papsuev"
         },
         {
             "code": "20051",
@@ -976,7 +977,7 @@
                 ],
             "text": "Your deck may include non-loyal <i>Fool</i> characters from any faction.\nYou may marshal or play facedown cards you control attached to a <i>Fool</i> character as if they were in your hand.\n<b>Forced Reaction:</b> After a <i>Fool</i> character you control stands, attach the top card of your deck facedown to it, as a <i>Weapon</i> attachment with the text: \"Terminal. Attached character gets +1 STR.\"",
             "deckLimit": 1,
-            "illustrator": "?"
+            "illustrator": "Lin Romanov"
         },
         {
             "code": "20052",
@@ -990,7 +991,7 @@
                 ],
             "text": "Your plot deck cannot include <i>Kingdom</i> plot cards.\nReduce the cost of the first card you ambush each round by 1.\n<b>Action:</b> Kneel your faction card to choose a character and a player. Until the end of the phase, that character gains each of the printed challenge icons, keywords, faction affiliations, and <i>Traits</i> of the top character in that player's dead pile.",
             "deckLimit": 1,
-            "illustrator": "?"
+            "illustrator": "Marc Simonetti"
         },
         {
             "code": "20053",
@@ -1011,7 +1012,7 @@
             ],
             "text": "Characters with printed STR 1 or lower cannot leave play.",
             "deckLimit": 1,
-            "illustrator": "?"
+            "illustrator": "Drew Whitmore"
         },
         {
             "code": "20054",
@@ -1031,8 +1032,8 @@
                 "The Seven"
             ],
             "text": "<b>Forced Interrupt:</b> When the dominance phase ends, choose a unique character controlled by each player. Then, return each of those characters to its owner's hand.",
-            "deckLimit": 2,
-            "illustrator": "?"
+            "deckLimit": 1,
+            "illustrator": "Drew Whitmore"
         },
         {
             "code": "20055",
@@ -1053,7 +1054,7 @@
             ],
             "text": "<b>Reaction:</b> After you initiate a challenge, put a <i>House Frey</i> card into play from your hand or discard pile.",
             "deckLimit": 1,
-            "illustrator": "?"
+            "illustrator": "Sonny Samael"
         },
         {
             "code": "20056",
@@ -1074,7 +1075,7 @@
             ],
             "text": "While The Maiden is in your used pile, increase the initiative value on your revealed plot card by 2 and the reserve value on your revealed <i>The Seven</i> plot card by 2.",
             "deckLimit": 2,
-            "illustrator": "?"
+            "illustrator": "Drew Whitmore"
         },  
         {
             "code": "20057",
@@ -1095,7 +1096,7 @@
             ],
             "text": "<b>Reaction:</b> After a character enters play under an opponent's control, if another character entered play under that player's control this round, draw 1 card. (Limit twice per round.)",
             "deckLimit": 2,
-            "illustrator": "?"
+            "illustrator": "Drew Whitmore"
         },
         {
             "code": "20058",
@@ -1116,7 +1117,7 @@
             ],
             "text": "<b>Marshaling Action:</b> Kneel an attachment to kneel a location.",
             "deckLimit": 2,
-            "illustrator": "?"
+            "illustrator": "Drew Whitmore"
         },
         {
             "code": "20059",
@@ -1137,7 +1138,7 @@
             ],
             "text": "<b>When Revealed:</b> Each player chooses a character controlled by an opponent. Then, kill each character with the same printed cost as the chosen characters.",
             "deckLimit": 1,
-            "illustrator": "?"
+            "illustrator": "Joshua Cairos"
         },
         {
             "code": "20060",
@@ -1158,7 +1159,7 @@
             ],
             "text": "During a challenge in which you control an attacking <i>The Seven</i> character, raise the claim value on The Warrior by 1.",
             "deckLimit": 1,
-            "illustrator": "?"
+            "illustrator": "Drew Whitmore"
         }
     ]
 }
