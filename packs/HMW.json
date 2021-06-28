@@ -82,7 +82,7 @@
             "traits": [],
             "text": "<b>Action:</b> During a [power] challenge, choose a standing [baratheon] character you control and have it participate in the challenge on your side.\n<b>Reaction:</b> After you play a <i>Song</i> event, pay 1 gold to return No Song So Sweet from your discard pile to your hand.",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "GooseFrol"
         },
         {
             "code": "20005",
@@ -96,7 +96,7 @@
             "traits": [],
             "text": "<b>Action:</b> Kneel your faction card to discard up to 3 power from a card you own. Draw 2 cards for each power discarded this way.",
             "deckLimit": 3,
-            "illustrator": "Patrick McEvoy"
+            "illustrator": "Ekaterina Burmak"
         },
         {
             "code": "20006",
@@ -463,7 +463,7 @@
             "traits": [],
             "text": "<b>Reaction:</b> After you win a challenge as the defending player, search the top 10 cards of your deck for a [thenightswatch] character and put it into play. Shuffle your deck. Then, sacrifice a character that shares a <i>Trait</i> with that character.",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "Jason Engle"
         },
         {
             "code": "20025",
@@ -500,7 +500,7 @@
             ],
             "text": "Each unique <i>Direwolf</i> character you control gains renown.\n<b>Reaction:</b> After you marshal Farlen, search your hand, deck, and discard pile for The Wolfswood and put it into play. Shuffle your deck.",
             "deckLimit": 3,
-            "illustrator": "Patrick McEvoy"
+            "illustrator": "Anna Christenson"
         },
         {
             "code": "20027",
@@ -540,7 +540,7 @@
             ],
             "text": "While you control Harrenhal or The Dreadfort, reduce the cost to play Our Blades Are Sharp by 1.\n<b>Action:</b> Sacrifice a non-[stark] card to return up to 2 <i>House Bolton</i> cards from your dead and/or discard pile to your hand.",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "Roman Papsuev"
         },
         {
             "code": "20029",
@@ -621,7 +621,7 @@
             ],
             "text": "While you control Aegon Targaryen, he gains insight.\n<b>Interrupt:</b> When Septa Lemore leaves play, choose a [targaryen] character you control with shadow. Return that character to shadows.",
             "deckLimit": 3,
-            "illustrator": "Roman Papsuev"
+            "illustrator": "Sara Biddle"
         },
         {
             "code": "20033",
@@ -729,7 +729,7 @@
             "traits": [],
             "text": "<b>Reaction:</b> After you win a challenge, return an attacking <i>Small Council</i> or <i>Spy</i> character to your hand to raise the claim value on your revealed plot card by 1 until the end of the challenge.",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "Dimitri Bielak"
         },
         {
             "code": "20039",
@@ -745,7 +745,7 @@
             ],
             "text": "Play only if you control 3 or more <i>The Reach</i> locations.\n<b>Challenges Action:</b> Each <i>Army</i> or <i>House Tarly</i> character you control does not kneel when declared as an attacker in the first challenge you initiate this phase.",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "Robbie McSweeney"
         },
         {
             "code": "20040",
@@ -976,7 +976,7 @@
                 ],
             "text": "Your deck may include non-loyal <i>Fool</i> characters from any faction.\nYou may marshal or play facedown cards you control attached to a <i>Fool</i> character as if they were in your hand.\n<b>Forced Reaction:</b> After a <i>Fool</i> character you control stands, attach the top card of your deck facedown to it, as a <i>Weapon</i> attachment with the text: \"Terminal. Attached character gets +1 STR.\"",
             "deckLimit": 1,
-            "illustrator": "Lin Romanov"
+            "illustrator": "Roman Papsuev"
         },
         {
             "code": "20052",
@@ -1030,9 +1030,9 @@
                 "Edict",
                 "The Seven"
             ],
-            "text": "<b>Forced Interrupt:</b> When the dominance phase ends, choose a unique character controlled by each player. Then, return each of those characters to its owner's hand.",
+            "text": "<b>Forced Interrupt:</b> When the dominance phase ends, choose a unique non-<i>Army</i> character controlled by each player. Then, return each of those characters to its owner's hand.",
             "deckLimit": 1,
-            "illustrator": "Drew Whitmore"
+            "illustrator": "Niten"
         },
         {
             "code": "20055",
@@ -1095,7 +1095,7 @@
             ],
             "text": "<b>Reaction:</b> After a character enters play under an opponent's control, if another character entered play under that player's control this round, draw 1 card. (Limit twice per round.)",
             "deckLimit": 2,
-            "illustrator": "Drew Whitmore"
+            "illustrator": "Niten"
         },
         {
             "code": "20058",
@@ -1116,7 +1116,7 @@
             ],
             "text": "<b>Marshaling Action:</b> Kneel an attachment to kneel a location.",
             "deckLimit": 2,
-            "illustrator": "Drew Whitmore"
+            "illustrator": "Niten"
         },
         {
             "code": "20059",
