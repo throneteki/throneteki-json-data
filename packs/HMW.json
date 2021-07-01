@@ -251,8 +251,7 @@
             "loyal": true,
             "cost": 0,
             "traits": [
-                "House Clegane",
-                "Title"
+                "House Clegane"
                 ],
             "text": "[lannister] character only.\nAttached character gains the <i>House Clegane</i> trait.\n<b>Reaction:</b> After attached character discards a card using pillage, choose and kneel a card with lower printed cost than that card's.",
             "flavor": "\"Unleash Ser Gregor and send him before us with his reavers. Tell them I want to see the riverlands afire from the Gods Eye to the Red Fork.\" <cite>Tywin Lannister</cite>",
@@ -312,7 +311,7 @@
                 "House Yronwood",
                 "Lord"
             ],
-            "text": "Intimidate.\nWhile you are not the first player, each <i>House Yronwood</i> character you control does not kneel when decleared as an attacker in the first challenge you initiate each phase.",
+            "text": "Intimidate.\nWhile you are not the first player, each <i>House Yronwood</i> character you control does not kneel when declared as an attacker in the first challenge you initiate each phase.",
             "flavor": "The most powerful of the Dornish lords was Anders Yronwood, the Bloodroyal, Lord of Yronwood and Warden of the Stone Way, but Arianne knew better than to look for help from the man who had fostered her brother Quentyn.",
             "deckLimit": 3,
             "illustrator": "Lukasz Jaskolski"
@@ -538,7 +537,7 @@
             "traits": [
                 "House Bolton"
             ],
-            "text": "While you control Harrenhal or The Dreadfort, reduce the cost to play Our Blades Are Sharp by 1.\n<b>Action:</b> Sacrifice a non-[stark] card to return up to 2 <i>House Bolton</i> cards from your dead and/or discard pile to your hand.",
+            "text": "While you control Harrenhal or The Dreadfort, reduce the cost to play Our Blades Are Sharp by 1.\n<b>Action:</b> Sacrifice a non-[stark] card to return up to 2 <i>House Bolton</i> cards from your discard and/or dead pile to your hand.",
             "deckLimit": 3,
             "illustrator": "Roman Papsuev"
         },
@@ -782,7 +781,7 @@
                 "Ally",
                 "Brotherhood"
             ],
-            "text": "Intimidate.\n<b>Forced Interrupt:</b> When the challenge phase ends, each player must choose and kill a loyal or <i>House Frey</i> character they control, if able.\n<b>Dominance Action:</b> Discard 1 kiss token from a character or 1 power from a <i>Brotherhood</i> character to put Lady Stoneheart into play from your dead pile.",
+            "text": "Intimidate.\n<b>Forced Interrupt:</b> When the challenges phase ends, each player must choose and kill a loyal or <i>House Frey</i> character they control, if able.\n<b>Dominance Action:</b> Discard 1 kiss token from a character or 1 power from a <i>Brotherhood</i> character to put Lady Stoneheart into play from your dead pile.",
             "deckLimit": 3,
             "illustrator": "?"
         },
@@ -874,7 +873,7 @@
                 "Fool",
                 "Mercenary"
             ],
-            "text": "Bestow (1).\nEach <i>Fool</i> character with 1 or more gold gains the keywords of each other character with 1 or more gold.",
+            "text": "Bestow (1).\nWhile a character with 1 or more gold has a keyword, each <i>Fool</i> character with 1 or more gold gains that keyword.",
             "deckLimit": 3,
             "flavor":"\"You mustn't hurt sweet Shagwell, I'm too droll to die.\"",
             "illustrator": "Rafal Hrynkiewicz"
@@ -901,7 +900,7 @@
             "text": "<b>Interrupt:</b> When Jinglebell is killed, search your deck for a card that shares a <i>Trait</i> with him, reveal it, and add it to your hand. Shuffle your deck.",
             "deckLimit": 3,
             "flavor": "\"A son for a son, heh. But that’s a grandson… and he never was much use.\" <cite>Walder Frey</cite>",
-            "illustrator": "?"
+            "illustrator": "Polina Kirillova"
         },
         {
             "code": "20047",
@@ -1009,7 +1008,7 @@
                 "Scheme",
                 "The Seven"
             ],
-            "text": "Characters with printed STR 1 or lower cannot leave play.",
+            "text": "Each character with printed STR 1 or lower cannot leave play.",
             "deckLimit": 1,
             "illustrator": "Drew Whitmore"
         },
@@ -1072,7 +1071,7 @@
                 "Kingdom",
                 "The Seven"
             ],
-            "text": "While The Maiden is in your used pile, increase the initiative value on your revealed plot card by 2 and the reserve value on your revealed <i>The Seven</i> plot card by 2.",
+            "text": "While The Maiden is in your used pile, increase the initiative value on your revealed plot card by 2, and the reserve value on your revealed <i>The Seven</i> plot card by 2.",
             "deckLimit": 2,
             "illustrator": "Drew Whitmore"
         },  
@@ -1114,7 +1113,7 @@
                 "Siege",
                 "The Seven"
             ],
-            "text": "<b>Marshaling Action:</b> Kneel an attachment to kneel a location.",
+            "text": "<b>Marshaling Action:</b> Kneel an attachment to choose and kneel a location.",
             "deckLimit": 2,
             "illustrator": "Niten"
         },
