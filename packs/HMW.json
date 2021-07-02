@@ -247,7 +247,6 @@
                 "Mercenary"
             ],
             "text": "Bestow (3). No attachments except <i>Weapon</i>.\nBronn gets +2 STR for each gold he has.\n<b>Interrupt:</b> When a <i>Lord</i> or <i>Lady</i> character would be killed, discard each gold (cannot be 0) from Bronn to save it. Then, if that character was Tyrion Lannister, you may return Bronn to your hand.",
-            "flavor": "\"It's good to be a knight. No more looking for the cheaper brothels down the street.\"",
             "deckLimit": 3,
             "illustrator": "Natascha Röösli",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/12_Bronn_ENG.png"
@@ -390,7 +389,6 @@
                 "Weapon"
             ],
             "text": "<i>Sand Snake</i> character only. Ambush (2).\nIf attached character is Elia Sand, she gains stealth.\n<b>Reaction:</b> After you lose a challenge in which attached character is attacking, the winning opponent must choose and return a defending character to its owner’s hand.",
-            "flavor": "\"You may be a lance, but you are no lady.\" <cite>Arianne Martell</cite>",
             "deckLimit": 3,
             "illustrator": "Patrick McEvoy",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/19_Lady Lance_ENG.png"
