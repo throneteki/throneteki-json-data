@@ -52,6 +52,7 @@
             ],
             "text": "Bestow (2).\n<b>Action:</b> Discard 1 gold from Sellsails to choose and stand a <i>Smuggler</i> or <i>Warship</i> card. (Limit once per phase.)",
             "deckLimit": 3,
+            "flavor": "\"The striped hulls of Lysene war galleys had been seen offshore, and Varys had reports from Myr of sellsail captains taking service with Dragonstone.\"",
             "illustrator": "Dimitri Bielak",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/2_Sellsails_ENG.png"
         },
@@ -326,7 +327,7 @@
                 "Lord"
             ],
             "text": "Intimidate.\nWhile you are not the first player, each <i>House Yronwood</i> character you control does not kneel when declared as an attacker in the first challenge you initiate each phase.",
-            "flavor": "The most powerful of the Dornish lords was Anders Yronwood, the Bloodroyal, Lord of Yronwood and Warden of the Stone Way, but Arianne knew better than to look for help from the man who had fostered her brother Quentyn.",
+            "flavor": "The most powerful of the Dornish lords was Anders Yronwood, the Bloodroyal, Lord of Yronwood and Warden of the Stone Way.",
             "deckLimit": 3,
             "illustrator": "Lukasz Jaskolski",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/16_Anders Yronwood_ENG.png"
@@ -482,6 +483,7 @@
             "cost": 1,
             "traits": [],
             "text": "<b>Reaction:</b> After you win a challenge as the defending player, search the top 10 cards of your deck for a [thenightswatch] character and put it into play. Shuffle your deck. Then, sacrifice a character that shares a <i>Trait</i> with that character.",
+            "flavor": "\"...to the Night's Watch, for this night and all the nights to come.\"",
             "deckLimit": 3,
             "illustrator": "Jason Engle",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/24_ I Pledge My Life and Honor_ENG.png"
@@ -580,6 +582,7 @@
                 "House Tully"
             ],
             "text": "<b>Interrupt:</b> When a <i>House Tully</i> character you control would leave play, discard 1 power from that character to save it.",
+            "flavor": "\"There was a time when Cat was all I wanted in this world.... but she was a daughter of Riverrun, and Hoster Tully. Family, Duty, Honor, Sansa. Family, Duty, Honor meant I could never have her hand.\" <cite>Littlefinger</cite>",
             "deckLimit": 3,
             "illustrator": "Roman Papsuev",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/29_Family, Duty, Honor_ENG.png"
@@ -622,7 +625,6 @@
                 "Mercenary"
             ],
             "text": "Bestow (1).\nWhile Golden Company has 1 or more gold, it gains renown.\n<b>Interrupt:</b> When a <i>Mercenary</i> character would be returned to your hand, discard 1 gold from Golden Company to save that character.",
-            "flavor": "These were the heirs of Bittersteel, and discipline was mother's milk to them.",
             "deckLimit": 3,
             "illustrator": "Tomasz Jedruszek",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/31_Golden Company_ENG.png"
@@ -975,6 +977,7 @@
                 "Citadel"
             ],
             "text": "<b>Reaction:</b> After you win a challenge in which you control a participating <i>Maester</i> character, reveal the top card of your deck and put it into play.",
+            "flavor": "\"I have studied what the Citadel calls the higher mysteries—magic, for want of a better word. A fascinating pursuit, but of small use, which is why so few maesters trouble themselves with it.\" <cite>Maester Luwin</cite>",
             "deckLimit": 3,
             "illustrator": "Rafal Hrynkiewicz",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/48_Marwyn the Mage_ENG.png"
