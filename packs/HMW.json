@@ -52,7 +52,7 @@
             ],
             "text": "Bestow (2).\n<b>Action:</b> Discard 1 gold from Sellsails to choose and stand a <i>Smuggler</i> or <i>Warship</i> card. (Limit once per phase.)",
             "deckLimit": 3,
-            "flavor": "\"The striped hulls of Lysene war galleys had been seen offshore, and Varys had reports from Myr of sellsail captains taking service with Dragonstone.\"",
+            "flavor": "The striped hulls of Lysene war galleys had been seen offshore, and Varys had reports from Myr of sellsail captains taking service with Dragonstone.",
             "illustrator": "Dimitri Bielak",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/2_Sellsails_ENG.png"
         },
@@ -69,7 +69,7 @@
                 "R'hllor"
             ],
             "text": "Play only if you control a <i>R'hllor</i> character.\n<b>Action:</b> Choose a kneeling character with STR 3 or lower and place it in shadows with a shadow token on it. While that card is in shadows, it gains shadow (X). X is its printed cost.",
-            "flavor": "\"For the night is dark and full of terrors.\"",
+            "flavor": "For the night is dark and full of terrors.",
             "deckLimit": 3,
             "illustrator": "Jen Zee",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/3_Dark and Full of Terrors_ENG.png"
@@ -100,6 +100,7 @@
             "cost": 0,
             "traits": [],
             "text": "<b>Action:</b> Kneel your faction card to discard up to 3 power from a card you own. Draw 2 cards for each power discarded this way.",
+            "flavor": "Ser Cortnay Penrose wore no armor. He sat a sorrel stallion, his standard-bearer a dapple grey. Above them flapped Baratheon's crowned stag and the crossed quills of Penrose, white on a russet field.",
             "deckLimit": 3,
             "illustrator": "Ekaterina Burmak",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/5_Set Down Our Deeds_ENG.png"
@@ -163,6 +164,7 @@
                 "Iron Islands"
             ],
             "text": "<b>Action:</b> Kneel Saltcliffe to move 1 gold from the treasury or a card in play to a <i>Raider</i> character without gold.",
+            "flavor": "The islands are stern and stony places, scant of comfort and bleak of prospect. Death is never far here, and life is mean and meager.",
             "deckLimit": 3,
             "illustrator": "Tysen Johnson",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/8_Saltcliffe_ENG.png"
@@ -179,6 +181,7 @@
             "traits": [
                 ],
             "text": "<b>Reaction:</b> After no defenders are declared, each attacking <i>Raider</i> character gains 1 power. (Max 1 per challenge.)",
+            "flavor": "The Codds were not well regarded in the Iron Islands; the men were said to be thieves and cowards, the women wantons who bedded with their own fathers and brothers.",
             "deckLimit": 3,
             "illustrator": "Aurelien Hubert",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/9_Though All Men Do Despise Us_ENG.png"
@@ -411,7 +414,6 @@
             "illustrator": "Tomasz Jedruszek",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/20_We Guard the Way_ENG.png"
         },
-
         {
             "code": "20021",
             "type": "character",
@@ -483,7 +485,7 @@
             "cost": 1,
             "traits": [],
             "text": "<b>Reaction:</b> After you win a challenge as the defending player, search the top 10 cards of your deck for a [thenightswatch] character and put it into play. Shuffle your deck. Then, sacrifice a character that shares a <i>Trait</i> with that character.",
-            "flavor": "\"...to the Night's Watch, for this night and all the nights to come.\"",
+            "flavor": "...to the Night's Watch, for this night and all the nights to come.",
             "deckLimit": 3,
             "illustrator": "Jason Engle",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/24_ I Pledge My Life and Honor_ENG.png"
@@ -798,6 +800,7 @@
                 "House Hightower"
             ],
             "text": "<b>Action:</b> Kneel a <i>House Hightower</i> or <i>Oldtown</i> card to place the top card of your deck in shadows with a shadow token on it. While that card is in shadows, it gains shadow (X). X is its printed cost.",
+            "flavor": "And beyond, where the Honeywine widened into Whispering Sound, rose the Hightower, its beacon fires bright against the dawn.",
             "deckLimit": 3,
             "illustrator": "Folko Streese",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/40_We Light the Way_ENG.png"
@@ -893,7 +896,7 @@
             "strength": 2,
             "traits": [
                 ],
-            "text": "Ambush (4). Shadow (2).\n<b>Reaction:</b> After Kindly Man stands, choose an agenda or a card in play and, either: place a non-gold, non-power token of your choice on that card, or discard a non-gold, non-power token from that card. (Limit 3 times per round.)",
+            "text": "Ambush (4). Shadow (2).\n<b>Reaction:</b> After Kindly Man stands, choose an agenda or a card in play and, either: place a non-gold, non-power token of your choice on that card; or discard a non-gold, non-power token from that card. (Limit 3 times per round.)",
             "deckLimit": 3,
             "illustrator": "Wibben",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/44_Kindly Man_ENG.png"
@@ -994,6 +997,7 @@
                 "House Arryn"
             ],
             "text": "<b>Marshaling Action:</b> Kneel a neutral location with printed cost 1 or higher to put a neutral card into play from your hand knelt. Then, if that card has the <i>House Arryn</i> trait, stand it.",
+            "flavor": "The Arryns were proud, and prickly of their honor.", 
             "deckLimit": 3,
             "illustrator": "Stephen Najarian",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/49_As High As Honor_ENG.png"
