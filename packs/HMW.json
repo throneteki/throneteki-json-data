@@ -535,7 +535,7 @@
             "name": "Reek",
             "octgnId": null,
             "quantity": 3,
-            "unique": false,
+            "unique": true,
             "faction": "stark",
             "loyal": false,
             "cost": 3,
