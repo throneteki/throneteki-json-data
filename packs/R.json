@@ -319,7 +319,7 @@
             "type": "event",
             "name": "Doran's Game",
             "octgnId": null,
-            "quantity": 1,
+            "quantity": 3,
             "faction": "martell",
             "loyal": true,
             "cost": 1,
