@@ -2873,6 +2873,34 @@
     {
         "version": "1.0",
         "issuer": "Global Operations Team (G.O.T.)",
+        "name": "Valyrian v1.0",
+        "cardSet": "redesign",
+        "code": "gotvalyrian1.0",
+        "date": "2021-07-16",
+        "formats": [
+            {
+                "name": "joust",
+                "restricted": [
+                ],
+                "pods": [
+                ],
+                "banned": [
+                ]
+            },
+            {
+                "name": "melee",
+                "restricted": [
+                ],
+                "pods": [
+                ]
+            }
+        ],
+        "bannedCards": [
+        ]
+    },
+    {
+        "version": "1.0",
+        "issuer": "Global Operations Team (G.O.T.)",
         "name": "Standard v1.0",
         "cardSet": "redesign",
         "code": "gotstandard1.0",
