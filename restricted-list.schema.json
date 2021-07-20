@@ -63,6 +63,9 @@
             "version": {
                 "type": "string"
             },
+            "name": {
+                "type": "string"
+            },
             "code": {
                 "type": "string"
             },
@@ -86,6 +89,7 @@
             "formats",
             "version",
             "issuer",
+            "name",
             "cardSet",
             "code"
         ]
