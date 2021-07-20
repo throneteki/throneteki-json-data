@@ -961,7 +961,7 @@
             "faction": "neutral",
             "cost": 0,
             "traits": [
-                "Condition"
+                "Item"
             ],
             "text": "Terminal.\nTreat the printed text box of each other attachment attached to the attached card as if it were blank (except for <i>Traits</i>).",
             "deckLimit": 3,
