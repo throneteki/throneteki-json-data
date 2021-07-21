@@ -2874,7 +2874,7 @@
         "version": "1.0",
         "issuer": "Global Operations Team (G.O.T.)",
         "name": "Valyrian v1.0",
-        "cardSet": "redesign",
+        "cardSet": "original",
         "code": "gotvalyrian1.0",
         "date": "2021-07-16",
         "formats": [
