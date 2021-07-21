@@ -11,7 +11,7 @@ class RestrictedListPrinter {
 
         const currentList = this.restrictedList[this.restrictedList.length - 1];
 
-        output += `${currentList.issuer} v${currentList.version} (${currentList.date})\n`;
+        output += `${currentList.name} (${currentList.date})\n`;
         output += '============================================\n';
         output += '\n';
 
@@ -34,6 +34,20 @@ class RestrictedListPrinter {
 
         output += `${formatName.toUpperCase()}\n`;
         output += '--------------------------------------------\n';
+        let podIndex = 0;
+        for(const pod of rules.pods) {
+            if(pod.restricted) {
+                continue;
+            }
+
+            podIndex += 1;
+            output += `Pod ${podIndex}\n`;
+            const podCards = pod.cards.map(code => this.cardData.getCardByCode(code));
+            for(const card of podCards) {
+                output += `---> ${this.formatCard(card)}\n`;
+            }
+            output += '\n';
+        }
         for(const faction of factions) {
             output += `${faction}:\n`;
 
