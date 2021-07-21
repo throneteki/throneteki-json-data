@@ -63,6 +63,9 @@
             "version": {
                 "type": "string"
             },
+            "name": {
+                "type": "string"
+            },
             "code": {
                 "type": "string"
             },
@@ -70,7 +73,8 @@
                 "enum": [
                     "Fantasy Flight Games",
                     "The Conclave",
-                    "Redesigns"
+                    "Design Team",
+                    "Global Operations Team (G.O.T.)"
                 ]
             },
             "cardSet": {
@@ -86,6 +90,7 @@
             "formats",
             "version",
             "issuer",
+            "name",
             "cardSet",
             "code"
         ]
