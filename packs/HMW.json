@@ -158,7 +158,7 @@
             "quantity": 3,
             "unique": true,
             "faction": "greyjoy",
-            "loyal": true,
+            "loyal": false,
             "cost": 1,
             "traits": [
                 "Iron Islands"
@@ -176,7 +176,7 @@
             "octgnId": null,
             "quantity": 3,
             "faction": "greyjoy",
-            "loyal": true,
+            "loyal": false,
             "cost": 1,
             "traits": [
                 ],
