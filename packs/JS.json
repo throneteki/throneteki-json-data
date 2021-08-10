@@ -233,7 +233,7 @@
             "House Reed",
             "The North"
          ],
-         "text":"Shadow (1).\n<b>Action:</b> Kneel and return Greywater Watch to shadows and kneel a [stark] character to have it participate in the challenge on your side. (Max 1 per challenge.)",
+         "text":"Shadow (1).\n<b>Action:</b> Kneel and return Greywater Watch to shadows and kneel a [stark] character to have it participate in the current challenge on your side. (Max 1 per challenge.)",
          "deckLimit":3,
          "illustrator":"Sebastián Aguirre",
          "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JS/11_Greywater_Watch_ENG.png"
