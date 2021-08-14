@@ -201,7 +201,7 @@
             "flavor": "In those days, the ironborn did not work mines; that was labor for the captives brought back from the hostings.",
             "deckLimit": 3,
             "illustrator": "Matthew Cowdery",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/08_Iron Mines.png"
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/08_Iron%20Mines.png"
         },
         {
             "code": "17109",
@@ -267,7 +267,7 @@
             "text": "<b>Interrupt:</b> When the effects of an opponent's triggered character, location, or attachment ability would initiate, kneel The Red Keep and pay 1 gold to cancel those effects.\n+1 Income.",
             "deckLimit": 3,
             "illustrator": "Logan Feliciano",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/11_Red Keep.png"
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/11_Red%20Keep.png"
         },
         {
             "code": "17112",
@@ -342,7 +342,7 @@
             "text": "Shadow (0).\n<b>Action</b>: Return a [martell] character you control to your hand. Then, search your deck for a character with lower printed cost that shares a <i>Trait</i> with that character, and put it into play. Shuffle your deck.",
             "deckLimit": 3,
             "illustrator": "Paolo Puggioni",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/15_Mission_in_ Essos.png"
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/15_Mission_in_%20Essos.png"
         },
         {
             "code": "17116",
@@ -900,7 +900,7 @@
             "text": "<b>Action:</b> Kneel your faction card to remove a [tyrell] character you control from the game until the beginning of the next phase.",
             "deckLimit": 3,
             "illustrator": "Jason Engle",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/41_Rose Banner.png"
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/41_Rose%20Banner.png"
         },
         {
             "code": "17142",
@@ -918,7 +918,7 @@
             "designer": "Card design by 2004 World Champion, Greg Atkinson.",
             "deckLimit": 3,
             "illustrator": "Regis Moulun",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/42_Flea Bottom.png"
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/42_Flea%20Bottom.png"
         },
         {
             "code": "17143",
@@ -935,7 +935,7 @@
             "text": "Bestow (1).\nDuring the marshaling phase, you may spend gold on The Iron Bank as if it were in your gold pool.\n<b>Reaction:</b> After you collect income, move X gold (to a maximum of 5 gold) from the treasury to The Iron Bank. X is the number of gold on The Iron Bank.",
             "deckLimit": 3,
             "illustrator": "Logan Feliciano",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/43_Iron Bank.png"
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/43_Iron%20Bank.png"
         },
         {
             "code": "17144",
@@ -952,7 +952,7 @@
             "text": "Limited.\n<b>Marshaling Action:</b> Kneel Great Hall to reduce the cost of the next unique character you marshal this phase by 1. (By 2 instead if that character's printed cost is 6 or higher.)",
             "deckLimit": 3,
             "illustrator": "Mark Molnar",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/44_Great Hall.png"
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/44_Great%20Hall.png"
         },
         {
             "code": "17145",
@@ -1000,7 +1000,7 @@
             "flavor": "The comet's tail spread across the dawn, a red slash that bled above the crags of Dragonstone like a wound in the pink and purple sky.",
             "deckLimit": 3,
             "illustrator": "Jokubas Uogintas",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/47_Dragons Tail.png"
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/47_Dragons%20Tail.png"
         },
         {
             "code": "17148",
