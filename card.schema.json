@@ -132,7 +132,8 @@
         },
         "imageUrl": {
             "minLength": 1,
-            "type": "string"
+            "type": "string",
+            "pattern": "^\\S+$"
         }
     },
     "required": [
