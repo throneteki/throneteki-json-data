@@ -721,8 +721,8 @@
             },
             "strength": 3,
             "traits": [
-                "Lady",
-                "House Redwyne"
+                "House Redwyne",
+                "Lady"
             ],
             "text": "<b>Reaction:</b> After The Queen of Thorns or a <i>House Redwyne</i> card enters play under your control or your discard pile, draw 1 card. (Limit once per phase.)",
             "deckLimit": 3,
