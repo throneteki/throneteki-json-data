@@ -306,7 +306,7 @@
             "text": "<b>Action:</b> Put an <i>Army</i> or <i>Knight</i> character into play from your discard pile. At the end of the phase, if that card is still in play, discard it from play (cannot be saved).",
             "flavor": "Ser Addam Marbrand had the command. Tyrion saw his banner unfurl as his standard-bearer shook it out; a burning tree, orange and smoke.",
             "deckLimit": 3,
-            "illustrator": "?",
+            "illustrator": "Grandfailure",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/15_Burning%20Bright.png"
         },
         {
@@ -721,8 +721,8 @@
             },
             "strength": 3,
             "traits": [
-                "Lady",
-                "House Redwyne"
+                "House Redwyne",
+                "Lady"
             ],
             "text": "<b>Reaction:</b> After The Queen of Thorns or a <i>House Redwyne</i> card enters play under your control or your discard pile, draw 1 card. (Limit once per phase.)",
             "deckLimit": 3,
@@ -826,7 +826,7 @@
             ],
             "text": "Intimidate.\n<b>Forced Interrupt:</b> When the challenges phase ends, each player must choose and kill a loyal or <i>House Frey</i> character they control, if able.\n<b>Dominance Action:</b> Discard 1 kiss token from a character or 1 power from a <i>Brotherhood</i> character to put Lady Stoneheart into play from your dead pile.",
             "deckLimit": 3,
-            "illustrator": "?",
+            "illustrator": "Marc Simonetti",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/41_Lady%20Stoneheart.png"
         },
         {
