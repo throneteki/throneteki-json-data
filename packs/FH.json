@@ -155,7 +155,6 @@
                 "Small Council"
             ],
             "text": "<b>Action:</b> Move 1 gold from your gold pool to a card without gold. (Limit twice per round.)\n+1 Income.",
-            "flavor": "?", 
             "deckLimit": 3,
             "illustrator": "Kirill Nedorosol",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/6_Ser_Harys.png"
@@ -205,7 +204,6 @@
                 "Mercenary"
             ],
             "text": "Bestow (2). Renown. Shadow (2).\n<b>Forced Reaction:</b> After a plot card enters your used pile, return The Tattered Prince to shadows unless you discard 1 gold from him.",
-            "flavor": "?", 
             "deckLimit": 3,
             "illustrator": "Diego Gisbert Llorens",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/8_Tattered.png"
@@ -230,7 +228,6 @@
                 "Ranger"
             ],
             "text": "Stealth.\nEach [thenightswatch] character you control with stealth does not kneel when declared as an attacker during a [military] challenge.\n+1 Reserve.",
-            "flavor": "?", 
             "deckLimit": 3,
             "illustrator": "Tony Nguyen",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/9_Dywen.png"
@@ -256,7 +253,6 @@
                 "Wildling"
             ],
             "text": "Each <i>Giant</i> character you control gains an [intrigue] icon.\nEach <i>Wildling</i> character you control gains the [thenightswatch] affiliation.\n<b>Reaction:</b> After Leathers enters play, search your deck for a <i>Giant</i> character, reveal it and add it to your hand. Shuffle your deck.",
-            "flavor": "?", 
             "deckLimit": 3,
             "illustrator": "Juan Hernández",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FH/10_Leathers.png"
