@@ -177,5 +177,12 @@
         "packs": [
             "HMW"
         ]
+    },
+    {
+        "id": "realm",
+        "name": "For the Realm",
+        "packs": [
+            "FtR"
+        ]
     }
 ]
