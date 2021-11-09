@@ -1,0 +1,671 @@
+{
+    "cgdbId": null,
+    "code": "FtR",
+    "name": "For the Realm",
+    "releaseDate": "2021-11-15",
+    "cards": [
+        {
+            "code": "21001",
+            "type": "character",
+            "name": "King Stannis's Host",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": true,
+            "cost": 8,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 8,
+            "traits": [
+                "Army",
+                "House Florent"
+            ],
+            "text": "Assault. No attachments. Renown.\nWhile you control Stannis Baratheon, he gains stealth.\nDuring [power] challenges, each participating character an opponent controls gets -1 STR.",
+            "deckLimit": 3,
+            "illustrator": "Tomasz Jedruszek",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/01_King%20Stannis's%20Host.png"
+        },
+        {
+            "code": "21002",
+            "type": "character",
+            "name": "The Holy Hundred",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 1,
+            "traits": [
+                "Army",
+                "The Seven"
+            ],
+            "text": "Assault. No attachments except <i>Weapon</i>.\nEach <i>The Seven</i> character you control gets +1 STR.",
+            "deckLimit": 3,
+            "illustrator": "Andrew Bosley",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/02_The%20Holy%20Hundred.png"
+        },
+        {
+            "code": "21003",
+            "type": "location",
+            "name": "Summerhall",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": true,
+            "cost": 1,
+            "traits": [
+                "Westeros"
+            ],
+            "text": "While Summerhall is standing, cards cannot enter or leave play during [power] challenges.",
+            "deckLimit": 3,
+            "illustrator": "Andreas Rocha",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/03_Summerhall.png"
+        },
+        {
+            "code": "21004",
+            "type": "character",
+            "name": "The Iron Fleet",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": true,
+            "cost": 8,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 8,
+            "traits": [
+                "Army",
+                "Raider"
+            ],
+            "text": "Assault. No attachments. Pillage.\nReduce the cost of each <i>Raider</i> character you marshal by 1.\n<b>Reaction:</b> After you initiate a challenge in which you control an attacking <i>Raider</i> character, discard the top card of each opponent's deck.",
+            "deckLimit": 3,
+            "illustrator": "Tomasz Jedruszek",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/04_The%20Iron%20Fleet.png"
+        },
+        {
+            "code": "21005",
+            "type": "location",
+            "name": "Foamdrinker",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "Warship"
+            ],
+            "text": "While you control Dagmer Cleftjaw, he gains assault.\n<b>Action:</b> Kneel Foamdrinker to choose a <i>Captain</i> or <i>Raider</i> character. Until the end of the phase, that character gains a challenge icon of your choice.",
+            "deckLimit": 3,
+            "illustrator": "Marc Simonetti",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/05_Foamdrinker.png"
+        },
+        {
+            "code": "21006",
+            "type": "attachment",
+            "name": "Valyrian Steel Armor",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": true,
+            "cost": 3,
+            "traits": [
+                "Item",
+                "Valyrian Steel"
+            ],
+            "text": "If attached character is Euron Crow's Eye, he gains insight.\nWhile you control no non-<i>Army</i> characters with printed cost 6 or higher other than attached character, attached character cannot be killed or discarded from play.",
+            "deckLimit": 3,
+            "illustrator": "Roman Papsuev",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/06_Valyrian%20Steel%20Armor.png"
+        },
+        {
+            "code": "21007",
+            "type": "character",
+            "name": "Lord Tywin's Host",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "lannister",
+            "loyal": true,
+            "cost": 8,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 7,
+            "traits": [
+                "Army"
+            ],
+            "text": "Assault. No attachments. Pillage.\nWhile you control Tywin Lannister, he gains a [military] icon. <b>Reaction:</b> After a [lannister] character you control discards a card using pillage, the losing opponent must choose and discard a card with the same cardtype from their hand unless they reveal a hand containing no cards with that cardtype. (Limit 3 times per round.)",
+            "deckLimit": 3,
+            "illustrator": "Thomas Denmark",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/07_Lord%20Tywin's%20Host.png"
+        },
+        {
+            "code": "21008",
+            "type": "character",
+            "name": "Ser Jacelyn Bywater",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Commander",
+                "Knight"
+            ],
+            "text": "Ambush (5).\nYou may ambush non-unique [lannister] characters from your discard pile as if they were in your hand.",
+            "deckLimit": 3,
+            "illustrator": "Roman Papsuev",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/08_Ser%20Jacelyn%20Bywater.png"
+        },
+        {
+            "code": "21009",
+            "type": "location",
+            "name": "Fair Isle",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "lannister",
+            "loyal": true,
+            "cost": 3,
+            "traits": [
+                "The Westerlands"
+            ],
+            "text": "<b>Challenges Action:</b> Kneel Fair Isle to choose an opponent. That player chooses 2 cards in their hand, if able, and places them on top of their deck in any order. At the end of the phase, that player draws 2 cards.\n+1 Income",
+            "deckLimit": 3,
+            "illustrator": "Andreas Rocha",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/09_Fair%20Isle.png"
+        },
+        {
+            "code": "21010",
+            "type": "character",
+            "name": "Lord Anders's Host",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "martell",
+            "loyal": true,
+            "cost": 8,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 8,
+            "traits": [
+                "Army",
+                "House Yronwood"
+            ],
+            "text": "Ambush (8). Assault. No attachments. \n<b>Reaction:</b> After a card enters play from your hand or shadows area during a challenge, choose a participating character with a lower printed cost than that card's and return it to its owner's hand. (Limit once per round.)\n+1 Initiative",
+            "deckLimit": 3,
+            "illustrator": "Tomasz Jedruszek",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/10_Lord%20Anders's%20Host.png"
+        },
+        {
+            "code": "21011",
+            "type": "character",
+            "name": "Windblown",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Army",
+                "Mercenary"
+            ],
+            "text": "Assault. Shadow (3).\n<b>Reaction:</b> After you win a challenge in which Windblown is participating, return it to shadows to choose and stand an <i>Army</i> or <i>Mercenary</i> character.",
+            "flavor": "The men of the Windblown used what names they would, and changed them at a whim.",
+            "deckLimit": 3,
+            "illustrator": "Tomasz Jedruszek",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/11_Windblown.png"
+        },
+        {
+            "code": "21012",
+            "type": "location",
+            "name": "Sandstone",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "Dorne",
+                "House Qorgyle",
+                "Stronghold"
+            ],
+            "text": "<b>Reaction:</b> After you win a challenge as the attacking player, kneel Sandstone to have an attacking character gain 1 power for each defending character with fewer than 2 challenge icons (to a maximum of 3 power). ",
+            "deckLimit": 3,
+            "illustrator": "Tomasz Jedruszek",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/12_Sandstone.png"
+        },
+        {
+            "code": "21013",
+            "type": "character",
+            "name": "Great Ranging",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": true,
+            "cost": 8,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 7,
+            "traits": [
+                "Army",
+                "Ranger",
+                "Steward"
+            ],
+            "text": "Assault. Insight. Intimidate. No attachments.\n<b>Reaction:</b> After you marshal Great Ranging, search your hand, deck, and discard pile for Fist of the First Men and put it into play. Shuffle your deck.\n+1 Reserve",
+            "deckLimit": 3,
+            "illustrator": "Tomasz Jedruszek",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/13_Great%20Ranging.png"
+        },
+        {
+            "code": "21014",
+            "type": "character",
+            "name": "Old Bear's Raven",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": true,
+            "cost": 1,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 1,
+            "traits": [
+                "Companion",
+                "Raven"
+            ],
+            "text": "Ambush (2). No attachments.\n<b>Action:</b> Return Old Bear's Raven to your hand to stand Old Bear Mormont. (Max twice per round.)",
+            "deckLimit": 3,
+            "illustrator": "Vít Burda",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/14_Old%20Bear's%20Raven.png"
+        },
+        {
+            "code": "21015",
+            "type": "event",
+            "name": "You Know Nothing",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 1,
+            "traits": [],
+            "text": "<b>Challenges Action:</b> Until the end of the phase, each non-<i>Army</i> character an opponent controls loses all keywords.",
+            "deckLimit": 3,
+            "illustrator": "Roman Papsuev",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/15_You%20Know%20Nothing.png"
+        },
+        {
+            "code": "21016",
+            "type": "character",
+            "name": "The Blackfish",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "stark",
+            "loyal": true,
+            "cost": 6,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 5,
+            "traits": [
+                "Commander",
+                "House Tully",
+                "Knight"
+            ],
+            "text": "Renown. Stealth.\nEach [stark] <i>Army</i> character you control gains an [intrigue] icon.",
+            "flavor": "\"Was there ever a war where only one side bled?\"",
+            "deckLimit": 3,
+            "illustrator": "Roman Papsuev",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/16_The%20Blackfish.png"
+        },
+        {
+            "code": "21017",
+            "type": "character",
+            "name": "Brynden's Outriders",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Army",
+                "House Tully"
+            ],
+            "text": "Assault. No attachments.\nWhile you control a <i>The Riverlands</i> location, Brynden's Outriders gains stealth.\nWhile you control a <i>Commander</i> character, Brynden's Outriders gains a [power] icon.",
+            "deckLimit": 3,
+            "illustrator": "Tomasz Jedruszek",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/17_Brynden's%20Outriders.png"
+        },
+        {
+            "code": "21018",
+            "type": "attachment",
+            "name": "Grey Wind",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "stark",
+            "loyal": true,
+            "cost": 3,
+            "traits": [
+                "Direwolf"
+            ],
+            "text": "Unique [stark] character only.\nAttached character gains stealth.\nInterrupt: When the effects of a triggered character ability would initiate, return a <i>Direwolf</i> card to your hand to cancel those effects. (Limit once per phase.)\nAction: Pay 1 gold to attach Grey Wind to a different character. (Limit once per phase.)",
+            "deckLimit": 3,
+            "illustrator": "Roman Papsuev",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/18_Grey%20Wind.png"
+        },
+        {
+            "code": "21019",
+            "type": "character",
+            "name": "Ser Barristan Selmy",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 7,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 6,
+            "traits": [
+                "Commander",
+                "Knight"
+            ],
+            "text": "Renown.\n<b>Reaction:</b> After you win a challenge in which Ser Barristan Selmy is participating, discard 1 card from your hand to, either: stand each defending <i>Knight</i> character, or raise the claim value on your revealed plot card by 1 until the end of the challenge. (Limit twice per phase.)",
+            "deckLimit": 3,
+            "illustrator": "Mike Capprotti",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/19_Ser%20Barristan%20Selmy.png"
+        },
+        {
+            "code": "21020",
+            "type": "character",
+            "name": "Mother's Men",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 1,
+            "traits": [
+                "Ally",
+                "Army"
+            ],
+            "text": "Assault. No attachments.\n<b>Reaction:</b> After an opponent’s character is killed by a card effect, put Mother's Men into play from your discard pile.",
+            "deckLimit": 3,
+            "illustrator": "Tomasz Jedruszek",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/20_Mother's%20Men.png"
+        },
+        {
+            "code": "21021",
+            "type": "location",
+            "name": "Griffin's Roost",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "House Connington",
+                "Stronghold",
+                "Westeros"
+            ],
+            "text": "While you control Jon Connington, he gains a [power] icon.\n<b>Reaction:</b> After you win a [power] challenge, kneel your faction card to choose 1 card in your hand and place it facedown in shadows with a shadow token on it. While that card is in shadows, if it does not have the printed shadow keyword, it gains shadow (X). X is its printed cost.",
+            "flavor": "Win or lose, he would see Griffin's Roost again before he died, and be buried in the tomb beside his father's.",
+            "deckLimit": 3,
+            "illustrator": "Andreas Rocha",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/21_Griffin's%20Roost.png"
+        },
+        {
+            "code": "21022",
+            "type": "character",
+            "name": "The Redwyne Fleet",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": true,
+            "cost": 8,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 8,
+            "traits": [
+                "Army",
+                "House Redwyne"
+            ],
+            "text": "Assault. No attachments.\nWhile you control Paxter Redwyne, he gains a [military] and a [power] icon, and the <i>Commander</i> trait.\n<b>Reaction:</b> After a <i>House Redwyne</i> card you control is knelt, gain 1 gold. (Limit 3 times per round.)",
+            "flavor": "Paxter Redwyne owned two hundred warships, and five times as many merchant carracks, wine cogs, trading galleys, and whalers.",
+            "deckLimit": 3,
+            "illustrator": "Tomasz Jedruszek",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/22_Redwyne%20Fleet.png"
+        },
+        {
+            "code": "21023",
+            "type": "location",
+            "name": "Longtable",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 3,
+            "traits": [
+                "The Reach"
+            ],
+            "text": "Each <i>Small Council</i> character you control gets +1 STR.\nReduce the cost of the first <i>Small Council</i> or <i>Spy</i> character you marshal, ambush, or bring out of shadows each phase by 1.",
+            "deckLimit": 3,
+            "illustrator": "Vít Burda",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/23_Longtable.png"
+        },
+        {
+            "code": "21024",
+            "type": "location",
+            "name": "Goldengrove",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "The Reach"
+            ],
+            "text": "<b>Action:</b> Kneel Goldengrove or a <i>Small Council</i> character to choose another card you own with equal or lower printed cost. Stand that card and take control of it. (Limit twice per round.)",
+            "deckLimit": 3,
+            "illustrator": "Taehoon Kang",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/24_Goldengrove.png"
+        },
+        {
+            "code": "21025",
+            "type": "character",
+            "name": "Harma Dogshead",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "neutral",
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Raider",
+                "Wildling"
+            ],
+            "text": "Pillage.\n<b>Reaction:</b> After a <i>Wildling</i> character you control discards a card using pillage, search the top 10 cards of your deck for an <i>Item</i> or <i>Weapon</i> attachment with printed cost 2 or lower and put it into play. Shuffle your deck. (Limit twice per phase.)",
+            "flavor": "\"Harma and the Bag of Bones don't come raiding for fish and apples. They steal swords and axes, and they take women in any season and carry them off beyond the Wall.\" <cite>Jon Snow</cite>",
+            "deckLimit": 3,
+            "illustrator": "Henning Ludvigsen",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/25_Harma%20Dogshead.png"
+        },
+        {
+            "code": "21026",
+            "type": "character",
+            "name": "Thenns",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "neutral",
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Army",
+                "Wildling"
+            ],
+            "text": "Assault. Pillage. No attachments except <i>Weapon</i>.\nThenns cannot target a location using assault unless each character you declare as an attacker has the <i>Army</i> or <i>Wildling</i> trait.",
+            "flavor": "The Thenns were hardened warriors, and more disciplined than the common run of wildling.",
+            "deckLimit": 3,
+            "illustrator": "Kerem Beyit",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/26_Thenns.png"
+        },
+        {
+            "code": "21027",
+            "type": "character",
+            "name": "Squire",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "neutral",
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 1,
+            "traits": [
+                "Ally"
+            ],
+            "text": "<b>Marshaling Action:</b> Kneel Squire to reduce the cost of the next <i>Army</i> or <i>Knight</i> character you marshal this phase by 1. (By 2 instead if that character's printed cost is 6 or higher.)",
+            "deckLimit": 3,
+            "illustrator": "Tomasz Jedruszek",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/27_Squire.png"
+        },
+        {
+            "code": "21028",
+            "type": "attachment",
+            "name": "Magnar of Thenn",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "neutral",
+            "cost": 1,
+            "traits": [
+                "Title"
+            ],
+            "text": "Unique <i>Wildling</i> character only.\nAttached character gains the <i>Lord</i> trait and pillage.\n<b>Interrupt:</b> When attached character would be killed, sacrifice another <i>Wildling</i> character to save it.",
+            "flavor": "\"The man you took for me is Styr, Magnar of Thenn. Magnar means 'lord' in the Old Tongue.\" <cite>Mance Rayder</cite>",
+            "deckLimit": 3,
+            "illustrator": "Diego Gisbert Llorens",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/28_Magnar%20of%20Thenn.png"
+        },
+        {
+            "code": "21029",
+            "type": "plot",
+            "name": "For the Realm",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "plotStats": {
+                "income": 4,
+                "initiative": 1,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "Kingdom",
+                "War"
+            ],
+            "text": "Reduce the cost of the first <i>Army</i> or <i>Stronghold</i> card you marshal this round by 4.",
+            "deckLimit": 2,
+            "illustrator": "Tomasz Jedruszek",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/29_For%20the%20Realm.png"
+        },
+        {
+            "code": "21030",
+            "type": "agenda",
+            "name": "Battle of the Trident",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "traits": [],
+            "text": "Your plot deck must be exactly 10 <i>Edict</i>, <i>Siege</i>, or <i>War</i> cards.\n<b>Reaction:</b> After claim is applied for a challenge in which you control an attacking <i>Army</i> or <i>Commander</i> character, kneel your faction card to reveal:\n- a <i>War</i> plot if it is a [military] challenge.\n- an <i>Edict</i> plot if it is an [intrigue] challenge.\n- a <i>Siege</i> plot if it is a [power] challenge.\nThen, choose a plot card in your used pile. Remove that card from the game until you have exactly 1 card in your plot deck.",
+            "deckLimit": 1,
+            "illustrator": "Vincent Gatica",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/30_Battle%20of%20the%20Trident.png"
+        }
+    ]
+}
