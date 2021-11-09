@@ -51,6 +51,7 @@
             ],
             "text": "Assault. No attachments except <i>Weapon</i>.\nEach <i>The Seven</i> character you control gets +1 STR.",
             "deckLimit": 3,
+            "flavor": "\"They pray well, I suppose, but can they fight?\" <cite>Jaime Lannister</cite>",
             "illustrator": "Andrew Bosley",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/02_The%20Holy%20Hundred.png"
         },
@@ -69,6 +70,7 @@
             ],
             "text": "While Summerhall is standing, cards cannot enter or leave play during [power] challenges.",
             "deckLimit": 3,
+            "flavor": "\"Did we learn nothing from Summerhall? No good has ever ceom from these dreams of dragons, I told Axell as much.\" <cite>Alester Florent</cite>",
             "illustrator": "Andreas Rocha",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/03_Summerhall.png"
         },
@@ -179,6 +181,7 @@
                 "Knight"
             ],
             "text": "Ambush (5).\nYou may ambush non-unique [lannister] characters from your discard pile as if they were in your hand.",
+            "flavor": "\"You will find Ser Jacelyn to be courageous, honorable, obedient... and most grateful\" <cite>Varys</cite>",
             "deckLimit": 3,
             "illustrator": "Roman Papsuev",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/08_Ser%20Jacelyn%20Bywater.png"
@@ -319,6 +322,7 @@
                 "Raven"
             ],
             "text": "Ambush (2). No attachments.\n<b>Action:</b> Return Old Bear's Raven to your hand to stand Old Bear Mormont. (Max twice per round.)",
+            "flavor": "\"He is a rare bird.\" <cite>Aemon Targaryen</cite>",
             "deckLimit": 3,
             "illustrator": "Vít Burda",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/14_Old%20Bear's%20Raven.png"
@@ -334,6 +338,7 @@
             "cost": 1,
             "traits": [],
             "text": "<b>Challenges Action:</b> Until the end of the phase, each non-<i>Army</i> character an opponent controls loses all keywords.",
+            "flavor": "\"I know nothing, Ygritte, and perhaps I never will.\" <cite>Jon Snow</cite>",
             "deckLimit": 3,
             "illustrator": "Roman Papsuev",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/15_You%20Know%20Nothing.png"
@@ -360,7 +365,7 @@
                 "Knight"
             ],
             "text": "Renown. Stealth.\nEach [stark] <i>Army</i> character you control gains an [intrigue] icon.",
-            "flavor": "\"Was there ever a war where only one side bled?\"",
+            "flavor": "Ser Brynden Tully was Robb's eyes and ears, the commander of his scouts and outriders.",
             "deckLimit": 3,
             "illustrator": "Roman Papsuev",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/16_The%20Blackfish.png"
@@ -454,6 +459,7 @@
                 "Army"
             ],
             "text": "Assault. No attachments.\n<b>Reaction:</b> After an opponent’s character is killed by a card effect, put Mother's Men into play from your discard pile.",
+            "flavor": "\"Wherever the Mother of Dragons goes, the Mother's Men will go as well.\" <cite>Marselen</cite>",
             "deckLimit": 3,
             "illustrator": "Tomasz Jedruszek",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/20_Mother's%20Men.png"
@@ -474,7 +480,6 @@
                 "Westeros"
             ],
             "text": "While you control Jon Connington, he gains a [power] icon.\n<b>Reaction:</b> After you win a [power] challenge, kneel your faction card to choose 1 card in your hand and place it facedown in shadows with a shadow token on it. While that card is in shadows, if it does not have the printed shadow keyword, it gains shadow (X). X is its printed cost.",
-            "flavor": "Win or lose, he would see Griffin's Roost again before he died, and be buried in the tomb beside his father's.",
             "deckLimit": 3,
             "illustrator": "Andreas Rocha",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/21_Griffin's%20Roost.png"
@@ -500,7 +505,6 @@
                 "House Redwyne"
             ],
             "text": "Assault. No attachments.\nWhile you control Paxter Redwyne, he gains a [military] and a [power] icon, and the <i>Commander</i> trait.\n<b>Reaction:</b> After a <i>House Redwyne</i> card you control is knelt, gain 1 gold. (Limit 3 times per round.)",
-            "flavor": "Paxter Redwyne owned two hundred warships, and five times as many merchant carracks, wine cogs, trading galleys, and whalers.",
             "deckLimit": 3,
             "illustrator": "Tomasz Jedruszek",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/22_Redwyne%20Fleet.png"
@@ -561,7 +565,6 @@
                 "Wildling"
             ],
             "text": "Pillage.\n<b>Reaction:</b> After a <i>Wildling</i> character you control discards a card using pillage, search the top 10 cards of your deck for an <i>Item</i> or <i>Weapon</i> attachment with printed cost 2 or lower and put it into play. Shuffle your deck. (Limit twice per phase.)",
-            "flavor": "\"Harma and the Bag of Bones don't come raiding for fish and apples. They steal swords and axes, and they take women in any season and carry them off beyond the Wall.\" <cite>Jon Snow</cite>",
             "deckLimit": 3,
             "illustrator": "Henning Ludvigsen",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/25_Harma%20Dogshead.png"
@@ -627,7 +630,6 @@
                 "Title"
             ],
             "text": "Unique <i>Wildling</i> character only.\nAttached character gains the <i>Lord</i> trait and pillage.\n<b>Interrupt:</b> When attached character would be killed, sacrifice another <i>Wildling</i> character to save it.",
-            "flavor": "\"The man you took for me is Styr, Magnar of Thenn. Magnar means 'lord' in the Old Tongue.\" <cite>Mance Rayder</cite>",
             "deckLimit": 3,
             "illustrator": "Diego Gisbert Llorens",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/28_Magnar%20of%20Thenn.png"
