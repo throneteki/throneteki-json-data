@@ -23,7 +23,7 @@
             "traits": [
                 "Army"
             ],
-            "text": "No attachments.<b>\nReaction:</b> After you win a [military] challenge in which King Robb's Host is participating, move 1 power from the losing opponent's faction card to an attacking character. (2 power instead if there is a <i>War</i> plot card revealed.)",
+            "text": "No attachments.\n<b>Reaction:</b> After you win a [military] challenge in which King Robb's Host is participating, move 1 power from the losing opponent's faction card to an attacking character. (2 power instead if there is a <i>War</i> plot card revealed.)",
             "deckLimit": 3,
             "illustrator": "Tomasz Jedruszek"
         },
