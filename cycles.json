@@ -184,5 +184,12 @@
         "packs": [
             "FtR"
         ]
+    },
+    {
+        "id": "builder",
+        "name": "Bran the Builder",
+        "packs": [
+            "BtB"
+        ]
     }
 ]
