@@ -517,7 +517,7 @@
                 "Stronghold",
                 "The Reach"
             ],
-            "text": "<b>Action:</b> Kneel Highgarden to reveal up to 3 [tyrell] characters from your hand. For each card revealed this way, choose a character. That character gets +2 STR until the end of the phase. (You may choose the same character more than once.)\r\n<b>Challenges Action:</b> Return a unique [tyrell] character you control to your hand. (Limit once per phase.)",
+            "text": "<b>Action:</b> Kneel Highgarden to reveal up to 3 [tyrell] characters from your hand. For each card revealed this way, choose a character. That character gets +2 STR until the end of the phase. (You may choose the same character more than once.)\n<b>Challenges Action:</b> Return a unique [tyrell] character you control to your hand. (Limit once per phase.)",
             "deckLimit": 3,
             "illustrator": "Ted Nasmith",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/23_Highgarden.png"
