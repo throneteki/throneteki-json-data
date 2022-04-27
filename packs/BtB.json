@@ -28,7 +28,8 @@
             ],
             "text": "While you control no loyal characters, Gendry gains renown.\n<b>Reaction:</b> After the challenges phase begins, choose a non-loyal character with a <i>Weapon</i> attachment. Until the end of the phase, that character gets +2 STR and gains each of Gendry's keywords.",
             "deckLimit": 3,
-            "illustrator": "Henning Ludvigsen"
+            "illustrator": "Henning Ludvigsen",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/01_Gendry.png"
         },
         {
             "code": "22002",
@@ -52,7 +53,8 @@
             "text": "<b>Reaction:</b> After power is moved to your faction card, gain 1 gold. (Limit twice per round.)",
             "flavor": "\"They call themselves the Antler Men, after the crowned stag.\" <cite>Varys</cite>",
             "deckLimit": 3,
-            "illustrator": "Mike Capprotti"
+            "illustrator": "Mike Capprotti",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/02_Antler%20Men.png"
         },
         {
             "code": "22003",
@@ -70,7 +72,8 @@
             ],
             "text": "During the challenges phase, characters without a [power] icon cannot stand.\n<b>Reaction:</b> After a [military] or [intrigue] challenge is initiated by or against you, kneel Storm's End to change the challenge type to [power].",
             "deckLimit": 3,
-            "illustrator": "Ted Nasmith"
+            "illustrator": "Ted Nasmith",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/03_Storm_s%20End.png"
         },
         {
             "code": "22004",
@@ -96,7 +99,8 @@
             "text": "Intimidate. Pillage. Renown.\nErik Anvil-Breaker cannot stand during the standing phase.",
             "flavor": "\"Stand up, Erik. Stand up and I'll shout your name with all the rest. Stand up and I'll be the first to follow you.\" <cite>Asha Greyjoy</cite>",
             "deckLimit": 3,
-            "illustrator": "Stepan Gilev"
+            "illustrator": "Stepan Gilev",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/04_Erik%20Anvil-Breaker.png"
         },
         {
             "code": "22005",
@@ -120,7 +124,8 @@
             ],
             "text": "Assault. No attachments.\nWhile Ten Towers Host is attacking an opponent whose reserve value is 4 or lower, it gets +3 STR and gains renown.",
             "deckLimit": 3,
-            "illustrator": "Tomasz Jedruszek"
+            "illustrator": "Tomasz Jedruszek",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/05_Fleet%20from%20Ten%20Towers.png"
         },
         {
             "code": "22006",
@@ -138,7 +143,8 @@
             ],
             "text": "Each <i>Warship</i> location in your hand gains ambush (X). X is 1 less than that card's printed cost.\n<b>Reaction:</b> After a [greyjoy] location enters play under your control, choose another non-loyal, non-limited card with equal or lower printed cost. Kneel Pyke to place that card on top of its owner's deck. Then, at the end of the phase, that player draws 1 card.",
             "deckLimit": 3,
-            "illustrator": "Ted Nasmith"
+            "illustrator": "Ted Nasmith",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/06_Pyke.png"
         },
         {
             "code": "22007",
@@ -163,7 +169,8 @@
             ],
             "text": "Renown.\n<b>Forced Reaction:</b> After a character enters play during the challenges phase, stand Ser Jaime Lannister. Then, discard that character from play.",
             "deckLimit": 3,
-            "illustrator": "Jason Engle"
+            "illustrator": "Jason Engle",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/07_Ser%20Jaime%20Lannister.png"
         },
         {
             "code": "22008",
@@ -181,7 +188,8 @@
             ],
             "text": "While Casterly Rock is standing, you may spend gold on [lannister] cards you control as if it were in your gold pool.\n<b>Marshaling Action:</b> Kneel Casterly Rock to choose up to 3 cards. Each of those cards gains 1 gold.",
             "deckLimit": 3,
-            "illustrator": "Ted Nasmith"
+            "illustrator": "Ted Nasmith",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/08_Casterly%20Rock.png"
         },
         {
             "code": "22009",
@@ -199,7 +207,8 @@
             ],
             "text": "Unique character with printed cost 3 or lower only. Ambush (1).\nIf attached character is Tommen Baratheon, he gains stealth.\nAttached character does not kneel when declared as an attacker in a [power] challenge.",
             "deckLimit": 3,
-            "illustrator": "Joshua Cairos"
+            "illustrator": "Joshua Cairos",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/09_Lady%20Whiskers.png"
         },
         {
             "code": "22010",
@@ -222,7 +231,8 @@
             ],
             "text": "Shadow (2).\n<b>Reaction:</b> After Trystane Martell enters play, choose a character with no challenge icons and return it to its owner's hand.",
             "deckLimit": 3,
-            "illustrator": "Anh Bui"
+            "illustrator": "Anh Bui",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/10_Trystane%20Martell.png"
         },
         {
             "code": "22011",
@@ -246,7 +256,8 @@
             ],
             "text": "<b>Reaction:</b> After a character loses a challenge icon, Scorpion Knight gets +1 STR until the end of the phase. (Limit 3 times per phase.)",
             "deckLimit": 3,
-            "illustrator": "Tomasz Jedruszek"
+            "illustrator": "Tomasz Jedruszek",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/11_Scorpion%20Knight.png"
         },
         {
             "code": "22012",
@@ -264,7 +275,8 @@
             ],
             "text": "During the challenges phase, you may spend gold on Sunspear as if it were in your gold pool.\n<b>Reaction:</b> After a [martell] card enters play under your control, Sunspear gains 1 gold. (2 gold instead if that card is a <i>Lord</i> or <i>Lady</i> character.) (Limit once per phase.)",
             "deckLimit": 3,
-            "illustrator": "Ted Nasmith"
+            "illustrator": "Ted Nasmith",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/12_Sunspear%20copy.png"
         },
         {
             "code": "22013",
@@ -288,7 +300,8 @@
             ],
             "text": "<b>Reaction:</b> After you win a challenge in which Samwell Tarly is participating, if your reserve value is:\n - 6 or higher, draw 1 card.\n - 8 or higher, gain 1 power for your faction.\n - 10 or higher, choose and stand another character that shares a <i>Trait</i> with him, if able.",
             "deckLimit": 3,
-            "illustrator": "Colin Boyer"
+            "illustrator": "Colin Boyer",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/13_Samwell%20Tarly.png"
         },
         {
             "code": "22014",
@@ -306,7 +319,8 @@
             ],
             "text": "<b>Reaction:</b> After a challenge is initiated against you, choose and stand a [thenightswatch] character or Castle Black. (Limit once per phase.)\n<b>Interrupt:</b> When the effects of an opponent's triggered location ability would initiate, kneel Castle Black to cancel those effects.",
             "deckLimit": 3,
-            "illustrator": "Ted Nasmith"
+            "illustrator": "Ted Nasmith",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/14_Castle%20Black.png"
         },
         {
             "code": "22015",
@@ -323,7 +337,8 @@
             ],
             "text": "Unique character you control only.\nAttached character gains a [power] icon and the <i>Builder</i> trait.\n<b>Reaction:</b> After you win a [power] challenge in which you control a participating <i>Builder</i> character, search the top 10 cards of your deck for an attachment or location with printed cost X or lower, reveal it, and add it to your hand. X is the number of <i>Builder</i> characters you control. Shuffle your deck. (Limit once per phase.)",
             "deckLimit": 3,
-            "illustrator": "Henning Ludvigsen"
+            "illustrator": "Henning Ludvigsen",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/15_First%20Builder.png"
         },
         {
             "code": "22016",
@@ -347,7 +362,8 @@
             ],
             "text": "Each <i>Old Gods</i> character you control cannot be knelt by card effects.\n<b>Interrupt:</b> When claim is applied for an [intrigue] challenge in which you control a participating <i>Old Gods</i> character, instead of the normal claim effects, look at the defending player's hand. Choose and discard X cards from that hand, if able. X is the claim value on the attacking player's revealed plot card.",
             "deckLimit": 3,
-            "illustrator": "jason840629"
+            "illustrator": "jason840629",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/16_Bran%20Stark.png"
         },
         {
             "code": "22017",
@@ -371,7 +387,8 @@
             "text": "No attachments.\n<b>Interrupt:</b> When another <i>Direwolf</i> card or Sansa Stark would leave play, kill Lady to save that card.",
             "flavor": "\"She is of the north. She deserves better than a butcher.\" <cite>Eddard Stark</cite>",
             "deckLimit": 3,
-            "illustrator": "Veronica V. Jones"
+            "illustrator": "Veronica V. Jones",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/17_Lady.png"
         },
         {
             "code": "22018",
@@ -389,7 +406,8 @@
             ],
             "text": "Each character with the highest printed cost among unique [stark] characters you control gains the <i>Old Gods</i> trait and insight.\n<b>Interrupt:</b> When an <i>Old Gods</i> card would be killed or discarded from play, kneel that card to save it. (Limit once per phase.)",
             "deckLimit": 3,
-            "illustrator": "Lino Drieghe"
+            "illustrator": "Lino Drieghe",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/18_Winterfell%20Castle.png"
         },
         {
             "code": "22019",
@@ -414,7 +432,8 @@
             ],
             "text": "While you control Aegon Targaryen, he gains a [military] icon.\n<b>Interrupt:</b> When a <i>King</i> or <i>Lord</i> character would be killed, discard 1 card from your hand to save it. (Limit once per round.)",
             "deckLimit": 3,
-            "illustrator": "Darek Zabrocki"
+            "illustrator": "Darek Zabrocki",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/19_Ser%20Rolly%20Duckfield.png"
         },
         {
             "code": "22020",
@@ -437,7 +456,8 @@
             ],
             "text": "<b>Reaction:</b> After a character enters an opponent's dead pile, sacrifice Warlock of Qarth to put that character into play under your control. Until the end of the phase, that character gains insight. At the end of the phase, if that card is still in play, place it in its owner's dead pile (cannot be saved).",
             "deckLimit": 3,
-            "illustrator": "Carlo Bocchio"
+            "illustrator": "Carlo Bocchio",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/20_Warlock%20of%20Qarth.png"
         },
         {
             "code": "22021",
@@ -455,7 +475,8 @@
             ],
             "text": "Twice per round, you may marshal or play a facedown card under a <i>Meereen</i> location you control as if it were in your hand.\n<b>Reaction:</b> After 1 or more cards are discarded from your hand, place them facedown under The Great Pyramid. If The Great Pyramid leaves play, remove each card you placed under it from the game. (Limit twice per round.)",
             "deckLimit": 3,
-            "illustrator": "Sebastián Aguirre"
+            "illustrator": "Sebastián Aguirre",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/21_The%20Great%20Pyramid.png"
         },
         {
             "code": "22022",
@@ -479,7 +500,8 @@
             "text": "<b>Interrupt:</b> When Alla Tyrell is revealed from your hand or deck, put her into play.",
             "flavor": "Alla Tyrell would be of great help, if Taena could deliver her.",
             "deckLimit": 3,
-            "illustrator": "Drazenka Kimpel "
+            "illustrator": "Drazenka Kimpel",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/22_Alla%20Tyrell.png"
         },
         {
             "code": "22023",
@@ -497,7 +519,8 @@
             ],
             "text": "<b>Action:</b> Kneel Highgarden to reveal up to 3 [tyrell] characters from your hand. For each card revealed this way, choose a character. That character gets +2 STR until the end of the phase. (You may choose the same character more than once.)\r\n<b>Challenges Action:</b> Return a unique [tyrell] character you control to your hand. (Limit once per phase.)",
             "deckLimit": 3,
-            "illustrator": "Ted Nasmith"
+            "illustrator": "Ted Nasmith",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/23_Highgarden.png"
         },
         {
             "code": "22024",
@@ -511,7 +534,8 @@
             "traits": [],
             "text": "<b>Action:</b> Choose a character that is attacking or defending alone. Until the end of the challenge, that character gets +5 STR. (+10 STR instead if it is Brienne of Tarth or a <i>Rainbow Guard</i> character.)",
             "deckLimit": 3,
-            "illustrator": "Clément Fëanor"
+            "illustrator": "Clément Fëanor",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/24_Brienne%20the%20Blue.png"
         },
         {
             "code": "22025",
@@ -535,7 +559,8 @@
             "text": "<b>Reaction:</b> After an opponent gains gold, if it is not the marshaling phase, sacrifice Zollo the Fat to move all gold from that player's gold pool to your own.\n",
             "flavor": "Captured again by the Brave Companions, and maimed at the word of Vargo Hoat their captain, losing his sword hand to the blade of Zollo the Fat.",
             "deckLimit": 3,
-            "illustrator": "Jon Bosco"
+            "illustrator": "Jon Bosco",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/25_Zollo%20the%20Fat.png"
         },
         {
             "code": "22026",
@@ -551,7 +576,8 @@
             ],
             "text": "<b>Reaction:</b> After a <i>King's Landing</i> location enters play, kneel it to draw 1 card. (Limit twice per round.)\n<b>Marshaling Action:</b> Kneel a <i>King's Landing</i> location to gain 1 gold. (Limit twice per phase.)",
             "deckLimit": 3,
-            "illustrator": "Ted Nasmith"
+            "illustrator": "Ted Nasmith",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/26_King_s%20Landing.png"
         },
         {
             "code": "22027",
@@ -567,7 +593,8 @@
             ],
             "text": "Unique character only.\nAttached character gains assault.\n<b>Reaction:</b> After you win a challenge, sacrifice The Horn of Winter to choose a location that was targeted by assault this challenge. Until the end of the round, treat that location as if its printed text box were blank (except for <i>Traits</i>). If it is a <i>Stronghold</i> location or The Wall, you may discard it from play instead.",
             "deckLimit": 3,
-            "illustrator": "Yulia Startsev"
+            "illustrator": "Yulia Startsev",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/27_The%20Horn%20of%20Winter.png"
         },
         {
             "code": "22028",
@@ -582,7 +609,8 @@
             ],
             "text": "<b>Action:</b> Choose a unique character with printed cost 3 or lower. Until the end of the phase, that character gains renown. Then, attach \"Florian and Jonquil\" to that character as an attachment with the text: \"Terminal. Attached character gains the <i>Fool</i> and <i>Knight</i> traits.\"",
             "deckLimit": 3,
-            "illustrator": "Octavio Huerta"
+            "illustrator": "Octavio Huerta",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/28_Florian%20and%20Jonquil.png"
         },
         {
             "code": "22029",
@@ -602,7 +630,8 @@
             ],
             "text": "<b>Reaction:</b> After you win a challenge, search the top 10 cards of your deck for a location, reveal it, and add it to your hand. Shuffle your deck. (Limit twice per phase.)",
             "deckLimit": 2,
-            "illustrator": "Marc Simonetti"
+            "illustrator": "Marc Simonetti",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/29_Bran%20the%20Builder.png"
         },
         {
             "code": "22030",
@@ -623,7 +652,8 @@
             ],
             "text": "<b>Forced Reaction:</b> After the challenges phase begins, each player chooses up to 3 characters, up to 3 locations, up to 3 attachments, and up to 3 cards in their hand and/or shadows area. Place each card not chosen on the bottom of its owner's deck (cannot be saved).",
             "deckLimit": 1,
-            "illustrator": "ZG Fisher"
+            "illustrator": "ZG Fisher",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/30_The%20Mad%20King_s%20Command.png"
         }
     ]
 }
