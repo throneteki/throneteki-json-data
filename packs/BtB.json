@@ -2,8 +2,8 @@
     "cgdbId": null,
     "code": "BtB",
     "name": "Bran the Builder",
-    "releaseDate": null,
-    "workInProgress": true,
+    "releaseDate": "2022-04-29",
+    "workInProgress": false,
     "cards": [
         {
             "code": "22001",
@@ -28,7 +28,7 @@
             ],
             "text": "While you control no loyal characters, Gendry gains renown.\n<b>Reaction:</b> After the challenges phase begins, choose a non-loyal character with a <i>Weapon</i> attachment. Until the end of the phase, that character gets +2 STR and gains each of Gendry's keywords.",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "Henning Ludvigsen"
         },
         {
             "code": "22002",
@@ -43,15 +43,16 @@
             "icons": {
                 "military": false,
                 "intrigue": true,
-                "power": false
+                "power": true
             },
-            "strength": 2,
+            "strength": 1,
             "traits": [
                 "Merchant"
             ],
             "text": "<b>Reaction:</b> After power is moved to your faction card, gain 1 gold. (Limit twice per round.)",
+            "flavor": "\"They call themselves the Antler Men, after the crowned stag.\" <cite>Varys</cite>",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "Mike Capprotti"
         },
         {
             "code": "22003",
@@ -67,9 +68,9 @@
                 "Stronghold",
                 "Westeros"
             ],
-            "text": "During the challenges phase, characters without a [power] icon cannot stand.\n<b>Reaction:</b> After a [military] or [intrigue] challenge is initiated in which you are the attacking or defending player, kneel Storm's End to change the challenge type to [power].",
+            "text": "During the challenges phase, characters without a [power] icon cannot stand.\n<b>Reaction:</b> After a [military] or [intrigue] challenge is initiated by or against you, kneel Storm's End to change the challenge type to [power].",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "Ted Nasmith"
         },
         {
             "code": "22004",
@@ -93,8 +94,9 @@
                 "Raider"
             ],
             "text": "Intimidate. Pillage. Renown.\nErik Anvil-Breaker cannot stand during the standing phase.",
+            "flavor": "\"Stand up, Erik. Stand up and I'll shout your name with all the rest. Stand up and I'll be the first to follow you.\" <cite>Asha Greyjoy</cite>",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "Stepan Gilev"
         },
         {
             "code": "22005",
@@ -118,7 +120,7 @@
             ],
             "text": "Assault. No attachments.\nWhile Ten Towers Host is attacking an opponent whose reserve value is 4 or lower, it gets +3 STR and gains renown.",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "Tomasz Jedruszek"
         },
         {
             "code": "22006",
@@ -134,9 +136,9 @@
                 "Iron Islands",
                 "Stronghold"
             ],
-            "text": "Each <i>Warship</i> location in your hand gains ambush (X). X is 1 less than that cards printed cost.\n<b>Reaction:</b> After a [greyjoy] location enters play under your control, choose another non-loyal, non-limited card with an equal or lower printed cost. Kneel Pyke to place that card on top of its owner's deck. At the end of the phase, that card's owner draws 1 card.",
+            "text": "Each <i>Warship</i> location in your hand gains ambush (X). X is 1 less than that card's printed cost.\n<b>Reaction:</b> After a [greyjoy] location enters play under your control, choose another non-loyal, non-limited card with equal or lower printed cost. Kneel Pyke to place that card on top of its owner's deck. Then, at the end of the phase, that player draws 1 card.",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "Ted Nasmith"
         },
         {
             "code": "22007",
@@ -161,7 +163,7 @@
             ],
             "text": "Renown.\n<b>Forced Reaction:</b> After a character enters play during the challenges phase, stand Ser Jaime Lannister. Then, discard that character from play.",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "Jason Engle"
         },
         {
             "code": "22008",
@@ -179,7 +181,7 @@
             ],
             "text": "While Casterly Rock is standing, you may spend gold on [lannister] cards you control as if it were in your gold pool.\n<b>Marshaling Action:</b> Kneel Casterly Rock to choose up to 3 cards. Each of those cards gains 1 gold.",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "Ted Nasmith"
         },
         {
             "code": "22009",
@@ -197,7 +199,7 @@
             ],
             "text": "Unique character with printed cost 3 or lower only. Ambush (1).\nIf attached character is Tommen Baratheon, he gains stealth.\nAttached character does not kneel when declared as an attacker in a [power] challenge.",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "Joshua Cairos"
         },
         {
             "code": "22010",
@@ -220,7 +222,7 @@
             ],
             "text": "Shadow (2).\n<b>Reaction:</b> After Trystane Martell enters play, choose a character with no challenge icons and return it to its owner's hand.",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "Anh Bui"
         },
         {
             "code": "22011",
@@ -242,9 +244,9 @@
                 "House Qorgyle",
                 "Knight"
             ],
-            "text": "<b>Reaction:</b> After a character's challenge icon is removed by a card effect, Scorpion Knight gets +1 STR until the end of the phase. (Limit 3 times per phase.)",
+            "text": "<b>Reaction:</b> After a character loses a challenge icon, Scorpion Knight gets +1 STR until the end of the phase. (Limit 3 times per phase.)",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "Tomasz Jedruszek"
         },
         {
             "code": "22012",
@@ -262,7 +264,7 @@
             ],
             "text": "During the challenges phase, you may spend gold on Sunspear as if it were in your gold pool.\n<b>Reaction:</b> After a [martell] card enters play under your control, Sunspear gains 1 gold. (2 gold instead if that card is a <i>Lord</i> or <i>Lady</i> character.) (Limit once per phase.)",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "Ted Nasmith"
         },
         {
             "code": "22013",
@@ -286,7 +288,7 @@
             ],
             "text": "<b>Reaction:</b> After you win a challenge in which Samwell Tarly is participating, if your reserve value is:\n - 6 or higher, draw 1 card.\n - 8 or higher, gain 1 power for your faction.\n - 10 or higher, choose and stand another character that shares a <i>Trait</i> with him, if able.",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "Colin Boyer"
         },
         {
             "code": "22014",
@@ -304,7 +306,7 @@
             ],
             "text": "<b>Reaction:</b> After a challenge is initiated against you, choose and stand a [thenightswatch] character or Castle Black. (Limit once per phase.)\n<b>Interrupt:</b> When the effects of an opponent's triggered location ability would initiate, kneel Castle Black to cancel those effects.",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "Ted Nasmith"
         },
         {
             "code": "22015",
@@ -319,9 +321,9 @@
             "traits": [
                 "Title"
             ],
-            "text": "Unique character only.\nAttached character gains a [power] icon and the <i>Builder</i> trait.\n<b>Reaction:</b> After you win a [power] challenge in which you control a participating <i>Builder</i> character, search the top 10 cards of your deck for an attachment or location with printed cost X or lower, reveal it, and add it to your hand. X is the number of <i>Builder</i> characters you control. Shuffle your deck. (Limit once per phase.)",
+            "text": "Unique character you control only.\nAttached character gains a [power] icon and the <i>Builder</i> trait.\n<b>Reaction:</b> After you win a [power] challenge in which you control a participating <i>Builder</i> character, search the top 10 cards of your deck for an attachment or location with printed cost X or lower, reveal it, and add it to your hand. X is the number of <i>Builder</i> characters you control. Shuffle your deck. (Limit once per phase.)",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "Henning Ludvigsen"
         },
         {
             "code": "22016",
@@ -343,9 +345,9 @@
                 "Lord",
                 "Old Gods"
             ],
-            "text": "Each <i>Old Gods</i> character you control cannot be bypassed by stealth or knelt by card effects.\n<b>Interrupt:</b> When claim is applied for an [intrigue] challenge in which you control a participating <i>Old Gods</i> character, instead of the normal claim effects, look at the defending player's hand. Then, choose and discard X cards from that hand, if able. X is the claim value on the attacking player's revealed plot card.",
+            "text": "Each <i>Old Gods</i> character you control cannot be knelt by card effects.\n<b>Interrupt:</b> When claim is applied for an [intrigue] challenge in which you control a participating <i>Old Gods</i> character, instead of the normal claim effects, look at the defending player's hand. Choose and discard X cards from that hand, if able. X is the claim value on the attacking player's revealed plot card.",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "jason840629"
         },
         {
             "code": "22017",
@@ -367,8 +369,9 @@
                 "Direwolf"
             ],
             "text": "No attachments.\n<b>Interrupt:</b> When another <i>Direwolf</i> card or Sansa Stark would leave play, kill Lady to save that card.",
+            "flavor": "\"She is of the north. She deserves better than a butcher.\" <cite>Eddard Stark</cite>",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "Veronica V. Jones"
         },
         {
             "code": "22018",
@@ -386,7 +389,7 @@
             ],
             "text": "Each character with the highest printed cost among unique [stark] characters you control gains the <i>Old Gods</i> trait and insight.\n<b>Interrupt:</b> When an <i>Old Gods</i> card would be killed or discarded from play, kneel that card to save it. (Limit once per phase.)",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "Lino Drieghe"
         },
         {
             "code": "22019",
@@ -410,9 +413,8 @@
                 "Knight"
             ],
             "text": "While you control Aegon Targaryen, he gains a [military] icon.\n<b>Interrupt:</b> When a <i>King</i> or <i>Lord</i> character would be killed, discard 1 card from your hand to save it. (Limit once per round.)",
-            "flavor": "“Duck will die for me if need be, and that's all I require in my Kingsguard.” <cite>Aegon Targaryen</cite>",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "Darek Zabrocki"
         },
         {
             "code": "22020",
@@ -435,7 +437,7 @@
             ],
             "text": "<b>Reaction:</b> After a character enters an opponent's dead pile, sacrifice Warlock of Qarth to put that character into play under your control. Until the end of the phase, that character gains insight. At the end of the phase, if that card is still in play, place it in its owner's dead pile (cannot be saved).",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "Carlo Bocchio"
         },
         {
             "code": "22021",
@@ -452,9 +454,8 @@
                 "Stronghold"
             ],
             "text": "Twice per round, you may marshal or play a facedown card under a <i>Meereen</i> location you control as if it were in your hand.\n<b>Reaction:</b> After 1 or more cards are discarded from your hand, place them facedown under The Great Pyramid. If The Great Pyramid leaves play, remove each card you placed under it from the game. (Limit twice per round.)",
-            "flavor": "Up here in her garden Dany sometimes felt like a god, living atop the highest mountain in the world. Do all gods feel so lonely?",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "Sebastián Aguirre"
         },
         {
             "code": "22022",
@@ -476,8 +477,9 @@
                 "Lady"
             ],
             "text": "<b>Interrupt:</b> When Alla Tyrell is revealed from your hand or deck, put her into play.",
+            "flavor": "Alla Tyrell would be of great help, if Taena could deliver her.",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "Drazenka Kimpel "
         },
         {
             "code": "22023",
@@ -493,9 +495,9 @@
                 "Stronghold",
                 "The Reach"
             ],
-            "text": "<b>Challenges Action:</b> Return a unique [tyrell] character to your hand to reveal the top card of each player's deck. (Limit once per phase.)\n<b>Challenges Action:</b> Kneel Highgarden to reveal up to 3 [tyrell] characters from your hand. For each card revealed this way, choose a character to get +2 STR until the end of the phase.",
+            "text": "<b>Action:</b> Kneel Highgarden to reveal up to 3 [tyrell] characters from your hand. For each card revealed this way, choose a character. That character gets +2 STR until the end of the phase. (You may choose the same character more than once.)\r\n<b>Challenges Action:</b> Return a unique [tyrell] character you control to your hand. (Limit once per phase.)",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "Ted Nasmith"
         },
         {
             "code": "22024",
@@ -509,7 +511,7 @@
             "traits": [],
             "text": "<b>Action:</b> Choose a character that is attacking or defending alone. Until the end of the challenge, that character gets +5 STR. (+10 STR instead if it is Brienne of Tarth or a <i>Rainbow Guard</i> character.)",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "Clément Fëanor"
         },
         {
             "code": "22025",
@@ -533,7 +535,7 @@
             "text": "<b>Reaction:</b> After an opponent gains gold, if it is not the marshaling phase, sacrifice Zollo the Fat to move all gold from that player's gold pool to your own.\n",
             "flavor": "Captured again by the Brave Companions, and maimed at the word of Vargo Hoat their captain, losing his sword hand to the blade of Zollo the Fat.",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "Jon Bosco"
         },
         {
             "code": "22026",
@@ -549,7 +551,7 @@
             ],
             "text": "<b>Reaction:</b> After a <i>King's Landing</i> location enters play, kneel it to draw 1 card. (Limit twice per round.)\n<b>Marshaling Action:</b> Kneel a <i>King's Landing</i> location to gain 1 gold. (Limit twice per phase.)",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "Ted Nasmith"
         },
         {
             "code": "22027",
@@ -565,7 +567,7 @@
             ],
             "text": "Unique character only.\nAttached character gains assault.\n<b>Reaction:</b> After you win a challenge, sacrifice The Horn of Winter to choose a location that was targeted by assault this challenge. Until the end of the round, treat that location as if its printed text box were blank (except for <i>Traits</i>). If it is a <i>Stronghold</i> location or The Wall, you may discard it from play instead.",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "Yulia Startsev"
         },
         {
             "code": "22028",
@@ -580,7 +582,7 @@
             ],
             "text": "<b>Action:</b> Choose a unique character with printed cost 3 or lower. Until the end of the phase, that character gains renown. Then, attach \"Florian and Jonquil\" to that character as an attachment with the text: \"Terminal. Attached character gains the <i>Fool</i> and <i>Knight</i> traits.\"",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "Octavio Huerta"
         },
         {
             "code": "22029",
@@ -590,7 +592,7 @@
             "quantity": 3,
             "faction": "neutral",
             "plotStats": {
-                "income": 4,
+                "income": 5,
                 "initiative": 3,
                 "claim": 1,
                 "reserve": 7
@@ -600,7 +602,7 @@
             ],
             "text": "<b>Reaction:</b> After you win a challenge, search the top 10 cards of your deck for a location, reveal it, and add it to your hand. Shuffle your deck. (Limit twice per phase.)",
             "deckLimit": 2,
-            "illustrator": "?"
+            "illustrator": "Marc Simonetti"
         },
         {
             "code": "22030",
@@ -620,9 +622,8 @@
                 "Legacy"
             ],
             "text": "<b>Forced Reaction:</b> After the challenges phase begins, each player chooses up to 3 characters, up to 3 locations, up to 3 attachments, and up to 3 cards in their hand and/or shadows area. Place each card not chosen on the bottom of its owner's deck (cannot be saved).",
-            "flavor": "\"Burn them all,\" he said. \"Burn them in their homes. Burn them in their beds.\"",
             "deckLimit": 1,
-            "illustrator": "?"
+            "illustrator": "ZG Fisher"
         }
     ]
 }
