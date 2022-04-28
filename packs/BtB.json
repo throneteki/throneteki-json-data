@@ -105,7 +105,7 @@
         {
             "code": "22005",
             "type": "character",
-            "name": "Ten Towers Host",
+            "name": "Fleet from Ten Towers",
             "octgnId": null,
             "quantity": 3,
             "unique": false,
@@ -122,7 +122,7 @@
                 "Army",
                 "House Harlaw"
             ],
-            "text": "Assault. No attachments.\nWhile Ten Towers Host is attacking an opponent whose reserve value is 4 or lower, it gets +3 STR and gains renown.",
+            "text": "Assault. No attachments.\nWhile Fleet from Ten Towers is attacking an opponent whose reserve value is 4 or lower, it gets +3 STR and gains renown.",
             "deckLimit": 3,
             "illustrator": "Tomasz Jedruszek",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/05_Fleet%20from%20Ten%20Towers.png"
@@ -517,7 +517,7 @@
                 "Stronghold",
                 "The Reach"
             ],
-            "text": "<b>Action:</b> Kneel Highgarden to reveal up to 3 [tyrell] characters from your hand. For each card revealed this way, choose a character. That character gets +2 STR until the end of the phase. (You may choose the same character more than once.)\n<b>Challenges Action:</b> Return a unique [tyrell] character you control to your hand. (Limit once per phase.)",
+            "text": "<b>Action:</b> Kneel Highgarden to reveal up to 3 [tyrell] characters from your hand. For each card revealed this way, choose a character. Until the end of the phase, that character gets +2 STR. (You may choose the same character more than once.)\n<b>Challenges Action:</b> Return a unique [tyrell] character you control to your hand. (Limit once per phase.)",
             "deckLimit": 3,
             "illustrator": "Ted Nasmith",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/23_Highgarden.png"
@@ -532,7 +532,7 @@
             "loyal": false,
             "cost": 1,
             "traits": [],
-            "text": "<b>Action:</b> Choose a character that is attacking or defending alone. Until the end of the challenge, that character gets +5 STR. (+10 STR instead if it is Brienne of Tarth or a <i>Rainbow Guard</i> character.)",
+            "text": "<b>Action:</b> Choose a character that is attacking or defending alone. Until the end of the challenge, that character gets +5 STR. (+10 STR instead if it is a <i>Rainbow Guard</i> character or Brienne of Tarth.)",
             "deckLimit": 3,
             "illustrator": "Clément Fëanor",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/BtB/24_Brienne%20the%20Blue.png"
