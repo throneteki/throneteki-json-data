@@ -155,7 +155,7 @@
             "traits": [
                 "Army"
             ],
-            "text": "Assault. No attachments. Pillage.\nWhile you control Tywin Lannister, he gains a [military] icon. <b>Reaction:</b> After a [lannister] character you control discards a card using pillage, the losing opponent must choose and discard a card with the same cardtype from their hand unless they reveal a hand containing no cards with that cardtype. (Limit 3 times per round.)",
+            "text": "Assault. No attachments. Pillage.\nWhile you control Tywin Lannister, he gains a [military] icon.\n<b>Reaction:</b> After a [lannister] character you control discards a card using pillage, the losing opponent must choose and discard a card with the same cardtype from their hand unless they reveal a hand containing no cards with that cardtype. (Limit 3 times per round.)",
             "deckLimit": 3,
             "illustrator": "Thomas Denmark",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/07_Lord%20Tywin's%20Host.png"
