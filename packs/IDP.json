@@ -161,7 +161,7 @@
                 "Item",
                 "R'hllor"
             ],
-            "text": "Character you control only. Shadow (2). Terminal.\nAttached character gets +2 STR.\n<b>Action:</b> Kill attached character to choose a character in your dead pile that was killed this phase. Return the chosen character to play.",
+            "text": "Character you control only. Shadow (2). Terminal.\nAttached character gets +2 STR.\n<b>Action:</b> Kill attached character to choose another character in your dead pile that was killed this phase. Return the chosen character to play.",
             "deckLimit": 3,
             "illustrator": "Federico Musetti"
         },
