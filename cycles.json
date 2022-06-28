@@ -191,5 +191,12 @@
         "packs": [
             "BtB"
         ]
+    },
+    {
+        "id": "honor",
+        "name": "As High as Honor",
+        "packs": [
+            "AHaH"
+        ]
     }
 ]
