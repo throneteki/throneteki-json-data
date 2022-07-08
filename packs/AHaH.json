@@ -26,7 +26,7 @@
                 "Lord",
                 "Small Council"
             ],
-            "text": "Insight.\n<b>Interrupt:</b> When Jon Arryn is killed, kneel your faction card to have each player with an equal or lower initiative value than you stand a <i>King</i> or <i>Small Council</i> character, if able. Then, following the challenges phase this round, there is an additional challenges phase.",
+            "text": "Insight.\n<b>Interrupt:</b> When Jon Arryn is killed, kneel your faction card to have each player with an equal or lower initiative value than you stand a <i>King</i> or <i>Small Council</i> character they control, if able. Then, following the challenges phase this round, there is an additional challenges phase.",
             "deckLimit": 3,
             "illustrator": "?"
         },
@@ -287,7 +287,7 @@
             "traits": [
                 "Warship"
             ],
-            "text": "While you control Groleo, he gains the <i>Commander</i> trait and a [power] icon.\n<b>Challenges Action:</b> Kneel The Balerion to attach it to an <i>Army</i> or <i>Stormborn</i> character you control as a <i>Weapon</i> attachment with the text: \"Terminal. Attached character gains assault during [power] challenges.\"",
+            "text": "While you control Captain Groleo, he gains the <i>Commander</i> trait and a [power] icon.\n<b>Challenges Action:</b> Kneel The Balerion to attach it to an <i>Army</i> or <i>Stormborn</i> character you control as a <i>Weapon</i> attachment with the text: \"Terminal. Attached character gains assault during [power] challenges.\"",
             "deckLimit": 3,
             "illustrator": "?"
         },
@@ -419,7 +419,7 @@
                 "House Arryn",
                 "Lord"
             ],
-            "text": "No attachments except <i>Title</i>.\nImmune to plot effects.\nForced Reaction: After a player initiates a [military] challenge, they must either (choose one): reveal each card in their hand and shadows area, or reduce the claim value on their revealed plot card by 1 until the end of the challenge.",
+            "text": "No attachments except <i>Title</i>.\nImmune to plot effects.\n<b>Forced Reaction:</b> After a player initiates a [military] challenge, they must either (choose one): reveal each card in their hand and shadows area, or reduce the claim value on their revealed plot card by 1 until the end of the challenge.",
             "deckLimit": 3,
             "illustrator": "?"
         },
@@ -632,7 +632,7 @@
                 "House Arryn",
                 "Knight"
             ],
-            "text": "Each <i>House Arryn</i> character you control gets +1 STR.\n<b>Interrupt:</b> When a <i>Lord</i>or <i>Lady</i> character is killed, remove Winged Knight from the game to place that character on the bottom of its owner's deck instead of placing it in their dead pile.",
+            "text": "Each <i>House Arryn</i> character you control gets +1 STR.\n<b>Interrupt:</b> When a <i>Lord</i> or <i>Lady</i> character is killed, remove Winged Knight from the game to place that character on the bottom of its owner's deck instead of placing it in their dead pile.",
             "deckLimit": 3,
             "illustrator": "?"
         },
