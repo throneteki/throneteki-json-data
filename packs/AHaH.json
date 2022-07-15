@@ -164,14 +164,14 @@
             "loyal": true,
             "cost": 3,
             "traits": [],
-            "text": "Play only if you have a card with shadows in your discard pile.\n<b>Action:</b> Reveal a card in each player's shadows area, if able. You may put those cards into play.",
+            "text": "Play only if you have a card with shadows in your discard pile.\n<b>Action:</b> Choose and reveal a card in each player's shadows area, if able. You may put these cards into play.",
             "deckLimit": 3,
             "illustrator": "?"
         },
         {
             "code": "23009",
             "type": "character",
-            "name": "Mutineer from Craster's Keep",
+            "name": "Craster's Keep Mutineer",
             "octgnId": null,
             "quantity": 3,
             "unique": false,
@@ -187,7 +187,7 @@
             "traits": [
                 "Ally"
             ],
-            "text": "<b>Reaction:</b> After Mutineer from Craster's Keep enters play, choose and discard a duplicate from play.",
+            "text": "<b>Reaction:</b> After Craster's Keep Mutineer enters play, choose and discard a duplicate from play.",
             "deckLimit": 3,
             "illustrator": "?"
         },
@@ -272,7 +272,8 @@
             ],
             "text": "Insight.\nDuring the first challenge you initiate each phase, your opponent may declare defenders before you declare attackers, and cannot declare defenders after you declare attackers.",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "?",
+            "designer": "Card design by 2017 European Joust Champion, Reinhard Schefcik."
         },
         {
             "code": "23014",
@@ -672,7 +673,7 @@
                 "House Arryn",
                 "Stronghold"
             ],
-            "text": "No attachments except <i>Fortification</i>.\nWhile The Eyrie is standing, increase the cost of the first in-faction card each player marshals, ambushes, or plays each phase by 1 (2 instead if your initiative is 0).\n<b>Interrupt:</b> When you would lose initiative, kneel The Eyrie to win initiative.\n-2 Initiative\n+2 Reserve",
+            "text": "No attachments except <i>Fortification</i>.\nWhile The Eyrie is standing, increase the cost of the first in-faction card each player marshals, ambushes, or plays each phase by 1 (2 instead if your initiative is 0).\n<b>Interrupt:</b> When you would lose initiative, kneel The Eyrie to win initiative.\n-2 Initiative +2 Reserve",
             "deckLimit": 3,
             "illustrator": "?"
         },
