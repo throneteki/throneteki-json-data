@@ -28,7 +28,8 @@
             ],
             "text": "Insight.\n<b>Interrupt:</b> When Jon Arryn is killed, kneel your faction card to have each player with an equal or lower initiative value than you stand a <i>King</i> or <i>Small Council</i> character they control, if able. Then, following the challenges phase this round, there is an additional challenges phase.",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "?",
+            "imageUrl": "https://hcti.io/v1/image/5cf02e17-7eee-4687-b8bf-3b7ce01536df"
         },
         {
             "code": "23002",
@@ -45,7 +46,8 @@
             ],
             "text": "Each <i>Smuggler</i> character in your hand gains ambush (X). X is the character's printed cost.\n<b>Reaction:</b> After you lose initiative, return a <i>Mercenary</i> or <i>Smuggler</i> character you control to its owner's hand to kneel a location with a lower printed cost.",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "?",
+            "imageUrl": "https://hcti.io/v1/image/b825efee-ad74-4daf-998d-b6af3d9d5952"
         },
         {
             "code": "23003",
@@ -69,7 +71,8 @@
             ],
             "text": "<b>Action:</b> Kneel The Reader's Septon to choose a player. Swap the top and bottom card of that player's deck.",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "?",
+            "imageUrl": "https://hcti.io/v1/image/65d1fe8c-3a41-4636-a614-0ed33337f7c1"
         },
         {
             "code": "23004",
@@ -85,9 +88,10 @@
                 "Contested",
                 "The North"
             ],
-            "text": "While you control Dagmer Cleftjaw, he gains +2 STR and does not kneel when declared as a defender.\n<b>Reaction:</b> After you lose initiative, discard 1 card from each opponents deck for each <i>Raider</i> character you control.\n-2 initiative.",
+            "text": "While you control Dagmer Cleftjaw, he gains +2 STR and does not kneel when declared as a defender.\n<b>Reaction:</b> After you lose initiative, discard 1 card from each opponents deck for each <i>Raider</i> character you control.\n-2 Initiative.",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "?",
+            "imageUrl": "https://hcti.io/v1/image/9d3b7594-5e78-46c9-abea-429416cbd97b"
         },
         {
             "code": "23005",
@@ -111,7 +115,8 @@
             ],
             "text": "Assault. Intimidate. No attachments.\nThe Halfman's Horde does not kneel when declared as an attacker against an opponent who controls more characters than you.\n<b>Reaction:</b> After you win a challenge in which The Halfman's Horde is attacking, discard 1 card at random from the losing opponents hand for each unique attacking <i>Clansman</i> character.",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "?",
+            "imageUrl": "https://hcti.io/v1/image/d11cde38-b333-4ce4-86d8-741a2e17b643"
         },
         {
             "code": "23006",
@@ -128,7 +133,8 @@
             ],
             "text": "[lannister] <i>Lord</i> character only.\n<b>Reaction:</b> After any number of cards are discarded from an opponent's hand during the challenges phase, if you do not support that player, draw cards equal to the amount of cards discarded. (Limit once per round).",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "?",
+            "imageUrl": "https://hcti.io/v1/image/6b135997-9de2-452e-be99-c1de4ba22d46"
         },
         {
             "code": "23007",
@@ -152,7 +158,8 @@
             ],
             "text": "Shadow (3).\n<b>Action:</b> If each opponent has a higher initiative value than you, kill Ser Arys Oakheart to search your deck for a <i>Lady</i> character, reveal it, and add it to your hand. If it is Arianne Martell, you may put her into shadows instead. Shuffle your deck.",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "?",
+            "imageUrl": "https://hcti.io/v1/image/a0ae80e7-be5b-46cb-be69-3ab00d7525fe"
         },
         {
             "code": "23008",
@@ -166,7 +173,8 @@
             "traits": [],
             "text": "Play only if you have a card with shadows in your discard pile.\n<b>Action:</b> Choose and reveal a card in each player's shadows area, if able. You may put these cards into play.",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "?",
+            "imageUrl": "https://hcti.io/v1/image/361adef3-a6b4-409d-9823-2c006832a092"
         },
         {
             "code": "23009",
@@ -189,7 +197,8 @@
             ],
             "text": "<b>Reaction:</b> After Craster's Keep Mutineer enters play, choose and discard a duplicate from play.",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "?",
+            "imageUrl": "https://hcti.io/v1/image/26d17cdc-42cb-421f-bb33-f366ff98762d"
         },
         {
             "code": "23010",
@@ -207,7 +216,8 @@
             ],
             "text": "<b>Challenges Action:</b> Sacrifice Defensive Debris to choose a card in an opponent's discard pile. Until the end of the phase, cards with that printed cost cannot be played or enter play.",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "?",
+            "imageUrl": "https://hcti.io/v1/image/22b762bd-8a19-47c3-93d2-c652bf815f54"
         },
         {
             "code": "23011",
@@ -231,7 +241,8 @@
             ],
             "text": "Shadow (3). Stealth.\n<b>Reaction:</b> After you win a challenge in which Crannogmen is participating, if the losing opponent has a higher initiative value than you, return Crannogmen to shadows to have that player choose and kill a participating character they control.",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "?",
+            "imageUrl": "https://hcti.io/v1/image/ede94d8b-92df-427a-9ae3-2cbb67c654f2"
         },
         {
             "code": "23012",
@@ -248,7 +259,8 @@
             ],
             "text": "<b>Reaction:</b> After a character you control is sacrificed or killed, kneel The Wolf's Den to place the bottom card of your deck into shadows with a shadow token on it. While that card is in shadows, it gains shadow (X). X is its printed cost.",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "?",
+            "imageUrl": "https://hcti.io/v1/image/59db3f3f-8932-4d1f-9429-09fed150b892"
         },
         {
             "code": "23013",
@@ -273,7 +285,8 @@
             "text": "Insight.\nDuring the first challenge you initiate each phase, your opponent may declare defenders before you declare attackers, and cannot declare defenders after you declare attackers.",
             "deckLimit": 3,
             "illustrator": "?",
-            "designer": "Card design by 2017 European Joust Champion, Reinhard Schefcik."
+            "designer": "Card design by 2017 European Joust Champion, Reinhard Schefcik.",
+            "imageUrl": "https://hcti.io/v1/image/13750473-7ae6-44d7-8881-c8c92de5edf1"
         },
         {
             "code": "23014",
@@ -290,7 +303,8 @@
             ],
             "text": "While you control Captain Groleo, he gains the <i>Commander</i> trait and a [power] icon.\n<b>Challenges Action:</b> Kneel The Balerion to attach it to an <i>Army</i> or <i>Stormborn</i> character you control as a <i>Weapon</i> attachment with the text: \"Terminal. Attached character gains assault during [power] challenges.\"",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "?",
+            "imageUrl": "https://hcti.io/v1/image/17c79b3f-e26d-4407-b70e-1c1dcf3606d7"
         },
         {
             "code": "23015",
@@ -315,7 +329,8 @@
             ],
             "text": "<b>Interrupt:</b> When a <i>Lady</i> character would be killed, reveal your hand (of at least 1 card) to save that character and have Ser Robar Royce gain 1 power. Then, if The Knight of Flowers is in play, kill Ser Robar Royce. (Limit once per round.)",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "?",
+            "imageUrl": "https://hcti.io/v1/image/49f8dcca-d4ac-4f96-83fd-445b4ea9abc4"
         },
         {
             "code": "23016",
@@ -329,7 +344,8 @@
             "traits": [],
             "text": "<b>Reaction:</b> After an attacking character is removed from a challenge, choose X defending characters. If you win this challenge, gain 2 power and stand each of those characters.",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "?",
+            "imageUrl": "https://hcti.io/v1/image/cbda91a8-0c75-46fb-bf35-5e3b3345632e"
         },
         {
             "code": "23017",
@@ -353,7 +369,8 @@
             ],
             "text": "Ambush (7). Assault. No attachments except <i>Weapon</i>.\nWhile you are the defending player, reduce the cost to ambush Host of the Vale by X (to a minimum of 1). X is the attacking player's initiative value.\n<b>Reaction:</b> After you win a challenge, return a defending <i>House Arryn</i> <i>Knight</i> character you control to its owner's hand to gain 1 power for your faction.",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "?",
+            "imageUrl": "https://hcti.io/v1/image/14b3fb25-bdaa-4e67-8205-b501a0db9c5f"
         },
         {
             "code": "23018",
@@ -376,7 +393,8 @@
             ],
             "text": "Insight.\n<b>Reaction:</b> After another unique <i>House Arryn</i> character you control is declared as a defender, each player chooses a participating character they control with printed cost equal to or lower than their initiative value, if able. Return each chosen character to its owner's hand.",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "?",
+            "imageUrl": "https://hcti.io/v1/image/6b77920f-17a2-457d-84bf-5708491df1ac"
         },
         {
             "code": "23019",
@@ -399,7 +417,8 @@
             ],
             "text": "<b>Reaction:</b> After a challenge is initiated against you, kneel a neutral location to choose an attacking character with an equal or lower printed cost. Kneel that character and take control of it until the end of the challenge.",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "?",
+            "imageUrl": "https://hcti.io/v1/image/913d3eeb-3652-4243-b9ab-ef2e9e2c707b"
         },
         {
             "code": "23020",
@@ -422,7 +441,8 @@
             ],
             "text": "No attachments except <i>Title</i>.\nImmune to plot effects.\n<b>Forced Reaction:</b> After a player initiates a [military] challenge, they must either (choose one): reveal each card in their hand and shadows area, or reduce the claim value on their revealed plot card by 1 until the end of the challenge.",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "?",
+            "imageUrl": "https://hcti.io/v1/image/582d1d4d-f8a7-4504-ae56-5f256951deac"
         },
         {
             "code": "23021",
@@ -446,7 +466,8 @@
             ],
             "text": "Stealth.\nIf you control Sansa Stark, attach Alayne Stone to her as a duplicate.\nWhile Alayne Stone is standing during the challenges phase, each player cannot trigger card abilities on in-faction <i>Lord</i> or <i>Lady</i> characters they control.",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "?",
+            "imageUrl": "https://hcti.io/v1/image/c653bea1-350e-406d-b95f-c5f4d7916f1e"
         },
         {
             "code": "23022",
@@ -470,7 +491,8 @@
             ],
             "text": "While you control a <i>House Arryn</i> <i>Lady</i> character, Harry the Heir gains a [power] icon and stealth.\n<b>Challenges Action:</b> During a challenge in which you are the defending player, choose a non-participating, kneeling character with printed cost equal to or higher than your initiative value. That character is considered to be participating as a defender on your side. (Limit once per phase.)",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "?",
+            "imageUrl": "https://hcti.io/v1/image/7b219528-dfe2-47c2-8729-047d6d54d4f9"
         },
         {
             "code": "23023",
@@ -493,7 +515,8 @@
             ],
             "text": "While Mord is standing, treat the printed text box of each character with a jail token as if it were blank (except for <i>Traits</i>).\n<b>Reaction:</b> After Mord enters play, place a jail token on a character.",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "?",
+            "imageUrl": "https://hcti.io/v1/image/80a9e10e-7dc5-4e79-9ad3-80ba16304a59"
         },
         {
             "code": "23024",
@@ -517,7 +540,8 @@
             ],
             "text": "<b>Reaction:</b> After you win a challenge in which Nestor Royce is defending, reveal a card from your hand and place it on the bottom of your deck to stand a defending neutral character with equal or lower printed cost. (Limit once per phase.)",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "?",
+            "imageUrl": "https://hcti.io/v1/image/cff246b5-6a55-4249-be4e-595d379a63ee"
         },
         {
             "code": "23025",
@@ -540,7 +564,8 @@
             ],
             "text": "While Maester Colemon is kneeling, treat the printed text box of Sweetrobin as if it were blank (except for Traits).\n<b>Dominance Action:</b> Kneel Maester Colemon and pay X gold to choose a <i>Condition</i> attachment with printed cost X or lower or Sweetsleep. Take control of that attachment and move it to another eligible character.",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "?",
+            "imageUrl": "https://hcti.io/v1/image/3efe9213-5766-451e-bc91-3e95ed5b204c"
         },
         {
             "code": "23026",
@@ -564,7 +589,8 @@
             ],
             "text": "<b>Reaction:</b> After you win a [military] challenge in which Ser Vardis Egen is defending, sacrifice him. Then, you may initiate an additional [power] challenge this phase.",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "?",
+            "imageUrl": "https://hcti.io/v1/image/c1623e03-04ee-458e-bbf8-cd78f09af5ae"
         },
         {
             "code": "23027",
@@ -587,7 +613,8 @@
             ],
             "text": "<b>Forced Reaction:</b> After you win a challenge in which Benjicot is participating, reveal the bottom card of each player's deck. Discard each non-neutral card revealed this way. If the card shares a <i>Trait</i> with Benjicot, add it to its owner's hand instead.",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "?",
+            "imageUrl": "https://hcti.io/v1/image/da3280dd-60c0-4086-a38b-6e49684ecea8"
         },
         {
             "code": "23028",
@@ -611,7 +638,8 @@
             ],
             "text": "Ambush (X).\nX is 1 higher than your initiative value.\n<b>Forced Reaction:</b> After a challenge is initiated, return Lord Protector's Retainer to your hand.",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "?",
+            "imageUrl": "https://hcti.io/v1/image/4dec1e5e-a23a-46d5-8b58-968486ab0e81"
         },
         {
             "code": "23029",
@@ -635,7 +663,8 @@
             ],
             "text": "Each <i>House Arryn</i> character you control gets +1 STR.\n<b>Interrupt:</b> When a <i>Lord</i> or <i>Lady</i> character is killed, remove Winged Knight from the game to place that character on the bottom of its owner's deck instead of placing it in their dead pile.",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "?",
+            "imageUrl": "https://hcti.io/v1/image/8a94f0ae-7dbf-476d-af74-9a3df5118d98"
         },
         {
             "code": "23030",
@@ -656,9 +685,10 @@
                 "House Arryn",
                 "Knight"
             ],
-            "text": "While the attacking player has a higher initiative value than you, Knight of the Vale does not kneel when declared as a defender.\n-1 Initiative",
+            "text": "While the attacking player has a higher initiative value than you, Knight of the Vale does not kneel when declared as a defender.\n-1 Initiative.",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "?",
+            "imageUrl": "https://hcti.io/v1/image/8a4d1d30-805c-444a-93bc-418432f7e32f"
         },
         {
             "code": "23031",
@@ -673,9 +703,10 @@
                 "House Arryn",
                 "Stronghold"
             ],
-            "text": "No attachments except <i>Fortification</i>.\nWhile The Eyrie is standing, increase the cost of the first in-faction card each player marshals, ambushes, or plays each phase by 1 (2 instead if your initiative is 0).\n<b>Interrupt:</b> When you would lose initiative, kneel The Eyrie to win initiative.\n-2 Initiative +2 Reserve",
+            "text": "No attachments except <i>Fortification</i>.\nWhile The Eyrie is standing, increase the cost of the first in-faction card each player marshals, ambushes, or plays each phase by 1 (2 instead if your initiative is 0).\n<b>Interrupt:</b> When you would lose initiative, kneel The Eyrie to win initiative.\n-2 Initiative. +2 Reserve.",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "?",
+            "imageUrl": "https://hcti.io/v1/image/e0a44670-f684-483e-8c2d-156296258a92"
         },
         {
             "code": "23032",
@@ -692,7 +723,8 @@
             ],
             "text": "While The Bloody Gate is standing and you control a defending <i>House Arryn</i> character, reduce the claim value on the attacking player's revealed plot card by 1.\n<b>Forced Reaction:</b> After the challenge phase begins, you cannot initiate [military] or [power] challenges this phase unless you kneel The Bloody Gate.",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "?",
+            "imageUrl": "https://hcti.io/v1/image/e9043fe7-e798-4283-9a8e-f5ac1848ec59"
         },
         {
             "code": "23033",
@@ -706,9 +738,10 @@
             "traits": [
                 "House Arryn"
             ],
-            "text": "<b>Reaction:</b> After you win a challenge, draw 1 card for each defending <i>House Arryn</i> character you control (to a maximum of 5).\n-2 Initiative",
+            "text": "<b>Reaction:</b> After you win a challenge, draw 1 card for each defending <i>House Arryn</i> character you control (to a maximum of 5).\n-2 Initiative.",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "?",
+            "imageUrl": "https://hcti.io/v1/image/2f1ab72e-463c-43f2-a12b-dc6a22f2450f"
         },
         {
             "code": "23034",
@@ -722,9 +755,10 @@
             "traits": [
                 "Westeros"
             ],
-            "text": "Limited.\n<b>Action:</b> Kneel and sacrifice The Highroad to reduce the cost of the next non-character card you marshal or play this phase by 2.\n+1 Income",
+            "text": "Limited.\n<b>Action:</b> Kneel and sacrifice The Highroad to reduce the cost of the next non-character card you marshal or play this phase by 2.\n+1 Income.",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "?",
+            "imageUrl": "https://hcti.io/v1/image/2c59313f-7a6f-4415-a4b0-b072e6f3d311"
         },
         {
             "code": "23035",
@@ -739,9 +773,10 @@
                 "House Arryn",
                 "Title"
             ],
-            "text": "<i>Lord</i> character with printed cost 6 or higher only.\nAttached character gains the <i>House Arryn</i> trait. If attached character is Littlefinger, he gains renown.\n<b>Reaction:</b> After you draw a <i>House Arryn</i> card, reveal it to gain 1 gold.\n-1 Initiative",
+            "text": "<i>Lord</i> character with printed cost 6 or higher only.\nAttached character gains the <i>House Arryn</i> trait. If attached character is Littlefinger, he gains renown.\n<b>Reaction:</b> After you draw a <i>House Arryn</i> card, reveal it to gain 1 gold.\n-1 Initiative.",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "?",
+            "imageUrl": "https://hcti.io/v1/image/5baf3fa1-6f52-4c9c-9fda-d54f63ca5c3e"
         },
         {
             "code": "23036",
@@ -756,7 +791,8 @@
             ],
             "text": "<b>Challenges Action:</b> Choose a player and name a challenge type. While that player has not initiated a challenge of that type this phase, set the claim value on their revealed plot card to 0 until the end of the phase.",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "?",
+            "imageUrl": "https://hcti.io/v1/image/ea105392-3ea4-4cdc-8cf4-3b7935bbda69"
         },
         {
             "code": "23037",
@@ -769,7 +805,8 @@
             "traits": [],
             "text": "Play only if you control a unique <i>House Arryn</i> character or Stannis Baratheon.\n<b>Reaction:</b> After you lose initiative, the winning opponent must choose and discard a <i>Lord</i> or <i>Lady</i> character from their hand or shadows area unless they reveal a hand and shadows area containing no <i>Lord</i> or <i>Lady</i> characters.",
             "deckLimit": 3,
-            "illustrator": "?"
+            "illustrator": "?",
+            "imageUrl": "https://hcti.io/v1/image/fd1e6a5a-80d5-4a86-b010-d3c4699de0b3"
         },
         {
             "code": "23038",
@@ -790,7 +827,8 @@
             ],
             "text": "<b>When Revealed</b>: Choose a non-<i>Army</i> character. At the end of the round, if that character is still in play, kneel your faction card to kill it (cannot be saved).",
             "deckLimit": 1,
-            "illustrator": "?"
+            "illustrator": "?",
+            "imageUrl": "https://hcti.io/v1/image/99c435a3-310d-46c9-8df2-d19ac0a0f58a"
         },
         {
             "code": "23039",
@@ -811,7 +849,8 @@
             ],
             "text": "While there are no other revealed <i>Siege</i> plot cards, you cannot be the first player.\n<b>Reaction:</b> After you win a challenge in which you control a defending <i>House Arryn</i> character, increase the claim value on your revealed plot card by 1 until the end of the phase (to a maximum of 3).",
             "deckLimit": 2,
-            "illustrator": "?"
+            "illustrator": "?",
+            "imageUrl": "https://hcti.io/v1/image/4e78d7c6-586a-4940-9f11-8efd71dae579"
         },
         {
             "code": "23040",
@@ -824,9 +863,10 @@
                 "Banner",
                 "House Arryn"
             ],
-            "text": "You cannot include more than 12 in-faction cards in your deck.\nWhile you do not control an attacking <i>House Arryn</i> character, reduce the claim value on your revealed plot card by 1.\n<b>Reaction:</b> After you win a challenge by 5 or more STR: \n - if it is a [military] challenge, choose a participating character and have it gain 1 power.\n - if it is an [intrigue] challenge, draw a card. \n - if it is a [power] challenge, choose and stand a participating character.",
+            "text": "You cannot include more than 12 in-faction cards in your deck.\nWhile you do not control an attacking <i>House Arryn</i> character, reduce the claim value on your revealed plot card by 1.\n<b>Reaction:</b> After you win a challenge by 5 or more STR, if it is:\n - a [military] challenge, choose a participating character and have it gain 1 power.\n - an [intrigue] challenge, draw a card.\n - a [power] challenge, choose and stand a participating character.",
             "deckLimit": 1,
-            "illustrator": "?"
+            "illustrator": "?",
+            "imageUrl": "https://hcti.io/v1/image/b56ac09b-5209-4f1a-ab9c-aa4c68949d33"
         }
     ]
 }
