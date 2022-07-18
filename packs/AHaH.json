@@ -828,7 +828,7 @@
             "text": "<b>When Revealed</b>: Choose a non-<i>Army</i> character. At the end of the round, if that character is still in play, kneel your faction card to kill it (cannot be saved).",
             "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/99c435a3-310d-46c9-8df2-d19ac0a0f58a"
+            "imageUrl": "https://hcti.io/v1/image/8ef5912a-a433-46e8-94a5-46dbdd18e2ca"
         },
         {
             "code": "23039",
@@ -850,7 +850,7 @@
             "text": "While there are no other revealed <i>Siege</i> plot cards, you cannot be the first player.\n<b>Reaction:</b> After you win a challenge in which you control a defending <i>House Arryn</i> character, increase the claim value on your revealed plot card by 1 until the end of the phase (to a maximum of 3).",
             "deckLimit": 2,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/4e78d7c6-586a-4940-9f11-8efd71dae579"
+            "imageUrl": "https://hcti.io/v1/image/03168005-6d34-4e7c-9c1c-58c69d363832"
         },
         {
             "code": "23040",
