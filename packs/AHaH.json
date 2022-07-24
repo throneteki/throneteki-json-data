@@ -44,10 +44,10 @@
             "traits": [
                 "Title"
             ],
-            "text": "Each <i>Smuggler</i> character in your hand gains ambush (X). X is the character's printed cost.\n<b>Reaction:</b> After you lose initiative, return a <i>Mercenary</i> or <i>Smuggler</i> character you control to its owner's hand to kneel a location with a lower printed cost.",
+            "text": "Unique [baratheon] character only.\n<b>Reaction:</b> After you lose initiative, return a <i>Mercenary</i> or <i>Smuggler</i> character you control to its owner's hand to kneel a character and a location with a lower printed cost.\n-1 Initiative.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/b825efee-ad74-4daf-998d-b6af3d9d5952"
+            "imageUrl": "https://hcti.io/v1/image/296a0c56-af7e-4ffd-8f11-1b95988d798d"
         },
         {
             "code": "23003",
@@ -83,15 +83,15 @@
             "unique": true,
             "faction": "greyjoy",
             "loyal": false,
-            "cost": 1,
+            "cost": 2,
             "traits": [
                 "Contested",
                 "The North"
             ],
-            "text": "While you control Dagmer Cleftjaw, he gains +2 STR and does not kneel when declared as a defender.\n<b>Reaction:</b> After you lose initiative, discard 1 card from each opponents deck for each <i>Raider</i> character you control.\n-2 Initiative.",
+            "text": "Shadow (1).\n<b>Reaction:</b> After a [greyjoy] card comes out of shadows, kneel Torrhen's Square. For each <i>Raider</i> character you control, discard the top card of each opponent's deck who has an equal or higher initiative value than you.\r\n-2 Initiative.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/9d3b7594-5e78-46c9-abea-429416cbd97b"
+            "imageUrl": "https://hcti.io/v1/image/5db7a756-26b9-4a30-a272-35e54ab63aba"
         },
         {
             "code": "23005",
@@ -113,10 +113,10 @@
                 "Army",
                 "Clansman"
             ],
-            "text": "Assault. Intimidate. No attachments.\nThe Halfman's Horde does not kneel when declared as an attacker against an opponent who controls more characters than you.\n<b>Reaction:</b> After you win a challenge in which The Halfman's Horde is attacking, discard 1 card at random from the losing opponents hand for each unique attacking <i>Clansman</i> character.",
+            "text": "Assault. Intimidate. No attachments.\n<b>Reaction:</b> After you win a challenge in which The Halfman's Horde is attacking, discard 1 card at random from the losing opponents hand for each unique attacking <i>Clansman</i> character.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/d11cde38-b333-4ce4-86d8-741a2e17b643"
+            "imageUrl": "https://hcti.io/v1/image/9fbea4bb-88a0-40a9-8d9f-4cdc8d84d0bd"
         },
         {
             "code": "23006",
@@ -169,12 +169,12 @@
             "quantity": 3,
             "faction": "martell",
             "loyal": true,
-            "cost": 3,
+            "cost": 2,
             "traits": [],
             "text": "Play only if you have a card with shadows in your discard pile.\n<b>Action:</b> Choose and reveal a card in each player's shadows area, if able. You may put these cards into play.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/361adef3-a6b4-409d-9823-2c006832a092"
+            "imageUrl": "https://hcti.io/v1/image/db20be98-73d9-4e4f-9c58-617441c7eae3"
         },
         {
             "code": "23009",
@@ -250,9 +250,10 @@
             "name": "The Wolf's Den",
             "octgnId": null,
             "quantity": 3,
+            "unique": true,
             "faction": "stark",
-            "loyal": false,
-            "cost": 2,
+            "loyal": true,
+            "cost": 3,
             "traits": [
                 "House Manderly",
                 "The North"
@@ -260,7 +261,7 @@
             "text": "<b>Reaction:</b> After a character you control is sacrificed or killed, kneel The Wolf's Den to place the bottom card of your deck into shadows with a shadow token on it. While that card is in shadows, it gains shadow (X). X is its printed cost.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/59db3f3f-8932-4d1f-9429-09fed150b892"
+            "imageUrl": "https://hcti.io/v1/image/0686690f-d2b9-470b-a3cb-a3def64bb8bb"
         },
         {
             "code": "23013",
