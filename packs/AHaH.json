@@ -139,27 +139,26 @@
         {
             "code": "23007",
             "type": "character",
-            "name": "Ser Arys Oakheart",
+            "name": "Doran Martell",
             "octgnId": null,
             "quantity": 3,
             "unique": true,
             "faction": "martell",
-            "loyal": false,
-            "cost": 4,
+            "loyal": true,
+            "cost": 6,
             "icons": {
-                "military": true,
-                "intrigue": false,
+                "military": false,
+                "intrigue": true,
                 "power": true
             },
-            "strength": 4,
+            "strength": 5,
             "traits": [
-                "Knight",
-                "Kingsguard"
+                "Lord"
             ],
-            "text": "Shadow (3).\n<b>Action:</b> If each opponent has a higher initiative value than you, kill Ser Arys Oakheart to search your deck for a <i>Lady</i> character, reveal it, and add it to your hand. If it is Arianne Martell, you may put her into shadows instead. Shuffle your deck.",
+            "text": "Shadow (5). Insight.\nEach card in your shadow area without the printed shadow keyword gains shadow (3).\n<b>Reaction:</b> After you lose dominance, look at the top 2 cards of your deck. Place 1 into shadows and place the other on the bottom of your deck.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/a0ae80e7-be5b-46cb-be69-3ab00d7525fe"
+            "imageUrl": "https://hcti.io/v1/image/62bceeed-5c2c-4d3b-a49c-92243c4e6a90"
         },
         {
             "code": "23008",
@@ -214,10 +213,10 @@
                 "Item",
                 "Weapon"
             ],
-            "text": "<b>Challenges Action:</b> Sacrifice Defensive Debris to choose a card in an opponent's discard pile. Until the end of the phase, cards with that printed cost cannot be played or enter play.",
+            "text": "Bestow (2).\n<b>Challenges Action:</b> Discard 1 gold from Defensive Debris to choose a card in an opponents discard pile. Until the end of the phase, cards with that printed cost cannot be played or enter play. (Max once per phase.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/22b762bd-8a19-47c3-93d2-c652bf815f54"
+            "imageUrl": "https://hcti.io/v1/image/e888a31f-2fc8-44e1-be3b-c0109b9fa9f8"
         },
         {
             "code": "23011",
@@ -227,7 +226,7 @@
             "quantity": 3,
             "unique": false,
             "faction": "stark",
-            "loyal": false,
+            "loyal": true,
             "cost": 4,
             "icons": {
                 "military": true,
@@ -239,10 +238,10 @@
                 "Army",
                 "House Reed"
             ],
-            "text": "Shadow (3). Stealth.\n<b>Reaction:</b> After you win a challenge in which Crannogmen is participating, if the losing opponent has a higher initiative value than you, return Crannogmen to shadows to have that player choose and kill a participating character they control.",
+            "text": "Shadow (3). Stealth.\n<b>Reaction:</b> After a <i>House Reed</i> card enters play, place a poison token on a character controlled by an opponent. Then, if the number of poison tokens are equal or higher than that characters STR, return Crannogmen to shadows to kill it.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/ede94d8b-92df-427a-9ae3-2cbb67c654f2"
+            "imageUrl": "https://hcti.io/v1/image/7eeb10cc-fe4e-46d4-93f4-9a0f5d647ab3"
         },
         {
             "code": "23012",
@@ -320,7 +319,7 @@
             "icons": {
                 "military": true,
                 "intrigue": false,
-                "power": false
+                "power": true
             },
             "strength": 5,
             "traits": [
@@ -328,10 +327,11 @@
                 "Knight",
                 "Rainbow Guard"
             ],
-            "text": "<b>Interrupt:</b> When a <i>Lady</i> character would be killed, reveal your hand (of at least 1 card) to save that character and have Ser Robar Royce gain 1 power. Then, if The Knight of Flowers is in play, kill Ser Robar Royce. (Limit once per round.)",
+            "text": "Ser Robar Royce cannot be declared as an attacker or defender during the first challenge initiated by you, and the first challenge initiated against you.\n-1 Initiative.",
+            "flavor": "Ser Robar had hung back, uncertain, but now he was reaching for his hilt.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/49f8dcca-d4ac-4f96-83fd-445b4ea9abc4"
+            "imageUrl": "https://hcti.io/v1/image/eae9c70c-c7a6-4707-a4e6-58174ceea78d"
         },
         {
             "code": "23016",
@@ -351,27 +351,27 @@
         {
             "code": "23017",
             "type": "character",
-            "name": "Host of the Vale",
+            "name": "Knights of the Vale",
             "octgnId": null,
             "quantity": 3,
             "unique": true,
             "faction": "neutral",
-            "cost": 7,
+            "cost": 6,
             "icons": {
                 "military": true,
                 "intrigue": false,
                 "power": true
             },
-            "strength": 6,
+            "strength": 4,
             "traits": [
                 "Army",
                 "House Arryn",
                 "Knight"
             ],
-            "text": "Ambush (7). Assault. No attachments except <i>Weapon</i>.\nWhile you are the defending player, reduce the cost to ambush Host of the Vale by X (to a minimum of 1). X is the attacking player's initiative value.\n<b>Reaction:</b> After you win a challenge, return a defending <i>House Arryn</i> <i>Knight</i> character you control to its owner's hand to gain 1 power for your faction.",
+            "text": "Assault. Renown. No attachments.\n<b>Challenges Action:</b> Kneel your faction card to choose a defending <i>House Arryn</i> character you control. Until the end of the challenge, that character gets +3 STR (double its STR instead if your initiative value is 0).",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/14b3fb25-bdaa-4e67-8205-b501a0db9c5f"
+            "imageUrl": "https://hcti.io/v1/image/3ab865cf-a94a-42c9-8d5e-4c552430f26e"
         },
         {
             "code": "23018",
@@ -387,15 +387,15 @@
                 "intrigue": true,
                 "power": true
             },
-            "strength": 4,
+            "strength": 6,
             "traits": [
                 "House Arryn",
                 "Lord"
             ],
-            "text": "Insight.\n<b>Reaction:</b> After another unique <i>House Arryn</i> character you control is declared as a defender, each player chooses a participating character they control with printed cost equal to or lower than their initiative value, if able. Return each chosen character to its owner's hand.",
+            "text": "Insight.\n<b>Reaction:</b> After you win a challenge, each player must choose a card from their hand or shadows area, if able. Then, reveal the chosen cards. If your revealed card is a different card type to the others, stand Littlefinger and have him gain 1 power. (Limit once per phase.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/6b77920f-17a2-457d-84bf-5708491df1ac"
+            "imageUrl": "https://hcti.io/v1/image/78b0f3a2-7d86-43de-9ad9-6ac04a64a93c"
         },
         {
             "code": "23019",
@@ -552,21 +552,21 @@
             "quantity": 3,
             "unique": true,
             "faction": "neutral",
-            "cost": 4,
+            "cost": 3,
             "icons": {
                 "military": false,
-                "intrigue": false,
+                "intrigue": true,
                 "power": true
             },
-            "strength": 2,
+            "strength": 1,
             "traits": [
                 "House Arryn",
                 "Maester"
             ],
-            "text": "While Maester Colemon is kneeling, treat the printed text box of Sweetrobin as if it were blank (except for Traits).\n<b>Dominance Action:</b> Kneel Maester Colemon and pay X gold to choose a <i>Condition</i> attachment with printed cost X or lower or Sweetsleep. Take control of that attachment and move it to another eligible character.",
+            "text": "<b>Dominance Action:</b> Kneel a unique <i>Maester</i> character to choose a <i>Condition</i> or <i>Item</i> attachment with a lower printed cost. Take control of that attachment and move it to another eligible character. (Limit once per phase.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/3efe9213-5766-451e-bc91-3e95ed5b204c"
+            "imageUrl": "https://hcti.io/v1/image/deac152e-e324-4658-bba9-d302af931e26"
         },
         {
             "code": "23026",
@@ -588,10 +588,10 @@
                 "House Arryn",
                 "Knight"
             ],
-            "text": "<b>Reaction:</b> After you win a [military] challenge in which Ser Vardis Egen is defending, sacrifice him. Then, you may initiate an additional [power] challenge this phase.",
+            "text": "<b>Reaction:</b> After you lose a challenge in which Ser Vardis Egan is defending, sacrifice him to return an attacking non-<i>Army</i> character to it's owner's hand.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/c1623e03-04ee-458e-bbf8-cd78f09af5ae"
+            "imageUrl": "https://hcti.io/v1/image/d872ce44-4fd3-4ebf-9beb-699428a35aff"
         },
         {
             "code": "23027",
@@ -612,10 +612,10 @@
                 "House Arryn",
                 "Fool"
             ],
-            "text": "<b>Forced Reaction:</b> After you win a challenge in which Benjicot is participating, reveal the bottom card of each player's deck. Discard each non-neutral card revealed this way. If the card shares a <i>Trait</i> with Benjicot, add it to its owner's hand instead.",
+            "text": "Insight.\n<b>Forced Reaction:</b> After Benjicot stands, reveal the bottom card of each player's deck. Add each card that shares a <i>Trait</i> with Benjicot to it's owners hand and discard the others.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/da3280dd-60c0-4086-a38b-6e49684ecea8"
+            "imageUrl": "https://hcti.io/v1/image/80c47832-0dd4-4051-b0de-7afdbc912bbd"
         },
         {
             "code": "23028",
