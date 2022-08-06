@@ -429,21 +429,21 @@
             "quantity": 3,
             "unique": true,
             "faction": "neutral",
-            "cost": 6,
+            "cost": 2,
             "icons": {
                 "military": false,
                 "intrigue": false,
                 "power": true
             },
-            "strength": 2,
+            "strength": 1,
             "traits": [
                 "House Arryn",
                 "Lord"
             ],
-            "text": "No attachments except <i>Title</i>.\nImmune to plot effects.\n<b>Forced Reaction:</b> After a player initiates a [military] challenge, they must either (choose one): reveal each card in their hand and shadows area, or reduce the claim value on their revealed plot card by 1 until the end of the challenge.",
+            "text": "<b>Interrupt:</b> When a card with a printed cost equal to or lower than it's owners initiative value is revealed, remove it from the game. (Limit once per phase.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/582d1d4d-f8a7-4504-ae56-5f256951deac"
+            "imageUrl": "https://hcti.io/v1/image/23736556-9113-4604-931d-8ebdabc6017e"
         },
         {
             "code": "23021",
@@ -514,10 +514,10 @@
                 "Guard",
                 "House Arryn"
             ],
-            "text": "While Mord is standing, treat the printed text box of each character with a jail token as if it were blank (except for <i>Traits</i>).\n<b>Reaction:</b> After Mord enters play, place a jail token on a character.",
+            "text": "<b>Action:</b> Kneel Mord to choose a character in play or a card in shadows. Until Mord stands or leaves play, treat the printed text box of that card as if it were blank (except for <i>Traits</i>).",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/80a9e10e-7dc5-4e79-9ad3-80ba16304a59"
+            "imageUrl": "https://hcti.io/v1/image/10d501df-3130-4ef9-a5d2-4f5253aedf29"
         },
         {
             "code": "23024",
@@ -631,16 +631,16 @@
                 "intrigue": true,
                 "power": true
             },
-            "strength": 2,
+            "strength": 3,
             "traits": [
                 "Ally",
                 "House Arryn",
                 "Spy"
             ],
-            "text": "Ambush (X).\nX is 1 higher than your initiative value.\n<b>Forced Reaction:</b> After a challenge is initiated, return Lord Protector's Retainer to your hand.",
+            "text": "<b>Interrupt:</b> When an opponent chooses a <i>Lord</i> or <i>Lady</i> character you control as the only target of a triggered ability, Lord Protector's Retainer becomes the target of that triggered ability instead. (Max once per phase.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/4dec1e5e-a23a-46d5-8b58-968486ab0e81"
+            "imageUrl": "https://hcti.io/v1/image/0a80eeb4-3424-493a-a7b7-5c66cd58d915"
         },
         {
             "code": "23029",
@@ -662,34 +662,35 @@
                 "House Arryn",
                 "Knight"
             ],
-            "text": "Each <i>House Arryn</i> character you control gets +1 STR.\n<b>Interrupt:</b> When a <i>Lord</i> or <i>Lady</i> character is killed, remove Winged Knight from the game to place that character on the bottom of its owner's deck instead of placing it in their dead pile.",
+            "text": "While the attacking player has a higher initiative value than you, Winged Knight does not kneel when declared as a defender.\n<b>Interrupt:</b> When a <i>Lord</i> or <i>Lady</i> character is killed, remove Winged Knight from the game to place that character on the bottom of its owner's deck instead of placing it in their dead pile.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/8a94f0ae-7dbf-476d-af74-9a3df5118d98"
+            "imageUrl": "https://hcti.io/v1/image/5850c353-8292-4ef4-8530-590427220da3"
         },
         {
             "code": "23030",
             "type": "character",
-            "name": "Knight of the Vale",
+            "name": "Gulltown Merchant",
             "octgnId": null,
             "quantity": 3,
             "unique": false,
             "faction": "neutral",
-            "cost": 2,
+            "cost": 1,
             "icons": {
-                "military": true,
+                "military": false,
                 "intrigue": false,
-                "power": false
+                "power": true
             },
-            "strength": 2,
+            "strength": 1,
             "traits": [
+                "Ally",
                 "House Arryn",
-                "Knight"
+                "Merchant"
             ],
-            "text": "While the attacking player has a higher initiative value than you, Knight of the Vale does not kneel when declared as a defender.\n-1 Initiative.",
+            "text": "<b>Marshalling Action:</b> Kneel Gulltown Merchant to reduce the cost of the next <i>House Arryn</i> card you marshal or play this phase by 1.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/8a4d1d30-805c-444a-93bc-418432f7e32f"
+            "imageUrl": "https://hcti.io/v1/image/8d4a373a-d5d5-419d-b4f3-f27ba2e71d3a"
         },
         {
             "code": "23031",
@@ -704,10 +705,10 @@
                 "House Arryn",
                 "Stronghold"
             ],
-            "text": "No attachments except <i>Fortification</i>.\nWhile The Eyrie is standing, increase the cost of the first in-faction card each player marshals, ambushes, or plays each phase by 1 (2 instead if your initiative is 0).\n<b>Interrupt:</b> When you would lose initiative, kneel The Eyrie to win initiative.\n-2 Initiative. +2 Reserve.",
+            "text": "While The Eyrie is standing, each unique <i>House Arryn</i> character you control gets +1 STR for each power on The Eyrie.\n<b>Reaction:</b> After the challenges phase begins, kneel The Eyrie to choose a player to become first player. Any opponent may move 1 power from a card they control to The Eyrie to cancel this effect.\n-2 Initiative. +2 Reserve.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/e0a44670-f684-483e-8c2d-156296258a92"
+            "imageUrl": "https://hcti.io/v1/image/604ebf4c-b476-41b0-8f3f-f1bd9f6921b9"
         },
         {
             "code": "23032",
@@ -774,10 +775,10 @@
                 "House Arryn",
                 "Title"
             ],
-            "text": "<i>Lord</i> character with printed cost 6 or higher only.\nAttached character gains the <i>House Arryn</i> trait. If attached character is Littlefinger, he gains renown.\n<b>Reaction:</b> After you draw a <i>House Arryn</i> card, reveal it to gain 1 gold.\n-1 Initiative.",
+            "text": "Non-loyal <i>Lord</i> character only.\nAttached character gains the <i>House Arryn</i> trait. If attached character is Littlefinger, he gains stealth.\n<b>Interrupt:</b> When the challenges phase ends, draw 1 card for each challenge initiated this phase in which you were not the losing player (to a maximum of 3 cards).",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/5baf3fa1-6f52-4c9c-9fda-d54f63ca5c3e"
+            "imageUrl": "https://hcti.io/v1/image/b50155ed-3503-4ffa-a0f7-c9f79fed8f46"
         },
         {
             "code": "23036",
@@ -812,24 +813,24 @@
         {
             "code": "23038",
             "type": "plot",
-            "name": "Condemned to the Moon Door",
+            "name": "The Defiance of Duskendale",
             "octgnId": null,
             "quantity": 3,
             "faction": "neutral",
             "plotStats": {
-                "income": 3,
-                "initiative": 0,
+                "income": 4,
+                "initiative": 5,
                 "claim": 1,
-                "reserve": 5
+                "reserve": 6
             },
             "traits": [
-                "Edict",
-                "House Arryn"
+                "Legacy",
+                "Siege"
             ],
-            "text": "<b>When Revealed</b>: Choose a non-<i>Army</i> character. At the end of the round, if that character is still in play, kneel your faction card to kill it (cannot be saved).",
+            "text": "During a challenge, each non-<i>Stronghold</i> location controlled by the defending player gains the <i>Contested</i> trait.\n<b>Forced Reaction:</b> After a non-limited <i>Contested</i> location is knelt by assault or a non-character ability, discard it from play.",
             "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/8ef5912a-a433-46e8-94a5-46dbdd18e2ca"
+            "imageUrl": "https://hcti.io/v1/image/3e487df6-ab5f-42d9-9676-bff72c318cdf"
         },
         {
             "code": "23039",
@@ -864,10 +865,10 @@
                 "Banner",
                 "House Arryn"
             ],
-            "text": "You cannot include more than 12 in-faction cards in your deck.\nWhile you do not control an attacking <i>House Arryn</i> character, reduce the claim value on your revealed plot card by 1.\n<b>Reaction:</b> After you win a challenge by 5 or more STR, if it is:\n - a [military] challenge, choose a participating character and have it gain 1 power.\n - an [intrigue] challenge, draw a card.\n - a [power] challenge, choose and stand a participating character.",
+            "text": "Increase the cost of the first in-faction card each player plays, ambushes or brings out of shadows each round by 1.\nWhile each opponent has a higher initiative value than you, each <i>House Arryn</i> character you control gets +1 STR.",
             "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/b56ac09b-5209-4f1a-ab9c-aa4c68949d33"
+            "imageUrl": "https://hcti.io/v1/image/5d1b2c3e-f1a0-4c18-bae9-42680a04a435"
         }
     ]
 }
