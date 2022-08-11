@@ -28,6 +28,10 @@
                 "name": {
                     "enum": ["joust", "melee"]
                 },
+                "url": {
+                    "type": "string",
+                    "format": "uri"
+                },
                 "restricted": {
                     "$ref": "#/definitions/cardCodeArray"
                 },
