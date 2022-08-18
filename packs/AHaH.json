@@ -26,15 +26,15 @@
                 "Lord",
                 "Small Council"
             ],
-            "text": "Insight.\n<b>Interrupt:</b> When Jon Arryn is killed, kneel your faction card to have each player with an equal or lower initiative value than you stand a <i>King</i> or <i>Small Council</i> character they control, if able. Then, following the challenges phase this round, there is an additional challenges phase.",
+            "text": "Insight. Renown.\n<b>Forced Interrupt:</b> When Jon Arryn is killed, each player may draw 2 cards or gain 1 power.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/5cf02e17-7eee-4687-b8bf-3b7ce01536df"
+            "imageUrl": "https://hcti.io/v1/image/0428fa5d-e4a9-4d16-8347-00454b545611"
         },
         {
             "code": "23002",
             "type": "attachment",
-            "name": "The King in the Narrow Sea",
+            "name": "Prince of the Narrow Sea",
             "octgnId": null,
             "quantity": 3,
             "unique": true,
@@ -44,10 +44,10 @@
             "traits": [
                 "Title"
             ],
-            "text": "Unique [baratheon] character only.\n<b>Reaction:</b> After you lose initiative, return a <i>Mercenary</i> or <i>Smuggler</i> character you control to its owner's hand to kneel a character and a location with a lower printed cost.\n-1 Initiative.",
+            "text": "Unique [baratheon] character only.\nIf attached character is Salladhor Saan, he gains renown and the <i>Commander</i> trait.\n<b>Reaction:</b> After you lose initiative, return a <i>Smuggler</i> character to your hand to choose and kneel a character and a location with a lower printed cost.\n-1 Initiative.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/296a0c56-af7e-4ffd-8f11-1b95988d798d"
+            "imageUrl": "https://hcti.io/v1/image/1cd3181c-bb27-49e6-ac46-7219dc93b116"
         },
         {
             "code": "23003",
@@ -108,15 +108,15 @@
                 "intrigue": false,
                 "power": true
             },
-            "strength": 6,
+            "strength": 5,
             "traits": [
                 "Army",
                 "Clansman"
             ],
-            "text": "Assault. Intimidate. No attachments.\n<b>Reaction:</b> After you win a challenge in which The Halfman's Horde is attacking, discard 1 card at random from the losing opponents hand for each unique attacking <i>Clansman</i> character.",
+            "text": "Assault. Intimidate. No attachments.\n<b>Reaction:</b> After you win a challenge in which The Halfman's Horde is attacking, discard 1 card at random from the losing opponents hand for each other unique attacking <i>Clansman</i> character.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/9fbea4bb-88a0-40a9-8d9f-4cdc8d84d0bd"
+            "imageUrl": "https://hcti.io/v1/image/1d2d7147-14b5-47e0-a33e-1505c651d312"
         },
         {
             "code": "23006",
@@ -127,14 +127,14 @@
             "unique": true,
             "faction": "lannister",
             "loyal": true,
-            "cost": 2,
+            "cost": 1,
             "traits": [
                 "Title"
             ],
-            "text": "[lannister] <i>Lord</i> character only.\n<b>Reaction:</b> After any number of cards are discarded from an opponent's hand during the challenges phase, if you do not support that player, draw cards equal to the amount of cards discarded. (Limit once per round).",
+            "text": "[lannister] <i>Lord</i> character only.\nAttached character gains the <i>Commander</i> trait.\n<b>Reaction:</b> After 1 or more cards are discarded from an opponent's hand during the challenges phase, if you do not support that player, draw cards equal to the amount of cards discarded (to a maximum of 3 cards). (Limit once per round).",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/6b135997-9de2-452e-be99-c1de4ba22d46"
+            "imageUrl": "https://hcti.io/v1/image/14e9bfae-1945-41cb-8956-db854ea3b0a4"
         },
         {
             "code": "23007",
@@ -190,14 +190,14 @@
                 "intrigue": true,
                 "power": true
             },
-            "strength": 1,
+            "strength": 2,
             "traits": [
                 "Ally"
             ],
-            "text": "<b>Reaction:</b> After Craster's Keep Mutineer enters play, choose and discard a duplicate from play.",
+            "text": "<b>Reaction:</b> After Craster's Keep Mutineer enters play, choose and discard a duplicate on a character in play.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/26d17cdc-42cb-421f-bb33-f366ff98762d"
+            "imageUrl": "https://hcti.io/v1/image/838b5f99-d302-42e2-bc01-a905f643fcc2"
         },
         {
             "code": "23010",
@@ -213,10 +213,10 @@
                 "Item",
                 "Weapon"
             ],
-            "text": "Bestow (2).\n<b>Challenges Action:</b> Discard 1 gold from Defensive Debris to choose a card in an opponents discard pile. Until the end of the phase, cards with that printed cost cannot be played or put into play. (Max once per phase.)",
+            "text": "Bestow (2).\nAttached character gets +1 STR.\n<b>Challenges Action:</b> Discard 1 gold from Defensive Debris to choose a card in an opponents discard pile. Until the end of the phase, cards with that printed cost cannot be played or put into play. (Max once per phase.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/e888a31f-2fc8-44e1-be3b-c0109b9fa9f8"
+            "imageUrl": "https://hcti.io/v1/image/026cfed7-c191-46dc-b395-679a9bfc7550"
         },
         {
             "code": "23011",
@@ -233,15 +233,15 @@
                 "intrigue": true,
                 "power": false
             },
-            "strength": 4,
+            "strength": 3,
             "traits": [
                 "Army",
                 "House Reed"
             ],
-            "text": "Shadow (3). Stealth.\n<b>Reaction:</b> After a <i>House Reed</i> card enters play, place a poison token on a character controlled by an opponent. Then, if the number of poison tokens are equal or higher than that characters STR, return Crannogmen to shadows to kill it.",
+            "text": "Shadow (4). Stealth.\n<b>Reaction:</b> After a <i>House Reed</i> card enters play, place a poison token on a character controlled by an opponent. Then, if the number of poison tokens are equal or higher than that characters STR, return Crannogmen to shadows to kill it. (Limit once per phase.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/7eeb10cc-fe4e-46d4-93f4-9a0f5d647ab3"
+            "imageUrl": "https://hcti.io/v1/image/b0b896f0-8d64-41c5-8cc8-c9b5e84e1a2a"
         },
         {
             "code": "23012",
@@ -296,15 +296,15 @@
             "quantity": 3,
             "unique": true,
             "faction": "targaryen",
-            "loyal": true,
-            "cost": 2,
+            "loyal": false,
+            "cost": 1,
             "traits": [
                 "Warship"
             ],
-            "text": "While you control Captain Groleo, he gains the <i>Commander</i> trait and a [power] icon.\n<b>Challenges Action:</b> Kneel The Balerion to attach it to an <i>Army</i> or <i>Stormborn</i> character you control as a <i>Weapon</i> attachment with the text: \"Terminal. Attached character gains assault during [power] challenges.\"",
+            "text": "While you control Captain Groleo, he gains a [power] icon and stealth.\n<b>Challenges Action:</b> Kneel The Balerion and shuffle it into your deck to choose a [targaryen] character. Until the end of the phase, that character gets +2 STR and gains assault.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/17c79b3f-e26d-4407-b70e-1c1dcf3606d7"
+            "imageUrl": "https://hcti.io/v1/image/8b71d9b0-dcfc-4e23-ae08-f070ebb743df"
         },
         {
             "code": "23015",
@@ -343,10 +343,10 @@
             "loyal": true,
             "cost": "X",
             "traits": [],
-            "text": "<b>Reaction:</b> After an attacking character is removed from a challenge, choose X defending characters. If you win this challenge, gain 2 power and stand each of those characters.",
+            "text": "<b>Reaction:</b> After an attacking character is removed from a challenge, choose X defending characters (cannot be 0). If you win this challenge, gain 2 power and stand each of those characters.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/cbda91a8-0c75-46fb-bf35-5e3b3345632e"
+            "imageUrl": "https://hcti.io/v1/image/c5589e39-185f-4df0-8504-25bbbabb6686"
         },
         {
             "code": "23017",
@@ -514,10 +514,10 @@
                 "Guard",
                 "House Arryn"
             ],
-            "text": "<b>Action:</b> Kneel Mord to choose a character in play or a card in shadows. Until Mord stands or leaves play, treat the printed text box of that card as if it were blank (except for <i>Traits</i>).",
+            "text": "<b>Action:</b> Kneel Mord to choose a character in play or a card in shadows. Until Mord stands or leaves play, treat it's printed text box as if it were blank (except for <i>Traits</i>) and have it lose all keywords.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/10d501df-3130-4ef9-a5d2-4f5253aedf29"
+            "imageUrl": "https://hcti.io/v1/image/450098f5-dd90-41cf-9c5e-50ae4535a9b1"
         },
         {
             "code": "23024",
