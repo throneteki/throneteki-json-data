@@ -539,7 +539,7 @@
                 "House Arryn",
                 "Lord"
             ],
-            "text": "While each opponent has a higher initiative value than you, Nestor Royce gains renown.\nReaction: After you win a challenge in which Nestor Royce is attacking, kneel a neutral location with printed cost 1 or higher to stand him. (Limit once per phase.)",
+            "text": "While each opponent has a higher initiative value than you, Nestor Royce gains renown.\n<b>Reaction:</b> After you win a challenge in which Nestor Royce is attacking, kneel a neutral location with printed cost 1 or higher to stand him. (Limit once per phase.)",
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://hcti.io/v1/image/13eae6b6-d5dd-4443-a51d-0b0b3e6926ce"
@@ -705,10 +705,10 @@
                 "House Arryn",
                 "Stronghold"
             ],
-            "text": "While The Eyrie is standing, each unique <i>House Arryn</i> character you control gets +1 STR for each power on The Eyrie.\n<b>Reaction:</b> After the challenges phase begins, kneel The Eyrie to choose a player to become first player. Any opponent may move 1 power from a card they control to The Eyrie to cancel this effect.\n-2 Initiative. +2 Reserve.",
+            "text": "While The Eyrie is standing, each opponent who has more power than you cannot initiate more than 2 challenges against you during the challenges phase.\n<b>Reaction:</b> After the challenges phase begins, kneel The Eyrie to choose an opponent to become first player.\n-2 Initiative. +1 Reserve.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/604ebf4c-b476-41b0-8f3f-f1bd9f6921b9"
+            "imageUrl": "https://hcti.io/v1/image/1d862392-ff54-4bc5-a97c-233270b26506"
         },
         {
             "code": "23032",
