@@ -26,10 +26,10 @@
                 "Lord",
                 "Small Council"
             ],
-            "text": "Insight. Renown.\n<b>Forced Interrupt:</b> When Jon Arryn is killed, each player may draw 2 cards or gain 1 power.",
+            "text": "Insight. Renown.\nJon Arryn cannot be saved.\n<b>Forced Interrupt:</b> When Jon Arryn is killed, each player may draw 2 cards or gain 1 power.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/0428fa5d-e4a9-4d16-8347-00454b545611"
+            "imageUrl": "https://hcti.io/v1/image/519b88d6-0c53-421d-a326-a2dc5194499d"
         },
         {
             "code": "23002",
