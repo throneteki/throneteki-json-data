@@ -88,10 +88,10 @@
                 "Contested",
                 "The North"
             ],
-            "text": "Shadow (1).\n<b>Reaction:</b> After a [greyjoy] card comes out of shadows, kneel your faction card. For each <i>Raider</i> character you control, discard the top card of each opponent's deck who has an equal or higher initiative value than you.\n-2 Initiative.",
+            "text": "Shadow (1).\n<b>Reaction:</b> After a [greyjoy] card comes out of shadows, kneel Torrhen's Square. For each <i>Raider</i> character you control, discard the top card of each opponent's deck who has an equal or higher initiative value than you (to a maximum of 3 cards).\n-2 Initiative.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/f7e5764d-378d-4206-ab05-90040b6f9d74"
+            "imageUrl": "https://hcti.io/v1/image/86a42919-da26-4b42-9213-ea2527f1daaa"
         },
         {
             "code": "23005",
@@ -387,15 +387,15 @@
                 "intrigue": true,
                 "power": true
             },
-            "strength": 6,
+            "strength": 5,
             "traits": [
                 "House Arryn",
                 "Lord"
             ],
-            "text": "Insight.\n<b>Reaction:</b> After you win a challenge, each player must choose a card from their hand or shadows area, if able. Then, reveal the chosen cards. If your revealed card is a different card type to the others, stand Littlefinger and have him gain 1 power. (Limit once per phase.)",
+            "text": "Insight.\n<b>Reaction:</b> After you win a challenge in which Littlefinger is participating, each player  choose a card in their hand or shadows area. Then, reveal those cards. If no opponent revealed a card with the same cardtype as you, move 1 power from a card in play to Littlefinger.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/78b0f3a2-7d86-43de-9ad9-6ac04a64a93c"
+            "imageUrl": "https://hcti.io/v1/image/e6245867-dd81-447a-8446-269a3f067433"
         },
         {
             "code": "23019",
@@ -416,10 +416,10 @@
                 "House Arryn",
                 "Lady"
             ],
-            "text": "While you control Harry the Heir, he gains renown.\n<b>Reaction:</b> After a challenge is initiated against you, kneel a neutral location to kneel and take control of an attacking character with equal or lower printed cost until the end of the challenge. (Limit twice per phase.)",
+            "text": "While you control Harry the Heir, he gains renown.\n<b>Challenges Action:</b> Kneel a neutral location to choose a non-participating character with equal or lower printed cost. Until the end of the challenge, that character contributes its STR to your side. Then, kneel that character.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/58754def-6bf1-47f2-b9f4-9f18d96076bd"
+            "imageUrl": "https://hcti.io/v1/image/d7f219ef-9b27-426a-aa5e-505305ca9bbb"
         },
         {
             "code": "23020",
@@ -490,10 +490,10 @@
                 "House Arryn",
                 "Knight"
             ],
-            "text": "While you control Anya Waynwood, she gets +1 STR for each power on Harry the Heir.\n<b>Reaction:</b> After a location you control is knelt by the effect of a card you control during a challenge, stand it. Then, if it has the <i>House Arryn</i> trait, stand Harry the Heir. (Limit once per round.)",
+            "text": "While you control Anya Waynwood, she gets +1 STR for each power on Harry the Heir.\n<b>Reaction:</b> After you win a challenge in which Harry the Heir is attacking, choose and stand a neutral location your control. (Limit once per round.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/3857ab65-68ea-4120-84f0-3451ce60b7e3"
+            "imageUrl": "https://hcti.io/v1/image/b31ec6b8-8579-4a8b-b4a4-3f53bf025a3c"
         },
         {
             "code": "23023",
@@ -539,10 +539,10 @@
                 "House Arryn",
                 "Lord"
             ],
-            "text": "While each opponent has a higher initiative value than you, Nestor Royce gains renown.\n<b>Reaction:</b> After you win a challenge in which Nestor Royce is attacking, kneel a neutral location with printed cost 1 or higher to stand him. (Limit once per phase.)",
+            "text": "<b>Reaction:</b> After you win a challenge in which Nestor Royce is participating, kneel a neutral location with printed cost 1 or higher to have him gain renown or intimidate until the end of the challenge.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/13eae6b6-d5dd-4443-a51d-0b0b3e6926ce"
+            "imageUrl": "https://hcti.io/v1/image/e7c475dd-c512-4b4c-a8b0-3b5718ef31ee"
         },
         {
             "code": "23025",
@@ -607,15 +607,15 @@
                 "intrigue": true,
                 "power": false
             },
-            "strength": 1,
+            "strength": 2,
             "traits": [
                 "House Arryn",
                 "Fool"
             ],
-            "text": "Insight.\n<b>Forced Reaction:</b> After Benjicot stands, reveal the bottom card of each player's deck. Add each card that shares a <i>Trait</i> with Benjicot to it's owners hand and discard the others.",
+            "text": "<b>Forced Reaction:</b> After Benjicot stands, reveal the bottom card of each player's deck. Add each card that shares a <i>Trait</i> with Benjicot to it's owners hand and discard the others.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/80c47832-0dd4-4051-b0de-7afdbc912bbd"
+            "imageUrl": "https://hcti.io/v1/image/12549867-01cf-4324-b1ce-3704bbc66189"
         },
         {
             "code": "23028",
@@ -662,10 +662,10 @@
                 "House Arryn",
                 "Knight"
             ],
-            "text": "While the attacking player has a higher initiative value than you, Winged Knight does not kneel when declared as a defender.\n<b>Interrupt:</b> When a <i>Lord</i> or <i>Lady</i> character is killed, remove Winged Knight from the game to place that character on the bottom of its owner's deck instead of placing it in their dead pile.",
+            "text": "<b>Interrupt:</b> When a <i>Lord</i> or <i>Lady</i> character is killed, remove Winged Knight from the game to place that character on the bottom of its owner's deck instead of placing it in their dead pile.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/5850c353-8292-4ef4-8530-590427220da3"
+            "imageUrl": "https://hcti.io/v1/image/5d7cfae8-ac69-489d-b921-4bb0bccbfdc3"
         },
         {
             "code": "23030",
@@ -687,10 +687,10 @@
                 "House Arryn",
                 "Merchant"
             ],
-            "text": "<b>Marshalling Action:</b> Kneel Gulltown Merchant to reduce the cost of the next <i>House Arryn</i> card you marshal or play this phase by 1.",
+            "text": "<b>Marshalling Action:</b> Kneel Gulltown Merchant to reduce the cost of the next <i>House Arryn</i> character you marshal this phase by 1.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/8d4a373a-d5d5-419d-b4f3-f27ba2e71d3a"
+            "imageUrl": "https://hcti.io/v1/image/db922658-0a19-438f-ad65-dbcad2133f31"
         },
         {
             "code": "23031",
@@ -827,10 +827,10 @@
                 "Legacy",
                 "Siege"
             ],
-            "text": "During a challenge, each non-<i>Stronghold</i> location controlled by the defending player gains the <i>Contested</i> trait.\n<b>Forced Reaction:</b> After a non-limited <i>Contested</i> location is knelt by assault or a non-character ability, discard it from play.",
+            "text": "During a challenge, each non-<i>Stronghold</i> location gains the Contested trait.\n<b>Forced Reaction:</b> After a non-limited <i>Contested</i> location is knelt, discard it from play.",
             "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/3e487df6-ab5f-42d9-9676-bff72c318cdf"
+            "imageUrl": "https://hcti.io/v1/image/d0aad861-1827-4636-b428-c76ce455eaa7"
         },
         {
             "code": "23039",
@@ -840,19 +840,19 @@
             "quantity": 3,
             "faction": "neutral",
             "plotStats": {
-                "income": 6,
+                "income": 5,
                 "initiative": 0,
                 "claim": 1,
-                "reserve": 6
+                "reserve": 5
             },
             "traits": [
                 "House Arryn",
                 "Siege"
             ],
             "text": "Each player cannot play in-faction events and plays with each card in shadows revealed.",
-            "deckLimit": 2,
+            "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/ae46b970-a245-4006-8a73-5e15dbaf1831"
+            "imageUrl": "https://hcti.io/v1/image/9fb256fa-fbc3-49a9-b408-46221440ed4b"
         },
         {
             "code": "23040",
