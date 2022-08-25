@@ -827,10 +827,10 @@
                 "Legacy",
                 "Siege"
             ],
-            "text": "During a challenge, each non-<i>Stronghold</i> location gains the Contested trait.\n<b>Forced Reaction:</b> After a non-limited <i>Contested</i> location is knelt, discard it from play.",
+            "text": "During a challenge, each non-<i>Stronghold</i> location gains the <i>Contested</i> trait.\n<b>Forced Reaction:</b> After a non-limited <i>Contested</i> location is knelt, discard it from play.",
             "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/d0aad861-1827-4636-b428-c76ce455eaa7"
+            "imageUrl": "https://hcti.io/v1/image/3adf080a-6b36-4482-9838-39901924c5d0"
         },
         {
             "code": "23039",
