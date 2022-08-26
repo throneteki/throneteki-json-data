@@ -340,13 +340,13 @@
             "octgnId": null,
             "quantity": 3,
             "faction": "tyrell",
-            "loyal": true,
-            "cost": "X",
+            "loyal": false,
+            "cost": 1,
             "traits": [],
-            "text": "<b>Reaction:</b> After an attacking character is removed from a challenge, choose X defending characters (cannot be 0). If you win this challenge, gain 2 power and stand each of those characters.",
+            "text": "<b>Reaction:</b> After a character is removed from a challenge, stand up to X characters with printed STR 1 or lower. X is the removed character's STR.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/c5589e39-185f-4df0-8504-25bbbabb6686"
+            "imageUrl": "https://hcti.io/v1/image/2981d25e-347d-47ba-9fe2-75527fa40e87"
         },
         {
             "code": "23017",
@@ -411,7 +411,7 @@
                 "intrigue": true,
                 "power": true
             },
-            "strength": 4,
+            "strength": 3,
             "traits": [
                 "House Arryn",
                 "Lady"
@@ -631,7 +631,7 @@
                 "intrigue": true,
                 "power": true
             },
-            "strength": 3,
+            "strength": 2,
             "traits": [
                 "Ally",
                 "House Arryn",
@@ -656,7 +656,7 @@
                 "intrigue": true,
                 "power": false
             },
-            "strength": 1,
+            "strength": 2,
             "traits": [
                 "Guard",
                 "House Arryn",
@@ -723,10 +723,10 @@
                 "House Arryn",
                 "Stronghold"
             ],
-            "text": "While The Bloody Gate is standing, each player cannot put more than than 1 character into play using card abilities each phase.\n<b>Forced Reaction:</b> After you win initiative, kneel a <i>Guard</i> character you control, or The Bloody Gate.\n-1 Initiative +1 Reserve",
+            "text": "While The Bloody Gate is standing, increase the cost for each player to play, ambush or bring a card out of shadows by 1.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/e4079016-dc14-413a-b063-3c9a968758c3"
+            "imageUrl": "https://hcti.io/v1/image/e8dc2979-513f-4711-aebf-fbf012f287a0"
         },
         {
             "code": "23033",
@@ -740,10 +740,10 @@
             "traits": [
                 "House Arryn"
             ],
-            "text": "<b>Reaction:</b> After you win a challenge, draw 1 card for each defending <i>House Arryn</i> character you control (to a maximum of 5).\n-2 Initiative.",
+            "text": "<b>Reaction:</b> After you win a challenge in which you control a participating <i>House Arryn</i> character, draw 1 card (2 cards instead if The Vale of Arryn is knelt). (Limit once per phase).\r\n-1 Initiative.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/2f1ab72e-463c-43f2-a12b-dc6a22f2450f"
+            "imageUrl": "https://hcti.io/v1/image/2d6bc2af-2885-44df-967f-4dc53fb4e4fe"
         },
         {
             "code": "23034",
@@ -775,10 +775,10 @@
                 "House Arryn",
                 "Title"
             ],
-            "text": "Non-loyal <i>Lord</i> character only.\nAttached character gains the <i>House Arryn</i> trait. If attached character is Littlefinger, he gains stealth.\n<b>Interrupt:</b> When the challenges phase ends, draw 1 card for each challenge initiated this phase in which you were not the losing player (to a maximum of 3 cards).",
+            "text": "<i>Lord</i> character you control only.\nIf attached character is Littlefinger, he gets +2 STR.\n<b>Challenges Action:</b> During a challenge in which you control a participating <i>House Arryn</i> character, kneel Lord Protector of the Vale to have attached character contribute its STR to your side.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/b50155ed-3503-4ffa-a0f7-c9f79fed8f46"
+            "imageUrl": "https://hcti.io/v1/image/7384b5ab-6227-4b78-bee7-4a2ed02b8f0e"
         },
         {
             "code": "23036",
