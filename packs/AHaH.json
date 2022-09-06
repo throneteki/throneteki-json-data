@@ -340,13 +340,13 @@
             "octgnId": null,
             "quantity": 3,
             "faction": "tyrell",
-            "loyal": false,
-            "cost": 1,
+            "loyal": true,
+            "cost": "-",
             "traits": [],
-            "text": "<b>Reaction:</b> After a character is removed from a challenge, stand up to X characters with printed STR 1 or lower. X is the removed character's STR.",
+            "text": "Shadow (1).\n<b>Reaction:</b> After attackers are declared in a challenge against you, reveal your hand (of at least 1 card). Then, stand and remove each attacking character from the challenge.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/2981d25e-347d-47ba-9fe2-75527fa40e87"
+            "imageUrl": "https://hcti.io/v1/image/5dd63476-b9c0-4e1e-b795-9ce280a91e5f"
         },
         {
             "code": "23017",
@@ -368,10 +368,10 @@
                 "House Arryn",
                 "Knight"
             ],
-            "text": "Assault. Renown. No attachments.\n<b>Challenges Action:</b> Kneel your faction card to choose a defending <i>House Arryn</i> character you control. Until the end of the challenge, that character gets +3 STR (double its STR instead if your initiative value is 0).",
+            "text": "Assault. Renown. No attachments.\n<b>Challenges Action:</b> Kneel a neutral location with printed cost 1 or higher to choose a defending <i>House Arryn</i> character you control. Until the end of the challenge, that character gets +3 STR (double its STR instead if your initiative value is 0). (Limit once per phase.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/3ab865cf-a94a-42c9-8d5e-4c552430f26e"
+            "imageUrl": "https://hcti.io/v1/image/66ccb75b-6b98-46d8-a85e-11ec0d60d87b"
         },
         {
             "code": "23018",
@@ -392,10 +392,10 @@
                 "House Arryn",
                 "Lord"
             ],
-            "text": "Insight.\n<b>Reaction:</b> After you win a challenge in which Littlefinger is participating, each player  choose a card in their hand or shadows area. Then, reveal those cards. If no opponent revealed a card with the same cardtype as you, move 1 power from a card in play to Littlefinger.",
+            "text": "Insight.\n<b>Reaction:</b> After you win a challenge in which Littlefinger is participating, each player  chooses a card in their hand or shadows area. Then, reveal those cards. If no opponent revealed a card with the same cardtype as you, move 1 power from a card in play to Littlefinger.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/e6245867-dd81-447a-8446-269a3f067433"
+            "imageUrl": "https://hcti.io/v1/image/b2c86a98-fc25-472f-8c4f-f8c6dff7bb63"
         },
         {
             "code": "23019",
@@ -416,10 +416,10 @@
                 "House Arryn",
                 "Lady"
             ],
-            "text": "While you control Harry the Heir, he gains renown.\n<b>Challenges Action:</b> Kneel a neutral location to choose a non-participating character with equal or lower printed cost. Until the end of the challenge, that character contributes its STR to your side. Then, kneel that character.",
+            "text": "While you control Harry the Heir, he gains renown.\n<b>Challenges Action:</b> Kneel a neutral location to choose a non-participating character with equal or lower printed cost. Until the end of the challenge, that character contributes its STR to your side. Then, kneel that character. (Limit once per phase.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/58404fe4-af36-4ee9-a468-8fa17658c887"
+            "imageUrl": "https://hcti.io/v1/image/15fed345-1a9c-48e3-97a1-e81ea3702ae8"
         },
         {
             "code": "23020",
@@ -440,10 +440,10 @@
                 "House Arryn",
                 "Lord"
             ],
-            "text": "<b>Interrupt:</b> When a card with a printed cost equal to or lower than it's owners initiative value is revealed, remove it from the game. (Limit once per phase.)",
+            "text": "<b>Interrupt:</b> When a card with a printed cost equal to or lower than its owners initiative value is revealed, remove it from the game. (Limit once per phase.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/23736556-9113-4604-931d-8ebdabc6017e"
+            "imageUrl": "https://hcti.io/v1/image/7c10673d-26e3-427b-9364-487452d9ec82"
         },
         {
             "code": "23021",
@@ -503,21 +503,21 @@
             "quantity": 3,
             "unique": true,
             "faction": "neutral",
-            "cost": 5,
+            "cost": 3,
             "icons": {
                 "military": true,
                 "intrigue": false,
                 "power": false
             },
-            "strength": 5,
+            "strength": 2,
             "traits": [
                 "Guard",
                 "House Arryn"
             ],
-            "text": "<b>Action:</b> Kneel Mord to choose a character in play or a card in shadows. Until Mord stands or leaves play, treat it's printed text box as if it were blank (except for <i>Traits</i>) and have it lose all keywords.",
+            "text": "<b>Action:</b> Kneel Mord to choose a character in play or a card in shadows. Until Mord stands or leaves play, treat that cards printed text box as if it were blank (except for <i>Traits</i>) and have it lose all gained keywords.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/450098f5-dd90-41cf-9c5e-50ae4535a9b1"
+            "imageUrl": "https://hcti.io/v1/image/50e0c524-6d9a-4e3f-b95c-6cf6f460eefe"
         },
         {
             "code": "23024",
@@ -612,10 +612,10 @@
                 "House Arryn",
                 "Fool"
             ],
-            "text": "<b>Forced Reaction:</b> After Benjicot stands, reveal the bottom card of each player's deck. Add each card that shares a <i>Trait</i> with Benjicot to it's owners hand and discard the others.",
+            "text": "<b>Forced Reaction:</b> After Benjicot stands, reveal the bottom card of each player's deck. Add each card that shares a <i>Trait</i> with Benjicot to its owner's hand and discard the others.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/12549867-01cf-4324-b1ce-3704bbc66189"
+            "imageUrl": "https://hcti.io/v1/image/b58c9a5c-5a0e-4efa-bb8a-84690151f5e7"
         },
         {
             "code": "23028",
@@ -687,10 +687,10 @@
                 "House Arryn",
                 "Merchant"
             ],
-            "text": "<b>Marshalling Action:</b> Kneel Gulltown Merchant to reduce the cost of the next <i>House Arryn</i> character you marshal this phase by 1.",
+            "text": "<b>Marshaling Action:</b> Kneel Gulltown Merchant to reduce the cost of the next <i>House Arryn</i> character you marshal this phase by 1.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/db922658-0a19-438f-ad65-dbcad2133f31"
+            "imageUrl": "https://hcti.io/v1/image/7b13ce0e-5879-48ac-a214-edd8db59575c"
         },
         {
             "code": "23031",
@@ -740,10 +740,10 @@
             "traits": [
                 "House Arryn"
             ],
-            "text": "<b>Reaction:</b> After you win a challenge in which you control a participating <i>House Arryn</i> character, draw 1 card (2 cards instead if The Vale of Arryn is knelt). (Limit once per phase).\r\n-1 Initiative.",
+            "text": "<b>Reaction:</b> After you win a challenge in which you control a participating <i>House Arryn</i> character, draw 1 card (2 cards instead if The Vale of Arryn is kneeling). (Limit once per phase).\n-1 Initiative.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/2d6bc2af-2885-44df-967f-4dc53fb4e4fe"
+            "imageUrl": "https://hcti.io/v1/image/04e1b502-e564-4494-9b20-a4f8f00e3e4c"
         },
         {
             "code": "23034",
@@ -805,10 +805,10 @@
             "faction": "neutral",
             "cost": 0,
             "traits": [],
-            "text": "Play only if you control a unique <i>House Arryn</i> character or Stannis Baratheon.\n<b>Reaction:</b> After you lose initiative, the winning opponent must choose and discard a <i>Lord</i> or <i>Lady</i> character from their hand or shadows area unless they reveal a hand and shadows area containing no <i>Lord</i> or <i>Lady</i> characters.",
+            "text": "<b>Reaction:</b> After you lose initiative, the winning opponent must choose and discard a <i>Lord</i> or <i>Lady</i> character from their hand or shadows area unless they reveal a hand and shadows area containing no <i>Lord</i> or <i>Lady</i> characters.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/fd1e6a5a-80d5-4a86-b010-d3c4699de0b3"
+            "imageUrl": "https://hcti.io/v1/image/f3f4e726-99b3-4b90-848c-1912ce05ce2c"
         },
         {
             "code": "23038",
