@@ -82,7 +82,7 @@
             "quantity": 3,
             "unique": true,
             "faction": "greyjoy",
-            "loyal": false,
+            "loyal": true,
             "cost": 2,
             "traits": [
                 "Contested",
@@ -91,7 +91,7 @@
             "text": "Shadow (1).\n<b>Reaction:</b> After a [greyjoy] card comes out of shadows, kneel Torrhen's Square. For each <i>Raider</i> character you control, discard the top card of each opponent's deck who has an equal or higher initiative value than you (to a maximum of 3 cards).\n-2 Initiative.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/86a42919-da26-4b42-9213-ea2527f1daaa"
+            "imageUrl": "https://hcti.io/v1/image/fda33ffc-647e-4752-9280-7d7c8cd2c5ed"
         },
         {
             "code": "23005",
@@ -131,10 +131,10 @@
             "traits": [
                 "Title"
             ],
-            "text": "[lannister] <i>Lord</i> character only.\nAttached character gains the <i>Commander</i> trait.\n<b>Reaction:</b> After 1 or more cards are discarded from an opponent's hand during the challenges phase, if you do not support that player, draw cards equal to the amount of cards discarded (to a maximum of 3 cards). (Limit once per round).",
+            "text": "[lannister] <i>Lord</i> character only.\nAttached character gains the <i>Commander</i> trait.\n<b>Reaction:</b> After 1 or more cards are discarded from an opponent's hand during the challenges phase, if you do not support that player, draw cards equal to the amount of cards discarded. (Limit once per round).",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/14e9bfae-1945-41cb-8956-db854ea3b0a4"
+            "imageUrl": "https://hcti.io/v1/image/874e2de6-9ba1-4172-b710-1f6088bb53be"
         },
         {
             "code": "23007",
@@ -368,10 +368,10 @@
                 "House Arryn",
                 "Knight"
             ],
-            "text": "Assault. Renown. No attachments.\n<b>Challenges Action:</b> Kneel a neutral location with printed cost 1 or higher to choose a defending <i>House Arryn</i> character you control. Until the end of the challenge, that character gets +3 STR (double its STR instead if your initiative value is 0). (Limit once per phase.)",
+            "text": "Assault. No attachments.\n<b>Challenges Action:</b> Kneel a neutral location with printed cost 1 or higher to choose a defending <i>House Arryn</i> character you control. Until the end of the challenge, that character gets +3 STR (double its STR instead if your initiative value is 0). (Limit once per phase.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/66ccb75b-6b98-46d8-a85e-11ec0d60d87b"
+            "imageUrl": "https://hcti.io/v1/image/c9380489-558d-4dc3-bc8c-4edf3069f46b"
         },
         {
             "code": "23018",
@@ -416,10 +416,10 @@
                 "House Arryn",
                 "Lady"
             ],
-            "text": "While you control Harry the Heir, he gains renown.\n<b>Challenges Action:</b> Kneel a neutral location to choose a non-participating character with equal or lower printed cost. Until the end of the challenge, that character contributes its STR to your side. Then, kneel that character. (Limit once per phase.)",
+            "text": "While you control Harry the Heir, he gains renown.\n<b>Challenges Action:</b> During a challenge, kneel a neutral location to choose a non-participating character with equal or lower printed cost. That character contributes its STR to your side this challenge. (Limit once per phase.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/15fed345-1a9c-48e3-97a1-e81ea3702ae8"
+            "imageUrl": "https://hcti.io/v1/image/f0c1d2f7-52a9-411a-acca-ad077b2cbb22"
         },
         {
             "code": "23020",
@@ -440,7 +440,7 @@
                 "House Arryn",
                 "Lord"
             ],
-            "text": "<b>Interrupt:</b> When a card with a printed cost equal to or lower than its owners initiative value is revealed, remove it from the game. (Limit once per phase.)",
+            "text": "<b>Interrupt:</b> When a card with a printed cost equal to or lower than its owner's initiative value is revealed, remove it from the game. (Limit once per phase.)",
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://hcti.io/v1/image/7c10673d-26e3-427b-9364-487452d9ec82"
@@ -576,13 +576,13 @@
             "quantity": 3,
             "unique": true,
             "faction": "neutral",
-            "cost": 4,
+            "cost": 3,
             "icons": {
                 "military": true,
                 "intrigue": false,
                 "power": false
             },
-            "strength": 4,
+            "strength": 2,
             "traits": [
                 "Guard",
                 "House Arryn",
@@ -591,7 +591,7 @@
             "text": "<b>Reaction:</b> After you lose a challenge in which Ser Vardis Egen is defending, sacrifice him to place an attacking non-<i>Army</i> character into shadows with a shadow token on it. While that card is in shadows, it gains shadow (X). X is its printed cost.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/9277d472-c81e-43fd-becf-e74968ed2b9e"
+            "imageUrl": "https://hcti.io/v1/image/a034b520-1c51-4469-b061-6df5545db86d"
         },
         {
             "code": "23027",
@@ -607,7 +607,7 @@
                 "intrigue": true,
                 "power": false
             },
-            "strength": 2,
+            "strength": 1,
             "traits": [
                 "House Arryn",
                 "Fool"
@@ -615,7 +615,7 @@
             "text": "<b>Forced Reaction:</b> After Benjicot stands, reveal the bottom card of each player's deck. Add each card that shares a <i>Trait</i> with Benjicot to its owner's hand and discard the others.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/b58c9a5c-5a0e-4efa-bb8a-84690151f5e7"
+            "imageUrl": "https://hcti.io/v1/image/b06527ee-308d-4739-afea-c35b5dc96dab"
         },
         {
             "code": "23028",
@@ -650,22 +650,22 @@
             "quantity": 3,
             "unique": false,
             "faction": "neutral",
-            "cost": 3,
+            "cost": 2,
             "icons": {
                 "military": true,
                 "intrigue": true,
                 "power": false
             },
-            "strength": 2,
+            "strength": 1,
             "traits": [
                 "Guard",
                 "House Arryn",
                 "Knight"
             ],
-            "text": "<b>Interrupt:</b> When a <i>Lord</i> or <i>Lady</i> character is killed, remove Winged Knight from the game to place that character on the bottom of its owner's deck instead of placing it in their dead pile.",
+            "text": "<b>Interrupt:</b> When a <i>Lord</i> or <i>Lady</i> character is killed, kill Winged Knight to remove that character from the game instead of placing it in it's owners dead pile.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/9405c4a2-3f8e-4a83-ba00-5fd2c73b862b"
+            "imageUrl": "https://hcti.io/v1/image/8acb12f0-09f6-4035-b7e3-e377e8f9ec8f"
         },
         {
             "code": "23030",
@@ -791,10 +791,10 @@
             "traits": [
                 "House Arryn"
             ],
-            "text": "<b>Challenges Action:</b> Choose a player and name a challenge type. While that player has not initiated a challenge of that type this phase, set the claim value on their revealed plot card to 0 until the end of the phase.",
+            "text": "<b>Reaction:</b> After the challenge phase begins, choose a player and name a challenge type. While that player has not initiated a challenge of that type this phase, set the claim value on their revealed plot card to 0 until the end of the phase.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/ea105392-3ea4-4cdc-8cf4-3b7935bbda69"
+            "imageUrl": "https://hcti.io/v1/image/1961617a-5d3a-4205-907b-76e0a53bc00e"
         },
         {
             "code": "23037",
