@@ -705,10 +705,10 @@
                 "House Arryn",
                 "Stronghold"
             ],
-            "text": "While The Eyrie is standing, each opponent who has more power than you cannot initiate more than 2 challenges against you during the challenges phase.\n<b>Reaction:</b> After the challenges phase begins, kneel The Eyrie to choose an opponent to become first player.\n-2 Initiative. +1 Reserve.",
+            "text": "While your initiative value is 0 during a challenge, each non-participating character gets +2 STR.\n<b>Challenges Action:</b> During a challenge, kneel your faction card to choose a character you control and have it contribute its STR to your side of the challenge.\n-2 Initiative. +1 Reserve.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/1d862392-ff54-4bc5-a97c-233270b26506"
+            "imageUrl": "https://hcti.io/v1/image/49e4e1ff-4d8c-47c6-a588-6fc31b36defa"
         },
         {
             "code": "23032",
@@ -718,15 +718,15 @@
             "quantity": 3,
             "unique": true,
             "faction": "neutral",
-            "cost": 3,
+            "cost": 1,
             "traits": [
                 "House Arryn",
                 "Stronghold"
             ],
-            "text": "While The Bloody Gate is standing, increase the cost for each player to play, ambush or bring a card out of shadows by 1.",
+            "text": "<b>Reaction:</b> After you lose a [military] challenge in which you control a defending <i>House Arryn</i> character, the winning opponent must choose and discard a card from their hand (discard a card at random from their hand instead if The Bloody Gate is kneeling).",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/e8dc2979-513f-4711-aebf-fbf012f287a0"
+            "imageUrl": "https://hcti.io/v1/image/0f227100-bd8f-4d1e-804a-5789bb05999f"
         },
         {
             "code": "23033",
@@ -736,14 +736,14 @@
             "quantity": 3,
             "unique": true,
             "faction": "neutral",
-            "cost": 1,
+            "cost": 3,
             "traits": [
                 "House Arryn"
             ],
-            "text": "<b>Reaction:</b> After you win a challenge in which you control a participating <i>House Arryn</i> character, draw 1 card (2 cards instead if The Vale of Arryn is kneeling). (Limit once per phase).\n-1 Initiative.",
+            "text": "<b>Reaction:</b> After you win a challenge by 5 or more STR, choose a participating <i>House Arryn</i> character and have it gain 1 power (2 power instead if The Vale of Arryn is kneeling). (Limit once per phase.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/04e1b502-e564-4494-9b20-a4f8f00e3e4c"
+            "imageUrl": "https://hcti.io/v1/image/ab2bf6a8-75f6-4381-93e5-f734f461f0dc"
         },
         {
             "code": "23034",
