@@ -32,7 +32,7 @@
          "loyal":false,
          "cost":0,
          "traits":[
-            
+
          ],
          "text":"<b>Action:</b> Reduce the cost of each [baratheon] non-character card you marshal or play this phase by 1.",
          "deckLimit":3,
@@ -56,11 +56,11 @@
          ],
          "text":"Reduce the reserve value on each opponent's revealed plot card by 1.\nReduce the cost of each <i>House Harlaw</i> card you marshal by 1.\n+1 Reserve.",
          "deckLimit":3,
-         "illustrator":"Kieran Belshaw",
+         "illustrator":"Juan Carlos Barquet",
          "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JS/3_Harlaw_ENG.png"
       },
       {
-         
+
          "code":"19004",
          "type":"location",
          "name":"Silence",

@@ -639,7 +639,7 @@
                 "Army",
                 "Wildling"
             ],
-            "text": "No attachments. Pillage.\n<b>Challenges Action:</b> Kneel your faction card to choose a participating Wildling character you control. Until the end of the challenge, that character gets +2 STR.",
+            "text": "No attachments. Pillage.\n<b>Challenges Action:</b> Kneel your faction card to choose a participating <i>Wildling</i> character you control. Until the end of the challenge, that character gets +2 STR.",
             "deckLimit": 3,
             "illustrator": "Ryan Barger"
         },
