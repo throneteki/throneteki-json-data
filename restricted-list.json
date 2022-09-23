@@ -2880,6 +2880,7 @@
         "formats": [
             {
                 "name": "joust",
+                "url": "https://agot.cards/wp-content/uploads/2021/07/RL-Valyrian-July-2021.pdf",
                 "restricted": [
                     "02065",
                     "02091",
@@ -3979,6 +3980,7 @@
         "formats": [
             {
                 "name": "joust",
+                "url": "https://agot.cards/wp-content/uploads/2022/07/RL-Standard-Joust-1.4-20221.pdf",
                 "restricted": [
                     "02026",
                     "02032",
