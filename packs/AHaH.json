@@ -88,10 +88,10 @@
                 "Contested",
                 "The North"
             ],
-            "text": "Shadow (1).\n<b>Reaction:</b> After a [greyjoy] card comes out of shadows, kneel Torrhen's Square. For each <i>Raider</i> character you control, discard the top card of each opponent's deck who has an equal or higher initiative value than you (to a maximum of 3 cards).\n-2 Initiative.",
+            "text": "Shadow (1).\n<b>Reaction:</b> After a [greyjoy] card you control comes out of shadows, kneel Torrhen's Square to choose up to 3 <i>Raider</i> characters with a printed cost higher than your initiative value. Until the end of the phase, each of those characters discards an additional card using pillage.\n-2 Initiative.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/fda33ffc-647e-4752-9280-7d7c8cd2c5ed"
+            "imageUrl": "https://hcti.io/v1/image/3c886354-c8f4-4fa0-9526-75f72bf3068d"
         },
         {
             "code": "23005",
@@ -271,7 +271,7 @@
             "unique": true,
             "faction": "targaryen",
             "loyal": true,
-            "cost": 6,
+            "cost": 5,
             "icons": {
                 "military": false,
                 "intrigue": true,
@@ -286,7 +286,7 @@
             "deckLimit": 3,
             "illustrator": "?",
             "designer": "Card design by 2017 European Joust Champion, Reinhard Schefcik.",
-            "imageUrl": "https://hcti.io/v1/image/13750473-7ae6-44d7-8881-c8c92de5edf1"
+            "imageUrl": "https://hcti.io/v1/image/83f056d9-68b5-4634-aa9c-37c4823e11b4"
         },
         {
             "code": "23014",
@@ -343,10 +343,10 @@
             "loyal": true,
             "cost": "-",
             "traits": [],
-            "text": "Shadow (1).\n<b>Reaction:</b> After attackers are declared in a challenge against you, reveal your hand (of at least 1 card). Then, stand and remove each attacking character from the challenge.",
+            "text": "Shadow (1).\n<b>Reaction:</b> After attackers are declared in a challenge against you, reveal your hand (of at least 1 card). Then, stand and remove up to 2 attacking characters from the challenge.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/5dd63476-b9c0-4e1e-b795-9ce280a91e5f"
+            "imageUrl": "https://hcti.io/v1/image/0a73893a-0961-4548-8fa9-f3c460a981a3"
         },
         {
             "code": "23017",
@@ -662,10 +662,10 @@
                 "House Arryn",
                 "Knight"
             ],
-            "text": "<b>Interrupt:</b> When a <i>Lord</i> or <i>Lady</i> character is killed, kill Winged Knight to remove that character from the game instead of placing it in it's owners dead pile.",
+            "text": "<b>Interrupt:</b> When a <i>Lord</i> or <i>Lady</i> character is killed, kill Winged Knight to remove that character from the game instead of placing it in its owners dead pile.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/8acb12f0-09f6-4035-b7e3-e377e8f9ec8f"
+            "imageUrl": "https://hcti.io/v1/image/c6690e0d-b783-4724-9086-5c50075098ea"
         },
         {
             "code": "23030",
