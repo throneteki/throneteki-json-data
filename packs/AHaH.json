@@ -343,10 +343,10 @@
             "loyal": true,
             "cost": "-",
             "traits": [],
-            "text": "Shadow (1).\n<b>Reaction:</b> After attackers are declared in a challenge against you, reveal your hand (of at least 1 card). Then, stand and remove up to 2 attacking characters from the challenge.",
+            "text": "Shadow (1).\n<b>Reaction:</b> After a challenge is initiated against you, reveal your hand (of at least 1 card). Then, stand and remove up to 2 attacking characters from the challenge.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/0a73893a-0961-4548-8fa9-f3c460a981a3"
+            "imageUrl": "https://hcti.io/v1/image/bb383d30-4820-460c-9907-8b421c0fa833"
         },
         {
             "code": "23017",
@@ -465,10 +465,10 @@
                 "Companion",
                 "House Arryn"
             ],
-            "text": "Stealth.\nIf you control Sansa Stark, attach Alayne Stone to her as a duplicate.\nWhile Alayne Stone is standing during the challenges phase, each player cannot trigger card abilities on in-faction <i>Lord</i> or <i>Lady</i> characters they control.",
+            "text": "Stealth.\nIf you control Sansa Stark, attach Alayne Stone to her as a duplicate.\nWhile Alayne Stone is kneeling during the challenges phase, each player cannot trigger card abilities on in-faction <i>Lord</i> or <i>Lady</i> characters they control.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/c653bea1-350e-406d-b95f-c5f4d7916f1e"
+            "imageUrl": "https://hcti.io/v1/image/eb4e8eec-4230-41ff-938d-a2756098cece"
         },
         {
             "code": "23022",
@@ -514,10 +514,10 @@
                 "Guard",
                 "House Arryn"
             ],
-            "text": "<b>Action:</b> Kneel Mord to choose a character in play or a card in shadows. Until Mord stands or leaves play, treat that cards printed text box as if it were blank (except for <i>Traits</i>) and have it lose all gained keywords.",
+            "text": "<b>Action:</b> Kneel Mord to choose a character controlled by a player with an equal or higher initiative value than you. Until Mord stands or leaves play, treat that character as if its printed text box were blank (except for <i>Traits</i>).",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/50e0c524-6d9a-4e3f-b95c-6cf6f460eefe"
+            "imageUrl": "https://hcti.io/v1/image/aea3ea3d-c343-47ec-b7b2-39fee83dba78"
         },
         {
             "code": "23024",
@@ -588,10 +588,10 @@
                 "House Arryn",
                 "Knight"
             ],
-            "text": "<b>Reaction:</b> After you lose a challenge in which Ser Vardis Egen is defending, sacrifice him to place an attacking non-<i>Army</i> character into shadows with a shadow token on it. While that card is in shadows, it gains shadow (X). X is its printed cost.",
+            "text": "<b>Reaction:</b> After you lose a challenge in which Ser Vardis Egen is defending, sacrifice him to place an attacking character into shadows with a shadow token on it (cannot be saved). While that card is in shadows, it gains shadow (X). X is its printed cost.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/a034b520-1c51-4469-b061-6df5545db86d"
+            "imageUrl": "https://hcti.io/v1/image/93b0c00b-7943-4f0b-aeca-ba16e261a21a"
         },
         {
             "code": "23027",
@@ -827,10 +827,10 @@
                 "Legacy",
                 "Siege"
             ],
-            "text": "During a challenge, each non-<i>Stronghold</i> location gains the <i>Contested</i> trait.\n<b>Forced Reaction:</b> After a non-limited <i>Contested</i> location is knelt, discard it from play.",
+            "text": "<b>Forced Reaction:</b> After a location is knelt by assault, discard it from play.",
             "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/3adf080a-6b36-4482-9838-39901924c5d0"
+            "imageUrl": "https://hcti.io/v1/image/bee8f870-8921-484f-9254-ea06d89b4632"
         },
         {
             "code": "23039",
