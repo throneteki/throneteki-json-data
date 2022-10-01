@@ -127,14 +127,14 @@
             "unique": true,
             "faction": "lannister",
             "loyal": true,
-            "cost": 1,
+            "cost": 2,
             "traits": [
                 "Title"
             ],
-            "text": "[lannister] <i>Lord</i> character only.\nAttached character gains the <i>Commander</i> trait.\n<b>Reaction:</b> After 1 or more cards are discarded from an opponent's hand during the challenges phase, if you do not support that player, draw cards equal to the amount of cards discarded. (Limit once per round).",
+            "text": "[lannister] <i>Lord</i> character only.\nAttached character gains the <i>Commander</i> trait and renown.\n<b>Reaction:</b> After 1 or more cards are discarded from an opponent's hand or deck during a challenge in which the attached character is participating, draw that many cards. (Limit once per round.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/874e2de6-9ba1-4172-b710-1f6088bb53be"
+            "imageUrl": "https://hcti.io/v1/image/5681f7fa-7cfd-4ef1-b80d-dcb22dc71049"
         },
         {
             "code": "23007",
@@ -226,22 +226,22 @@
             "quantity": 3,
             "unique": false,
             "faction": "stark",
-            "loyal": true,
+            "loyal": false,
             "cost": 4,
             "icons": {
-                "military": true,
+                "military": false,
                 "intrigue": true,
                 "power": false
             },
-            "strength": 3,
+            "strength": 4,
             "traits": [
                 "Army",
                 "House Reed"
             ],
-            "text": "Shadow (4). Stealth.\n<b>Reaction:</b> After a <i>House Reed</i> card enters play, place a poison token on a character controlled by an opponent. Then, if the number of poison tokens are equal or higher than that characters STR, return Crannogmen to shadows to kill it. (Limit once per phase.)",
+            "text": "Shadow (4).\n<b>Interrupt:</b> When claim is applied for a challenge in which Crannogmen are attacking, return it to shadows to choose a non-unique character. Instead of the normal claim effects, kill that character.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/b0b896f0-8d64-41c5-8cc8-c9b5e84e1a2a"
+            "imageUrl": "https://hcti.io/v1/image/67e7e8a2-fbfd-407f-abb4-8dfb77549605"
         },
         {
             "code": "23012",
