@@ -4214,6 +4214,7 @@
         "formats": [
             {
                 "name": "joust",
+                "url": "https://agot.cards/wp-content/uploads/2022/10/RL-Standard-Joust-1.5-2022-1.pdf",
                 "restricted": [
                     "01146",
                     "02026",
@@ -4306,6 +4307,7 @@
             },
             {
                 "name": "melee",
+                "url": "https://agot.cards/wp-content/uploads/2022/10/RL-Standard-Melee-1.5-2022.pdf",
                 "restricted": [
                     "01013",
                     "01043",
