@@ -282,11 +282,11 @@
                 "Mercenary",
                 "Spy"
             ],
-            "text": "Insight.\nDuring the first challenge you initiate each phase, your opponent may declare defenders before you declare attackers, and cannot declare defenders after you declare attackers.",
+            "text": "Insight.\nDuring the first challenge you initiate each phase, defenders are declared before you declare attackers. <em>(Attackers and defenders are knelt simultaneously as part of initiating the challenge)</em>",
             "deckLimit": 3,
             "illustrator": "?",
             "designer": "Card design by 2017 European Joust Champion, Reinhard Schefcik.",
-            "imageUrl": "https://hcti.io/v1/image/83f056d9-68b5-4634-aa9c-37c4823e11b4"
+            "imageUrl": "https://hcti.io/v1/image/5e977dae-f6ec-415b-9498-de42fcd31e9d"
         },
         {
             "code": "23014",
@@ -392,7 +392,7 @@
                 "House Arryn",
                 "Lord"
             ],
-            "text": "Insight.\n<b>Reaction:</b> After you win a challenge in which Littlefinger is participating, each player  chooses a card in their hand or shadows area. Then, reveal those cards. If no opponent revealed a card with the same cardtype as you, move 1 power from a card in play to Littlefinger.",
+            "text": "Insight.\n<b>Reaction:</b> After you win a challenge in which Littlefinger is participating, each player chooses a card in their hand or shadows area. Then, reveal those cards. If no opponent revealed a card with the same cardtype as you, move 1 power from a card in play to Littlefinger.",
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://hcti.io/v1/image/b2c86a98-fc25-472f-8c4f-f8c6dff7bb63"
@@ -865,10 +865,10 @@
                 "Banner",
                 "House Arryn"
             ],
-            "text": "Increase the cost of the first in-faction card each player plays, ambushes or brings out of shadows each round by 1.\nWhile each opponent has a higher initiative value than you, each <i>House Arryn</i> character you control gets +1 STR.",
+            "text": "You cannot include non-neutral locations in your deck.\r\nWhile each opponent has a higher initiative value than you, each <i>House Arryn</i> character you control gets +1 STR.",
             "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/5d1b2c3e-f1a0-4c18-bae9-42680a04a435"
+            "imageUrl": "https://hcti.io/v1/image/9233066f-26a7-4fdb-9533-7403fef5d1b7"
         }
     ]
 }
