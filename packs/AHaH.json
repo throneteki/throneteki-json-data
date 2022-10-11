@@ -395,7 +395,7 @@
             "text": "Insight.\n<b>Reaction:</b> After you win a challenge in which Littlefinger is participating, each player chooses a card in their hand or shadows area. Then, reveal those cards. If no opponent revealed a card with the same cardtype as you, move 1 power from a card in play to Littlefinger.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/b2c86a98-fc25-472f-8c4f-f8c6dff7bb63"
+            "imageUrl": "https://hcti.io/v1/image/9ab0f356-866e-4d87-9249-c8d8bb667b31"
         },
         {
             "code": "23019",
@@ -637,10 +637,10 @@
                 "House Arryn",
                 "Spy"
             ],
-            "text": "<b>Interrupt:</b> When an opponent chooses a <i>Lord</i> or <i>Lady</i> character you control as the only target of a triggered ability, Lord Protector's Retainer becomes the target of that triggered ability instead. (Max once per phase.)",
+            "text": "<b>Interrupt:</b> When the effects of an ability that chooses a <i>Lord</i> or <i>Lady</i> character you control as its only target would initiate, return Lord Protector's Retainer to your hand to cancel those effects. (Max once per phase.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/afc732e0-73b8-431c-afc0-6e1fa532dab5"
+            "imageUrl": "https://hcti.io/v1/image/b37037a0-9cc8-4304-8ca4-1a68aac64c9b"
         },
         {
             "code": "23029",
@@ -705,10 +705,10 @@
                 "House Arryn",
                 "Stronghold"
             ],
-            "text": "While your initiative value is 0 during a challenge, each non-participating character gets +2 STR.\n<b>Challenges Action:</b> During a challenge, kneel your faction card to choose a character you control and have it contribute its STR to your side of the challenge.\n-2 Initiative. +1 Reserve.",
+            "text": "While your initiative value is 0, The Eyrie is immune to card effects.\n<b>Challenges Action:</b> During a challenge in which you control a participating character, kneel The Eyrie to have it contribute 3 STR to your side of the challenge.\n-2 Initiative. +1 Reserve.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/49e4e1ff-4d8c-47c6-a588-6fc31b36defa"
+            "imageUrl": "https://hcti.io/v1/image/de193c89-fa2b-43b1-8794-09915838e711"
         },
         {
             "code": "23032",
@@ -775,10 +775,10 @@
                 "House Arryn",
                 "Title"
             ],
-            "text": "<i>Lord</i> character you control only.\nIf attached character is Littlefinger, he gets +2 STR.\n<b>Challenges Action:</b> During a challenge in which you control a participating <i>House Arryn</i> character, kneel Lord Protector of the Vale to have attached character contribute its STR to your side.",
+            "text": "<i>Lord</i> character you control only.\nIf attached character is Littlefinger, he gets +2 STR.\n<b>Challenges Action:</b> During a [power] challenge in which you control a participating <i>House Arryn</i> character, kneel Lord Protector of the Vale to have attached character contribute its STR to your side.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/7384b5ab-6227-4b78-bee7-4a2ed02b8f0e"
+            "imageUrl": "https://hcti.io/v1/image/17bfa325-cd1c-4d4b-a676-44892e68d0a3"
         },
         {
             "code": "23036",
