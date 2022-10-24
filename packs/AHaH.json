@@ -368,10 +368,10 @@
                 "House Arryn",
                 "Knight"
             ],
-            "text": "Assault. No attachments.\n<b>Challenges Action:</b> Kneel a neutral location with printed cost 1 or higher to choose a defending <i>House Arryn</i> character you control. Until the end of the challenge, that character gets +3 STR (double its STR instead if your initiative value is 0). (Limit once per phase.)",
+            "text": "Assault. No attachments.\n<b>Challenges Action:</b> Kneel a neutral location with printed cost 1 or higher to choose a defending character that shares a <i>Trait</i> with Knights of the Vale. Until the end of the challenge, that character gets +2 STR (+4 STR instead if your initiative value is 0). (Limit once per phase.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/c9380489-558d-4dc3-bc8c-4edf3069f46b"
+            "imageUrl": "https://hcti.io/v1/image/a2969959-3450-47d5-b649-3bb918458945"
         },
         {
             "code": "23018",
@@ -609,13 +609,14 @@
             },
             "strength": 1,
             "traits": [
+                "Ally",
                 "House Arryn",
                 "Fool"
             ],
             "text": "<b>Forced Reaction:</b> After Benjicot stands, reveal the bottom card of each player's deck. Add each card that shares a <i>Trait</i> with Benjicot to its owner's hand and discard the others.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/b06527ee-308d-4739-afea-c35b5dc96dab"
+            "imageUrl": "https://hcti.io/v1/image/e024daa7-6e6f-4dd7-b386-a82354f5522f"
         },
         {
             "code": "23028",
@@ -687,10 +688,10 @@
                 "House Arryn",
                 "Merchant"
             ],
-            "text": "<b>Marshaling Action:</b> Kneel Gulltown Merchant to reduce the cost of the next <i>House Arryn</i> character you marshal this phase by 1.",
+            "text": "<b>Marshaling Action:</b> If there is a <i>City</i> plot card revealed, kneel Gulltown Merchant to gain 1 gold.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/7b13ce0e-5879-48ac-a214-edd8db59575c"
+            "imageUrl": "https://hcti.io/v1/image/52a11841-860b-4f34-b993-2c74b1160b18"
         },
         {
             "code": "23031",
@@ -723,10 +724,10 @@
                 "House Arryn",
                 "Stronghold"
             ],
-            "text": "<b>Reaction:</b> After you lose a [military] challenge in which you control a defending <i>House Arryn</i> character, the winning opponent must choose and discard a card from their hand (discard a card at random from their hand instead if The Bloody Gate is kneeling).",
+            "text": "<b>Reaction:</b> After you lose a [military] challenge in which you control a defending character, the winning opponent must choose and discard a card from their hand (discard a card at random from their hand instead if The Bloody Gate is kneeling).",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/0f227100-bd8f-4d1e-804a-5789bb05999f"
+            "imageUrl": "https://hcti.io/v1/image/58afab3b-dd8b-4c61-8193-4af778ceb9ba"
         },
         {
             "code": "23033",
@@ -740,10 +741,10 @@
             "traits": [
                 "House Arryn"
             ],
-            "text": "<b>Reaction:</b> After you win a challenge by 5 or more STR, choose a participating <i>House Arryn</i> character and have it gain 1 power (2 power instead if The Vale of Arryn is kneeling). (Limit once per phase.)",
+            "text": "<b>Reaction:</b> After you win a challenge by 5 or more STR, choose a participating loyal or <i>House Arryn</i> character and have it gain 1 power (2 power instead if The Vale of Arryn is kneeling). (Limit once per phase.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/ab2bf6a8-75f6-4381-93e5-f734f461f0dc"
+            "imageUrl": "https://hcti.io/v1/image/9d4577e8-be19-4125-971f-488a2fe4f7d6"
         },
         {
             "code": "23034",
