@@ -213,10 +213,10 @@
                 "Item",
                 "Weapon"
             ],
-            "text": "Bestow (2).\nAttached character gets +1 STR.\n<b>Challenges Action:</b> Discard 1 gold from Defensive Debris to choose a card in an opponents discard pile. Until the end of the phase, cards with that printed cost cannot be played or put into play. (Max once per phase.)",
+            "text": "Bestow (2).\nAttached character gets +1 STR.\n<b>Challenges Action:</b> Discard 1 gold from Defensive Debris to choose a card in an opponents discard pile. Until the end of the phase, cards with that printed cost cannot be played or put into play. (Limit once per phase.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/026cfed7-c191-46dc-b395-679a9bfc7550"
+            "imageUrl": "https://hcti.io/v1/image/8544d7a0-3173-4a04-9119-dea9fb46ab03"
         },
         {
             "code": "23011",
@@ -663,10 +663,10 @@
                 "House Arryn",
                 "Knight"
             ],
-            "text": "<b>Interrupt:</b> When a <i>Lord</i> or <i>Lady</i> character is killed, kill Winged Knight to remove that character from the game instead of placing it in its owners dead pile.",
+            "text": "<b>Interrupt:</b> When a <i>Lord</i> or <i>Lady</i> character is killed, sacrifice Winged Knight to remove that character from the game instead of placing it in its owners dead pile.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/c6690e0d-b783-4724-9086-5c50075098ea"
+            "imageUrl": "https://hcti.io/v1/image/9ab6a907-afbd-4884-96ae-1219f2a4ef05"
         },
         {
             "code": "23030",
@@ -866,10 +866,10 @@
                 "Banner",
                 "House Arryn"
             ],
-            "text": "You cannot include non-neutral locations in your deck.\r\nWhile each opponent has a higher initiative value than you, each <i>House Arryn</i> character you control gets +1 STR.",
+            "text": "You must include at least 12 <i>House Arryn</i> cards in your deck.\nWhile the number of <i>House Arryn</i> characters you control is higher than your initiative value, each loyal character you control gets +1 STR.\n-2 Initiative. +1 Reserve.",
             "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/9233066f-26a7-4fdb-9533-7403fef5d1b7"
+            "imageUrl": "https://hcti.io/v1/image/567b77d2-d036-4eef-94f7-e01f0e9ecb93"
         }
     ]
 }
