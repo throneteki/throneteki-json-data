@@ -229,7 +229,7 @@
             "loyal": false,
             "cost": 4,
             "icons": {
-                "military": false,
+                "military": true,
                 "intrigue": true,
                 "power": false
             },
@@ -238,10 +238,10 @@
                 "Army",
                 "House Reed"
             ],
-            "text": "Shadow (4).\n<b>Interrupt:</b> When claim is applied for a challenge in which Crannogmen are attacking, return it to shadows to choose a non-unique character. Instead of the normal claim effects, kill that character.",
+            "text": "Shadow (3).\n<b>Interrupt:</b> When claim is applied for an [intrigue] challenge in which Crannogmen are attacking, return it to shadows to choose a character with printed cost 3 or lower. Instead of the normal claim effects, kill that character.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/67e7e8a2-fbfd-407f-abb4-8dfb77549605"
+            "imageUrl": "https://hcti.io/v1/image/fb05384b-4947-4486-a358-ae2f1b1f5c2f"
         },
         {
             "code": "23012",
@@ -411,7 +411,7 @@
                 "intrigue": true,
                 "power": true
             },
-            "strength": 3,
+            "strength": 4,
             "traits": [
                 "House Arryn",
                 "Lady"
@@ -419,7 +419,7 @@
             "text": "While you control Harry the Heir, he gains renown.\n<b>Challenges Action:</b> During a challenge, kneel a neutral location to choose a non-participating character with equal or lower printed cost. That character contributes its STR to your side this challenge. (Limit once per phase.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/f0c1d2f7-52a9-411a-acca-ad077b2cbb22"
+            "imageUrl": "https://hcti.io/v1/image/8bdedc30-ec9b-406a-a597-c41e24608655"
         },
         {
             "code": "23020",
@@ -558,7 +558,7 @@
                 "intrigue": true,
                 "power": true
             },
-            "strength": 1,
+            "strength": 2,
             "traits": [
                 "House Arryn",
                 "Maester"
@@ -566,7 +566,7 @@
             "text": "<b>Dominance Action:</b> Kneel a unique <i>Maester</i> character to choose a <i>Condition</i> or <i>Item</i> attachment with a lower printed cost. Take control of that attachment and move it to another eligible character. (Limit once per phase.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/deac152e-e324-4658-bba9-d302af931e26"
+            "imageUrl": "https://hcti.io/v1/image/ab080f30-e42c-409a-a23f-370c2d6e523c"
         },
         {
             "code": "23026",
@@ -632,7 +632,7 @@
                 "intrigue": true,
                 "power": true
             },
-            "strength": 2,
+            "strength": 3,
             "traits": [
                 "Ally",
                 "House Arryn",
@@ -641,7 +641,7 @@
             "text": "<b>Interrupt:</b> When the effects of an ability that chooses a <i>Lord</i> or <i>Lady</i> character you control as its only target would initiate, return Lord Protector's Retainer to your hand to cancel those effects. (Max once per phase.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/b37037a0-9cc8-4304-8ca4-1a68aac64c9b"
+            "imageUrl": "https://hcti.io/v1/image/eb727b08-9bd7-4534-ab37-03245e214e74"
         },
         {
             "code": "23029",
@@ -706,10 +706,10 @@
                 "House Arryn",
                 "Stronghold"
             ],
-            "text": "While your initiative value is 0, The Eyrie is immune to card effects.\n<b>Challenges Action:</b> During a challenge in which you control a participating character, kneel The Eyrie to have it contribute 3 STR to your side of the challenge.\n-2 Initiative. +1 Reserve.",
+            "text": "While your initiative value is 0, The Eyrie is immune to opponents' card effects.\n<b>Challenges Action:</b> During a challenge in which you control a participating loyal or <i>House Arryn</i> character, kneel The Eyrie to have it contribute 2 STR to your side of the challenge for each participating character you control.\n-2 Initiative. +1 Reserve.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/de193c89-fa2b-43b1-8794-09915838e711"
+            "imageUrl": "https://hcti.io/v1/image/09865ace-8827-4217-8151-f29339ffaf1a"
         },
         {
             "code": "23032",
@@ -828,10 +828,10 @@
                 "Legacy",
                 "Siege"
             ],
-            "text": "<b>Forced Reaction:</b> After a location is knelt by assault, discard it from play.",
+            "text": "<b>Reaction:</b> After a location is knelt by assault, discard it from play.",
             "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/bee8f870-8921-484f-9254-ea06d89b4632"
+            "imageUrl": "https://hcti.io/v1/image/dfd1fd97-ac3e-47fa-a21c-ed6215c89067"
         },
         {
             "code": "23039",
