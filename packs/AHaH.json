@@ -26,10 +26,10 @@
                 "Lord",
                 "Small Council"
             ],
-            "text": "Insight. Renown.\nJon Arryn cannot be saved.\n<b>Forced Interrupt:</b> When Jon Arryn is killed, each player may draw 2 cards or gain 1 power.",
+            "text": "Insight. Renown.\nJon Arryn cannot be saved.\n<b>Forced Interrupt:</b> When Jon Arryn is killed, each player may draw 2 cards, or gain 1 power for their faction.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/519b88d6-0c53-421d-a326-a2dc5194499d"
+            "imageUrl": "https://hcti.io/v1/image/a236b8f5-5dc3-4675-911d-f466fc742e97"
         },
         {
             "code": "23002",
@@ -44,10 +44,10 @@
             "traits": [
                 "Title"
             ],
-            "text": "Unique [baratheon] character only.\nIf attached character is Salladhor Saan, he gains renown and the <i>Commander</i> trait.\n<b>Reaction:</b> After you lose initiative, return a <i>Smuggler</i> character to your hand to choose and kneel a character and a location with a lower printed cost.\n-1 Initiative.",
+            "text": "Unique [baratheon] character only.\nIf attached character is Salladhor Saan, he gains the <i>Commander</i> trait and renown.\n<b>Reaction:</b> After you lose initiative, return a <i>Smuggler</i> character to your hand to choose and kneel a character and a location with a lower printed cost.\n-1 Initiative.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/1cd3181c-bb27-49e6-ac46-7219dc93b116"
+            "imageUrl": "https://hcti.io/v1/image/a05f854d-eb47-46f9-86e9-e3e57827d122"
         },
         {
             "code": "23003",
@@ -69,10 +69,10 @@
                 "House Harlaw",
                 "The Seven"
             ],
-            "text": "<b>Action:</b> Kneel The Reader's Septon to choose a player. Swap the top and bottom card of that player's deck.",
+            "text": "<b>Action:</b> Kneel The Reader's Septon to choose a player. Switch the top card of that player's deck with the bottom card of that player's deck.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/65d1fe8c-3a41-4636-a614-0ed33337f7c1"
+            "imageUrl": "https://hcti.io/v1/image/0928552e-c127-45e4-b99d-60b10e49e1e4"
         },
         {
             "code": "23004",
@@ -88,10 +88,10 @@
                 "Contested",
                 "The North"
             ],
-            "text": "Shadow (1).\n<b>Reaction:</b> After a [greyjoy] card you control comes out of shadows, kneel Torrhen's Square to choose up to 3 <i>Raider</i> characters with a printed cost higher than your initiative value. Until the end of the phase, each of those characters discards an additional card using pillage.\n-2 Initiative.",
+            "text": "Shadow (1).\n<b>Reaction:</b> After a [greyjoy] card you control comes out of shadows, kneel Torrhen's Square to choose up to 3 <i>Raider</i> characters with printed cost higher than your initiative value. Until the end of the phase, each of those characters discards an additional card using pillage.\n-2 Initiative.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/3c886354-c8f4-4fa0-9526-75f72bf3068d"
+            "imageUrl": "https://hcti.io/v1/image/5604564d-c175-474e-9863-5cd634865e78"
         },
         {
             "code": "23005",
@@ -113,10 +113,10 @@
                 "Army",
                 "Clansman"
             ],
-            "text": "Assault. Intimidate. No attachments.\n<b>Reaction:</b> After you win a challenge in which The Halfman's Horde is attacking, discard 1 card at random from the losing opponents hand for each other unique attacking <i>Clansman</i> character.",
+            "text": "Assault. Intimidate. No attachments.\n<b>Reaction:</b> After you win a challenge in which The Halfman's Horde is attacking, discard 1 card at random from the losing opponent's hand for each other unique attacking <i>Clansman</i> character.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/1d2d7147-14b5-47e0-a33e-1505c651d312"
+            "imageUrl": "https://hcti.io/v1/image/c23bb093-1116-4917-b922-9bc4a320a447"
         },
         {
             "code": "23006",
@@ -131,10 +131,10 @@
             "traits": [
                 "Title"
             ],
-            "text": "[lannister] <i>Lord</i> character only.\nAttached character gains the <i>Commander</i> trait and renown.\n<b>Reaction:</b> After 1 or more cards are discarded from an opponent's hand or deck during a challenge in which the attached character is participating, draw that many cards. (Limit once per round.)",
+            "text": "[lannister] <i>Lord</i> character only.\nAttached character gains the <i>Commander</i> trait and renown.\n<b>Reaction:</b> After 1 or more cards are discarded from an opponent's hand or deck during a challenge in which attached character is participating, draw that many cards. (Limit once per round.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/5681f7fa-7cfd-4ef1-b80d-dcb22dc71049"
+            "imageUrl": "https://hcti.io/v1/image/30bedeae-b6f0-4c13-926c-e59cd16878d0"
         },
         {
             "code": "23007",
@@ -155,10 +155,10 @@
             "traits": [
                 "Lord"
             ],
-            "text": "Shadow (5). Insight.\nEach card in your shadow area gains shadow (X). X is that card's printed cost.\n<b>Reaction:</b> After you lose dominance, look at the top 2 cards of your deck. Place 1 into shadows and place the other on the bottom of your deck.",
+            "text": "Insight. Shadow (5).\nEach card you control in shadows gains shadow (X). X is that card's printed cost.\n<b>Reaction:</b> After you lose dominance, look at the top 2 cards of your deck. Place 1 in shadows, and the other on the bottom of your deck. ",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/30c6e533-d210-47dc-96fa-b7088805b1ea"
+            "imageUrl": "https://hcti.io/v1/image/d47a1eee-1c5b-42bf-92a9-9d18675c23c5"
         },
         {
             "code": "23008",
@@ -170,10 +170,10 @@
             "loyal": true,
             "cost": 2,
             "traits": [],
-            "text": "Play only if you have a card with shadows in your discard pile.\n<b>Action:</b> Choose and reveal a card in each player's shadows area, if able. You may put these cards into play.",
+            "text": "Play only if there is a card with shadow in your discard pile.\n<b>Action:</b> Choose and reveal a card in each player's shadows area, if able. You may put those cards into play.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/db20be98-73d9-4e4f-9c58-617441c7eae3"
+            "imageUrl": "https://hcti.io/v1/image/eabbed34-6857-4112-bef7-09c612328a5c"
         },
         {
             "code": "23009",
@@ -194,10 +194,10 @@
             "traits": [
                 "Ally"
             ],
-            "text": "<b>Reaction:</b> After Craster's Keep Mutineer enters play, choose and discard a duplicate on a character in play.",
+            "text": "<b>Reaction:</b> After Craster's Keep Mutineer enters play, choose a duplicate on a character and discard it from play.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/838b5f99-d302-42e2-bc01-a905f643fcc2"
+            "imageUrl": "https://hcti.io/v1/image/560d7758-1bf1-45eb-9fc5-ee3369952144"
         },
         {
             "code": "23010",
@@ -213,10 +213,10 @@
                 "Item",
                 "Weapon"
             ],
-            "text": "Bestow (2).\nAttached character gets +1 STR.\n<b>Challenges Action:</b> Discard 1 gold from Defensive Debris to choose a card in an opponents discard pile. Until the end of the phase, cards with that printed cost cannot be played or put into play. (Limit once per phase.)",
+            "text": "Bestow (2).\nAttached character gets +1 STR.\n<b>Challenges Action:</b> Discard 1 gold from Defensive Debris to choose a card in an opponent's discard pile. Until the end of the phase, cards with the same printed cost as the chosen card cannot be played or put into play. (Limit once per phase.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/8544d7a0-3173-4a04-9119-dea9fb46ab03"
+            "imageUrl": "https://hcti.io/v1/image/d3603986-2648-4ca5-af4e-3999ce76d92e"
         },
         {
             "code": "23011",
@@ -226,7 +226,7 @@
             "quantity": 3,
             "unique": false,
             "faction": "stark",
-            "loyal": false,
+            "loyal": true,
             "cost": 4,
             "icons": {
                 "military": true,
@@ -238,10 +238,10 @@
                 "Army",
                 "House Reed"
             ],
-            "text": "Shadow (3).\n<b>Interrupt:</b> When claim is applied for an [intrigue] challenge in which Crannogmen are attacking, return it to shadows to choose a character with printed cost 3 or lower. Instead of the normal claim effects, kill that character.",
+            "text": "Shadow (3).\n<b>Interrupt:</b> When claim is applied for an [intrigue] challenge in which Crannogmen is attacking, return it to shadows to choose a character with printed cost 3 or lower controlled by the losing opponent. Instead of the normal claim effects, kill that character.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/fb05384b-4947-4486-a358-ae2f1b1f5c2f"
+            "imageUrl": "https://hcti.io/v1/image/2bfe4465-14ab-4e8b-ba9f-98683350ddf0"
         },
         {
             "code": "23012",
@@ -257,10 +257,10 @@
                 "House Manderly",
                 "The North"
             ],
-            "text": "<b>Reaction:</b> After a character you control is sacrificed or killed, kneel The Wolf's Den to place the bottom card of your deck into shadows with a shadow token on it. While that card is in shadows, it gains shadow (X). X is its printed cost.",
+            "text": "<b>Reaction:</b> After a character you control is sacrificed or killed, kneel The Wolf's Den to place the bottom card of your deck in shadows with a shadow token on it. While that card is in shadows, it gains shadow (X). X is its printed cost.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/0686690f-d2b9-470b-a3cb-a3def64bb8bb"
+            "imageUrl": "https://hcti.io/v1/image/9f745cc0-902a-4cee-b7fb-aced0d4b3141"
         },
         {
             "code": "23013",
@@ -282,11 +282,11 @@
                 "Mercenary",
                 "Spy"
             ],
-            "text": "Insight.\nDuring the first challenge you initiate each phase, defenders are declared before you declare attackers. <em>(Attackers and defenders are knelt simultaneously as part of initiating the challenge)</em>",
+            "text": "Insight.\nDuring the first challenge you initiate each phase, defenders are declared before you declare attackers. <em>(Attackers and defenders are knelt simultaneously as part of initiating the challenge.)</em>",
             "deckLimit": 3,
             "illustrator": "?",
             "designer": "Card design by 2017 European Joust Champion, Reinhard Schefcik.",
-            "imageUrl": "https://hcti.io/v1/image/5e977dae-f6ec-415b-9498-de42fcd31e9d"
+            "imageUrl": "https://hcti.io/v1/image/e21ec8e8-1c37-4397-957d-0e55dd9c1815"
         },
         {
             "code": "23014",
@@ -866,10 +866,10 @@
                 "Banner",
                 "House Arryn"
             ],
-            "text": "You must include at least 12 <i>House Arryn</i> cards in your deck.\nWhile the number of <i>House Arryn</i> characters you control is higher than your initiative value, each loyal character you control gets +1 STR.\n-2 Initiative. +1 Reserve.",
+            "text": "You must include at least 12 <i>House Arryn</i> cards in your deck.\nWhile the number of <i>House Arryn</i> cards you control is higher than your initiative value, each loyal character you control gets +1 STR.\n-2 Initiative. +1 Reserve.",
             "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/567b77d2-d036-4eef-94f7-e01f0e9ecb93"
+            "imageUrl": "https://hcti.io/v1/image/c9340a78-ca51-41d0-a6bf-5bfae1999db7"
         }
     ]
 }
