@@ -1,0 +1,876 @@
+{
+    "cgdbId": null,
+    "code": "AHaH",
+    "name": "As High as Honor",
+    "releaseDate": "2023-01-18",
+    "cards": [
+        {
+            "code": "23001",
+            "type": "character",
+            "name": "Jon Arryn",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": true,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "House Arryn",
+                "Lord",
+                "Small Council"
+            ],
+            "text": "Insight. Renown.\nJon Arryn cannot be saved.\n<b>Forced Interrupt:</b> When Jon Arryn is killed, each player may either: draw 2 cards, or gain 1 power for their faction.",
+            "deckLimit": 3,
+            "illustrator": "Allen Douglas",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/1%20-%20Jon%20Arryn.png"
+        },
+        {
+            "code": "23002",
+            "type": "attachment",
+            "name": "Prince of the Narrow Sea",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Title"
+            ],
+            "text": "Unique [baratheon] character only.\nIf attached character is Salladhor Saan, he gains the <i>Commander</i> trait and renown.\n<b>Reaction:</b> After you lose initiative, return a <i>Captain</i> or <i>Smuggler</i> character to your hand to choose and kneel 1 character and 1 location, each with lower printed cost.",
+            "deckLimit": 3,
+            "illustrator": "Nacho Molina",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/2%20-%20Prince%20of%20the%20Narrow%20Sea.png"
+        },
+        {
+            "code": "23003",
+            "type": "character",
+            "name": "The Reader's Septon",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 1,
+            "traits": [
+                "House Harlaw",
+                "The Seven"
+            ],
+            "text": "<b>Action:</b> Kneel The Reader's Septon to choose a player. Switch the top card with the bottom card of that player's deck.",
+            "flavor": "Lord Rodrik had kept septons at Ten Towers, not for his soul's sake but for his books.",
+            "deckLimit": 3,
+            "illustrator": "Pastén (Midjourney)",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/3%20-%20The%20Reader_s%20Septon.png"
+        },
+        {
+            "code": "23004",
+            "type": "location",
+            "name": "Torrhen's Square",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": true,
+            "cost": 2,
+            "traits": [
+                "Contested",
+                "The North"
+            ],
+            "text": "<b>Reaction:</b> After a [greyjoy] card you control comes out of shadows, kneel Torrhen's Square to choose up to 3 <i>Raider</i> characters with printed cost higher than your initiative value. Until the end of the phase, each of those characters discards an additional card using pillage.\n-2 Initiative.",
+            "deckLimit": 3,
+            "illustrator": "Yoann Boissonnet",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/4%20-%20Torrhen_s%20Square.png"
+        },
+        {
+            "code": "23005",
+            "type": "character",
+            "name": "The Halfman's Horde",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "lannister",
+            "loyal": true,
+            "cost": 6,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "Army",
+                "Clansman"
+            ],
+            "text": "Assault. Intimidate. No attachments.\n<b>Reaction:</b> After you win a challenge in which The Halfman's Horde is attacking, discard 1 card at random from the losing opponent's hand for each other unique attacking <i>Clansman</i> character.",
+            "deckLimit": 3,
+            "illustrator": "Tomasz Jedruszek",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/5%20-%20The%20Halfman_s%20Horde.png"
+        },
+        {
+            "code": "23006",
+            "type": "attachment",
+            "name": "The Warden of the West",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "lannister",
+            "loyal": true,
+            "cost": 2,
+            "traits": [
+                "Title"
+            ],
+            "text": "[lannister] <i>Lord</i> character only.\nAttached character gains the <i>Commander</i> trait and renown.\n<b>Reaction:</b> After 1 or more cards are discarded from an opponent's hand or deck during a challenge in which attached character is participating, draw that many cards. (Limit once per round.)",
+            "deckLimit": 3,
+            "illustrator": "Nacho Molina",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/6%20-%20The%20Warden%20of%20the%20West.png"
+        },
+        {
+            "code": "23007",
+            "type": "character",
+            "name": "Doran Martell",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "martell",
+            "loyal": true,
+            "cost": 6,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "Lord"
+            ],
+            "text": "Insight. Shadow (5).\nEach card you control in shadows gains shadow (X). X is that card's printed cost.\n<b>Reaction:</b> After you lose dominance, look at the top 2 cards of your deck. Place 1 in shadows, and the other on the bottom of your deck. ",
+            "deckLimit": 3,
+            "illustrator": "Borja Pindado",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/7%20-%20Doran%20Martell.png"
+        },
+        {
+            "code": "23008",
+            "type": "event",
+            "name": "A Traitor's Whisper",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "martell",
+            "loyal": true,
+            "cost": 2,
+            "traits": [],
+            "text": "Play only if there is a card with shadow in your discard pile.\n<b>Action:</b> Choose and reveal a card from each player's shadows area, if able. You may put those cards into play.",
+            "deckLimit": 3,
+            "illustrator": "Louiz Brito",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/8%20-%20A%20Traitor_s%20Whisper.png"
+        },
+        {
+            "code": "23009",
+            "type": "character",
+            "name": "Craster's Keep Mutineer",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "Ally"
+            ],
+            "text": "<b>Reaction:</b> After Craster's Keep Mutineer enters play, choose a duplicate on a character and discard it from play.",
+            "flavor": "Craster lived high as a lord there, so why shouldn't he do the same? That would be a laugh.",
+            "deckLimit": 3,
+            "illustrator": "Mitchel Mohrhauser",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/9%20-%20Craster_s%20Keep%20Mutineer.png"
+        },
+        {
+            "code": "23010",
+            "type": "attachment",
+            "name": "Defensive Debris",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Item",
+                "Weapon"
+            ],
+            "text": "Bestow (2).\nAttached character gets +1 STR.\n<b>Challenges Action:</b> Discard 1 gold from Defensive Debris to choose a card in an opponent's discard pile. Until the end of the phase, cards with the same printed cost as the chosen card cannot be played or put into play. (Limit once per phase.)",
+            "deckLimit": 3,
+            "illustrator": "Pastén (Midjourney)",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/10%20-%20Defensive%20Debris.png"
+        },
+        {
+            "code": "23011",
+            "type": "character",
+            "name": "Crannogmen",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "stark",
+            "loyal": true,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 4,
+            "traits": [
+                "Army",
+                "House Reed"
+            ],
+            "text": "Shadow (3).\n<b>Interrupt:</b> When claim is applied for an [intrigue] challenge in which Crannogmen is attacking, return it to shadows to choose a character with printed cost 3 or lower controlled by the losing opponent. Instead of the normal claim effects, kill that character.",
+            "deckLimit": 3,
+            "illustrator": "Stephen Patane (Midjourney)",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/11%20-%20Crannogmen.png"
+        },
+        {
+            "code": "23012",
+            "type": "location",
+            "name": "The Wolf's Den",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "stark",
+            "loyal": true,
+            "cost": 3,
+            "traits": [
+                "House Manderly",
+                "The North"
+            ],
+            "text": "<b>Reaction:</b> After a character you control is sacrificed or killed, kneel The Wolf's Den to place the bottom card of your deck in shadows with a shadow token on it. While that card is in shadows, it gains shadow (X). X is its printed cost.",
+            "deckLimit": 3,
+            "illustrator": "Sergey Vasnev",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/12%20-%20The%20Wolfs%20Den.png"
+        },
+        {
+            "code": "23013",
+            "type": "character",
+            "name": "Lysono Maar",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 5,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Mercenary",
+                "Spy"
+            ],
+            "text": "Insight.\nDuring the first challenge you initiate each phase, defenders are declared before you declare attackers. <em>(Attackers and defenders are knelt simultaneously as part of initiating the challenge.)</em>",
+            "deckLimit": 3,
+            "illustrator": "Mark Bulahao",
+            "designer": "Card design by 2017 European Joust Champion, Reinhard Schefcik.",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/13%20-%20Lysono%20Maar.png"
+        },
+        {
+            "code": "23014",
+            "type": "location",
+            "name": "The Balerion",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Warship"
+            ],
+            "text": "While you control Captain Groleo, he gains a [power] icon and stealth.\n<b>Challenges Action:</b> Kneel The Balerion and shuffle it into your deck to choose a [targaryen] character. Until the end of the phase, that character gets +2 STR and gains assault.",
+            "deckLimit": 3,
+            "illustrator": "Kieran Belshaw",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/14%20-%20The%20Balerion.png"
+        },
+        {
+            "code": "23015",
+            "type": "character",
+            "name": "Ser Robar Royce",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "Kingsguard",
+                "Knight",
+                "Rainbow Guard"
+            ],
+            "text": "Ser Robar Royce cannot be declared as an attacker or defender in the first challenge each player initiates each round.\n-1 Initiative.",
+            "deckLimit": 3,
+            "illustrator": "Anh Bui",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/15%20-%20Robar%20Royce.png"
+        },
+        {
+            "code": "23016",
+            "type": "event",
+            "name": "A Wall of Roses",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "tyrell",
+            "loyal": true,
+            "cost": "-",
+            "traits": [],
+            "text": "Shadow (1).\n<b>Reaction:</b> After a challenge is initiated against you, reveal your hand (of at least 1 card). Then, choose up to 2 attacking characters. Stand each of those characters and remove them from the challenge. (Max 1 per challenge.)",
+            "deckLimit": 3,
+            "illustrator": "Rene Aigner",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/16%20-%20A%20Wall%20of%20Roses.png"
+        },
+        {
+            "code": "23017",
+            "type": "character",
+            "name": "Littlefinger",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "neutral",
+            "cost": 7,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "House Arryn",
+                "Lord"
+            ],
+            "text": "Insight.\n<b>Reaction:</b> After you win a challenge in which Littlefinger is participating, each player chooses a card in their hand or shadows area. Then, reveal those cards. If no opponent revealed a card with the same cardtype as you, move 1 power from a card in play to Littlefinger.",
+            "deckLimit": 3,
+            "illustrator": "Josu Hernaiz",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/17%20-%20Littlefinger.png"
+        },
+        {
+            "code": "23018",
+            "type": "character",
+            "name": "Anya Waynwood",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "neutral",
+            "cost": 6,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "House Arryn",
+                "Lady"
+            ],
+            "text": "While you control Harry the Heir, he gains renown.\n<b>Challenges Action:</b> Kneel a neutral location to choose a non-participating character with equal or lower printed cost. That character contributes its STR to your side this challenge. (Limit once per phase.)",
+            "deckLimit": 3,
+            "illustrator": "Borja Pindado",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/18%20-%20Anya%20Waynwood.png"
+        },
+        {
+            "code": "23019",
+            "type": "character",
+            "name": "Knights of the Vale",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "neutral",
+            "cost": 6,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Army",
+                "House Arryn",
+                "Knight"
+            ],
+            "text": "Assault. No attachments.\n<b>Challenges Action:</b> Kneel a neutral location with printed cost 1 or higher to choose a defending character that shares a <i>Trait</i> with Knights of the Vale. Until the end of the challenge, that character gets +2 STR. (+4 STR instead if your initiative value is 0.) (Limit once per phase.)",
+            "deckLimit": 3,
+            "illustrator": "Fadly Romdhani",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/19%20-%20Knights%20of%20the%20Vale.png"
+        },
+        {
+            "code": "23020",
+            "type": "character",
+            "name": "Alayne Stone",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "neutral",
+            "cost": 5,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Bastard",
+                "Companion",
+                "House Arryn"
+            ],
+            "text": "Stealth.\nIf you control Sansa Stark, place Alayne Stone on her as a duplicate.\nWhile Alayne Stone is kneeling, players cannot trigger abilities on in-faction <i>Lord</i> or <i>Lady</i> characters during the challenges phase.",
+            "deckLimit": 3,
+            "illustrator": "Drazenka Kimpel",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/20%20-%20Alayne%20Stone.png"
+        },
+        {
+            "code": "23021",
+            "type": "character",
+            "name": "Harry the Heir",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "neutral",
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Ally",
+                "House Arryn",
+                "Knight"
+            ],
+            "text": "While you control Anya Waynwood, she gets +1 STR for each power Harry the Heir has.\n<b>Reaction:</b> After you win a challenge in which Harry the Heir is attacking, choose and stand a neutral location you control. (Limit once per phase.)",
+            "deckLimit": 3,
+            "illustrator": "Anh Bui",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/21%20-%20Harry%20the%20Heir.png"
+        },
+        {
+            "code": "23022",
+            "type": "character",
+            "name": "Lord Protector's Retainer",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "neutral",
+            "cost": 4,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Ally",
+                "House Arryn",
+                "Spy"
+            ],
+            "text": "<b>Interrupt:</b> When the effects of an ability that chooses a <i>Lord</i> or <i>Lady</i> character you control as its only target would initiate, return Lord Protector's Retainer to your hand to cancel those effects. (Max once per phase.)",
+            "deckLimit": 3,
+            "illustrator": "Anders Finer",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/22%20-%20Lord%20Protectors%20Retainer.png"
+        },
+        {
+            "code": "23023",
+            "type": "character",
+            "name": "Nestor Royce",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "neutral",
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Ally",
+                "House Arryn",
+                "Lord"
+            ],
+            "text": "<b>Reaction:</b> After you win a challenge in which Nestor Royce is participating, kneel a neutral location with printed cost 1 or higher to have him gain intimidate or renown until the end of the challenge.",
+            "deckLimit": 3,
+            "illustrator": "Chris Dien",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/23%20-%20Nestor%20Royce.png"
+        },
+        {
+            "code": "23024",
+            "type": "character",
+            "name": "Maester Colemon",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "neutral",
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "House Arryn",
+                "Maester"
+            ],
+            "text": "<b>Dominance Action:</b> Kneel Maester Colemon to choose a <i>Condition</i> or <i>Item</i> attachment and move it to another eligible character.",
+            "flavor": "\"Maester Colemon cares only for the boy, though. Father and I have larger concerns.\" <cite>Sansa Stark</cite>",
+            "deckLimit": 3,
+            "illustrator": "Chris Dien",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/24%20-%20Maester%20Colemon.png"
+        },
+        {
+            "code": "23025",
+            "type": "character",
+            "name": "Mord",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "neutral",
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Guard",
+                "House Arryn"
+            ],
+            "text": "<b>Action:</b> Kneel Mord to choose a character controlled by a player whose initiative value is equal to or higher than yours. Until Mord stands or leaves play, treat that character as if its printed text box were blank (except for <i>Traits</i>).",
+            "deckLimit": 3,
+            "illustrator": "M.Sandelin-Nyhagen (Midjourney)",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/25%20-%20Mord.png"
+        },
+        {
+            "code": "23026",
+            "type": "character",
+            "name": "Ser Vardis Egen",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "neutral",
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Guard",
+                "House Arryn",
+                "Knight"
+            ],
+            "text": "<b>Reaction:</b> After you lose a challenge in which Ser Vardis Egen is defending, sacrifice him to choose an attacking character. Place it in shadows with a shadow token on it (cannot be saved). While that card is in shadows, it gains shadow (X). X is its printed cost.",
+            "deckLimit": 3,
+            "illustrator": "Marc Simonetti",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/26%20-%20Ser%20Vardis%20Egen.png"
+        },
+        {
+            "code": "23027",
+            "type": "character",
+            "name": "Benjicot",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "neutral",
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 1,
+            "traits": [
+                "Ally",
+                "Fool",
+                "House Arryn"
+            ],
+            "text": "<b>Forced Reaction:</b> After Benjicot stands, reveal the bottom card of each player's deck. Add each revealed card that shares a <i>Trait</i> with Benjicot to its owner's hand, and discard the others.",
+            "deckLimit": 3,
+            "illustrator": "Will Lentz (Midjourney)",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/27%20-%20Benjicot.png"
+        },
+        {
+            "code": "23028",
+            "type": "character",
+            "name": "Sweetrobin",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "neutral",
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 1,
+            "traits": [
+                "House Arryn",
+                "Lord"
+            ],
+            "text": "<b>Interrupt:</b> When a card with printed cost equal to or lower than its owner's initiative value is revealed from a player's hand, deck, or shadows area, remove it from the game. (Limit once per phase.)",
+            "deckLimit": 3,
+            "illustrator": "Anh Bui",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/28%20-%20Sweetrobin.png"
+        },
+        {
+            "code": "23029",
+            "type": "character",
+            "name": "Winged Knight",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "neutral",
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 1,
+            "traits": [
+                "Guard",
+                "House Arryn",
+                "Knight"
+            ],
+            "text": "<b>Interrupt:</b> When a <i>Lord</i> or <i>Lady</i> character is killed, sacrifice Winged Knight to remove that character from the game instead of placing it in its owner's dead pile.",
+            "deckLimit": 3,
+            "illustrator": "Sebastián Aguirre",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/29%20-%20Winged%20Knight.png"
+        },
+        {
+            "code": "23030",
+            "type": "character",
+            "name": "Gulltown Merchant",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "neutral",
+            "cost": 1,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 1,
+            "traits": [
+                "Ally",
+                "House Arryn",
+                "Merchant"
+            ],
+            "text": "<b>Marshaling Action:</b> If there is a <i>City</i> plot card revealed, kneel Gulltown Merchant to gain 1 gold.",
+            "flavor": "\"There are several branches of House Arryn scattered across the Vale, all as proud as they are penurious, save for the Gulltown Arryns, who had the rare good sense to marry merchants.\" <cite>Littlefinger</cite>",
+            "deckLimit": 3,
+            "illustrator": "Pastén (Midjourney)",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/30%20-%20Gulltown%20Merchant.png"
+        },
+        {
+            "code": "23031",
+            "type": "location",
+            "name": "The Eyrie",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "neutral",
+            "cost": 5,
+            "traits": [
+                "House Arryn",
+                "Stronghold"
+            ],
+            "text": "While your initiative value is 0, The Eyrie is immune to opponents' non-plot card effects.\n<b>Challenges Action:</b> During a challenge in which you control a participating loyal or <i>House Arryn</i> character, kneel The Eyrie to have it contribute 2 STR to your side this challenge for each participating character you control.\n-2 Initiative. +1 Reserve.",
+            "deckLimit": 3,
+            "illustrator": "Ted Nasmith",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/31%20-%20The%20Eyrie.png"
+        },
+        {
+            "code": "23032",
+            "type": "location",
+            "name": "The Vale of Arryn",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "neutral",
+            "cost": 3,
+            "traits": [
+                "House Arryn"
+            ],
+            "text": "<b>Reaction:</b> After you win a challenge by 5 or more STR, choose a participating loyal or <i>House Arryn</i> character you control and have it gain 1 power. (2 power instead if The Vale of Arryn is kneeling.) (Limit once per phase.)",
+            "deckLimit": 3,
+            "illustrator": "Ted Nasmith",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/32%20-%20The%20Vale%20of%20Arryn.png"
+        },
+        {
+            "code": "23033",
+            "type": "location",
+            "name": "The Bloody Gate",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "neutral",
+            "cost": 1,
+            "traits": [
+                "House Arryn",
+                "Stronghold"
+            ],
+            "text": "<b>Reaction:</b> After you lose a [military] challenge in which you control a defending character, the winning opponent must choose and discard 1 card from their hand. (Discard 1 card at random from their hand instead if The Bloody Gate is kneeling.)",
+            "deckLimit": 3,
+            "illustrator": "Stephen Patane (Midjourney)",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/33%20-%20The%20Bloody%20Gate.png"
+        },
+        {
+            "code": "23034",
+            "type": "location",
+            "name": "The Highroad",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "neutral",
+            "cost": 1,
+            "traits": [
+                "Westeros"
+            ],
+            "text": "Limited.\n<b>Action:</b> Kneel and sacrifice The Highroad to reduce the cost of the next non-character card you marshal or play this phase by 2.\n+1 Income.",
+            "deckLimit": 3,
+            "illustrator": "Torbjörn Källström",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/34%20-%20The%20Highroad.png"
+        },
+        {
+            "code": "23035",
+            "type": "attachment",
+            "name": "Lord Protector of the Vale",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "neutral",
+            "cost": 2,
+            "traits": [
+                "House Arryn",
+                "Title"
+            ],
+            "text": "<i>Lord</i> character you control only.\nIf attached character is Littlefinger, he gets +2 STR.\n<b>Challenges Action:</b> During a [power] challenge in which you control a participating <i>House Arryn</i> character, kneel Lord Protector of the Vale to have attached character contribute its STR to your side this challenge.",
+            "deckLimit": 3,
+            "illustrator": "Mike Capprotti",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/35%20-%20Lord%20Protector%20of%20the%20Vale.png"
+        },
+        {
+            "code": "23036",
+            "type": "event",
+            "name": "Lysa's Letter",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "cost": 1,
+            "traits": [],
+            "text": "<b>Reaction:</b> After the challenges phase begins, choose a player and a challenge type. Until the end of the phase, if that player has not initiated a challenge of that type this phase, set the claim value on their revealed plot card to 0.",
+            "deckLimit": 3,
+            "illustrator": "Pastén (Midjourney)",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/36%20-%20Lysa_s%20Letter.png"
+        },
+        {
+            "code": "23037",
+            "type": "event",
+            "name": "The Seed is Strong",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "cost": 0,
+            "traits": [],
+            "text": "<b>Reaction:</b> After you lose initiative, the winning opponent must choose and discard a <i>Lord</i> or <i>Lady</i> character from their hand or shadows area unless they reveal a hand and shadows area containing no <i>Lord</i> or <i>Lady</i> characters.",
+            "deckLimit": 3,
+            "illustrator": "Will Lentz (Midjourney)",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/37%20-%20The%20Seed%20is%20Strong.png"
+        },
+        {
+            "code": "23038",
+            "type": "plot",
+            "name": "The Defiance of Duskendale",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "plotStats": {
+                "income": 4,
+                "initiative": 5,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "Legacy",
+                "Siege"
+            ],
+            "text": "<b>Reaction:</b> After a location is knelt by assault, discard it from play.",
+            "flavor": "\"Unless I returned with the king by dawn of the following day, he would take the town with steel and fire, he told me.\" <cite>Ser Barristan Selmy</cite>",
+            "deckLimit": 1,
+            "illustrator": "Marc Simonetti",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/38%20-%20The%20Defiance%20of%20Duskendale.png"
+        },
+        {
+            "code": "23039",
+            "type": "plot",
+            "name": "Wardens of the East",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "plotStats": {
+                "income": 5,
+                "initiative": 0,
+                "claim": 1,
+                "reserve": 5
+            },
+            "traits": [
+                "House Arryn",
+                "Siege"
+            ],
+            "text": "Each player cannot play in-faction events, and plays with each card in their shadows area revealed.",
+            "deckLimit": 1,
+            "illustrator": "Tomasz Jedruszek",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/39%20-%20Wardens%20of%20the%20East.png"
+        },
+        {
+            "code": "23040",
+            "type": "agenda",
+            "name": "Banner of the Falcon",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "traits": [
+                "Banner",
+                "House Arryn"
+            ],
+            "text": "You must include at least 12 <i>House Arryn</i> cards in your deck.\nWhile the number of <i>House Arryn</i> cards you control is higher than your initiative value, each loyal character you control gets +1 STR.\n-2 Initiative. +1 Reserve.",
+            "deckLimit": 1,
+            "illustrator": "Sebastián Aguirre",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/AHaH/40%20-%20Banner%20of%20the%20Falcon.png"
+        }
+    ]
+}
