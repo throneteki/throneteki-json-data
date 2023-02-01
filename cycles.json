@@ -198,5 +198,12 @@
         "packs": [
             "AHaH"
         ]
+    },
+    {
+        "id": "spoils",
+        "name": "The Spoils of War",
+        "packs": [
+            "TSoW"
+        ]
     }
 ]
