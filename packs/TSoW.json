@@ -170,7 +170,7 @@
         {
             "code": "24008",
             "type": "character",
-            "name": "Lannisport Levies",
+            "name": "Oxcross Survivors",
             "octgnId": null,
             "quantity": 3,
             "unique": false,
@@ -186,10 +186,10 @@
             "traits": [
                 "Army"
             ],
-            "text": "No attachments.\nWhile you control a [lannister] <i>Lord</i> or <i>Commander</i> character, Lannisport Levies gain +3 STR and assault.",
+            "text": "No attachments.\nWhile you control a [lannister] <i>Lord</i> or <i>Commander</i> character, Oxcross Survivors gain +3 STR and assault.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/afa4fa72-e83a-4c6d-8d33-f40d3e66da6d"
+            "imageUrl": "https://hcti.io/v1/image/a59976ef-8c33-4b1b-b646-de2491707558"
         },
         {
             "code": "24009",
@@ -201,7 +201,7 @@
             "loyal": true,
             "cost": 3,
             "traits": [],
-            "text": "<b>Reaction:</b> After you win an [intrigue] challenge by 5 or more STR, choose 3 different characters. Then, return one to its owners hand, place one into shadows, and give one insight until the end of the phase. (Max once per phase)",
+            "text": "<b>Reaction:</b> After you win an [intrigue] challenge by 5 or more STR, choose 3 different characters. Then, return one to its owner's hand, place one into shadows, and give one insight until the end of the phase. (Max once per phase.)",
             "deckLimit": 3,
             "illustrator": "?",
             "imageUrl": "https://hcti.io/v1/image/6cb60319-1e24-483e-b1cd-2aded56fe075"
@@ -529,10 +529,10 @@
             "traits": [
                 "The Seven"
             ],
-            "text": "While there are no cards in shadows, each <i>Lord</i> or <i>Lady</i> character you control gains <i>The Seven</i> trait.\n<b>Reaction:</b> After power is gained by or moved to a character, kneel Highgarden Castle Sept to have each player choose a card they control in shadows, and place it on top of their deck.",
+            "text": "While there are no cards in shadows, each <i>Lord</i> or <i>Lady</i> character you control gains <i>The Seven</i> trait.\n<b>Reaction:</b> After power is gained by or moved to a character, kneel Highgarden Castle Sept to have each player choose a card they control in shadows, if able, and place it on top of their deck.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/6fc83eb1-75fc-4aed-89af-209008807106"
+            "imageUrl": "https://hcti.io/v1/image/039e605a-7c28-4a73-b637-a0e63ad79db7"
         },
         {
             "code": "24025",
