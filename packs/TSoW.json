@@ -648,7 +648,7 @@
                 "War"
             ],
             "text": "When resolving [military] claim, <i>Army</i> characters must be chosen first.",
-            "deckLimit": null,
+            "deckLimit": 2,
             "illustrator": "?",
             "imageUrl": "https://hcti.io/v1/image/152fd322-772f-459c-b462-ef3319645a46"
         }
