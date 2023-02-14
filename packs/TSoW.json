@@ -7,7 +7,7 @@
         {
             "code": "24001",
             "type": "character",
-            "name": "The Royal Fleet",
+            "name": "Salladhor Saan's Lyseni",
             "octgnId": null,
             "quantity": 3,
             "unique": true,
@@ -25,10 +25,10 @@
                 "Mercenary",
                 "Smuggler"
             ],
-            "text": "Assault. No attachments.\n<b>Reaction:</b> After a character is bypassed using stealth, if it is loyal, draw a card. Otherwise, The Royal Fleet gains 1 power. (Limit twice per round.)",
+            "text": "Assault. No attachments.\n<b>Reaction:</b> After an opponent's location is knelt by a card effect, move 1 power from that opponent's faction card to a character in play. (Limit once per round.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/26fecde3-cffe-4b26-b53e-5d377f0848ce"
+            "imageUrl": "https://hcti.io/v1/image/caf1493a-fe03-403d-bfe0-1579772a9188"
         },
         {
             "code": "24002",
@@ -162,10 +162,10 @@
                 "Knight",
                 "Lord"
             ],
-            "text": "Renown.\n<b>Reaction:</b> After you win a [power] challenge in which you control a participating <i>Army</i> character, discard any amount of power from Ser Daven Lannister. For each power discarded, discard 1 card at random from the losing opponent's hand and draw 1 card.",
+            "text": "Renown.\n<b>Reaction:</b> After Ser Daven Lannister gains a power, discard 1 card at random from each opponent's hand. Then, if each opponent has fewer cards in their hand than you, draw 1 card.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/e69f2d61-e068-4ce5-96f9-f93368d38994"
+            "imageUrl": "https://hcti.io/v1/image/19439679-1e4f-46c1-808b-639199b2163f"
         },
         {
             "code": "24008",
@@ -225,10 +225,10 @@
             "traits": [
                 "Knight"
             ],
-            "text": "While there are 3 or fewer cards in shadows, Ser Andrey Dalt gains renown.\r\n<b>Interrupt:</b> When you win dominance, discard 1 card from shadows to choose an opponent and have them win dominance instead.",
+            "text": "Renown.\n<b>Interrupt:</b> When you win dominance, discard 1 card from shadows to choose an opponent and have them win dominance instead.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/b710caf4-9a54-4d7e-a1dd-c17e48ac3b1e"
+            "imageUrl": "https://hcti.io/v1/image/925b6d3a-0690-4f7c-82c1-9e410b3d7fdc"
         },
         {
             "code": "24011",
@@ -264,16 +264,16 @@
             "quantity": 3,
             "unique": false,
             "faction": "martell",
-            "loyal": true,
+            "loyal": false,
             "cost": 2,
             "traits": [
                 "Siege",
                 "Weapon"
             ],
-            "text": "Ambush (3).\nAttached character gets +2 STR.\n<b>Reaction:</b> After you win a [military] challenge in which attached character is defending, sacrifice War Scorpion to kill an attacking <i>Army</i> or <i>Dragon</i> character.",
+            "text": "Ambush (3).\nAttached character gets +2 STR.\n<b>Action:</b> Sacrifice War Scorpion to choose an attacking character, and remove it from the challenge (you may kill it instead if it has the <i>Army</i> or <i>Dragon</i> trait).",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/87c05c80-1293-48e7-b090-881595200ece"
+            "imageUrl": "https://hcti.io/v1/image/415ec0ac-90a9-48a0-add1-3b5fbaf40a3e"
         },
         {
             "code": "24013",
@@ -290,16 +290,16 @@
                 "intrigue": false,
                 "power": true
             },
-            "strength": 3,
+            "strength": 4,
             "traits": [
                 "Commander",
                 "Ranger"
             ],
-            "text": "While there are no cards in shadows, <i>Army</i> and <i>Knight</i> characters lose assault, intimidate and renown.\n<b>Reaction:</b> After you win a challenge in which Iron Emmett is defending, choose a card in shadows controlled by the losing opponent. Discard that card.",
+            "text": "Stealth.\nWhile Iron Emmett is kneeling during the challenges phase, characters with a [military] icon cannot enter play.",
             "flavor": "Gods be good, our Lord Commander's still in swaddling clothes. I hope this don't mean I can't beat the bloody piss out of you next time we train, my lord. ~ Emmett",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/dfd8a2ff-6a51-43ac-9652-03e1165b18e1"
+            "imageUrl": "https://hcti.io/v1/image/52ffc7e5-bb8a-4896-8e5d-994bda5a1a45"
         },
         {
             "code": "24014",
@@ -314,10 +314,10 @@
             "traits": [
                 "The North"
             ],
-            "text": "Each character you control which is owned by an opponent gets +1 STR.\n<b>Reaction:</b> After you win a challenge as the defending player, choose and reveal a card in the losing players shadows area. If it is a character, you may sacrifice The Shadow Tower to put it into play under your control.",
+            "text": "Each character you control which is owned by an opponent gets +1 STR.\n<b>Action:</b> Kneel The Shadow Tower to reveal a card in an opponent's shadow area. If it is a non-unique character, put it into play under your control.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/c99ec3b9-697c-462d-8cda-95c1b7a79ef6"
+            "imageUrl": "https://hcti.io/v1/image/c521a86c-9686-483e-94e7-95ae710d66f0"
         },
         {
             "code": "24015",
@@ -327,12 +327,12 @@
             "quantity": 3,
             "faction": "thenightswatch",
             "loyal": true,
-            "cost": 0,
+            "cost": 1,
             "traits": [],
-            "text": "<b>Challenges Action:</b> Choose an attacking non-loyal character. That character does not contribute its STR to this challenge. Then, if that card is an Army or Wildling character, draw 1 card.",
+            "text": "<b>Challenges Action:</b> Choose an attacking non-loyal character. That character does not contribute its STR to this challenge. Then, if that card is an <i>Army</i> or <i>Wildling</i> character, draw 1 card.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/00662ba7-cea7-4c00-a836-b3bcbf63534a"
+            "imageUrl": "https://hcti.io/v1/image/21d2382e-8558-49f5-b4f7-b723c9f9f2c0"
         },
         {
             "code": "24016",
@@ -353,10 +353,10 @@
             "traits": [
                 "Army"
             ],
-            "text": "Assault. No attachments.\n<b>Reaction:</b> After you win a [military] challenge in which you control an attacking <i>King</i> character, choose and kill a defending character.",
+            "text": "Assault. No attachments.\n<b>Reaction:</b> After you win a [military] challenge in which you control an attacking <i>King</i> character, choose and kill a non-participating character controlled by the losing opponent.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/617f7808-11c8-48f0-9a8e-45b114b86c7e"
+            "imageUrl": "https://hcti.io/v1/image/5fe67152-5a64-40c9-94c7-6996d3686de0"
         },
         {
             "code": "24017",
@@ -381,7 +381,7 @@
             "text": "Assault. No attachments except <i>Weapon</i>.\n<b>Challenges Action:</b> Sacrifice The Bastard's Boys to put a non-[stark] card with printed cost 5 or lower or a <i>House Bolton</i> card into play from your hand.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/eab90a37-2947-40bd-9523-061118fe46c1"
+            "imageUrl": "https://hcti.io/v1/image/a45e97bf-6d83-4eca-b7c5-fcdf85412778"
         },
         {
             "code": "24018",
@@ -394,13 +394,13 @@
             "loyal": true,
             "cost": 2,
             "traits": [
-                "Stronghold",
+                "Contested",
                 "The Westerlands"
             ],
             "text": "While you control Robb Stark, he gains assault and cannot be saved.\n<b>Reaction:</b> After a unique location is knelt using assault, kneel the Crag to gain 1 power for your faction (2 power instead if you have a <i>War</i> plot card revealed).",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/baa31de9-c6b4-44a2-9c19-90f9a6ded080"
+            "imageUrl": "https://hcti.io/v1/image/b9bb2736-96df-40f2-8673-f61003efaa75"
         },
         {
             "code": "24019",
@@ -411,7 +411,7 @@
             "unique": true,
             "faction": "targaryen",
             "loyal": false,
-            "cost": 5,
+            "cost": 4,
             "icons": {
                 "military": true,
                 "intrigue": false,
@@ -422,10 +422,10 @@
                 "Commander",
                 "Companion"
             ],
-            "text": "No attachments except <i>Weapon</i>.\n<b>Reaction:</b> After you win a challenge in which Hero is participating, if you have fewer cards in hand than the losing opponent, stand a participating <i>Army</i> character you control.",
+            "text": "<b>Reaction:</b> After you win a challenge in which Hero is participating, if you have fewer cards in hand than the losing opponent, stand a participating <i>Army</i> character you control.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/afbb299a-6d36-4878-8d26-c21ef12fbd2f"
+            "imageUrl": "https://hcti.io/v1/image/0a1f37cb-4129-405f-93f4-603defec24b3"
         },
         {
             "code": "24020",
@@ -446,10 +446,10 @@
             "traits": [
                 "Army"
             ],
-            "text": "Assault.\nWhile Stalwart Shields is participating in a challenge, opponent's <i>Army</i> characters cannot trigger text abilities.",
+            "text": "Assault.\nWhile Stalwart Shields is participating in a challenge, opponent's <i>Army</i> characters cannot trigger card abilities.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/4385a1a7-7841-4d86-b2ea-2b54e5d0f4a8"
+            "imageUrl": "https://hcti.io/v1/image/981730bf-f5f0-4705-950a-d6f1b6bb9591"
         },
         {
             "code": "24021",
@@ -494,10 +494,10 @@
         {
             "code": "24023",
             "type": "character",
-            "name": "City Watch of Oldtown",
+            "name": "Oldtown City Watch",
             "octgnId": null,
             "quantity": 3,
-            "unique": true,
+            "unique": false,
             "faction": "tyrell",
             "loyal": false,
             "cost": 3,
@@ -511,15 +511,15 @@
                 "Army",
                 "Guard"
             ],
-            "text": "No attachments.\n<b>Reaction:</b> After a card is revealed from your hand, deck or shadows area, City Watch of Oldtown gets +1 STR until the end of the phase. (Limit 3 times per phase.)",
+            "text": "No attachments.\n<b>Reaction:</b> After a card is revealed from your hand, deck or shadows area, Oldtown City Watch gets +1 STR until the end of the phase. (Limit 3 times per phase.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/343a379f-a108-4608-833a-2f2e09f4e3c6"
+            "imageUrl": "https://hcti.io/v1/image/92ef01bb-1414-4a1a-b5f9-87482b594ae8"
         },
         {
             "code": "24024",
             "type": "location",
-            "name": "Highgarden Castle Sept",
+            "name": "Highgarden Sept",
             "octgnId": null,
             "quantity": 3,
             "unique": true,
@@ -529,10 +529,10 @@
             "traits": [
                 "The Seven"
             ],
-            "text": "While there are no cards in shadows, each <i>Lord</i> or <i>Lady</i> character you control gains <i>The Seven</i> trait.\n<b>Reaction:</b> After power is gained by or moved to a character, kneel Highgarden Castle Sept to have each player choose a card they control in shadows, if able, and place it on top of their deck.",
+            "text": "While you have 7 or more cards in your hand, card abilities cannot cause non-<i>The Seven</i> cards to enter play.\n<b>Reaction:</b> After power is gained by or moved to a character you control,  draw 1 card. (Limit once per phase.)\n+1 Reserve",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/039e605a-7c28-4a73-b637-a0e63ad79db7"
+            "imageUrl": "https://hcti.io/v1/image/c348db8c-9f5e-4098-bbed-f0f2062d48e0"
         },
         {
             "code": "24025",
@@ -540,7 +540,7 @@
             "name": "King's Landing Mob",
             "octgnId": null,
             "quantity": 3,
-            "unique": true,
+            "unique": false,
             "faction": "neutral",
             "cost": 8,
             "icons": {
@@ -553,10 +553,10 @@
                 "Ally",
                 "Army"
             ],
-            "text": "Assault. No attachments.\nReduce the cost to marshal King's Landing Mob by X (to a minimum of 1). X is your reserve value.\n<b>Reaction:</b> After a location is knelt by assault, kill King's Landing Mob to remove that location from the game.",
+            "text": "Assault. No attachments.\nReduce the cost to marshal King's Landing Mob by X (to a minimum of 4). X is your reserve value.\n<b>Reaction:</b> After a location is knelt by assault, kill King's Landing Mob to remove that location from the game.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/9c2a8321-83dd-4327-a4fe-9b0e1b29b565"
+            "imageUrl": "https://hcti.io/v1/image/cb2af8f9-0ba6-4a9e-aaaa-e2b9542a607c"
         },
         {
             "code": "24026",
@@ -585,7 +585,7 @@
         {
             "code": "24027",
             "type": "attachment",
-            "name": "Leader of the Vanguard",
+            "name": "Vanguard Leader",
             "octgnId": null,
             "quantity": 3,
             "unique": false,
@@ -597,7 +597,7 @@
             "text": "Unique character only.\nAttached character gains the <i>Commander</i> trait and gets +1 STR.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/594df9d5-1349-4ac0-9369-bb4d8651a3b9"
+            "imageUrl": "https://hcti.io/v1/image/e8135027-3f83-427f-826d-4269be0c8d92"
         },
         {
             "code": "24028",
@@ -612,10 +612,10 @@
                 "The Riverlands",
                 "Westeros"
             ],
-            "text": "Immune to other card effects.\n<b>Forced Reaction:</b> After you win a challenge as the attacking player,  sacrifice a <i>The Riverlands</i> or <i>Westeros</i> location you control. (Cannot be cancelled)\n+1 Claim.",
+            "text": "<b>Forced Reaction:</b> After you win a challenge as the attacking player, give control of The Trident to the losing opponent, unless you sacrifice another location.\n+1 Claim",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/f0839f41-7775-4f29-bb9d-792891832c70"
+            "imageUrl": "https://hcti.io/v1/image/6f2c2527-25e9-4037-863e-56fe45731219"
         },
         {
             "code": "24029",
@@ -626,10 +626,10 @@
             "faction": "neutral",
             "cost": 1,
             "traits": [],
-            "text": "<b>Reaction:</b> After you lose a [military] challenge, sacrifice a location you control to choose, either: up to 2 participating characters with printed cost 2 or lower, or a participating <i>Army</i> character. Remove each chosen character from the game.",
+            "text": "<b>Reaction:</b> After you lose a [military] challenge, sacrifice a location to choose a participating character with printed cost 4 or lower, or a participating <i>Army</i> character, and remove it from the game.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/48dfecaf-5f80-459c-94ee-1ac50760fa64"
+            "imageUrl": "https://hcti.io/v1/image/3e6ccf83-06ad-4426-bdf4-0dff58402365"
         },
         {
             "code": "24030",
@@ -647,10 +647,10 @@
             "traits": [
                 "War"
             ],
-            "text": "When resolving [military] claim, <i>Army</i> characters must be chosen first.",
+            "text": "During [military] challenges, <i>Army</i> characters must be chosen for claim, if able.",
             "deckLimit": 2,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/152fd322-772f-459c-b462-ef3319645a46"
+            "imageUrl": "https://hcti.io/v1/image/4aa4c82e-f511-4403-839b-b86dcbcddc58"
         }
     ],
     "workInProgress": true
