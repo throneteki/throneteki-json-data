@@ -19,7 +19,7 @@
                 "intrigue": false,
                 "power": true
             },
-            "strength": 6,
+            "strength": 5,
             "traits": [
                 "Army",
                 "Mercenary",
@@ -28,7 +28,7 @@
             "text": "Assault. No attachments.\n<b>Reaction:</b> After an opponent's location is knelt by a card effect, move 1 power from that opponent's faction card to a character in play. (Limit once per round.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/caf1493a-fe03-403d-bfe0-1579772a9188"
+            "imageUrl": "https://hcti.io/v1/image/f13b2d9a-0909-4aee-949d-39fbfc2e5a74"
         },
         {
             "code": "24002",
@@ -49,10 +49,10 @@
             "traits": [
                 "Knight"
             ],
-            "text": "Renown.\n<b>Interrupt:</b> When the effects of a <i>Siege</i> card would initiate, kneel Ser Gilbert Farring to cancel those effects.",
+            "text": "Renown.\n<b>Challenge Action:</b> Move 1 power from Ser Gilbert Farring to a location you control. Until the end of the phase, that location cannot be targeted by assault. (Limit once per phase.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/c80b7fdd-ba31-4eb3-8617-9b315156fc52"
+            "imageUrl": "https://hcti.io/v1/image/6e82dc4f-47a1-41e3-ac10-0471d815bc7c"
         },
         {
             "code": "24003",
@@ -70,7 +70,7 @@
             "text": "Shadow (2).\nReduce the cost of the first event you play each round by 1.\n<b>Reaction:</b> After a card is placed in shadows by a card effect, return Dragonstone to shadows to discard that card.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/642a2c93-5283-4b5e-838e-a796ad78ded9"
+            "imageUrl": "https://hcti.io/v1/image/1d66280c-64a2-473a-b1b6-b55fe63fc6e4"
         },
         {
             "code": "24004",
@@ -96,7 +96,7 @@
             "text": "Pillage. Shadow (4). Stealth.\nWhile there is a <i>Winter</i> plot card revealed, you may marshal Dagmer Cleftjaw into shadows from your dead pile.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/dadc0c49-7536-4891-8de2-7f225671e0b4"
+            "imageUrl": "https://hcti.io/v1/image/9688d214-118c-4dfb-aff1-9a6d780283e0"
         },
         {
             "code": "24005",
@@ -121,7 +121,7 @@
             "text": "Shadow (1).\n<b>Reaction:</b> After an opponent discards 1 or more cards for reserve, gain 1 gold.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/5ab8ebb4-81da-40be-a24d-595216ad7cec"
+            "imageUrl": "https://hcti.io/v1/image/b265272a-b3e4-4e0d-a30b-ca162aa9c2ad"
         },
         {
             "code": "24006",
@@ -139,7 +139,7 @@
             "text": "While there are no cards in shadows, attached character gains insight.\n<b>Reaction:</b> After you win a challenge in which attached character is participating, kneel Myrish Lens to choose and reveal a card in shadows. If it is an event, discard it.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/283990d2-5242-4535-b064-f9b83d4125d8"
+            "imageUrl": "https://hcti.io/v1/image/e5de813e-c352-4b69-9ddc-9a9dab20933a"
         },
         {
             "code": "24007",
@@ -165,7 +165,7 @@
             "text": "Renown.\n<b>Reaction:</b> After Ser Daven Lannister gains a power, discard 1 card at random from each opponent's hand. Then, if each opponent has fewer cards in their hand than you, draw 1 card. (Limit twice per round.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/917142ba-fee9-420d-8268-80a1e70d74cd"
+            "imageUrl": "https://hcti.io/v1/image/ebca1e94-2225-4d99-9b34-4f87cdadcfcf"
         },
         {
             "code": "24008",
@@ -189,7 +189,7 @@
             "text": "No attachments.\nWhile you control a [lannister] <i>Lord</i> or <i>Commander</i> character, Oxcross Survivors gain +3 STR and assault.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/a59976ef-8c33-4b1b-b646-de2491707558"
+            "imageUrl": "https://hcti.io/v1/image/5a7f99db-3d37-474a-bba2-41163731111d"
         },
         {
             "code": "24009",
@@ -204,7 +204,7 @@
             "text": "<b>Reaction:</b> After you win an [intrigue] challenge as the attacking player, return a character to your hand to choose 2 other characters. Until the end of the phase, one gains insight, and treat the other's text box as if it were blank (except for <i>Traits</i>).",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/ee9af6af-d0f6-4a1d-81a6-625c4436007c"
+            "imageUrl": "https://hcti.io/v1/image/b54f6753-e565-43f5-824b-e13b624faa32"
         },
         {
             "code": "24010",
@@ -214,7 +214,7 @@
             "quantity": 3,
             "unique": true,
             "faction": "martell",
-            "loyal": false,
+            "loyal": true,
             "cost": 4,
             "icons": {
                 "military": true,
@@ -228,7 +228,7 @@
             "text": "Renown.\nEach opponent cannot gain power for winning dominance.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/7554ac38-68ff-47f1-9439-94b1d4350d28"
+            "imageUrl": "https://hcti.io/v1/image/631b7b5e-3f21-4e71-8604-811bd361b3b3"
         },
         {
             "code": "24011",
@@ -254,7 +254,7 @@
             "text": "<b>Interrupt:</b> When a character would be returned to a player's hand or shadows area, kneel Caggo Corpsekiller to place that character in its owner's dead pile instead.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/c251ede7-62dc-4924-a896-3d95ef8bb35e"
+            "imageUrl": "https://hcti.io/v1/image/102bb7fb-50d3-4a25-9f5a-ff419d02ed08"
         },
         {
             "code": "24012",
@@ -273,7 +273,7 @@
             "text": "Ambush (3).\nAttached character gets +2 STR.\n<b>Action:</b> Sacrifice War Scorpion to choose an attacking character, and remove it from the challenge (you may kill it instead if it has the <i>Army</i> or <i>Dragon</i> trait).",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/415ec0ac-90a9-48a0-add1-3b5fbaf40a3e"
+            "imageUrl": "https://hcti.io/v1/image/b617ddad-cb1f-415d-93bc-b059620e5a2f"
         },
         {
             "code": "24013",
@@ -299,7 +299,7 @@
             "flavor": "Gods be good, our Lord Commander's still in swaddling clothes. I hope this don't mean I can't beat the bloody piss out of you next time we train, my lord. ~ Emmett",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/52ffc7e5-bb8a-4896-8e5d-994bda5a1a45"
+            "imageUrl": "https://hcti.io/v1/image/79da84ec-dbdd-41b7-8428-3c17c4b2ab77"
         },
         {
             "code": "24014",
@@ -317,7 +317,7 @@
             "text": "Each character you control which is owned by an opponent gets +1 STR.\n<b>Action:</b> Kneel The Shadow Tower to reveal a card in an opponent's shadow area. If it is a non-unique character, put it into play under your control.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/c521a86c-9686-483e-94e7-95ae710d66f0"
+            "imageUrl": "https://hcti.io/v1/image/941ef331-386d-4631-82ee-7aa4f86a0d3c"
         },
         {
             "code": "24015",
@@ -332,7 +332,7 @@
             "text": "<b>Challenges Action:</b> Choose an attacking non-loyal character. That character does not contribute its STR to this challenge. Then, if that card is an <i>Army</i> or <i>Wildling</i> character, draw 1 card.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/21d2382e-8558-49f5-b4f7-b723c9f9f2c0"
+            "imageUrl": "https://hcti.io/v1/image/b5761846-8cde-4f31-ad39-ba84bafbf4bb"
         },
         {
             "code": "24016",
@@ -356,7 +356,7 @@
             "text": "Assault. No attachments.\nWhile you control a [stark] <i>King</i> character, King Robb’s Bannermen may target an additional location using assault.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/464efd76-c33d-44e8-b1b7-d23c383ca8bf"
+            "imageUrl": "https://hcti.io/v1/image/415bc236-c4ef-464f-9614-9946ff2460b1"
         },
         {
             "code": "24017",
@@ -381,7 +381,7 @@
             "text": "Assault. No attachments except <i>Weapon</i>.\n<b>Challenges Action:</b> Sacrifice The Bastard's Boys to put a non-[stark] card with printed cost 5 or lower or a <i>House Bolton</i> card into play from your hand.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/a45e97bf-6d83-4eca-b7c5-fcdf85412778"
+            "imageUrl": "https://hcti.io/v1/image/1b0b8bac-8b88-4442-bee9-023fd80082c5"
         },
         {
             "code": "24018",
@@ -400,7 +400,7 @@
             "text": "You cannot initiate [intrigue] challenges during the challenges phase.\n<b>Reaction:</b> After you win a [military] challenge by 5 or more STR, discard a card at random from the losing opponents hand (2 cards at random instead if you control Robb Stark.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/52a86269-f410-410d-9899-77a20db9e5f8"
+            "imageUrl": "https://hcti.io/v1/image/9fd61a21-a955-47ff-bc32-df6f67df95cc"
         },
         {
             "code": "24019",
@@ -422,10 +422,10 @@
                 "Commander",
                 "Companion"
             ],
-            "text": "<b>Reaction:</b> After you win a challenge in which Hero is participating, if you have fewer cards in hand than the losing opponent, stand a participating <i>Army</i> character you control.",
+            "text": "<b>Reaction:</b> After you win a challenge in which Hero is participating, if you have fewer cards in hand than the losing opponent, stand an <i>Army</i> character.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/0a1f37cb-4129-405f-93f4-603defec24b3"
+            "imageUrl": "https://hcti.io/v1/image/a540e6c8-cd5e-4883-8542-95212aad8d16"
         },
         {
             "code": "24020",
@@ -446,10 +446,10 @@
             "traits": [
                 "Army"
             ],
-            "text": "Assault.\nWhile Stalwart Shields is participating in a challenge, opponent's <i>Army</i> characters cannot trigger card abilities.",
+            "text": "Assault. No attachments.\nWhile Stalwart Shields is participating in a challenge, opponent's <i>Army</i> characters lose all keywords.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/981730bf-f5f0-4705-950a-d6f1b6bb9591"
+            "imageUrl": "https://hcti.io/v1/image/2cda3c48-076e-4e5a-9f67-506a9cbe8e79"
         },
         {
             "code": "24021",
@@ -464,7 +464,7 @@
             "text": "<b>Challenges Action:</b> Until the end of the phase, each participating non-<i>Dragon</i> character gets -1 STR for each <i>Dragon</i> character you control (-3 STR instead if it has the <i>Army</i> trait).",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/d0391d73-e46d-427c-93ca-23b4f8efe66b"
+            "imageUrl": "https://hcti.io/v1/image/aeeb3781-12e0-45ca-8793-99f7593f76c7"
         },
         {
             "code": "24022",
@@ -486,10 +486,10 @@
                 "Commander",
                 "Lord"
             ],
-            "text": "Renown.\n<b>Action:</b> Choose a participating <i>Army</i> character you control. Stand it and remove it from the challenge. Then, you may kneel another <i>Army</i> character you control to have it participate in the challenge on your side. (Limit once per phase.)",
+            "text": "Renown.\n<b>Action:</b> Stand a participating <i>Army</i> character and remove it from the challenge to choose another participating character. Stand that character and remove it from the challenge. (Limit once per phase.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/2974a6ed-1be3-4f79-8bef-3da5ceacef39"
+            "imageUrl": "https://hcti.io/v1/image/1e8a0eb1-dd1e-4a75-a6a5-941c6d66e152"
         },
         {
             "code": "24023",
@@ -511,10 +511,10 @@
                 "Army",
                 "Guard"
             ],
-            "text": "No attachments.\n<b>Reaction:</b> After a card is revealed from your hand, deck or shadows area, Oldtown City Watch gets +1 STR until the end of the phase. (Limit 3 times per phase.)",
+            "text": "No attachments.\n<b>Reaction:</b> After a card is revealed from your hand, deck or shadows area, Oldtown City Watch cannot be bypassed by stealth until the end of the phase.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/92ef01bb-1414-4a1a-b5f9-87482b594ae8"
+            "imageUrl": "https://hcti.io/v1/image/116f67c7-b18c-4384-91f4-9cf5f60d6023"
         },
         {
             "code": "24024",
@@ -532,7 +532,7 @@
             "text": "While you have 7 or more cards in your hand, card abilities cannot cause non-<i>The Seven</i> cards to enter play.\n<b>Reaction:</b> After power is gained by or moved to a <i>The Seven</i> card you control,  draw 1 card. (Limit once per phase.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/0fba4842-4839-48a9-8dc5-d1ebcf28fb02"
+            "imageUrl": "https://hcti.io/v1/image/dadc6361-eba3-411f-b80f-0513252e65a1"
         },
         {
             "code": "24025",
@@ -548,15 +548,15 @@
                 "intrigue": false,
                 "power": true
             },
-            "strength": 2,
+            "strength": 3,
             "traits": [
                 "Ally",
                 "Army"
             ],
-            "text": "Assault. No attachments.\nKing's Landing Mob may target locations with equal or higher printed cost using assault.\n<b>Reaction:</b> After a location is knelt by assault, kill King's Landing Mob to remove that location from the game.",
+            "text": "Assault. No attachments.\n<b>Reaction:</b> After a location is knelt by assault, kill King's Landing Mob and sacrifice a location you control to discard that location.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/f37c231c-cb5e-4698-a5a3-70b544585dd8"
+            "imageUrl": "https://hcti.io/v1/image/0643369e-7f34-4459-bdf2-08a836a0a673"
         },
         {
             "code": "24026",
@@ -572,15 +572,15 @@
                 "intrigue": false,
                 "power": false
             },
-            "strength": 4,
+            "strength": 5,
             "traits": [
                 "Knight"
             ],
-            "text": "Renown.\nFormer Champion gets -2 STR for each power on him.\nWhile Former Champion has 3 or less STR, he gains a [power] icon and stealth.\nWhile Former Champion has 1 or less STR, he gains an [intrigue] icon and intimidate.",
+            "text": "Renown.\nFormer Champion gets -1 STR for each power on him.\nWhile Former Champion has 3 or less STR, he gains a [power] icon and stealth.\nWhile Former Champion has 1 or less STR, he gains an [intrigue] icon and intimidate.",
             "deckLimit": 3,
             "illustrator": "?",
             "designer": "Card design by 2008 Overall World Champion, Tzu-Mainn Chen.",
-            "imageUrl": "https://hcti.io/v1/image/b4d3dcd4-741d-4fd2-b52d-b3c5c847381f"
+            "imageUrl": "https://hcti.io/v1/image/e1cafb7c-2b93-4937-a091-a4a41b480d6b"
         },
         {
             "code": "24027",
@@ -597,7 +597,7 @@
             "text": "Unique character only.\nAttached character gains the <i>Commander</i> trait and gets +1 STR.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/e8135027-3f83-427f-826d-4269be0c8d92"
+            "imageUrl": "https://hcti.io/v1/image/6b7dc2ea-4ba7-4fda-b090-b1b199deb512"
         },
         {
             "code": "24028",
@@ -612,10 +612,10 @@
                 "The Riverlands",
                 "Westeros"
             ],
-            "text": "<b>Forced Reaction:</b> After you win a challenge as the attacking player, give control of The Trident to the losing opponent, unless you sacrifice another location.\n+1 Claim",
+            "text": "<b>Forced Reaction:</b> After you win a challenge as the attacking player, give control of The Trident to the losing opponent, unless you sacrifice another location you own.\n+1 Claim",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/6f2c2527-25e9-4037-863e-56fe45731219"
+            "imageUrl": "https://hcti.io/v1/image/93120679-26c5-4e32-89f8-723c1e47d122"
         },
         {
             "code": "24029",
@@ -629,7 +629,7 @@
             "text": "<b>Reaction:</b> After you lose a [military] challenge, sacrifice a location to choose a participating character with printed cost 4 or lower, or a participating <i>Army</i> character, and remove it from the game.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/3e6ccf83-06ad-4426-bdf4-0dff58402365"
+            "imageUrl": "https://hcti.io/v1/image/e5150c6a-a3d7-499e-a591-731e66c355eb"
         },
         {
             "code": "24030",
@@ -640,17 +640,17 @@
             "faction": "neutral",
             "plotStats": {
                 "income": 4,
-                "initiative": 2,
-                "claim": 2,
+                "initiative": 6,
+                "claim": 1,
                 "reserve": 5
             },
             "traits": [
                 "War"
             ],
-            "text": "During [military] challenges, <i>Army</i> characters must be chosen for claim, if able.",
-            "deckLimit": 2,
+            "text": "<b>Reaction:</b> After you win a [military] challenge as the attacking player, kneel a character controlled by the losing opponent (kill it instead if it has the <i>Army</i> trait).",
+            "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/4aa4c82e-f511-4403-839b-b86dcbcddc58"
+            "imageUrl": "https://hcti.io/v1/image/d6df8724-e618-4ee7-bd45-9d7f38820ce8"
         }
     ],
     "workInProgress": true
