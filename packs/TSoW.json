@@ -199,12 +199,12 @@
             "quantity": 3,
             "faction": "lannister",
             "loyal": true,
-            "cost": 3,
+            "cost": 2,
             "traits": [],
-            "text": "<b>Reaction:</b> After you win an [intrigue] challenge as the attacking player, return a character to your hand to choose 2 other characters. Until the end of the phase, one gains insight, and treat the other's text box as if it were blank (except for <i>Traits</i>).",
+            "text": "<b>Reaction:</b> After you win an [intrigue] challenge by 5 or more STR, choose 3 different characters you control. Then, return one to its owner's hand, place one into shadows, and give one insight until the end of the phase. (Max once per phase.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/b54f6753-e565-43f5-824b-e13b624faa32"
+            "imageUrl": "https://hcti.io/v1/image/333fab69-cd5c-4943-b0e1-65c53124b467"
         },
         {
             "code": "24010",
@@ -506,15 +506,16 @@
                 "intrigue": false,
                 "power": true
             },
-            "strength": 2,
+            "strength": 3,
             "traits": [
                 "Army",
-                "Guard"
+                "Guard",
+                "House Hightower"
             ],
-            "text": "No attachments.\n<b>Reaction:</b> After a card is revealed from your hand, deck or shadows area, Oldtown City Watch cannot be bypassed by stealth until the end of the phase.",
+            "text": "<b>Reaction:</b> After Oldtown City Watch enters play, reveal the top card of each player's deck.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/116f67c7-b18c-4384-91f4-9cf5f60d6023"
+            "imageUrl": "https://hcti.io/v1/image/0308fab6-f267-4a96-a4a1-fb168d919796"
         },
         {
             "code": "24024",
