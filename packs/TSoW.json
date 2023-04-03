@@ -314,10 +314,10 @@
             "traits": [
                 "The North"
             ],
-            "text": "Each character you control which is owned by an opponent gets +1 STR.\n<b>Action:</b> Kneel The Shadow Tower to reveal a card in an opponent's shadow area. If it is a non-unique character, put it into play under your control.",
+            "text": "Each character you control which is owned by an opponent gets +1 STR.\n<b>Challenges Action:</b> Kneel The Shadow Tower to reveal a card in an opponent's shadow area. If it is a non-unique character, put it into play under your control.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/941ef331-386d-4631-82ee-7aa4f86a0d3c"
+            "imageUrl": "https://hcti.io/v1/image/3f4bd4d6-e0c8-44d3-903b-4d31b2b3f41a"
         },
         {
             "code": "24015",
@@ -397,10 +397,10 @@
                 "Contested",
                 "The Westerlands"
             ],
-            "text": "You cannot initiate [intrigue] challenges during the challenges phase.\n<b>Reaction:</b> After you win a [military] challenge by 5 or more STR, discard a card at random from the losing opponents hand (2 cards at random instead if you control Robb Stark.)",
+            "text": "You cannot initiate [intrigue] challenges during the challenges phase.\n<b>Reaction:</b> After you win a [military] challenge as the attacking player, gain 1 power for your faction card (2 power instead if you control a [stark] <i>King</i> character).",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/9fd61a21-a955-47ff-bc32-df6f67df95cc"
+            "imageUrl": "https://hcti.io/v1/image/d25473fb-0f6e-4f4f-804c-c9e504e5dc33"
         },
         {
             "code": "24019",
@@ -458,13 +458,15 @@
             "octgnId": null,
             "quantity": 3,
             "faction": "targaryen",
-            "loyal": false,
-            "cost": 2,
-            "traits": [],
-            "text": "<b>Challenges Action:</b> Until the end of the phase, each participating non-<i>Dragon</i> character gets -1 STR for each <i>Dragon</i> character you control (-3 STR instead if it has the <i>Army</i> trait).",
+            "loyal": true,
+            "cost": 0,
+            "traits": [
+                "Legacy"
+            ],
+            "text": "<b>Reaction:</b> After the challenges phase begins, kneel your faction card to choose a <i>Dragon</i> character you control. Until the end of the phase, each character with a lower printed STR gets -1 STR, and each <i>Army</i> character is killed if its STR is 0.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/aeeb3781-12e0-45ca-8793-99f7593f76c7"
+            "imageUrl": "https://hcti.io/v1/image/e48d59eb-a916-411b-8d7b-9947eb1446bc"
         },
         {
             "code": "24022",
@@ -486,10 +488,10 @@
                 "Commander",
                 "Lord"
             ],
-            "text": "Renown.\n<b>Action:</b> Stand a participating <i>Army</i> character and remove it from the challenge to choose another participating character. Stand that character and remove it from the challenge. (Limit once per phase.)",
+            "text": "Renown.\n<b>Action:</b> Stand a participating <i>Army</i> character and remove it from the challenge to choose another participating character with equal or lower printed cost. Stand that character and remove it from the challenge. (Limit once per phase.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/1e8a0eb1-dd1e-4a75-a6a5-941c6d66e152"
+            "imageUrl": "https://hcti.io/v1/image/8ff5ef4e-d401-4a2d-a339-65f647af3c92"
         },
         {
             "code": "24023",
@@ -554,10 +556,10 @@
                 "Ally",
                 "Army"
             ],
-            "text": "Assault. No attachments.\n<b>Reaction:</b> After a location is knelt by assault, kill King's Landing Mob and sacrifice a location you control to discard that location.",
+            "text": "Assault. No attachments.\n<b>Reaction:</b> After a location is knelt by assault, kill King's Landing Mob to discard that location.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/0643369e-7f34-4459-bdf2-08a836a0a673"
+            "imageUrl": "https://hcti.io/v1/image/6648dd72-2c36-45d0-b57b-642092c65c91"
         },
         {
             "code": "24026",
