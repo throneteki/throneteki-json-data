@@ -19,16 +19,16 @@
                 "intrigue": false,
                 "power": true
             },
-            "strength": 5,
+            "strength": 6,
             "traits": [
                 "Army",
                 "Mercenary",
                 "Smuggler"
             ],
-            "text": "Assault. No attachments.\n<b>Reaction:</b> After an opponent's location is knelt by a card effect, move 1 power from that opponent's faction card to a character in play. (Limit once per round.)",
+            "text": "Assault. No attachments.\n<b>Reaction:</b> After you win a challenge in which Salladhor Saan's Lyseni is attacking, it gains 1 power for every 2 kneeling locations controlled by the losing opponent. (Limit once per phase.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/f13b2d9a-0909-4aee-949d-39fbfc2e5a74"
+            "imageUrl": "https://hcti.io/v1/image/c42e468d-b6c6-48be-adc7-84e07d9d95f2"
         },
         {
             "code": "24002",
@@ -422,10 +422,10 @@
                 "Commander",
                 "Companion"
             ],
-            "text": "<b>Reaction:</b> After you win a challenge in which Hero is participating, if you have fewer cards in hand than the losing opponent, stand an <i>Army</i> character.",
+            "text": "<b>Reaction:</b> After you win a challenge in which Hero is participating, if you have fewer cards in hand than the losing opponent, stand an <i>Army</i> character or Grey Worm.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/a540e6c8-cd5e-4883-8542-95212aad8d16"
+            "imageUrl": "https://hcti.io/v1/image/fd452b68-bbd4-4ec2-a4f6-069b910b7587"
         },
         {
             "code": "24020",
@@ -615,10 +615,10 @@
                 "The Riverlands",
                 "Westeros"
             ],
-            "text": "<b>Forced Reaction:</b> After you win a challenge as the attacking player, give control of The Trident to the losing opponent, unless you sacrifice another location you own.\n+1 Claim",
+            "text": "<b>Forced Reaction:</b> After you win a challenge as the attacking player, give control of The Trident to the losing opponent, unless you sacrifice another neutral location.\n+1 Claim",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/93120679-26c5-4e32-89f8-723c1e47d122"
+            "imageUrl": "https://hcti.io/v1/image/b0ba309b-d0b7-4505-87c2-28b830038d14"
         },
         {
             "code": "24029",
@@ -643,17 +643,17 @@
             "faction": "neutral",
             "plotStats": {
                 "income": 4,
-                "initiative": 6,
+                "initiative": 7,
                 "claim": 1,
                 "reserve": 5
             },
             "traits": [
                 "War"
             ],
-            "text": "<b>Reaction:</b> After you win a [military] challenge as the attacking player, kneel a character controlled by the losing opponent (kill it instead if it has the <i>Army</i> trait).",
+            "text": "<b>Reaction:</b> After you win a [military] challenge as the attacking player, kneel a character controlled by the losing opponent (you may kill it instead if it has the <i>Army</i> trait).",
             "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/d6df8724-e618-4ee7-bd45-9d7f38820ce8"
+            "imageUrl": "https://hcti.io/v1/image/787f4840-e64d-4a4f-acc2-df64847ab642"
         }
     ],
     "workInProgress": true
