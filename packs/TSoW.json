@@ -49,10 +49,10 @@
             "traits": [
                 "Knight"
             ],
-            "text": "Renown.\n<b>Challenge Action:</b> Move 1 power from Ser Gilbert Farring to a location you control. Until the end of the phase, that location cannot be targeted by assault. (Limit once per phase.)",
+            "text": "While you control a standing loyal location, Ser Gilbert Farring gains renown.\n<b>Interrupt:</b> When the effects of an ability would kneel a [baratheon] location you control, stand Ser Gilbert Farring to cancel those effects.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/6e82dc4f-47a1-41e3-ac10-0471d815bc7c"
+            "imageUrl": "https://hcti.io/v1/image/d92c550a-28b1-436e-8845-7a4ba90e7e97"
         },
         {
             "code": "24003",
@@ -67,10 +67,10 @@
             "traits": [
                 "Dragonstone"
             ],
-            "text": "Shadow (2).\nReduce the cost of the first event you play each round by 1.\n<b>Reaction:</b> After a card is placed in shadows by a card effect, return Dragonstone to shadows to discard that card.",
+            "text": "You may choose not to stand Dragonstone during the standing phase.\r\n<b>Reaction:</b> After a card is placed in shadows by a card effect, kneel Dragonstone. Then, until Dragonstone stands or leaves play, that card cannot come out of shadows.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/1d66280c-64a2-473a-b1b6-b55fe63fc6e4"
+            "imageUrl": "https://hcti.io/v1/image/e89d0002-6eb6-4f5d-af6e-164ac46531f3"
         },
         {
             "code": "24004",
@@ -126,20 +126,20 @@
         {
             "code": "24006",
             "type": "attachment",
-            "name": "Myrish Lens",
+            "name": "The Myrish Eye",
             "octgnId": null,
             "quantity": 3,
-            "unique": false,
+            "unique": true,
             "faction": "greyjoy",
             "loyal": true,
             "cost": 1,
             "traits": [
                 "Item"
             ],
-            "text": "While there are no cards in shadows, attached character gains insight.\n<b>Reaction:</b> After you win a challenge in which attached character is participating, kneel Myrish Lens to choose and reveal a card in shadows. If it is an event, discard it.",
+            "text": "While there are no cards in shadows, attached character gains insight.\n<b>Reaction:</b> After you win a challenge in which attached character is participating, kneel The Myrish Eye to choose and reveal a card in shadows. If it is an event, discard it.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/e5de813e-c352-4b69-9ddc-9a9dab20933a"
+            "imageUrl": "https://hcti.io/v1/image/5fcef9fd-03d1-4857-a5cd-42121b88a101"
         },
         {
             "code": "24007",
@@ -162,10 +162,10 @@
                 "Knight",
                 "Lord"
             ],
-            "text": "Renown.\n<b>Reaction:</b> After Ser Daven Lannister gains a power, discard 1 card at random from each opponent's hand. Then, if each opponent has fewer cards in their hand than you, draw 1 card. (Limit twice per round.)",
+            "text": "Renown.\n<b>Reaction:</b> After Ser Daven Lannister gains a power, each opponent must choose and discard 1 card from their hand. Then, if each opponent has fewer cards in their hand than you, draw 1 card. (Limit twice per round.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/ebca1e94-2225-4d99-9b34-4f87cdadcfcf"
+            "imageUrl": "https://hcti.io/v1/image/99042e24-cbbb-424e-ab11-8b74c31b5741"
         },
         {
             "code": "24008",
@@ -199,12 +199,12 @@
             "quantity": 3,
             "faction": "lannister",
             "loyal": true,
-            "cost": 2,
+            "cost": 1,
             "traits": [],
-            "text": "<b>Reaction:</b> After you win an [intrigue] challenge by 5 or more STR, choose 3 different characters you control. Then, return one to its owner's hand, place one into shadows, and give one insight until the end of the phase. (Max once per phase.)",
+            "text": "<b>Reaction:</b> After you win an [intrigue] challenge by 5 or more STR, choose a character you control and (choose one):\n- return it to it's owners hand.\n- place it in shadows.\n- have it gain insight until the end of the phase.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/333fab69-cd5c-4943-b0e1-65c53124b467"
+            "imageUrl": "https://hcti.io/v1/image/c78e2df6-9fa8-4235-bcfc-6203fb9cd3b6"
         },
         {
             "code": "24010",
@@ -221,14 +221,14 @@
                 "intrigue": true,
                 "power": false
             },
-            "strength": 4,
+            "strength": 3,
             "traits": [
                 "Knight"
             ],
             "text": "Renown.\nEach opponent cannot gain power for winning dominance.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/631b7b5e-3f21-4e71-8604-811bd361b3b3"
+            "imageUrl": "https://hcti.io/v1/image/75dc0871-27bc-4ed3-8385-3d0cf00b1149"
         },
         {
             "code": "24011",
@@ -245,7 +245,7 @@
                 "intrigue": false,
                 "power": false
             },
-            "strength": 3,
+            "strength": 4,
             "traits": [
                 "Commander",
                 "Dothraki",
@@ -254,7 +254,7 @@
             "text": "<b>Interrupt:</b> When a character would be returned to a player's hand or shadows area, kneel Caggo Corpsekiller to place that character in its owner's dead pile instead.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/102bb7fb-50d3-4a25-9f5a-ff419d02ed08"
+            "imageUrl": "https://hcti.io/v1/image/ed76d8e1-9f48-4d96-99e5-a579c6e64f77"
         },
         {
             "code": "24012",
@@ -378,10 +378,10 @@
                 "Army",
                 "House Bolton"
             ],
-            "text": "Assault. No attachments except <i>Weapon</i>.\n<b>Challenges Action:</b> Sacrifice The Bastard's Boys to put a non-[stark] card with printed cost 5 or lower or a <i>House Bolton</i> card into play from your hand.",
+            "text": "Assault. No attachments except <i>Weapon</i>.\n<b>Challenges Action:</b> Sacrifice The Bastard's Boys to put a non-[stark] or <i>House Bolton</i> character with printed cost 5 or lower into play from your hand.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/1b0b8bac-8b88-4442-bee9-023fd80082c5"
+            "imageUrl": "https://hcti.io/v1/image/64a743cb-71d7-439d-8a88-99c8ad77c6d7"
         },
         {
             "code": "24018",
@@ -391,16 +391,16 @@
             "quantity": 3,
             "unique": true,
             "faction": "stark",
-            "loyal": false,
+            "loyal": true,
             "cost": 2,
             "traits": [
                 "Contested",
                 "The Westerlands"
             ],
-            "text": "You cannot initiate [intrigue] challenges during the challenges phase.\n<b>Reaction:</b> After you win a [military] challenge as the attacking player, gain 1 power for your faction card (2 power instead if you control a [stark] <i>King</i> character).",
+            "text": "You cannot initiate [intrigue] challenges during the challenges phase.\n<b>Reaction:</b> After you win a [military] challenge as the attacking player, gain 1 power for your faction card (2 power instead if you control a [stark] <i>King</i> character). (Limit twice per phase.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/d25473fb-0f6e-4f4f-804c-c9e504e5dc33"
+            "imageUrl": "https://hcti.io/v1/image/c1b5d9a9-90f5-42af-b791-7d90fef0ad57"
         },
         {
             "code": "24019",
@@ -422,10 +422,10 @@
                 "Commander",
                 "Companion"
             ],
-            "text": "<b>Reaction:</b> After you win a challenge in which Hero is participating, if you have fewer cards in hand than the losing opponent, stand an <i>Army</i> character or Grey Worm.",
+            "text": "No attachments except <i>Weapon</i>.\n<b>Reaction:</b> After you win a challenge in which Hero is participating, if you have fewer cards in hand than the losing opponent, stand an <i>Army</i> character or Grey Worm.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/fd452b68-bbd4-4ec2-a4f6-069b910b7587"
+            "imageUrl": "https://hcti.io/v1/image/335ec83e-4c9d-42c8-94ef-5ba862d59494"
         },
         {
             "code": "24020",
@@ -532,10 +532,10 @@
             "traits": [
                 "The Seven"
             ],
-            "text": "While you have 7 or more cards in your hand, card abilities cannot cause non-<i>The Seven</i> cards to enter play.\n<b>Reaction:</b> After power is gained by or moved to a <i>The Seven</i> card you control,  draw 1 card. (Limit once per phase.)",
+            "text": "While you have 7 or more cards in your hand, card abilities cannot cause non-<i>The Seven</i> characters to enter play.\n<b>Reaction:</b> After power is gained by or moved to a <i>The Seven</i> card you control,  draw 1 card. (Limit once per phase.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/dadc6361-eba3-411f-b80f-0513252e65a1"
+            "imageUrl": "https://hcti.io/v1/image/90ee86a4-fc0b-4c3f-b90d-97036821cae5"
         },
         {
             "code": "24025",
@@ -615,10 +615,10 @@
                 "The Riverlands",
                 "Westeros"
             ],
-            "text": "<b>Forced Reaction:</b> After you win a challenge as the attacking player, give control of The Trident to the losing opponent, unless you sacrifice another neutral location.\n+1 Claim",
+            "text": "<b>Forced Reaction:</b> After you win a challenge as the attacking player, give control of The Trident to the losing opponent, unless you sacrifice another neutral location. (Cannot be cancelled.)\n+1 Claim",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/b0ba309b-d0b7-4505-87c2-28b830038d14"
+            "imageUrl": "https://hcti.io/v1/image/a7590bea-a44e-4db0-a59b-76c28638ff7f"
         },
         {
             "code": "24029",
@@ -650,10 +650,10 @@
             "traits": [
                 "War"
             ],
-            "text": "<b>Reaction:</b> After you win a [military] challenge as the attacking player, kneel a character controlled by the losing opponent (you may kill it instead if it has the <i>Army</i> trait).",
+            "text": "<b>Reaction:</b> After you win a [military] challenge as the attacking player, kneel a character controlled by the losing opponent (you may kill it instead if it has the <i>Army</i> trait). (Limit once per phase.)",
             "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/787f4840-e64d-4a4f-acc2-df64847ab642"
+            "imageUrl": "https://hcti.io/v1/image/840ec719-b164-46fe-9541-00a594ed171a"
         }
     ],
     "workInProgress": true
