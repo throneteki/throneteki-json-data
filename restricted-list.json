@@ -4752,7 +4752,7 @@
         "formats": [
             {
                 "name": "joust",
-                "url": "https://agot.cards/wp-content/uploads/2023/04/RL-Standard-Joust-1.7-2023-1.pdf",
+                "url": "https://agot.cards/wp-content/uploads/2023/04/RL-Standard-Joust-1.7-2023-2.pdf",
                 "restricted": [
                     "01146",
                     "02026",
@@ -4886,7 +4886,7 @@
             },
             {
                 "name": "melee",
-                "url": "https://agot.cards/wp-content/uploads/2023/04/RL-Standard-Melee-1.7-2023-1.pdf",
+                "url": "https://agot.cards/wp-content/uploads/2023/04/RL-Standard-Melee-1.7-2023-2.pdf",
                 "restricted": [
                     "01001",
                     "01013",
