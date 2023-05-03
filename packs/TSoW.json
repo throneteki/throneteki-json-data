@@ -25,10 +25,10 @@
                 "Mercenary",
                 "Smuggler"
             ],
-            "text": "Assault. No attachments.\n<b>Reaction:</b> After you win a challenge in which Salladhor Saan's Lyseni is attacking, it gains 1 power for every 2 kneeling locations controlled by the losing opponent. (Limit once per phase.)",
+            "text": "Assault. No attachments.\n<b>Reaction:</b> After you win a challenge in which Salladhor Saan's Lyseni is attacking, it gains 1 power for every 2 kneeling locations the defending player controls. (Limit once per phase.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/c42e468d-b6c6-48be-adc7-84e07d9d95f2"
+            "imageUrl": "https://hcti.io/v1/image/31fd5b32-0314-4eb1-babc-ab5991c5a90b"
         },
         {
             "code": "24002",
@@ -49,10 +49,10 @@
             "traits": [
                 "Knight"
             ],
-            "text": "While you control a standing loyal location, Ser Gilbert Farring gains renown.\n<b>Interrupt:</b> When the effects of an ability would kneel a [baratheon] location you control, stand Ser Gilbert Farring to cancel those effects.",
+            "text": "While you control a <i>Stronghold</i> location, Ser Gilbert Farring gains renown and does not kneel when declared as a defender.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/d92c550a-28b1-436e-8845-7a4ba90e7e97"
+            "imageUrl": "https://hcti.io/v1/image/7d4a63bd-c835-49f9-a823-4e23e80ef902"
         },
         {
             "code": "24003",
@@ -93,10 +93,10 @@
                 "Ironborn",
                 "Raider"
             ],
-            "text": "Pillage. Shadow (4). Stealth.\nWhile there is a <i>Winter</i> plot card revealed, you may marshal Dagmer Cleftjaw into shadows from your dead pile.",
+            "text": "Pillage. Shadow (4). Stealth.\nWhile there is a <i>Winter</i> plot card revealed, you may marshal Dagmer Cleftjaw into shadows from your dead pile as if he were in your hand.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/9688d214-118c-4dfb-aff1-9a6d780283e0"
+            "imageUrl": "https://hcti.io/v1/image/cd19258b-af73-48f2-a6b2-8b5fed857d47"
         },
         {
             "code": "24005",
@@ -186,10 +186,10 @@
             "traits": [
                 "Army"
             ],
-            "text": "No attachments.\nWhile you control a [lannister] <i>Lord</i> or <i>Commander</i> character, Oxcross Survivors gain +3 STR and assault.",
+            "text": "No attachments.\nWhile you control a [lannister] <i>Lord</i> or <i>Commander</i> character, Oxcross Survivors gets +3 STR and gains assault.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/5a7f99db-3d37-474a-bba2-41163731111d"
+            "imageUrl": "https://hcti.io/v1/image/662e582e-b5ad-4a03-bbed-51a4eee161f3"
         },
         {
             "code": "24009",
@@ -221,14 +221,14 @@
                 "intrigue": true,
                 "power": false
             },
-            "strength": 3,
+            "strength": 4,
             "traits": [
                 "Knight"
             ],
-            "text": "Renown.\nEach opponent cannot gain power for winning dominance.",
+            "text": "Each opponent cannot gain power for winning dominance.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/75dc0871-27bc-4ed3-8385-3d0cf00b1149"
+            "imageUrl": "https://hcti.io/v1/image/ef4c863a-60fc-48fd-b62b-8d414412a8f2"
         },
         {
             "code": "24011",
@@ -295,11 +295,11 @@
                 "Commander",
                 "Ranger"
             ],
-            "text": "Stealth.\nWhile Iron Emmett is kneeling during the challenges phase, characters with a [military] icon cannot enter play.",
+            "text": "Stealth.\nWhile Iron Emmett is kneeling, characters with a [military] icon cannot enter play during the challenges phase.",
             "flavor": "Gods be good, our Lord Commander's still in swaddling clothes. I hope this don't mean I can't beat the bloody piss out of you next time we train, my lord. ~ Emmett",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/79da84ec-dbdd-41b7-8428-3c17c4b2ab77"
+            "imageUrl": "https://hcti.io/v1/image/9ae9f5da-dc45-443f-8af3-83c91018537f"
         },
         {
             "code": "24014",
@@ -326,13 +326,13 @@
             "octgnId": null,
             "quantity": 3,
             "faction": "thenightswatch",
-            "loyal": true,
+            "loyal": false,
             "cost": 1,
             "traits": [],
-            "text": "<b>Challenges Action:</b> Choose an attacking non-loyal character. That character does not contribute its STR to this challenge. Then, if that card is an <i>Army</i> or <i>Wildling</i> character, draw 1 card.",
+            "text": "Play only if you control The Wall or Castle Black.\r\n<b>Challenges Action:</b> Choose an attacking character with more than 1 challenge icon and remove it from the challenge. Then, if that character does not have the <i>Army</i> or <i>Wildling</i> trait, stand it.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/b5761846-8cde-4f31-ad39-ba84bafbf4bb"
+            "imageUrl": "https://hcti.io/v1/image/3122d110-96d1-438e-84ab-bc57758ab9a0"
         },
         {
             "code": "24016",
@@ -378,10 +378,10 @@
                 "Army",
                 "House Bolton"
             ],
-            "text": "Assault. No attachments except <i>Weapon</i>.\n<b>Challenges Action:</b> Sacrifice The Bastard's Boys to put a non-[stark] or <i>House Bolton</i> character with printed cost 5 or lower into play from your hand.",
+            "text": "Assault.\n<b>Challenges Action:</b> Sacrifice The Bastard's Boys to put a non-[stark] or <i>House Bolton</i> character with printed cost 5 or lower into play from your hand.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/64a743cb-71d7-439d-8a88-99c8ad77c6d7"
+            "imageUrl": "https://hcti.io/v1/image/185170d5-5fef-41c8-8719-4dc22105f97c"
         },
         {
             "code": "24018",
@@ -463,10 +463,10 @@
             "traits": [
                 "Legacy"
             ],
-            "text": "<b>Reaction:</b> After the challenges phase begins, kneel your faction card to choose a <i>Dragon</i> character you control. Until the end of the phase, each character with a lower printed STR gets -1 STR, and each <i>Army</i> character is killed if its STR is 0.",
+            "text": "<b>Challenges Action:</b> Until the end of the phase, each non-<i>Dragon</i> character without attachments gets -1 STR for each <i>Dragon</i> character you control with printed cost 7 or higher. (Max 1 per phase.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/e48d59eb-a916-411b-8d7b-9947eb1446bc"
+            "imageUrl": "https://hcti.io/v1/image/cb053472-1394-4709-897b-090b39cc462e"
         },
         {
             "code": "24022",
@@ -629,10 +629,10 @@
             "faction": "neutral",
             "cost": 1,
             "traits": [],
-            "text": "<b>Reaction:</b> After you lose a [military] challenge, sacrifice a location to choose a participating character with printed cost 4 or lower, or a participating <i>Army</i> character, and remove it from the game.",
+            "text": "<b>Reaction:</b> After you lose a [military] challenge, sacrifice a location to choose a participating character with printed cost 4 or lower, or a participating <i>Army</i> character, and discard it from play.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/e5150c6a-a3d7-499e-a591-731e66c355eb"
+            "imageUrl": "https://hcti.io/v1/image/3f865cef-3b8f-4472-9d2b-a631acf5df77"
         },
         {
             "code": "24030",
