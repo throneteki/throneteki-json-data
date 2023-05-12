@@ -162,10 +162,10 @@
                 "Knight",
                 "Lord"
             ],
-            "text": "Renown.\n<b>Reaction:</b> After Ser Daven Lannister gains a power, each opponent must choose and discard 1 card from their hand. Then, if each opponent has fewer cards in their hand than you, draw 1 card. (Limit twice per round.)",
+            "text": "Renown.\n<b>Reaction:</b> After Ser Daven Lannister gains power, each opponent must choose and discard 1 card from their hand. Then, if you have more cards in hand than each opponent, draw 1 card. (Limit twice per round.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/99042e24-cbbb-424e-ab11-8b74c31b5741"
+            "imageUrl": "https://hcti.io/v1/image/83710cc5-c040-43c5-ac5f-773145a447e3"
         },
         {
             "code": "24008",
@@ -245,16 +245,16 @@
                 "intrigue": false,
                 "power": false
             },
-            "strength": 4,
+            "strength": 3,
             "traits": [
                 "Commander",
                 "Dothraki",
                 "Mercenary"
             ],
-            "text": "<b>Interrupt:</b> When a character would be returned to a player's hand or shadows area, kneel Caggo Corpsekiller to place that character in its owner's dead pile instead.",
+            "text": "<b>Interrupt:</b> When another character is returned to a player's hand or shadows area, return Caggo Corpsekiller to your hand to place that character in its owner's dead pile instead.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/ed76d8e1-9f48-4d96-99e5-a579c6e64f77"
+            "imageUrl": "https://hcti.io/v1/image/e4471284-c5c5-4ae7-be70-afdb12807fb2"
         },
         {
             "code": "24012",
@@ -267,13 +267,12 @@
             "loyal": false,
             "cost": 2,
             "traits": [
-                "Siege",
                 "Weapon"
             ],
             "text": "Ambush (3).\nAttached character gets +2 STR.\n<b>Action:</b> Sacrifice War Scorpion to choose an attacking character, and remove it from the challenge (you may kill it instead if it has the <i>Army</i> or <i>Dragon</i> trait).",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/b617ddad-cb1f-415d-93bc-b059620e5a2f"
+            "imageUrl": "https://hcti.io/v1/image/0c328c85-c034-468f-a199-53e4a6b978f8"
         },
         {
             "code": "24013",
@@ -314,10 +313,10 @@
             "traits": [
                 "The North"
             ],
-            "text": "Each character you control which is owned by an opponent gets +1 STR.\n<b>Challenges Action:</b> Kneel The Shadow Tower to reveal a card in an opponent's shadow area. If it is a non-unique character, put it into play under your control.",
+            "text": "Each character you control that is owned by an opponent gets +1 STR.\n<b>Challenges Action:</b> Kneel The Shadow Tower to choose and reveal a card from an opponent's shadows area. If it is a non-unique character, put it into play under your control.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/3f4bd4d6-e0c8-44d3-903b-4d31b2b3f41a"
+            "imageUrl": "https://hcti.io/v1/image/51d72ca8-2359-4355-8cb6-70e111d662f5"
         },
         {
             "code": "24015",
@@ -446,10 +445,10 @@
             "traits": [
                 "Army"
             ],
-            "text": "Assault. No attachments.\nWhile Stalwart Shields is participating in a challenge, opponent's <i>Army</i> characters lose all keywords.",
+            "text": "Assault. No attachments.\nWhile Stalwart Shields is participating in a challenge, each <i>Army</i> character an opponent controls loses all keywords.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/2cda3c48-076e-4e5a-9f67-506a9cbe8e79"
+            "imageUrl": "https://hcti.io/v1/image/1bf0bb65-6683-47ce-982b-a15ebeba5990"
         },
         {
             "code": "24021",
@@ -556,10 +555,10 @@
                 "Ally",
                 "Army"
             ],
-            "text": "Assault. No attachments.\n<b>Reaction:</b> After a location is knelt by assault, kill King's Landing Mob to discard that location.",
+            "text": "Assault. No attachments.\n<b>Reaction:</b> After a location is knelt by assault, kill King's Landing Mob to discard that location from play.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/6648dd72-2c36-45d0-b57b-642092c65c91"
+            "imageUrl": "https://hcti.io/v1/image/12a6e324-79bf-4045-b806-e2277ade6758"
         },
         {
             "code": "24026",
@@ -579,11 +578,11 @@
             "traits": [
                 "Knight"
             ],
-            "text": "Renown.\nFormer Champion gets -1 STR for each power on him.\nWhile Former Champion has 3 or less STR, he gains a [power] icon and stealth.\nWhile Former Champion has 1 or less STR, he gains an [intrigue] icon and intimidate.",
+            "text": "Renown.\nFormer Champion gets -1 STR for each power it has.\nWhile Former Champion's STR is 3 or lower, it gains a [power] icon and stealth.\nWhile Former Champion's STR is 1 or lower, it gains an [intrigue] icon and intimidate.",
             "deckLimit": 3,
             "illustrator": "?",
             "designer": "Card design by 2008 Overall World Champion, Tzu-Mainn Chen.",
-            "imageUrl": "https://hcti.io/v1/image/4d906aef-964d-4224-9420-b4aed88a4117"
+            "imageUrl": "https://hcti.io/v1/image/1e4dab33-52bc-4e68-8a10-93a593780805"
         },
         {
             "code": "24027",
@@ -597,10 +596,10 @@
             "traits": [
                 "Title"
             ],
-            "text": "Unique character only.\nAttached character gains the <i>Commander</i> trait and gets +1 STR.",
+            "text": "Unique character only.\nAttached character gets +1 STR and gains the <i>Commander</i> trait.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/6b7dc2ea-4ba7-4fda-b090-b1b199deb512"
+            "imageUrl": "https://hcti.io/v1/image/6e0cc77a-05e4-4910-98b5-4ae02e918379"
         },
         {
             "code": "24028",
@@ -615,10 +614,10 @@
                 "The Riverlands",
                 "Westeros"
             ],
-            "text": "<b>Forced Reaction:</b> After you win a challenge as the attacking player, give control of The Trident to the losing opponent, unless you sacrifice another neutral location. (Cannot be cancelled.)\n+1 Claim",
+            "text": "<b>Forced Reaction:</b> After you win a challenge as the attacking player, give control of The Trident to the losing opponent unless you sacrifice another neutral location. (Cannot be canceled.)\n+1 Claim",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/a7590bea-a44e-4db0-a59b-76c28638ff7f"
+            "imageUrl": "https://hcti.io/v1/image/d2def405-9655-49c8-91a2-ad859a4e2d04"
         },
         {
             "code": "24029",
@@ -650,10 +649,10 @@
             "traits": [
                 "War"
             ],
-            "text": "<b>Reaction:</b> After you win a [military] challenge as the attacking player, kneel a character controlled by the losing opponent (you may kill it instead if it has the <i>Army</i> trait). (Limit once per phase.)",
+            "text": "<b>Reaction:</b> After you win a [military] challenge as the attacking player, choose and kneel a character controlled by the losing opponent (you may kill it instead if it has the <i>Army</i> trait). (Limit once per phase.)",
             "deckLimit": 1,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/840ec719-b164-46fe-9541-00a594ed171a"
+            "imageUrl": "https://hcti.io/v1/image/90f9fa43-9720-4a5f-b849-6f78902c3cbf"
         }
     ],
     "workInProgress": true
