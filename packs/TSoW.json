@@ -49,10 +49,10 @@
             "traits": [
                 "Knight"
             ],
-            "text": "While you control a <i>Stronghold</i> location, Ser Gilbert Farring gains renown and does not kneel when declared as a defender.",
+            "text": "While a participating character has assault, Ser Gilbert Farring gets +1 STR and gains renown.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/7d4a63bd-c835-49f9-a823-4e23e80ef902"
+            "imageUrl": "https://hcti.io/v1/image/bf1140ac-cb69-47d5-9db3-9491381dfd8d"
         },
         {
             "code": "24003",
@@ -118,10 +118,10 @@
                 "Ally",
                 "House Harlaw"
             ],
-            "text": "Shadow (1).\n<b>Reaction:</b> After an opponent discards 1 or more cards for reserve, gain 1 gold.",
+            "text": "Shadow (1).\n<b>Reaction:</b> After an opponent discards 1 or more cards for reserve, gain 1 gold. (Limit twice per round.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/b265272a-b3e4-4e0d-a30b-ca162aa9c2ad"
+            "imageUrl": "https://hcti.io/v1/image/850f1d00-7f40-4bdf-aa6c-a84fc2dce34d"
         },
         {
             "code": "24006",
@@ -162,10 +162,10 @@
                 "Knight",
                 "Lord"
             ],
-            "text": "Renown.\n<b>Reaction:</b> After Ser Daven Lannister gains power, each opponent must choose and discard 1 card from their hand. Then, if you have more cards in hand than each opponent, draw 1 card. (Limit twice per round.)",
+            "text": "Renown.\n<b>Reaction:</b> After Ser Daven Lannister gains 1 or more power, each opponent must choose and discard 1 card from their hand. Then, if you have more cards in hand than each opponent, draw 1 card. (Limit twice per round.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/83710cc5-c040-43c5-ac5f-773145a447e3"
+            "imageUrl": "https://hcti.io/v1/image/18e7c886-a284-4a21-9b2a-19d30674e934"
         },
         {
             "code": "24008",
@@ -201,10 +201,10 @@
             "loyal": true,
             "cost": 1,
             "traits": [],
-            "text": "<b>Reaction:</b> After you win an [intrigue] challenge by 5 or more STR, choose a character you control and (choose one):\n- return it to it's owners hand.\n- place it in shadows.\n- have it gain insight until the end of the phase.",
+            "text": "<b>Reaction:</b> After you win an [intrigue] challenge, choose a participating character you control and (choose one):\n- return it to it's owners hand.\n- place it in shadows.\n- have it gain insight until the end of the phase.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/c78e2df6-9fa8-4235-bcfc-6203fb9cd3b6"
+            "imageUrl": "https://hcti.io/v1/image/5d9f3b3b-efc1-4d4a-bb01-639e17f3768b"
         },
         {
             "code": "24010",
@@ -214,7 +214,7 @@
             "quantity": 3,
             "unique": true,
             "faction": "martell",
-            "loyal": true,
+            "loyal": false,
             "cost": 4,
             "icons": {
                 "military": true,
@@ -225,10 +225,10 @@
             "traits": [
                 "Knight"
             ],
-            "text": "Each opponent cannot gain power for winning dominance.",
+            "text": "Shadow (3).\nEach opponent cannot gain power for winning dominance.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/ef4c863a-60fc-48fd-b62b-8d414412a8f2"
+            "imageUrl": "https://hcti.io/v1/image/13646820-093b-4099-ba6b-7b95bd46bc8f"
         },
         {
             "code": "24011",
@@ -352,10 +352,10 @@
             "traits": [
                 "Army"
             ],
-            "text": "Assault. No attachments.\nWhile you control a [stark] <i>King</i> character, King Robb’s Bannermen may target an additional location using assault.",
+            "text": "Assault. No attachments except <i>Direwolf</i>.\nWhile you control a [stark] <i>King</i> character, King Robb’s Bannermen may target an additional location using assault.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/415bc236-c4ef-464f-9614-9946ff2460b1"
+            "imageUrl": "https://hcti.io/v1/image/43067353-e43e-4e5e-8958-aa9fddfb4146"
         },
         {
             "code": "24017",
@@ -421,10 +421,10 @@
                 "Commander",
                 "Companion"
             ],
-            "text": "No attachments except <i>Weapon</i>.\n<b>Reaction:</b> After you win a challenge in which Hero is participating, if you have fewer cards in hand than the losing opponent, stand an <i>Army</i> character or Grey Worm.",
+            "text": "No attachments except <i>Weapon</i>.\n<b>Reaction:</b> After you win a challenge in which Hero is participating, if you have fewer cards in hand than the losing opponent, stand an <i>Army</i> character or Grey Worm. (Limit twice per phase.)",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/335ec83e-4c9d-42c8-94ef-5ba862d59494"
+            "imageUrl": "https://hcti.io/v1/image/aff61b61-d2c9-4edc-bd1b-b4ab8c65c7f1"
         },
         {
             "code": "24020",
@@ -550,15 +550,15 @@
                 "intrigue": false,
                 "power": true
             },
-            "strength": 3,
+            "strength": 4,
             "traits": [
                 "Ally",
                 "Army"
             ],
-            "text": "Assault. No attachments.\n<b>Reaction:</b> After a location is knelt by assault, kill King's Landing Mob to discard that location from play.",
+            "text": "Assault.\n<b>Reaction:</b> After a location is knelt by assault, kill King's Landing Mob to discard that location from play.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/12a6e324-79bf-4045-b806-e2277ade6758"
+            "imageUrl": "https://hcti.io/v1/image/74d14c2a-7be6-483e-96d5-2eafb4bb866f"
         },
         {
             "code": "24026",
@@ -626,12 +626,12 @@
             "octgnId": null,
             "quantity": 3,
             "faction": "neutral",
-            "cost": 1,
+            "cost": 0,
             "traits": [],
             "text": "<b>Reaction:</b> After you lose a [military] challenge, sacrifice a location to choose a participating character with printed cost 4 or lower, or a participating <i>Army</i> character, and discard it from play.",
             "deckLimit": 3,
             "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/3f865cef-3b8f-4472-9d2b-a631acf5df77"
+            "imageUrl": "https://hcti.io/v1/image/ed56db5e-ef67-4e22-ae08-cc3b15df480a"
         },
         {
             "code": "24030",
