@@ -2,7 +2,7 @@
     "cgdbId": null,
     "code": "TSoW",
     "name": "The Spoils of War",
-    "releaseDate": null,
+    "releaseDate": "2023-06-03",
     "cards": [
         {
             "code": "24001",
@@ -27,8 +27,8 @@
             ],
             "text": "Assault. No attachments.\n<b>Reaction:</b> After you win a challenge in which Salladhor Saan's Lyseni is attacking, it gains 1 power for every 2 kneeling locations the defending player controls. (Limit once per phase.)",
             "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/31fd5b32-0314-4eb1-babc-ab5991c5a90b"
+            "illustrator": "Melle (Midjourney)",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/1_Salladhor%20Saan's%20Lyseni.png"
         },
         {
             "code": "24002",
@@ -49,10 +49,11 @@
             "traits": [
                 "Knight"
             ],
-            "text": "While a participating character has assault, Ser Gilbert Farring gets +1 STR and gains renown.",
+            "text": "During a challenge in which a participating character has assault, Ser Gilbert Farring gets +1 STR and gains renown.",
+            "flavor": "\"A few good men remain, it's true. Ser Gilbert Farring holds Storm's End for me still, with two hundred loyal men.\" <cite>Stannis Baratheon</cite>",
             "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/bf1140ac-cb69-47d5-9db3-9491381dfd8d"
+            "illustrator": "Harry Platt",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/2_Ser%20Gilbert%20Farring.png"
         },
         {
             "code": "24003",
@@ -67,10 +68,10 @@
             "traits": [
                 "Dragonstone"
             ],
-            "text": "You may choose not to stand Dragonstone during the standing phase.\r\n<b>Reaction:</b> After a card is placed in shadows by a card effect, kneel Dragonstone. Then, until Dragonstone stands or leaves play, that card cannot come out of shadows.",
+            "text": "You may choose not to stand Dragonstone during the standing phase.\n<b>Reaction:</b> After a card is placed in shadows by a card effect, kneel Dragonstone. Then, until Dragonstone stands or leaves play, that card cannot come out of shadows.",
             "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/e89d0002-6eb6-4f5d-af6e-164ac46531f3"
+            "illustrator": "Jordi Gonzalez",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/3_Dragonstone.png"
         },
         {
             "code": "24004",
@@ -94,9 +95,10 @@
                 "Raider"
             ],
             "text": "Pillage. Shadow (4). Stealth.\nWhile there is a <i>Winter</i> plot card revealed, you may marshal Dagmer Cleftjaw into shadows from your dead pile as if he were in your hand.",
+            "flavor": "\"Dagmer lives, be grateful for that much.\" <cite>Asha Greyjoy</cite>",
             "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/cd19258b-af73-48f2-a6b2-8b5fed857d47"
+            "illustrator": "Roman Papsuev",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/4_Dagmer%20Cleftjaw.png"
         },
         {
             "code": "24005",
@@ -120,8 +122,8 @@
             ],
             "text": "Shadow (1).\n<b>Reaction:</b> After an opponent discards 1 or more cards for reserve, gain 1 gold. (Limit twice per round.)",
             "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/850f1d00-7f40-4bdf-aa6c-a84fc2dce34d"
+            "illustrator": "Tomasz Jedruszek",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/5_Harlaw%20Scout.png"
         },
         {
             "code": "24006",
@@ -138,8 +140,8 @@
             ],
             "text": "While there are no cards in shadows, attached character gains insight.\n<b>Reaction:</b> After you win a challenge in which attached character is participating, kneel The Myrish Eye to choose and reveal a card in shadows. If it is an event, discard it.",
             "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/5fcef9fd-03d1-4857-a5cd-42121b88a101"
+            "illustrator": "Yoann Boissonnet",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/6_The%20Myrish%20Eye.png"
         },
         {
             "code": "24007",
@@ -164,8 +166,8 @@
             ],
             "text": "Renown.\n<b>Reaction:</b> After Ser Daven Lannister gains 1 or more power, each opponent must choose and discard 1 card from their hand. Then, if you have more cards in hand than each opponent, draw 1 card. (Limit twice per round.)",
             "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/18e7c886-a284-4a21-9b2a-19d30674e934"
+            "illustrator": "Nacho Molina",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/7_Ser%20Daven%20Lannister.png"
         },
         {
             "code": "24008",
@@ -187,9 +189,10 @@
                 "Army"
             ],
             "text": "No attachments.\nWhile you control a [lannister] <i>Lord</i> or <i>Commander</i> character, Oxcross Survivors gets +3 STR and gains assault.",
+            "flavor": "\"Our cousin Ser Daven is reforming the remnants of his late father's army at Lannisport.\" <cite>Tywin Lannister</cite>",
             "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/662e582e-b5ad-4a03-bbed-51a4eee161f3"
+            "illustrator": "Tomasz Jedruszek",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/8_Oxcross%20Survivors.png"
         },
         {
             "code": "24009",
@@ -201,10 +204,10 @@
             "loyal": true,
             "cost": 1,
             "traits": [],
-            "text": "<b>Reaction:</b> After you win an [intrigue] challenge, choose a participating character you control and (choose one):\n- return it to it's owners hand.\n- place it in shadows.\n- have it gain insight until the end of the phase.",
+            "text": "<b>Reaction:</b> After you win an [intrigue] challenge, choose a participating character you control and (choose one):\n- return it to its owner's hand.\n- place it in shadows.\n- have it gain insight until the end of the phase.",
             "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/5d9f3b3b-efc1-4d4a-bb01-639e17f3768b"
+            "illustrator": "Borja Pindado",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/9_One%2C%20Two%2C%20Three.png"
         },
         {
             "code": "24010",
@@ -225,10 +228,11 @@
             "traits": [
                 "Knight"
             ],
-            "text": "Shadow (3).\nEach opponent cannot gain power for winning dominance.",
+            "text": "Shadow (3).\nEach opponent cannot gain power from winning dominance.",
+            "flavor": "\"I have a wonderful horse and a very fine sword, and my valor is second to… well, several, actually.\"",
             "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/13646820-093b-4099-ba6b-7b95bd46bc8f"
+            "illustrator": "Harry Platt",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/10_Ser%20Andrey%20Dalt.png"
         },
         {
             "code": "24011",
@@ -251,10 +255,11 @@
                 "Dothraki",
                 "Mercenary"
             ],
-            "text": "<b>Interrupt:</b> When another character is returned to a player's hand or shadows area, return Caggo Corpsekiller to your hand to place that character in its owner's dead pile instead.",
+            "text": "<b>Interrupt:</b> When another character is returned to a player's hand or placed in shadows, return Caggo Corpsekiller to your hand to place that character in its owner's dead pile instead.",
+            "flavor": "Caggo Corpsekiller the men were calling him now, though not to his face; he was quick to anger, and that curved black sword of his was as nasty as its owner.",
             "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/e4471284-c5c5-4ae7-be70-afdb12807fb2"
+            "illustrator": "Stephen Patane (Midjourney)",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/11_Caggo%20Corpsekiller.png"
         },
         {
             "code": "24012",
@@ -269,10 +274,10 @@
             "traits": [
                 "Weapon"
             ],
-            "text": "Ambush (3).\nAttached character gets +2 STR.\n<b>Action:</b> Sacrifice War Scorpion to choose an attacking character, and remove it from the challenge (you may kill it instead if it has the <i>Army</i> or <i>Dragon</i> trait).",
+            "text": "Ambush (3).\nAttached character gets +2 STR.\n<b>Challenges Action:</b> Sacrifice War Scorpion to choose an attacking character, and remove it from the challenge. (You may kill that character instead if it has the <i>Army</i> or <i>Dragon</i> trait.)",
             "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/0c328c85-c034-468f-a199-53e4a6b978f8"
+            "illustrator": "Luis Guggenberger",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/12_War%20Scorpion.png"
         },
         {
             "code": "24013",
@@ -295,10 +300,10 @@
                 "Ranger"
             ],
             "text": "Stealth.\nWhile Iron Emmett is kneeling, characters with a [military] icon cannot enter play during the challenges phase.",
-            "flavor": "Gods be good, our Lord Commander's still in swaddling clothes. I hope this don't mean I can't beat the bloody piss out of you next time we train, my lord. ~ Emmett",
+            "flavor": "\"I hope this don't mean I can't beat the bloody piss out of you next time we train, my lord.\"",
             "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/9ae9f5da-dc45-443f-8af3-83c91018537f"
+            "illustrator": "Lucas Soriano",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/13_Iron%20Emmett.png"
         },
         {
             "code": "24014",
@@ -315,8 +320,8 @@
             ],
             "text": "Each character you control that is owned by an opponent gets +1 STR.\n<b>Challenges Action:</b> Kneel The Shadow Tower to choose and reveal a card from an opponent's shadows area. If it is a non-unique character, put it into play under your control.",
             "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/51d72ca8-2359-4355-8cb6-70e111d662f5"
+            "illustrator": "Frank Miklis",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/14_The%20Shadow%20Tower.png"
         },
         {
             "code": "24015",
@@ -328,10 +333,10 @@
             "loyal": false,
             "cost": 1,
             "traits": [],
-            "text": "Play only if you control The Wall or Castle Black.\r\n<b>Challenges Action:</b> Choose an attacking character with more than 1 challenge icon and remove it from the challenge. Then, if that character does not have the <i>Army</i> or <i>Wildling</i> trait, stand it.",
+            "text": "Play only if you control Castle Black or The Wall.\n<b>Challenges Action:</b> Choose an attacking character with more than 1 challenge icon, and remove it from the challenge. If that character does not have the <i>Army</i> or <i>Wildling</i> trait, stand it.",
             "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/3122d110-96d1-438e-84ab-bc57758ab9a0"
+            "illustrator": "Melle (Midjourney)",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/15_Defending%20the%20Wall.png"
         },
         {
             "code": "24016",
@@ -353,9 +358,10 @@
                 "Army"
             ],
             "text": "Assault. No attachments except <i>Direwolf</i>.\nWhile you control a [stark] <i>King</i> character, King Robb’s Bannermen may target an additional location using assault.",
+            "flavor": "She had insisted that he be guarded as well, and the lords bannermen had agreed.",
             "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/43067353-e43e-4e5e-8958-aa9fddfb4146"
+            "illustrator": "Sedone Thongvilay",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/16_King%20Robb's%20Bannermen.png"
         },
         {
             "code": "24017",
@@ -377,10 +383,11 @@
                 "Army",
                 "House Bolton"
             ],
-            "text": "Assault.\n<b>Challenges Action:</b> Sacrifice The Bastard's Boys to put a non-[stark] or <i>House Bolton</i> character with printed cost 5 or lower into play from your hand.",
+            "text": "Assault.\n<b>Challenges Action:</b> Sacrifice The Bastard's Boys to put a <i>House Bolton</i> or non-[stark] character with printed cost 5 or lower into play from your hand.",
+            "flavor": "When the tale reached Lord Ramsay, he sent his Bastard's Boys to seize the man and drag him out into the snow.",
             "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/185170d5-5fef-41c8-8719-4dc22105f97c"
+            "illustrator": "\nIgnacio Bazan-Lazcano",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/17_The%20Bastard's%20Boys.png"
         },
         {
             "code": "24018",
@@ -396,10 +403,10 @@
                 "Contested",
                 "The Westerlands"
             ],
-            "text": "You cannot initiate [intrigue] challenges during the challenges phase.\n<b>Reaction:</b> After you win a [military] challenge as the attacking player, gain 1 power for your faction card (2 power instead if you control a [stark] <i>King</i> character). (Limit twice per phase.)",
+            "text": "You cannot initiate [intrigue] challenges.\n<b>Reaction:</b> After you win a [military] challenge as the attacking player, The Crag gains 1 power. (2 power instead if you control a [stark] <i>King</i> character.) (Limit twice per phase.)",
             "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/c1b5d9a9-90f5-42af-b791-7d90fef0ad57"
+            "illustrator": "Tsvetomir Zehov",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/18_The%20Crag.png"
         },
         {
             "code": "24019",
@@ -421,10 +428,10 @@
                 "Commander",
                 "Companion"
             ],
-            "text": "No attachments except <i>Weapon</i>.\n<b>Reaction:</b> After you win a challenge in which Hero is participating, if you have fewer cards in hand than the losing opponent, stand an <i>Army</i> character or Grey Worm. (Limit twice per phase.)",
+            "text": "No attachments except <i>Weapon</i>.\n<b>Reaction:</b> After you win a challenge in which Hero is participating, if you have fewer cards in hand than the losing opponent, choose and stand an <i>Army</i> character or Grey Worm. (Limit twice per phase.)",
             "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/aff61b61-d2c9-4edc-bd1b-b4ab8c65c7f1"
+            "illustrator": "Melle (Midjourney)",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/19_Hero.png"
         },
         {
             "code": "24020",
@@ -447,8 +454,8 @@
             ],
             "text": "Assault. No attachments.\nWhile Stalwart Shields is participating in a challenge, each <i>Army</i> character an opponent controls loses all keywords.",
             "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/1bf0bb65-6683-47ce-982b-a15ebeba5990"
+            "illustrator": "Stephen Patane (Midjourney)",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/20_Stalwart%20Shields.png"
         },
         {
             "code": "24021",
@@ -463,9 +470,10 @@
                 "Legacy"
             ],
             "text": "<b>Challenges Action:</b> Until the end of the phase, each non-<i>Dragon</i> character without attachments gets -1 STR for each <i>Dragon</i> character you control with printed cost 7 or higher. (Max 1 per phase.)",
+            "flavor": "\"A dragon is worth more than any army. Aegon proved that three hundred years ago, upon the Field of Fire.\" <cite>Arstan Whitebeard</cite>",
             "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/cb053472-1394-4709-897b-090b39cc462e"
+            "illustrator": "René Aigner",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/21_The%20Field%20of%20Fire.png"
         },
         {
             "code": "24022",
@@ -489,8 +497,8 @@
             ],
             "text": "Renown.\n<b>Action:</b> Stand a participating <i>Army</i> character and remove it from the challenge to choose another participating character with equal or lower printed cost. Stand that character and remove it from the challenge. (Limit once per phase.)",
             "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/8ff5ef4e-d401-4a2d-a339-65f647af3c92"
+            "illustrator": "DrEvilsPjs (Midjourney)",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/22_Mace%20Tyrell.png"
         },
         {
             "code": "24023",
@@ -515,8 +523,8 @@
             ],
             "text": "<b>Reaction:</b> After Oldtown City Watch enters play, reveal the top card of each player's deck.",
             "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/0308fab6-f267-4a96-a4a1-fb168d919796"
+            "illustrator": "Artem Grigoryan",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/23_Oldtown%20City%20Watch.png"
         },
         {
             "code": "24024",
@@ -531,10 +539,10 @@
             "traits": [
                 "The Seven"
             ],
-            "text": "While you have 7 or more cards in your hand, card abilities cannot cause non-<i>The Seven</i> characters to enter play.\n<b>Reaction:</b> After power is gained by or moved to a <i>The Seven</i> card you control,  draw 1 card. (Limit once per phase.)",
+            "text": "While you have 7 or more cards in your hand, non-<i>The Seven</i> characters cannot enter play during the challenges phase.\n<b>Reaction:</b> After power is gained by or moved to a <i>The Seven</i> card you control, draw 1 card. (Limit once per phase.)",
             "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/90ee86a4-fc0b-4c3f-b90d-97036821cae5"
+            "illustrator": "Melle (Midjourney)",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/24_Highgarden%20Sept.png"
         },
         {
             "code": "24025",
@@ -556,9 +564,10 @@
                 "Army"
             ],
             "text": "Assault.\n<b>Reaction:</b> After a location is knelt by assault, kill King's Landing Mob to discard that location from play.",
+            "flavor": "\"You were glad enough to see my face when the mob had you, though. Remember?\" <cite>The Hound</cite>",
             "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/74d14c2a-7be6-483e-96d5-2eafb4bb866f"
+            "illustrator": "Mathia Arkoniel",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/25_King's%20Landing%20Mob.png"
         },
         {
             "code": "24026",
@@ -580,9 +589,9 @@
             ],
             "text": "Renown.\nFormer Champion gets -1 STR for each power it has.\nWhile Former Champion's STR is 3 or lower, it gains a [power] icon and stealth.\nWhile Former Champion's STR is 1 or lower, it gains an [intrigue] icon and intimidate.",
             "deckLimit": 3,
-            "illustrator": "?",
+            "illustrator": "Cris Griffin",
             "designer": "Card design by 2008 Overall World Champion, Tzu-Mainn Chen.",
-            "imageUrl": "https://hcti.io/v1/image/1e4dab33-52bc-4e68-8a10-93a593780805"
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/26_Former%20Champion.png"
         },
         {
             "code": "24027",
@@ -597,9 +606,10 @@
                 "Title"
             ],
             "text": "Unique character only.\nAttached character gets +1 STR and gains the <i>Commander</i> trait.",
+            "flavor": "\"Who shall have the van?\" <cite>Mathis Rowan</cite>",
             "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/6e0cc77a-05e4-4910-98b5-4ae02e918379"
+            "illustrator": "Leonardo Borazio",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/27_Vanguard%20Leader.png"
         },
         {
             "code": "24028",
@@ -616,8 +626,8 @@
             ],
             "text": "<b>Forced Reaction:</b> After you win a challenge as the attacking player, give control of The Trident to the losing opponent unless you sacrifice another neutral location. (Cannot be canceled.)\n+1 Claim",
             "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/d2def405-9655-49c8-91a2-ad859a4e2d04"
+            "illustrator": "Philipp Urlich",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/28_The%20Trident.png"
         },
         {
             "code": "24029",
@@ -628,10 +638,11 @@
             "faction": "neutral",
             "cost": 0,
             "traits": [],
-            "text": "<b>Reaction:</b> After you lose a [military] challenge, sacrifice a location to choose a participating character with printed cost 4 or lower, or a participating <i>Army</i> character, and discard it from play.",
+            "text": "<b>Reaction:</b> After you lose a [military] challenge, sacrifice a location to choose a participating character with the <i>Army</i> trait or printed cost 4 or lower, and discard it from play.",
+            "flavor": "\"The knights come down on them, faceless men clad all in steel, and the iron thunder of their charge seems to fill the world... And the man breaks.\" <cite>Septon Meribald</cite>",
             "deckLimit": 3,
-            "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/ed56db5e-ef67-4e22-ae08-cc3b15df480a"
+            "illustrator": "Rob Joseph",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/29_Broken%20Men.png"
         },
         {
             "code": "24030",
@@ -649,11 +660,10 @@
             "traits": [
                 "War"
             ],
-            "text": "<b>Reaction:</b> After you win a [military] challenge as the attacking player, choose and kneel a character controlled by the losing opponent (you may kill it instead if it has the <i>Army</i> trait). (Limit once per phase.)",
+            "text": "<b>Reaction:</b> After you win a [military] challenge as the attacking player, choose and kneel a character controlled by the losing opponent. (You may kill that character instead if it has the <i>Army</i> trait.) (Limit once per phase.)",
             "deckLimit": 1,
-            "illustrator": "?",
-            "imageUrl": "https://hcti.io/v1/image/90f9fa43-9720-4a5f-b849-6f78902c3cbf"
+            "illustrator": "Tomasz Jedruszek",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/30_Battle%20of%20the%20Camps.png"
         }
-    ],
-    "workInProgress": true
+    ]
 }
