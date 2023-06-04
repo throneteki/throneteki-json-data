@@ -28,7 +28,7 @@
             "text": "Assault. No attachments.\n<b>Reaction:</b> After you win a challenge in which Salladhor Saan's Lyseni is attacking, it gains 1 power for every 2 kneeling locations the defending player controls. (Limit once per phase.)",
             "deckLimit": 3,
             "illustrator": "Melle (Midjourney)",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/1_Salladhor%20Saan's%20Lyseni.png"
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/01_Sallador%20Saan_s%20Lyseni.png"
         },
         {
             "code": "24002",
@@ -53,7 +53,7 @@
             "flavor": "\"A few good men remain, it's true. Ser Gilbert Farring holds Storm's End for me still, with two hundred loyal men.\" <cite>Stannis Baratheon</cite>",
             "deckLimit": 3,
             "illustrator": "Harry Platt",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/2_Ser%20Gilbert%20Farring.png"
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/02_Ser%20Gilbert%20Farring.png"
         },
         {
             "code": "24003",
@@ -71,7 +71,7 @@
             "text": "You may choose not to stand Dragonstone during the standing phase.\n<b>Reaction:</b> After a card is placed in shadows by a card effect, kneel Dragonstone. Then, until Dragonstone stands or leaves play, that card cannot come out of shadows.",
             "deckLimit": 3,
             "illustrator": "Jordi Gonzalez",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/3_Dragonstone.png"
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/03_Dragonstone.png"
         },
         {
             "code": "24004",
@@ -98,7 +98,7 @@
             "flavor": "\"Dagmer lives, be grateful for that much.\" <cite>Asha Greyjoy</cite>",
             "deckLimit": 3,
             "illustrator": "Roman Papsuev",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/4_Dagmer%20Cleftjaw.png"
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/04_Dagmer%20Cleftjaw.png"
         },
         {
             "code": "24005",
@@ -123,7 +123,7 @@
             "text": "Shadow (1).\n<b>Reaction:</b> After an opponent discards 1 or more cards for reserve, gain 1 gold. (Limit twice per round.)",
             "deckLimit": 3,
             "illustrator": "Tomasz Jedruszek",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/5_Harlaw%20Scout.png"
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/05_Harlaw%20Scout.png"
         },
         {
             "code": "24006",
@@ -141,7 +141,7 @@
             "text": "While there are no cards in shadows, attached character gains insight.\n<b>Reaction:</b> After you win a challenge in which attached character is participating, kneel The Myrish Eye to choose and reveal a card in shadows. If it is an event, discard it.",
             "deckLimit": 3,
             "illustrator": "Yoann Boissonnet",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/6_The%20Myrish%20Eye.png"
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/06_The%20Myrish%20Eye.png"
         },
         {
             "code": "24007",
@@ -167,7 +167,7 @@
             "text": "Renown.\n<b>Reaction:</b> After Ser Daven Lannister gains 1 or more power, each opponent must choose and discard 1 card from their hand. Then, if you have more cards in hand than each opponent, draw 1 card. (Limit twice per round.)",
             "deckLimit": 3,
             "illustrator": "Nacho Molina",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/7_Ser%20Daven%20Lannister.png"
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/07_Ser%20Daven%20Lannister.png"
         },
         {
             "code": "24008",
@@ -192,7 +192,7 @@
             "flavor": "\"Our cousin Ser Daven is reforming the remnants of his late father's army at Lannisport.\" <cite>Tywin Lannister</cite>",
             "deckLimit": 3,
             "illustrator": "Tomasz Jedruszek",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/8_Oxcross%20Survivors.png"
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/08_Oxcross%20Survivors.png"
         },
         {
             "code": "24009",
@@ -207,7 +207,7 @@
             "text": "<b>Reaction:</b> After you win an [intrigue] challenge, choose a participating character you control and (choose one):\n- return it to its owner's hand.\n- place it in shadows.\n- have it gain insight until the end of the phase.",
             "deckLimit": 3,
             "illustrator": "Borja Pindado",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/9_One%2C%20Two%2C%20Three.png"
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/09_One%2C%20Two%2C%20Three.png"
         },
         {
             "code": "24010",
@@ -361,7 +361,7 @@
             "flavor": "She had insisted that he be guarded as well, and the lords bannermen had agreed.",
             "deckLimit": 3,
             "illustrator": "Sedone Thongvilay",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/16_King%20Robb's%20Bannermen.png"
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/16_King%20Robb_s%20Bannermen.png"
         },
         {
             "code": "24017",
@@ -387,7 +387,7 @@
             "flavor": "When the tale reached Lord Ramsay, he sent his Bastard's Boys to seize the man and drag him out into the snow.",
             "deckLimit": 3,
             "illustrator": "\nIgnacio Bazan-Lazcano",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/17_The%20Bastard's%20Boys.png"
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/17_The%20Bastard_s%20Boys.png"
         },
         {
             "code": "24018",
@@ -567,7 +567,7 @@
             "flavor": "\"You were glad enough to see my face when the mob had you, though. Remember?\" <cite>The Hound</cite>",
             "deckLimit": 3,
             "illustrator": "Mathia Arkoniel",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/25_King's%20Landing%20Mob.png"
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TSoW/25_King_s%20Landing%20Mob.png"
         },
         {
             "code": "24026",
