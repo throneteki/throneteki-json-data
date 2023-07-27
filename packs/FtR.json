@@ -199,7 +199,7 @@
             "traits": [
                 "The Westerlands"
             ],
-            "text": "<b>Challenges Action:</b> Kneel Fair Isle to choose an opponent. That player chooses 2 cards in their hand, if able, and places them on top of their deck in any order. At the end of the phase, that player draws 2 cards.\n+1 Income",
+            "text": "<b>Challenges Action:</b> Kneel Fair Isle to choose an opponent. That player chooses 2 cards in their hand, if able, and places them on top of their deck in any order. At the end of the phase, that player draws 2 cards.\n+1 Income.",
             "deckLimit": 3,
             "illustrator": "Andreas Rocha",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/09_Fair%20Isle.png"
