@@ -5384,7 +5384,7 @@
         "formats": [
             {
                 "name": "joust",
-                "url": "",
+                "url": "https://agot.cards/wp-content/uploads/2023/10/GOT_Card_Legality_v1.9_Joust.pdf",
                 "restricted": [
                     "01146",
                     "02026",
@@ -5539,7 +5539,7 @@
             },
             {
                 "name": "melee",
-                "url": "",
+                "url": "https://agot.cards/wp-content/uploads/2023/10/GOT_Card_Legality_v1.9_Melee.pdf",
                 "restricted": [
                     "01001",
                     "01013",
