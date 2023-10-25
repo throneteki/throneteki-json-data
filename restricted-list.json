@@ -5384,7 +5384,7 @@
         "formats": [
             {
                 "name": "joust",
-                "url": "https://agot.cards/wp-content/uploads/2023/10/GOT_Card_Legality_v1.9_Joust.pdf",
+                "url": "https://agot.cards/wp-content/uploads/2023/10/GOT_Card_Legality_v1.9_Joust-1.pdf",
                 "restricted": [
                     "01146",
                     "02026",
@@ -5409,6 +5409,7 @@
                     "21013",
                     "22006",
                     "22008",
+                    "20054",
                     "22014"
                 ],
                 "pods": [
