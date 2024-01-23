@@ -307,7 +307,7 @@
                 {
                     "issuer": "Global Operations Team (G.O.T.)",
                     "version": "2.0",
-                    "link": "?",
+                    "link": "https://agot.cards/wp-content/uploads/2024/01/GOT_FAQ_v4.1.pdf",
                     "text": "<i>Dothraki</i> character or Daenerys Targaryen only.\nWhile attached character is participating in a [power] challenge, it gains renown.\n<b>Reaction:</b> After attached character gains power using renown, sacrifice The Silver Steed. Then, you may initiate an additional [power] challenge this phase.",
                     "notes": "Update to include Then for the effect after the sacrifice."
                 }
