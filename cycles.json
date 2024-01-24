@@ -205,5 +205,12 @@
         "packs": [
             "TSoW"
         ]
+    },
+    {
+        "id": "mists",
+        "name": "Mists of Memory",
+        "packs": [
+            "ATT"
+        ]
     }
 ]
