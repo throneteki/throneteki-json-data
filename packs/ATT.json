@@ -1,0 +1,453 @@
+{
+    "cgdbId": null,
+    "code": "ATT",
+    "name": "A True Telling",
+    "releaseDate": "2024-01-29",
+    "cards": [
+        {
+            "code": 25001,
+            "type": "character",
+            "name": "Beric Dondarrion",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 7,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "Knight",
+                "Lord"
+            ],
+            "text": "Renown.\n<b>Reaction:</b> After you win a challenge in which Beric Dondarrion is attacking, choose a character controlled by the losing opponent. Until the end of the round, that character cannot kneel or stand. (Limit once per round.)",
+            "deckLimit": 3,
+            "illustrator": "Marc Simonetti",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ATT/1_Beric_Dondarrion.png"
+        },
+        {
+            "code": 25002,
+            "type": "location",
+            "name": "Lady Marya",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": true,
+            "cost": 2,
+            "traits": [
+                "Warship"
+            ],
+            "text": "You may marshal or play facedown cards attached to Lady Marya as if they were in your hand.\n<b>Reaction:</b> After you win a challenge in which you control an attacking <i>Captain</i> or <i>Smuggler</i> character, kneel Lady Marya to attach the top card of the losing opponent's deck to Lady Marya facedown under your control, as an attachment with the text: \"Location only. Terminal.\" ",
+            "deckLimit": 3,
+            "illustrator": "Marc Simonetti",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ATT/2_Lady_Marya.png"
+        },
+        {
+            "code": 25003,
+            "type": "character",
+            "name": "Victarion Greyjoy",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "Drowned God",
+                "Ironborn",
+                "Lord",
+                "R'hllor"
+            ],
+            "text": "<b>Reaction:</b> After a phase begins, kneel a character you control. If it has the:\n- <i>R’hllor</i> trait, Victarion Greyjoy gains insight and \"immune to opponents' character abilities\" until the end of the phase.\n- <i>Drowned God</i> trait, Victarion Greyjoy gains renown and cannot be killed until the end of the phase.",
+            "deckLimit": 3,
+            "illustrator": "Nikolai Kalinin",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ATT/3_Victarion_Greyjoy.png"
+        },
+        {
+            "code": 25004,
+            "type": "plot",
+            "name": "Cast Me Forth",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "greyjoy",
+            "plotStats": {
+                "income": 4,
+                "initiative": 4,
+                "claim": 1,
+                "reserve": 5
+            },
+            "loyal": true,
+            "traits": [
+                "Drowned God"
+            ],
+            "text": "You may ambush non-unique <i>Drowned God</i> characters from your dead pile as if they were in your hand.\nEach <i>Drowned God</i> character in your hand or dead pile gains ambush (X). X is that card's printed cost.",
+            "flavor": "\"When he cast me forth again he gave me eyes to see, ears to hear, and a voice to spread his word, that I might be his prophet and teach his truth to those who have forgotten.\" <cite>Aeron Damphair</cite>",
+            "deckLimit": 1,
+            "illustrator": "Lincoln Renall",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ATT/4_Cast_Me_Forth.png"
+        },
+        {
+            "code": 25005,
+            "type": "character",
+            "name": "Myrcella Baratheon",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "Lady"
+            ],
+            "text": "<b>Reaction:</b> After you win a challenge in which Myrcella Baratheon is participating, return her to your hand. Then, you may initiate an additional [intrigue] challenge against the losing opponent this phase. (Max once per phase.)",
+            "deckLimit": 3,
+            "illustrator": "Sacha Diener",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ATT/5_Myrcella_Baratheon.png"
+        },
+        {
+            "code": 25006,
+            "type": "location",
+            "name": "Castamere",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "lannister",
+            "loyal": true,
+            "cost": 1,
+            "traits": [
+                "The Westerlands"
+            ],
+            "text": "<b>Reaction:</b> After claim is applied for an [intrigue] challenge you won by 5 or more STR, kneel and sacrifice Castamere to apply [military] claim.",
+            "flavor": "\"They are well aware of Castamere, I promise you.\" <cite>Tywin Lannister</cite>",
+            "deckLimit": 3,
+            "illustrator": "Juhani Jokinen",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ATT/6_Castamere.png"
+        },
+        {
+            "code": 25007,
+            "type": "character",
+            "name": "Scheming Snake",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Bastard",
+                "Sand Snake"
+            ],
+            "text": "Shadow (2).\n<b>Reaction:</b> After Scheming Snake enters play during a challenge, choose a participating character with fewer than 2 challenge icons. That character does not contribute its STR to this challenge.",
+            "deckLimit": 3,
+            "illustrator": "Stephen Patane (Midjourney)",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ATT/7_Scheming_Snake.png"
+        },
+        {
+            "code": 25008,
+            "type": "event",
+            "name": "A Bed of Scorpions",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "martell",
+            "loyal": true,
+            "cost": 1,
+            "traits": [
+                "House Qorgyle"
+            ],
+            "text": "<b>Reaction:</b> After you win an [intrigue] challenge, choose and kill a participating character. (Max 1 per challenge.)",
+            "flavor": "Lord Tyrell and his train traveled to Sandstone, where his lordship was murdered in a bed of scorpions.",
+            "deckLimit": 3,
+            "illustrator": "Melle (DALL-E)",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ATT/8_A_Bed_of_Scorpions.png"
+        },
+        {
+            "code": 25009,
+            "type": "character",
+            "name": "Gared",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Ranger"
+            ],
+            "text": "No attachments except <i>Weapon</i>.\n<b>Interrupt:</b> When an <i>Omen</i> plot card is revealed, kneel each opponent's faction card.",
+            "flavor": "“Everyone talks about snows forty foot deep, and how the ice wind comes howling out of the north, but the real enemy is the cold.”",
+            "deckLimit": 3,
+            "illustrator": "Stephen Patane (DALL-E)",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ATT/9_Gared.png"
+        },
+        {
+            "code": 25010,
+            "type": "location",
+            "name": "Sentinel Stand",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 3,
+            "traits": [
+                "Stronghold",
+                "The North"
+            ],
+            "text": "While Sentinel Stand is standing, each character you control with 1 or fewer challenge icons gets +2 STR.",
+            "flavor": "The other keeps, long deserted, were lonely, haunted places, where cold winds whistled through black windows and the spirits of the dead manned the parapets.",
+            "deckLimit": 3,
+            "illustrator": "Marc Simonetti",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ATT/10_Sentinel_Stand.png"
+        },
+        {
+            "code": 25011,
+            "type": "character",
+            "name": "Karstark Lancer",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Ally",
+                "House Karstark"
+            ],
+            "text": "<b>Interrupt:</b> When Karstark Lancer is sacrificed or killed, each player chooses a location they control, if able. Each of those locations gains 1 power.",
+            "flavor": "\"Rickard Karstark killed more than a Frey and a Lannister. He killed my honor.\" <cite>Robb Stark</cite>",
+            "deckLimit": 3,
+            "illustrator": "Melle (DALL-E)",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ATT/11_Karstark_Lancer.png"
+        },
+        {
+            "code": 25012,
+            "type": "location",
+            "name": "Lonely Hills",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "House Umber",
+                "The North"
+            ],
+            "text": "While Lonely Hills is standing, you are considered to have 1 fewer plot card in your used pile.",
+            "flavor": "\"Those are Umber lands, where they know every tree and every rock.\" <cite>Jon Snow</cite>",
+            "deckLimit": 3,
+            "illustrator": "Honqi Zhang",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ATT/12_Lonely_Hills.png"
+        },
+        {
+            "code": 25013,
+            "type": "character",
+            "name": "Free Brothers",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "Army"
+            ],
+            "text": "<b>Reaction:</b> After Free Brothers enters play, search your deck for an <i>Ally</i> character with printed cost 3 or lower and place it in your discard pile. Shuffle your deck.",
+            "deckLimit": 3,
+            "illustrator": "Stephen Patane (Midjourney)",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ATT/13_Free_Brothers.png"
+        },
+        {
+            "code": 25014,
+            "type": "plot",
+            "name": "Dance of the Dragons",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "targaryen",
+            "plotStats": {
+                "income": 4,
+                "initiative": 7,
+                "claim": 1,
+                "reserve": 6
+            },
+            "loyal": true,
+            "traits": [
+                "Legacy",
+                "Scheme",
+                "War"
+            ],
+            "text": "<b>Interrupt:</b> When claim is applied for a [military] or [intrigue] challenge in which you are the attacking player, instead of the normal claim effects, kneel a <i>Dragon</i> character to move 2 power from the losing opponent's faction card to your own.",
+            "deckLimit": 1,
+            "illustrator": "Ruben Devela",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ATT/14_Dance_of_the_Dragons.png"
+        },
+        {
+            "code": 25015,
+            "type": "character",
+            "name": "Red-Apple Knight",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 1,
+            "traits": [
+                "Knight"
+            ],
+            "text": "While you control exactly 1 unique [tyrell] <i>Knight</i> character, Red-Apple Knight gets +X STR. X is that character's STR.",
+            "deckLimit": 3,
+            "illustrator": "JB Casacop",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ATT/15_Red-Apple_Knight.png"
+        },
+        {
+            "code": 25016,
+            "type": "location",
+            "name": "Highgarden Treasury",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": true,
+            "cost": 1,
+            "traits": [
+                "The Reach"
+            ],
+            "text": "<b>Reaction:</b> After a character is removed from a challenge, gain 1 gold. (Limit 3 times per round.)",
+            "flavor": "The wealth and power of Highgarden could have made all the difference in the fighting yet to come.",
+            "deckLimit": 3,
+            "illustrator": "Stephen Patane (Midjourney)",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ATT/16_Highgarden_Treasury.png"
+        },
+        {
+            "code": 25017,
+            "type": "character",
+            "name": "Bloodraven",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "neutral",
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Old Gods"
+            ],
+            "text": "Insight. No attachments except <i>Old Gods</i>.\n<b>Reaction:</b> After the plot phase begins, sacrifice Bloodraven to choose an opponent. You may look at that player's chosen plot card before you choose a plot card to reveal this phase.",
+            "deckLimit": 3,
+            "illustrator": "Marc Simonetti",
+            "designer": "Card design by 2022 Online World Champion, Alexandre Carry.",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ATT/17_Bloodraven.png"
+        },
+        {
+            "code": 25018,
+            "type": "event",
+            "name": "Calm as Still Water",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "cost": 0,
+            "traits": [],
+            "text": "<b>Interrupt:</b> When a character with printed cost 3 or lower would be killed, save it and return it to its owner's hand.",
+            "flavor": "Arya took a breath to still her soul.",
+            "deckLimit": 3,
+            "illustrator": "Rene Aigner",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ATT/18_Calm_as_Still_Water.png"
+        },
+        {
+            "code": 25019,
+            "type": "plot",
+            "name": "At the Tower of Joy",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "plotStats": {
+                "income": 3,
+                "initiative": 3,
+                "claim": 1,
+                "reserve": 5
+            },
+            "traits": [
+                "Legacy",
+                "War"
+            ],
+            "text": "<b>When Revealed:</b> Choose a character. Until you reveal a new plot card, that character cannot be killed.",
+            "flavor": "It was said that Rhaegar had named that place the tower of joy, but for Ned it was a bitter memory.",
+            "deckLimit": 1,
+            "illustrator": "Florian Biege",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ATT/19_At_the_Tower_of_Joy.png"
+        },
+        {
+            "code": 25020,
+            "type": "plot",
+            "name": "Open Revolt",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "plotStats": {
+                "income": 4,
+                "initiative": 2,
+                "claim": 1,
+                "reserve": 5
+            },
+            "traits": [
+                "Scheme",
+                "War"
+            ],
+            "text": "<b>Interrupt:</b> When the challenges phase ends, if you have not lost an [intrigue] challenge this phase, gain 2 power for your faction. (4 power instead if you have 3 or more <i>Scheme</i> plot cards removed from the game.)",
+            "deckLimit": 1,
+            "illustrator": "Fuderiki",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ATT/20_Open_Revolt.png"
+        }
+    ]
+}
