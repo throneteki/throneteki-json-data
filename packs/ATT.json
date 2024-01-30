@@ -5,7 +5,7 @@
     "releaseDate": "2024-01-29",
     "cards": [
         {
-            "code": 25001,
+            "code": "25001",
             "type": "character",
             "name": "Beric Dondarrion",
             "octgnId": null,
@@ -30,7 +30,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ATT/1_Beric_Dondarrion.png"
         },
         {
-            "code": 25002,
+            "code": "25002",
             "type": "location",
             "name": "Lady Marya",
             "octgnId": null,
@@ -48,7 +48,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ATT/2_Lady_Marya.png"
         },
         {
-            "code": 25003,
+            "code": "25003",
             "type": "character",
             "name": "Victarion Greyjoy",
             "octgnId": null,
@@ -75,7 +75,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ATT/3_Victarion_Greyjoy.png"
         },
         {
-            "code": 25004,
+            "code": "25004",
             "type": "plot",
             "name": "Cast Me Forth",
             "octgnId": null,
@@ -98,7 +98,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ATT/4_Cast_Me_Forth.png"
         },
         {
-            "code": 25005,
+            "code": "25005",
             "type": "character",
             "name": "Myrcella Baratheon",
             "octgnId": null,
@@ -122,7 +122,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ATT/5_Myrcella_Baratheon.png"
         },
         {
-            "code": 25006,
+            "code": "25006",
             "type": "location",
             "name": "Castamere",
             "octgnId": null,
@@ -141,7 +141,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ATT/6_Castamere.png"
         },
         {
-            "code": 25007,
+            "code": "25007",
             "type": "character",
             "name": "Scheming Snake",
             "octgnId": null,
@@ -166,7 +166,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ATT/7_Scheming_Snake.png"
         },
         {
-            "code": 25008,
+            "code": "25008",
             "type": "event",
             "name": "A Bed of Scorpions",
             "octgnId": null,
@@ -184,7 +184,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ATT/8_A_Bed_of_Scorpions.png"
         },
         {
-            "code": 25009,
+            "code": "25009",
             "type": "character",
             "name": "Gared",
             "octgnId": null,
@@ -209,7 +209,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ATT/9_Gared.png"
         },
         {
-            "code": 25010,
+            "code": "25010",
             "type": "location",
             "name": "Sentinel Stand",
             "octgnId": null,
@@ -229,7 +229,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ATT/10_Sentinel_Stand.png"
         },
         {
-            "code": 25011,
+            "code": "25011",
             "type": "character",
             "name": "Karstark Lancer",
             "octgnId": null,
@@ -255,7 +255,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ATT/11_Karstark_Lancer.png"
         },
         {
-            "code": 25012,
+            "code": "25012",
             "type": "location",
             "name": "Lonely Hills",
             "octgnId": null,
@@ -275,7 +275,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ATT/12_Lonely_Hills.png"
         },
         {
-            "code": 25013,
+            "code": "25013",
             "type": "character",
             "name": "Free Brothers",
             "octgnId": null,
@@ -299,7 +299,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ATT/13_Free_Brothers.png"
         },
         {
-            "code": 25014,
+            "code": "25014",
             "type": "plot",
             "name": "Dance of the Dragons",
             "octgnId": null,
@@ -323,7 +323,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ATT/14_Dance_of_the_Dragons.png"
         },
         {
-            "code": 25015,
+            "code": "25015",
             "type": "character",
             "name": "Red-Apple Knight",
             "octgnId": null,
@@ -347,7 +347,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ATT/15_Red_Apple_Knight.png"
         },
         {
-            "code": 25016,
+            "code": "25016",
             "type": "location",
             "name": "Highgarden Treasury",
             "octgnId": null,
@@ -366,7 +366,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ATT/16_Highgarden_Treasury.png"
         },
         {
-            "code": 25017,
+            "code": "25017",
             "type": "character",
             "name": "Bloodraven",
             "octgnId": null,
@@ -390,7 +390,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ATT/17_Bloodraven.png"
         },
         {
-            "code": 25018,
+            "code": "25018",
             "type": "event",
             "name": "Calm as Still Water",
             "octgnId": null,
@@ -405,7 +405,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ATT/18_Calm_as_still_water.png"
         },
         {
-            "code": 25019,
+            "code": "25019",
             "type": "plot",
             "name": "At the Tower of Joy",
             "octgnId": null,
@@ -428,7 +428,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ATT/19_At_the_Tower_of_Joy.png"
         },
         {
-            "code": 25020,
+            "code": "25020",
             "type": "plot",
             "name": "Open Revolt",
             "octgnId": null,
