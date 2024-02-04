@@ -19,7 +19,7 @@
         "erratum": {
             "type": "object",
             "properties": {
-                "issuer": { "enum": ["Fantasy Flight Games", "The Conclave"] },
+                "issuer": { "enum": ["Fantasy Flight Games", "The Conclave", "Global Operations Team (G.O.T.)"] },
                 "version": { "type": "string", "minLength": 1 },
                 "link": { "type": "string", "format": "uri" },
                 "text": { "type": "string", "minLength": 1 },

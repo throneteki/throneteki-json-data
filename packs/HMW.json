@@ -1043,10 +1043,26 @@
             "faction": "neutral",
             "traits": [
                 ],
-            "text": "Your plot deck cannot include <i>Kingdom</i> plot cards.\nReduce the cost of the first card you ambush each round by 1.\n<b>Action:</b> Kneel your faction card to choose a character and a player. Until the end of the phase, that character gains each of the printed challenge icons, keywords, faction affiliations, and <i>Traits</i> of the top character in that player's dead pile.",
+            "text": "Your plot deck cannot include <i>Kingdom</i> plot cards.\nReduce the cost of the first card you ambush each round by 1.\n<b>Action:</b> Kneel your faction card to choose a character you control and a player. Until the end of the phase, that character gains each of the printed challenge icons, keywords, faction affiliations, and <i>Traits</i> of the top character in that player's dead pile.",
             "deckLimit": 1,
             "illustrator": "Marc Simonetti",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/52_The%20Many-Faced%20God.png"
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/HMW/52_The%20Many-Faced%20God.png",
+            "errata": [
+                {
+                    "issuer": "Global Operations Team (G.O.T.)",
+                    "version": "original",
+                    "text": "Your plot deck cannot include <i>Kingdom</i> plot cards.\nReduce the cost of the first card you ambush each round by 1.\n<b>Action:</b> Kneel your faction card to choose a character and a player. Until the end of the phase, that character gains each of the printed challenge icons, keywords, faction affiliations, and <i>Traits</i> of the top character in that player's dead pile.",
+                    "notes": null
+
+                },
+                {
+                    "issuer": "Global Operations Team (G.O.T.)",
+                    "version": "2.0",
+                    "link": "https://agot.cards/wp-content/uploads/2024/01/GOT_FAQ_v4.1.pdf",
+                    "text": "Your plot deck cannot include <i>Kingdom</i> plot cards.\nReduce the cost of the first card you ambush each round by 1.\n<b>Action:</b> Kneel your faction card to choose a character you control and a player. Until the end of the phase, that character gains each of the printed challenge icons, keywords, faction affiliations, and <i>Traits</i> of the top character in that player's dead pile.",
+                    "notes": "Update to only target your own characters."
+                }
+            ]
         },
         {
             "code": "20053",
