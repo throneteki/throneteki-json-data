@@ -293,7 +293,7 @@
             "traits": [
                 "Warhorse"
             ],
-            "text": "<i>Dothraki</i> character or Daenerys Targaryen only.\nWhile attached character is participating in a [power] challenge, it gains renown.\n<b>Reaction:</b> After attached character gains power using renown, sacrifice The Silver Steed. You may initiate an additional [power] challenge this phase.",
+            "text": "<i>Dothraki</i> character or Daenerys Targaryen only.\nWhile attached character is participating in a [power] challenge, it gains renown.\n<b>Reaction:</b> After attached character gains power using renown, sacrifice The Silver Steed. Then, you may initiate an additional [power] challenge this phase.",
             "deckLimit": 3,
             "illustrator": "Smirtouille",
             "errata": [
