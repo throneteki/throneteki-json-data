@@ -45,7 +45,7 @@
             "flavor": "\"Your Grace's royal brother was renowned for turning fallen foes into friends.\" <cite>Asha Greyjoy</cite>",
             "deckLimit": 3,
             "illustrator": "Hongqi Zhang",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ChoS/22_King_Robert's_Legacy.png"
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ChoS/22_King_Roberts_Legacy.png"
         },
         {
             "code": "25023",
@@ -190,7 +190,7 @@
         {
             "code": "25029",
             "type": "character",
-            "name": "Desperate Deserter",
+            "name": "Highborn Recruit",
             "octgnId": null,
             "quantity": 3,
             "unique": false,
@@ -200,16 +200,17 @@
             "icons": {
                 "military": false,
                 "intrigue": false,
-                "power": false
+                "power": true
             },
             "strength": 1,
             "traits": [
-                "Ally"
+                "Ally",
+                "Recruit"
             ],
-            "text": "Shadow (0).\n<b>Reaction:</b> After a card comes out of shadows under your control, give control of Desperate Deserter to an opponent.\n-1 Income. -1 Initiative.",
+            "text": "<b>Challenges Action:</b> Kneel Highborn Recruit to choose a character with 1 or fewer challenge icons. Until the end of the phase, that character gains insight or renown.",
             "deckLimit": 3,
-            "illustrator": "Stephen Patane (Midjourney)",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ChoS/29_Desperate_Deserter.png"
+            "illustrator": "?",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ChoS/29_Highborn_Recruit.png"
         },
         {
             "code": "25030",
