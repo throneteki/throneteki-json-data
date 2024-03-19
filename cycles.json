@@ -210,7 +210,8 @@
         "id": "mists",
         "name": "Mists of Memory",
         "packs": [
-            "ATT"
+            "ATT",
+            "ChoS"
         ]
     }
 ]

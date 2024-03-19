@@ -1,0 +1,452 @@
+{
+    "cgdbId": null,
+    "code": "ChoS",
+    "name": "Children of Summer",
+    "releaseDate": "2024-03-16",
+    "cards": [
+        {
+            "code": "25021",
+            "type": "character",
+            "name": "Acolyte of the Shadow",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "baratheon",
+            "loyal": true,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "R'hllor"
+            ],
+            "text": "While an opponent controls a card in shadows, Acolyte of the Shadow gains insight.",
+            "flavor": "\"Shadows are the servants of light, the children of fire.\" -Melisandre",
+            "deckLimit": 3,
+            "illustrator": "Marc Simonetti",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ChoS/21_Acolyte_of_the_Shadow.png"
+        },
+        {
+            "code": "25022",
+            "type": "event",
+            "name": "King Robert's Legacy",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "baratheon",
+            "loyal": true,
+            "cost": 3,
+            "traits": [
+                "Legacy"
+            ],
+            "text": "<b>Reaction:</b> After you win a challenge in which you control an attacking <i>King</i> character, choose a kneeling defending character and take control of it. (Max 1 per phase.)",
+            "flavor": "\"Your Grace's royal brother was renowned for turning fallen foes into friends.\" <cite>Asha Greyjoy</cite>",
+            "deckLimit": 3,
+            "illustrator": "Hongqi Zhang",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ChoS/22_King_Roberts_Legacy.png"
+        },
+        {
+            "code": "25023",
+            "type": "character",
+            "name": "Ralf Kenning",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": true,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "House Harlaw",
+                "Ironborn",
+                "Raider"
+            ],
+            "text": "Pillage.\nWhile there is a <i>Winter</i> plot card revealed, reduce the income and reserve values on each opponent's revealed plot card by 1.",
+            "deckLimit": 3,
+            "illustrator": "Guillem H.Pongiluppi",
+            "designer": "Card design by 2017 Castle Stahleck Joust Champion, Martí Foz Hernàndez.",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ChoS/23_Ralf_Kenning.png"
+        },
+        {
+            "code": "25024",
+            "type": "character",
+            "name": "Old Captain",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 1,
+            "traits": [
+                "Captain",
+                "Ironborn"
+            ],
+            "text": "While Old Captain is standing, it gains pillage and renown.",
+            "flavor": "It was said that the ironmen of old had oft been blood-drunk in battle, so berserk that they felt no pain and feared no foe.",
+            "deckLimit": 3,
+            "illustrator": "Aurelien Hubert",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ChoS/24_Old_Captain.png"
+        },
+        {
+            "code": "25025",
+            "type": "character",
+            "name": "Tywin Lannister",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "lannister",
+            "loyal": true,
+            "cost": 7,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "Lord"
+            ],
+            "text": "Intimidate.\n<b>Reaction:</b> After you win a challenge in which Tywin Lannister is participating, he gains 1 power for every 3 gold in your gold pool. (Limit once per phase.)",
+            "flavor": "\"Nothing is won so long as we have enemies in the field...\"",
+            "deckLimit": 3,
+            "illustrator": "Magali Villeneuve",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ChoS/25_Tywin_Lannister.png"
+        },
+        {
+            "code": "25026",
+            "type": "attachment",
+            "name": "Boots",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Cat",
+                "Companion"
+            ],
+            "text": "Unique character with printed cost 3 or lower only. Ambush (1).\nAttached character gains renown.",
+            "deckLimit": 3,
+            "illustrator": "Katalin Illés",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ChoS/26_Boots.png"
+        },
+        {
+            "code": "25027",
+            "type": "character",
+            "name": "The Old Hawk",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "martell",
+            "loyal": true,
+            "cost": 6,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "Lord"
+            ],
+            "text": "Insight.\nWhile there is a <i>Summer</i> plot card revealed, each [martell] character you control with STR 6 or higher gains renown.",
+            "flavor": "The Fowler twins were famous friends of Lady Nym as well, but how much weight would that carry with the Old Hawk?",
+            "deckLimit": 3,
+            "illustrator": "Indigo Jenar",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ChoS/27_The_Old_Hawk.png"
+        },
+        {
+            "code": "25028",
+            "type": "location",
+            "name": "The Throne of Dorne",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "martell",
+            "loyal": true,
+            "cost": 2,
+            "traits": [
+                "Dorne"
+            ],
+            "text": "<b>Reaction:</b> After you lose dominance, kneel The Throne of Dorne to place a [martell] card you control in shadows.\n+1 Reserve.",
+            "deckLimit": 3,
+            "illustrator": "Marc Simonetti",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ChoS/28_The_Throne_of_Dorne.png"
+        },
+        {
+            "code": "25029",
+            "type": "character",
+            "name": "Highborn Recruit",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 1,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 1,
+            "traits": [
+                "Ally",
+                "Recruit"
+            ],
+            "text": "<b>Challenges Action:</b> Kneel Highborn Recruit to choose a character with 1 or fewer challenge icons. Until the end of the phase, that character gains insight or renown.",
+            "deckLimit": 3,
+            "illustrator": "?",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ChoS/29_Highborn_Recruit.png"
+        },
+        {
+            "code": "25030",
+            "type": "attachment",
+            "name": "Insubordination",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Condition"
+            ],
+            "text": "Terminal.\n<b>Reaction:</b> After a challenge is initiated against you in which attached character is attacking alone, kneel Insubordination to kill attached character.",
+            "flavor": "\"Do you hear me, boy? I will not have it!\" <cite>Janos Slynt</cite>",
+            "deckLimit": 3,
+            "illustrator": "Lukasz Jaskolski",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ChoS/30_Insubordination.png"
+        },
+        {
+            "code": "25031",
+            "type": "character",
+            "name": "Ghost",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Direwolf"
+            ],
+            "text": "No attachments.\n<b>Reaction:</b> After you win a challenge in which you control an attacking <i>Direwolf</i> character, draw 1 card.\n<b>Interrupt:</b> When Jon Snow would be killed, sacrifice Ghost to save him.",
+            "deckLimit": 3,
+            "illustrator": "Ertaç Altınöz",
+            "designer": "Card design by 2019 European Melee Champion, Chris Meeuwsen.",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ChoS/31_Ghost.png"
+        },
+        {
+            "code": "25032",
+            "type": "event",
+            "name": "Taste the Blood",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "stark",
+            "loyal": true,
+            "cost": 2,
+            "traits": [
+                "Dream",
+                "Old Gods"
+            ],
+            "text": "<b>Reaction:</b> After you win an [intrigue] challenge in which you control a participating <i>Old Gods</i> character, kneel your faction card to choose a plot card in any player's used pile. Initiate the when revealed ability on that card as if you had just revealed it.",
+            "flavor": "And through the mist of centuries the broken boy could only watch as the man’s feet drummed against the earth...",
+            "deckLimit": 3,
+            "illustrator": "Emmanuel Elderkin",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ChoS/32_Taste_the_Blood.png"
+        },
+        {
+            "code": "25033",
+            "type": "character",
+            "name": "Arstan Whitebeard",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 1,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Companion"
+            ],
+            "text": "If you control Ser Barristan Selmy, sacrifice Arstan Whitebeard. \nWhile you control no <i>Lord</i> or <i>Lady</i> characters, Arstan Whitebeard cannot kneel.",
+            "deckLimit": 3,
+            "illustrator": "Jarreau Wimberly",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ChoS/33_Arstan_Whitebeard.png"
+        },
+        {
+            "code": "25034",
+            "type": "location",
+            "name": "Summerhall",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 2,
+            "traits": [
+                "Westeros"
+            ],
+            "text": "<b>Reaction:</b> After a character's STR is reduced to 0 by a card effect, kneel Summerhall to kill it.",
+            "flavor": "\"And yet Summerhall was the place the prince loved best.\" <cite>Arstan Whitebeard</cite>",
+            "deckLimit": 3,
+            "illustrator": "Marc Simonetti",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ChoS/34_Summerhall.png"
+        },
+        {
+            "code": "25035",
+            "type": "character",
+            "name": "Ser Parmen Crane",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Kingsguard",
+                "Knight",
+                "Rainbow Guard"
+            ],
+            "text": "While you control another <i>Rainbow Guard</i> character, Ser Parmen Crane gains renown.",
+            "flavor": "The green light shone strangely against the purple plums of Ser Parmen's surcoat.",
+            "deckLimit": 3,
+            "illustrator": "Anh Bui",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ChoS/35_Ser_Parmen_Crane.png"
+        },
+        {
+            "code": "25036",
+            "type": "plot",
+            "name": "Chivalry of the South",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "tyrell",
+            "plotStats": {
+                "income": 5,
+                "initiative": 4,
+                "claim": 1,
+                "reserve": 6
+            },
+            "loyal": true,
+            "traits": [
+                "Legacy",
+                "Summer"
+            ],
+            "text": "<b>Interrupt:</b> When a challenge ends in which there are no participating characters, gain 2 power for your faction. (Limit 3 times per round.) ",
+            "flavor": "\"Look across the fields, brother. Can you see all those banners?\" <cite>Renly Baratheon</cite>",
+            "deckLimit": 1,
+            "illustrator": "Diego Gisbert Llorens",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ChoS/36_Chivalry_of_the_South.png"
+        },
+        {
+            "code": "25037",
+            "type": "character",
+            "name": "Jalabhar Xho",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "neutral",
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Ally",
+                "Lord"
+            ],
+            "text": "<b>Marshaling Action:</b> Discard 1 power from your faction card to take control of Jalabhar Xho. (Any player may initiate this ability.)",
+            "flavor": "Jalabhar Xho was all in feathers, a plumage so fantastic and extravagant that he seemed like to take flight.",
+            "deckLimit": 3,
+            "illustrator": "Felicia Cano",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ChoS/37_Jalabhar_Xho.png"
+        },
+        {
+            "code": "25038",
+            "type": "location",
+            "name": "The Moon Door",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "neutral",
+            "cost": 2,
+            "traits": [
+                "House Arryn"
+            ],
+            "text": "You choose which player wins ties for initiative and dominance.\n<b>Reaction:</b> After The Moon Door is knelt during a challenge, choose and kill a participating character with printed STR 3 or lower.",
+            "deckLimit": 3,
+            "illustrator": "Thomas Denmark",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ChoS/38_The_Moon_Door.png"
+        },
+        {
+            "code": "25039",
+            "type": "plot",
+            "name": "A Southron Peace",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "plotStats": {
+                "income": 4,
+                "initiative": 0,
+                "claim": 1,
+                "reserve": 7
+            },
+            "traits": [
+                "Edict",
+                "Summer"
+            ],
+            "text": "<b>When Revealed:</b> Choose an opponent. Until you reveal a new plot card, you and that player cannot initiate [military] challenges against each other.",
+            "flavor": "\"Shouldn't you northmen have a different sort of peace banner? What are the Seven to you?\" <cite>Ser Jaime Lannister</cite>",
+            "deckLimit": 1,
+            "illustrator": "Onur Bakur",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ChoS/39_A_Southron_Peace.png"
+        },
+        {
+            "code": "25040",
+            "type": "agenda",
+            "name": "The Gold Price",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "traits": [],
+            "text": "Locations you control enter play knelt.\n<b>Reaction:</b> After a character is discarded at random from an opponent's hand, put it into play under your control. At the end of the phase, if that card is still in play, sacrifice it unless you pay X gold. X is that card's printed cost. (Limit once per phase.)",
+            "deckLimit": 1,
+            "illustrator": "Melle (Midjourney)",
+            "designer": "Card design by 2015 Draft World Champion, Ryan Jones.",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ChoS/40_The_Gold_Price.png"
+        }
+    ]
+}
