@@ -337,7 +337,7 @@
                 "Knight",
                 "Lord"
             ],
-            "text": "While you control exactly 1 other [lannister] <i>Lord</i> or <i>Lady</i> character, Ser Lancel Lannister gets +X STR, where X is that character's STR.",
+            "text": "While you control exactly 1 other [lannister] <i>Lord</i> or <i>Lady</i> character, Ser Lancel Lannister gets +X STR. X is that character's STR.",
             "flavor": "At sixteen, he was cursed with all the certainty of youth, unleavened by any trace of humor or self-doubt, and wed to the arrogance that came so naturally to those born blond and strong and handsome.",
             "deckLimit": 3,
             "illustrator": "Henning Ludvigsen"
