@@ -2,7 +2,7 @@
     "cgdbId": null,
     "code": "ChoS",
     "name": "Children of Summer",
-    "releaseDate": "2024-03-16",
+    "releaseDate": "2024-03-18",
     "cards": [
         {
             "code": "25021",
@@ -209,7 +209,7 @@
             ],
             "text": "<b>Challenges Action:</b> Kneel Highborn Recruit to choose a character with 1 or fewer challenge icons. Until the end of the phase, that character gains insight or renown.",
             "deckLimit": 3,
-            "illustrator": "?",
+            "illustrator": "Stephen Patane (Midjourney)",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ChoS/29_Highborn_Recruit.png"
         },
         {
@@ -429,7 +429,6 @@
                 "Summer"
             ],
             "text": "<b>When Revealed:</b> Choose an opponent. Until you reveal a new plot card, you and that player cannot initiate [military] challenges against each other.",
-            "flavor": "\"Shouldn't you northmen have a different sort of peace banner? What are the Seven to you?\" <cite>Ser Jaime Lannister</cite>",
             "deckLimit": 1,
             "illustrator": "Onur Bakur",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ChoS/39_A_Southron_Peace.png"

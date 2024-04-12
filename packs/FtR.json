@@ -408,7 +408,7 @@
             "traits": [
                 "Direwolf"
             ],
-            "text": "Unique [stark] character only.\nAttached character gains stealth.\nInterrupt: When the effects of a triggered character ability would initiate, return a <i>Direwolf</i> card to your hand to cancel those effects. (Limit once per phase.)\nAction: Pay 1 gold to attach Grey Wind to a different character. (Limit once per phase.)",
+            "text": "Unique [stark] character only.\nAttached character gains stealth.\n<b>Interrupt:</b> When the effects of a triggered character ability would initiate, return a <i>Direwolf</i> card to your hand to cancel those effects. (Limit once per phase.)\n<b>Action:</b> Pay 1 gold to attach Grey Wind to a different character. (Limit once per phase.)",
             "deckLimit": 3,
             "illustrator": "Roman Papsuev",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FtR/18_Grey%20Wind.png"
