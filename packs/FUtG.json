@@ -25,6 +25,7 @@
                 "The Seven"
             ],
             "text": "<b>Interrupt:</b> When a unique [baratheon] character would be killed, kill a <i>R'hllor</i> character to save that character and have it gain 1 power. (Limit once per round.)",
+            "flavor": "\"I shall go with you, Cousin. There's nothing to be frightened of.\"",
             "deckLimit": 3,
             "illustrator": "Melle (DALL-E)",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FUtG/41_Ser_Andrew_Estermont.png"
