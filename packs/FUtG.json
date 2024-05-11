@@ -1,0 +1,446 @@
+{
+    "cgdbId": null,
+    "code": "FUtG",
+    "name": "Fire Upon the Grass",
+    "releaseDate": "2024-05-06",
+    "cards": [
+        {
+            "code": "25041",
+            "type": "character",
+            "name": "Ser Andrew Estermont",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": true,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 4,
+            "traits": [
+                "Knight",
+                "The Seven"
+            ],
+            "text": "<b>Interrupt:</b> When a unique [baratheon] character would be killed, kill a <i>R'hllor</i> character to save that character and have it gain 1 power. (Limit once per round.)",
+            "flavor": "\"I shall go with you, Cousin. There's nothing to be frightened of.\"",
+            "deckLimit": 3,
+            "illustrator": "Melle (DALL-E)",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FUtG/41_Ser_Andrew_Estermont.png"
+        },
+        {
+            "code": "25042",
+            "type": "attachment",
+            "name": "The Laughing Storm",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": true,
+            "cost": 3,
+            "traits": [
+                "Legacy",
+                "Tapestry"
+            ],
+            "text": "Unique [baratheon] location you control only.\nWhile The Laughing Storm is standing, cards cannot be discarded at random from your hand.\n<b>Reaction:</b> After you win a challenge, kneel The Laughing Storm to choose and kneel a character controlled by the losing opponent.",
+            "deckLimit": 3,
+            "illustrator": "Kris Cooper",
+            "designer": "Card inspired by 2010 Joust World Champion, Alec Irwin.",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FUtG/42_The_Laughing_Storm.png"
+        },
+        {
+            "code": "25043",
+            "type": "character",
+            "name": "Tarle the Thrice-Drowned",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": true,
+            "cost": 6,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "Drowned God",
+                "Ironborn"
+            ],
+            "text": "Renown.\n<b>Reaction:</b> After a <i>Drowned God</i> character is placed in your dead pile, put it into play. Then, kill a character you control. (Limit once per round.)",
+            "deckLimit": 3,
+            "illustrator": "Stephen Patane (Midjourney)",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FUtG/43_Tarle_the_Thrice-Drowned.png"
+        },
+        {
+            "code": "25044",
+            "type": "event",
+            "name": "The Drowned God Wakes",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "greyjoy",
+            "loyal": true,
+            "cost": 2,
+            "traits": [
+                "Drowned God"
+            ],
+            "text": "<b>Reaction:</b> After you win dominance by 10 or more STR, each player chooses a character they control, if able. Kill each character not chosen.",
+            "flavor": "\"And the waters of wrath will rise high, and the Drowned God will spread his dominion across the green lands!\" <cite>Aeron Damphair</cite>",
+            "deckLimit": 3,
+            "illustrator": "Tysen Johnson",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FUtG/44_The_Drowned_God_Wakes.png"
+        },
+        {
+            "code": "25045",
+            "type": "character",
+            "name": "Warrior's Sons",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 6,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "Army",
+                "The Seven"
+            ],
+            "text": "No attachments.\n<b>Reaction:</b> After power is gained by or moved to Warrior's Sons, stand Warrior's Sons. (Limit once per phase.)",
+            "deckLimit": 3,
+            "illustrator": "Gergely Nagy",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FUtG/45_Warriors_Sons.png"
+        },
+        {
+            "code": "25046",
+            "type": "plot",
+            "name": "The Sack of King's Landing",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "lannister",
+            "plotStats": {
+                "income": 5,
+                "initiative": 7,
+                "claim": 1,
+                "reserve": 6
+            },
+            "loyal": true,
+            "traits": [
+                "Legacy",
+                "War"
+            ],
+            "text": "During [intrigue] challenges, each [lannister] character you control gains pillage.\n<b>Reaction:</b> After a location enters an opponent's discard pile, that player must choose and kill a character they control with the same printed cost.",
+            "deckLimit": 1,
+            "illustrator": "Samuel Pi Pedrini",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FUtG/46_The_Sack_of_Kings_Landing.png"
+        },
+        {
+            "code": "25047",
+            "type": "character",
+            "name": "Ser Arys Oakheart",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "Kingsguard",
+                "Knight"
+            ],
+            "text": "Renown.\nWhile Ser Arys Oakheart is attacking, at least 1 character must be declared as a defender, if able.",
+            "flavor": "\"You will not take her whilst I still draw breath.\"",
+            "deckLimit": 3,
+            "illustrator": "Harry Platt",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FUtG/47_Ser_Arys_Oakheart.png"
+        },
+        {
+            "code": "25048",
+            "type": "attachment",
+            "name": "Vulture King",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Legacy",
+                "Title"
+            ],
+            "text": "Attached character gains pillage.\n<b>Reaction:</b> After you win a challenge in which attached character is participating, discard the top card of your deck to choose a character controlled by the losing opponent. Until the end of the phase, that character loses a challenge icon of your choice.",
+            "deckLimit": 3,
+            "illustrator": "Stephen Patane (Midjourney)",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FUtG/48_Vulture_King.png"
+        },
+        {
+            "code": "25049",
+            "type": "character",
+            "name": "Marsh's Conspirator",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Ally",
+                "Steward"
+            ],
+            "text": "Shadow (2).\n<b>Reaction:</b> After Marsh's Conspirator comes out of shadows, choose a character. Until the end of the phase, treat that character as if its printed text box were blank (except for <i>Traits</i>).",
+            "deckLimit": 3,
+            "illustrator": "Owen William Weber",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FUtG/49_Marshs_Conspirator.png"
+        },
+        {
+            "code": "25050",
+            "type": "attachment",
+            "name": "Legacy of the Watch",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": true,
+            "cost": 3,
+            "traits": [
+                "Legacy",
+                "Tapestry"
+            ],
+            "text": "Unique [thenightswatch] location you control only.\n<b>Reaction:</b> After you win a challenge by 5 or more STR, if you control 2 or more participating:\n- <i>Ranger</i> characters, gain 1 power for your faction.\n- <i>Steward</i> characters, draw 2 cards.\n- <i>Builder</i> characters, stand a [thenightswatch] location.",
+            "deckLimit": 3,
+            "illustrator": "Kris Cooper",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FUtG/50_Legacy_of_the_Watch.png"
+        },
+        {
+            "code": "25051",
+            "type": "character",
+            "name": "Galbart Glover",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "stark",
+            "loyal": true,
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "House Glover",
+                "Lord"
+            ],
+            "text": "While there are more <i>Winter</i> plot cards than <i>Summer</i> plot cards revealed, increase the cost of the first character each opponent marshals or ambushes each phase by 1.",
+            "deckLimit": 3,
+            "illustrator": "Nacho Molina",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FUtG/51_Galbart_Glover.png"
+        },
+        {
+            "code": "25052",
+            "type": "attachment",
+            "name": "Ice",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "stark",
+            "loyal": true,
+            "cost": 3,
+            "traits": [
+                "Valyrian Steel",
+                "Weapon"
+            ],
+            "text": "Unique [stark] character only.\nAttached character gets +2 STR.\n<b>Reaction:</b> After a character is saved, kneel Ice to kill it.",
+            "flavor": "His father took off the man's head with a single sure stroke. Blood sprayed out across the snow, as red as summerwine.",
+            "deckLimit": 3,
+            "illustrator": "Sara Biddle",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FUtG/52_Ice.png"
+        },
+        {
+            "code": "25053",
+            "type": "character",
+            "name": "Daenerys Targaryen",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 6,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "Dothraki",
+                "Lady"
+            ],
+            "text": "Insight.\nWhile you control Khal Drogo, he gains intimidate.\n<b>Reaction:</b> After you win a challenge as the attacking player, gain 1 power for your faction for each unique attacking <i>Bloodrider</i> character. (Limit once per phase.)",
+            "deckLimit": 3,
+            "illustrator": "Harry Platt",
+            "designer": "Card design by 2019 Joust World Champion, Francis Côté.",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FUtG/53_Daenerys_Targaryen.png"
+        },
+        {
+            "code": "25054",
+            "type": "event",
+            "name": "Naught but Ashes",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": "-",
+            "traits": [],
+            "text": "Shadow (1).\n<b>Challenges Action:</b> Choose a participating character without attachments. Until the end of the phase, that character gets -1 STR for each card in shadows.",
+            "flavor": "\"Aerys was mad, the whole realm knew it.\" <cite>Catelyn Stark</cite>",
+            "deckLimit": 3,
+            "illustrator": "Laio Yuni",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FUtG/54_Naught_but_Ashes.png"
+        },
+        {
+            "code": "25055",
+            "type": "character",
+            "name": "Willas Tyrell",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": true,
+            "cost": 5,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "Lord"
+            ],
+            "text": "Insight.\nWillas Tyrell contributes his STR to your side during any challenge in which a character you control is attacking or defending alone.",
+            "flavor": "\"Willas has a bad leg but a good heart.\" <cite>Margaery Tyrell</cite>",
+            "deckLimit": 3,
+            "illustrator": "Stephen Patane (Midjourney)",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FUtG/55_Willas_Tyrell.png"
+        },
+        {
+            "code": "25056",
+            "type": "attachment",
+            "name": "The Warden of the South",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": true,
+            "cost": 2,
+            "traits": [
+                "Title"
+            ],
+            "text": "[tyrell] <i>Lord</i> character only.\nAttached character gets +1 STR and gains the <i>Commander</i> trait.\n<b>Reaction:</b> After attached character's STR is increased by a card effect, kneel The Warden of the South to stand attached character.",
+            "deckLimit": 3,
+            "illustrator": "Jongmin Ahn",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FUtG/56_The_Warden_of_the_South.png"
+        },
+        {
+            "code": "25057",
+            "type": "character",
+            "name": "Belligerent Heir",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "neutral",
+            "cost": 4,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "House Frey",
+                "Lord"
+            ],
+            "text": "Belligerent Heir gets +1 STR for each gold it has.\n<b>Reaction:</b> After you initiate a challenge, place 1 gold from the treasury on an attacking neutral character. If you lose the challenge, sacrifice that character. (Limit once per phase.)",
+            "deckLimit": 3,
+            "illustrator": "Veronica V. Jones",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FUtG/57_Belligerent_Heir.png"
+        },
+        {
+            "code": "25058",
+            "type": "location",
+            "name": "The Red Fork",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "neutral",
+            "cost": 2,
+            "traits": [
+                "The Riverlands",
+                "Westeros"
+            ],
+            "text": "<b>Reaction:</b> After you win a [military] challenge by 5 or more STR, put The Red Fork into play from your discard pile.\n+2 Initiative.",
+            "deckLimit": 3,
+            "illustrator": "Andreas Rocha",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FUtG/58_The_Red_Fork.png"
+        },
+        {
+            "code": "25059",
+            "type": "attachment",
+            "name": "Greyscale",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "neutral",
+            "cost": 1,
+            "traits": [
+                "Condition"
+            ],
+            "text": "Terminal.\n<b>Dominance Action:</b> Kneel Greyscale to choose an opponent and reveal 1 card at random from their hand. If that card’s printed cost is equal to or higher than attached character’s, kill attached character and attach Greyscale to a different character. Otherwise, that player draws 1 card.",
+            "deckLimit": 3,
+            "illustrator": "Melle (Midjourney)",
+            "designer": "Card design by 2017 Joust World Champion, Reinhard Schefcik.",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FUtG/59_Greyscale.png"
+        },
+        {
+            "code": "25060",
+            "type": "plot",
+            "name": "City Blockade",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "plotStats": {
+                "income": 5,
+                "initiative": 2,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "City",
+                "Siege"
+            ],
+            "text": "Limited cards cannot be marshaled, played, or put into play.",
+            "deckLimit": 1,
+            "illustrator": "Thomas Denmark",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/FUtG/60_City_Blockade.png"
+        }
+    ]
+}
