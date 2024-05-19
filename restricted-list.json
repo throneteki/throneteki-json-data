@@ -6077,7 +6077,7 @@
         "formats": [
             {
                 "name": "joust",
-                "url": "",
+                "url": "https://agot.cards/wp-content/uploads/2024/05/GOT_Card_Legality_v1.11_Joust-2-2.pdf",
                 "restricted": [
                     "01146",
                     "06076",
@@ -6254,7 +6254,7 @@
             },
             {
                 "name": "melee",
-                "url": "",
+                "url": "https://agot.cards/wp-content/uploads/2024/05/GOT_Card_Legality_v1.11_Melee.pdf",
                 "restricted": [
                     "01001",
                     "01013",
