@@ -6073,7 +6073,7 @@
         "name": "Standard v1.11",
         "cardSet": "redesign",
         "code": "gotstandard1.11",
-        "date": "2024-05-24",
+        "date": "2024-05-20",
         "formats": [
             {
                 "name": "joust",
@@ -6243,7 +6243,7 @@
                     {
                         "cards": [
                             "09012",
-                            "15048"
+                            "13099"
                         ]
                     }
                 ],
