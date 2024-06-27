@@ -1,0 +1,448 @@
+{
+    "cgdbId": null,
+    "code": "TTS",
+    "name": "Ten Thousand Ships",
+    "releaseDate": "2024-06-26",
+    "cards": [
+        {
+            "code": "25061",
+            "type": "character",
+            "name": "Allard Seaworth",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Captain"
+            ],
+            "text": "<b>Dominance Action:</b> Discard a facedown card attached to a [baratheon] card you control to gain 1 power for your faction. (Limit once per phase.)",
+            "flavor": "Allard would have ended on the Wall. Stannis spared him from that end, something else I owe him...",
+            "deckLimit": 3,
+            "illustrator": "Stephen Patane (Midjourney)",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TTS/61_Allard_Seaworth.png"
+        },
+        {
+            "code": "25062",
+            "type": "attachment",
+            "name": "Martial Law",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 0,
+            "traits": [
+                "Condition"
+            ],
+            "text": "Non-limited location only. Terminal.\nAttached location cannot stand unless its controller has won a [power] challenge this round.",
+            "flavor": "“It takes more than a gold cloak to make a watchman.”\r- Ser Jacelyn Bywater",
+            "deckLimit": 3,
+            "illustrator": "Rafal Hrynkiewicz",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TTS/62_Martial_Law.png"
+        },
+        {
+            "code": "25063",
+            "type": "character",
+            "name": "Great Kraken's Crew",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "Raider"
+            ],
+            "text": "No attachments. Shadow (2).\n<b>Reaction:</b> After Great Kraken's Crew comes out of shadows during a challenge, choose a defending character with printed cost 3 or lower. That character does not contribute its STR to this challenge.",
+            "deckLimit": 3,
+            "illustrator": "Matt Olson",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TTS/63_Great_Krakens_Crew.png"
+        },
+        {
+            "code": "25064",
+            "type": "attachment",
+            "name": "Nightfall",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Valyrian Steel",
+                "Weapon"
+            ],
+            "text": "If attached character has the <i>House Harlaw</i> trait, it gains renown.\n<b>Reaction:</b> After you win a challenge in which attached character is participating, kneel Nightfall to have each player check reserve.",
+            "flavor": "Victarion wondered how Nightfall would fare against his axe.",
+            "deckLimit": 3,
+            "illustrator": "Diego Gisbert Llorens",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TTS/64_Nightfall.png"
+        },
+        {
+            "code": "25065",
+            "type": "character",
+            "name": "Grand Maester Pycelle",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "lannister",
+            "loyal": true,
+            "cost": 4,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Maester",
+                "Small Council"
+            ],
+            "text": "<b>Interrupt:</b> When a card is discarded from a player's hand, place it facedown under that player's agenda instead of placing it in their discard pile. (Limit twice per round.)",
+            "deckLimit": 3,
+            "illustrator": "Roman Papsuev",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TTS/65_Grand_Maester_Pycelle.png"
+        },
+        {
+            "code": "25066",
+            "type": "location",
+            "name": "Kingswood",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "lannister",
+            "loyal": true,
+            "cost": 1,
+            "traits": [
+                "Westeros"
+            ],
+            "text": "<b>Reaction:</b> After a character you control enters play using ambush, kneel and return Kingswood to your hand to draw 1 card.\n+1 Initiative.",
+            "deckLimit": 3,
+            "illustrator": "Chris Drake",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TTS/66_Kingswood.png"
+        },
+        {
+            "code": "25067",
+            "type": "character",
+            "name": "Water Gardens Sentry",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "martell",
+            "loyal": true,
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Guard"
+            ],
+            "text": "While you control a [martell] <i>Lord</i> or <i>Lady</i> character, Water Gardens Sentry may be declared as a defender during [intrigue] challenges in which you are the defending player.",
+            "deckLimit": 3,
+            "illustrator": "Aaron Riley",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TTS/67_Water_Gardens_Sentry.png"
+        },
+        {
+            "code": "25068",
+            "type": "attachment",
+            "name": "Nymeria of Ny Sar",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "martell",
+            "loyal": true,
+            "cost": 3,
+            "traits": [
+                "Legacy",
+                "Tapestry"
+            ],
+            "text": "Unique [martell] location you control only.\n<b>Reaction:</b> After you win a challenge by 5 or more STR, kneel Nymeria of Ny Sar to reveal a [martell] or <i>Summer</i> plot.",
+            "flavor": "“On the day they wed, Nymeria fired her ships, so her people would understand that there could be no going back.”\r- Arianne Martell",
+            "deckLimit": 3,
+            "illustrator": "Kris Cooper",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TTS/68_Nymeria_of_Ny_Sar.png"
+        },
+        {
+            "code": "25069",
+            "type": "character",
+            "name": "Bowen Marsh",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": true,
+            "cost": 5,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Lord",
+                "Steward"
+            ],
+            "text": "Insight. Shadow (4).\n<b>Reaction:</b> After a card you control comes out of shadows, choose a character and a challenge type. Until the end of the phase, that character cannot be declared as an attacker in challenges of that type. (Limit 3 times per phase.)",
+            "deckLimit": 3,
+            "illustrator": "Melle (Midjourney)",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TTS/69_Bowen_Marsh.png"
+        },
+        {
+            "code": "25070",
+            "type": "plot",
+            "name": "The Watch Needs Good Men",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "thenightswatch",
+            "plotStats": {
+                "income": 3,
+                "initiative": 2,
+                "claim": 1,
+                "reserve": 6
+            },
+            "loyal": true,
+            "traits": [
+                "Edict"
+            ],
+            "text": "You may marshal or ambush characters from any opponent's discard pile as if they were in your hand.",
+            "deckLimit": 1,
+            "illustrator": "Kay Huang",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TTS/70_The_Watch_Needs_Good_Men.png"
+        },
+        {
+            "code": "25071",
+            "type": "character",
+            "name": "Jon Snow",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "stark",
+            "loyal": true,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 5,
+            "traits": [
+                "Bastard"
+            ],
+            "text": "No attachments except <i>Direwolf</i>.\n<b>Interrupt:</b> When claim is applied for a [military] challenge, either: standing characters, or kneeling characters must be chosen for claim during this challenge, if able.",
+            "deckLimit": 3,
+            "illustrator": "Ertaç Altınöz",
+            "designer": "Card design by 2019 Melee World Champion, Richard Walker.",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TTS/71_Jon_Snow.png"
+        },
+        {
+            "code": "25072",
+            "type": "plot",
+            "name": "The Hour of the Wolf",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "stark",
+            "plotStats": {
+                "income": 5,
+                "initiative": 4,
+                "claim": 1,
+                "reserve": 4
+            },
+            "loyal": true,
+            "traits": [
+                "Edict",
+                "Legacy"
+            ],
+            "text": "<b>When Revealed:</b> Each player sacrifices a non-loyal character, if able.",
+            "flavor": "“The winters are hard, but the Starks will endure. We always have.” \r- Eddard Stark",
+            "deckLimit": 1,
+            "illustrator": "Stephen Patane (Midjourney)",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TTS/72_The_Hour_of_the_Wolf.png"
+        },
+        {
+            "code": "25073",
+            "type": "character",
+            "name": "Black Balaq",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Commander",
+                "Mercenary"
+            ],
+            "text": "Bestow (1).\nWhile Black Balaq is attacking, each defending character gets -X STR. X is the number of gold Black Balaq has.",
+            "flavor": "He wore a feathered cloak of green and orange, magnificent to behold.",
+            "deckLimit": 3,
+            "illustrator": "Stephen Patane (Midjourney)",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TTS/73_Black_Balaq.png"
+        },
+        {
+            "code": "25074",
+            "type": "attachment",
+            "name": "Aegon the Conqueror",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 3,
+            "traits": [
+                "Legacy",
+                "Tapestry"
+            ],
+            "text": "Unique [targaryen] location you control only.\nDuring a challenge in which you control an attacking <i>Dragon</i> character with printed cost 7 or higher, raise the claim value on your revealed plot card by 1.",
+            "flavor": "“When the sun sets, your line shall end.”",
+            "deckLimit": 3,
+            "illustrator": "Kris Cooper",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TTS/74_Aegon_the_Conqueror.png"
+        },
+        {
+            "code": "25075",
+            "type": "character",
+            "name": "Dickon Tarly",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "House Tarly"
+            ],
+            "text": "<b>Reaction:</b> After a [tyrell] character you control stands, stand Dickon Tarly. (Limit once per phase.)",
+            "flavor": "His own mother was a thousand leagues south, safe with his sisters and his little brother Dickon in the keep at Horn Hill.",
+            "deckLimit": 3,
+            "illustrator": "Stephen Patane (Midjourney)",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TTS/75_Dickon_Tarly.png"
+        },
+        {
+            "code": "25076",
+            "type": "location",
+            "name": "Olenna's Wheelhouse",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": true,
+            "cost": 1,
+            "traits": [
+                "Vehicle"
+            ],
+            "text": "Bestow (3).\n<b>Marshaling Action:</b> Kneel Olenna's Wheelhouse and discard 1 gold from it to remove a [tyrell] character you control from the game until the beginning of the next phase.",
+            "deckLimit": 3,
+            "illustrator": "Jette Bittermann",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TTS/76_Olennas_Wheelhouse.png"
+        },
+        {
+            "code": "25077",
+            "type": "character",
+            "name": "Varys",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "neutral",
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Lord",
+                "Small Council",
+                "Spy"
+            ],
+            "text": "Bestow (2). Stealth.\n<b>Action:</b> Discard 1 gold from Varys to name a card. Until the end of the phase, that card cannot be marshaled, played, or put into play. (Limit once per phase.)\n<b>Reaction:</b> After a <i>Scheme</i> plot card is revealed, Varys gains 1 gold.",
+            "deckLimit": 3,
+            "illustrator": "Harry Platt",
+            "designer": "Card design by 2019 Castle Stahleck Joust Champion, Sebastian Eckl.",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TTS/77_Varys.png"
+        },
+        {
+            "code": "25078",
+            "type": "location",
+            "name": "The Green Fork",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "neutral",
+            "cost": 2,
+            "traits": [
+                "The Riverlands",
+                "Westeros"
+            ],
+            "text": "<b>Reaction:</b> After you win an [intrigue] challenge by 5 or more STR, put The Green Fork into play from your discard pile.\n+1 Income.",
+            "deckLimit": 3,
+            "illustrator": "Andreas Rocha",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TTS/78_The_Green_Fork.png"
+        },
+        {
+            "code": "25079",
+            "type": "plot",
+            "name": "Battle on the Green Fork",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "plotStats": {
+                "income": 4,
+                "initiative": 7,
+                "claim": 0,
+                "reserve": 6
+            },
+            "traits": [
+                "War"
+            ],
+            "text": "<b>Reaction:</b> After you win a challenge as the attacking player, raise the claim value on Battle on the Green Fork by 1 until the end of the phase. (Limit 3 times per phase.)",
+            "deckLimit": 1,
+            "illustrator": "Melle (Midjourney)",
+            "designer": "Card design by 2023 Online World Champion, Jim Hansen.",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TTS/79_Battle_on_the_Green_Fork.png"
+        },
+        {
+            "code": "25080",
+            "type": "agenda",
+            "name": "The Gift of Mercy",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "traits": [],
+            "text": "Your plot deck cannot include <i>Omen</i> plot cards.\n<b>Reaction:</b> After you win a challenge, place a Valar Morghulis token on a character controlled by the losing opponent.\n<b>Interrupt:</b> When a character with 3 or more Valar Morghulis tokens leaves play, each player who does not control it gains 2 power for their faction.",
+            "deckLimit": 1,
+            "illustrator": "Tizziano Barrachi",
+            "designer": "Card design by 2019 European Joust Champion, Alejandro Gomez.",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TTS/80_The_Gift_of_Mercy.png"
+        }
+    ]
+}
