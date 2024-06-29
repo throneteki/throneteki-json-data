@@ -113,6 +113,7 @@
                 "Small Council"
             ],
             "text": "<b>Interrupt:</b> When a card is discarded from a player's hand, place it facedown under that player's agenda instead of placing it in their discard pile. (Limit twice per round.)",
+            "flavor": "\"Pycelle is a toad. But better a Lannister toad then a Tyrell toad, no?\" <cite>Tyrion Lannister</cite>",
             "deckLimit": 3,
             "illustrator": "Roman Papsuev",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TTS/65_Grand_Maester_Pycelle.png"
