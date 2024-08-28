@@ -1,0 +1,450 @@
+{
+    "cgdbId": null,
+    "code": "TIC",
+    "name": "The Iron Chronicle",
+    "releaseDate": "2024-08-27",
+    "cards": [
+        {
+            "code": "25081",
+            "type": "character",
+            "name": "Blackhaven Rider",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Brotherhood"
+            ],
+            "text": "<b>Reaction:</b> After Blackhaven Rider enters play, each player must choose and kneel a loyal character they control, if able.",
+            "flavor": "“Robert is slain, but his realm remains. And we defend her.” - Beric Dondarrion",
+            "deckLimit": 3,
+            "illustrator": "Nils Kratt (DALL-E)",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TIC/81_Blackhaven_Rider.png"
+        },
+        {
+            "code": "25082",
+            "type": "plot",
+            "name": "Robert's Rebellion",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "baratheon",
+            "plotStats": {
+                "income": 5,
+                "initiative": 9,
+                "claim": 2,
+                "reserve": 6
+            },
+            "loyal": true,
+            "traits": [
+                "Legacy",
+                "War"
+            ],
+            "text": "<b>Forced Interrupt:</b> When the challenges phase ends, if you have lost a [power] challenge this phase, discard 3 power from your faction card.",
+            "flavor": "\"In my dreams, I kill him every night.\" <cite>Robert Baratheon</cite>",
+            "deckLimit": 1,
+            "illustrator": "Dipa dipo",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TIC/82_Roberts_Rebellion.png"
+        },
+        {
+            "code": "25083",
+            "type": "character",
+            "name": "The Knight",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": true,
+            "cost": 6,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "House Harlaw",
+                "Knight"
+            ],
+            "text": "Pillage.\n<b>Action:</b> During a challenge in which you are the attacking player, return 2 characters from the defending player's discard pile to their owner's hand. Then, raise the claim value on your revealed plot card by 1 until the end of the challenge. (Limit once per challenge.)",
+            "deckLimit": 3,
+            "illustrator": "Andrea Piazza",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TIC/83_The_Knight.png"
+        },
+        {
+            "code": "25084",
+            "type": "attachment",
+            "name": "Harren the Black",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": true,
+            "cost": 3,
+            "traits": [
+                "Legacy",
+                "Tapestry"
+            ],
+            "text": "Unique [greyjoy] location you control only.\nEach opponent cannot marshal copies of locations that are in their discard pile. \n<b>Forced Reaction:</b> After a character you control discards a card using pillage, discard the top card of each player's deck.",
+            "deckLimit": 3,
+            "illustrator": "Kris Cooper",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TIC/84_Harren_the_Black.png"
+        },
+        {
+            "code": "25085",
+            "type": "character",
+            "name": "Qyburn",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 4,
+            "traits": [
+                "Ally",
+                "Small Council"
+            ],
+            "text": "Shadow (3).\n<b>Reaction:</b> After Qyburn comes out of shadows, choose a non-<i>Army</i> character in an opponent's dead pile and put it into play under your control. At the end of the phase, if that card is still in play, remove it from the game (cannot be saved).",
+            "deckLimit": 3,
+            "illustrator": "Rafal Hrynkiewicz",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TIC/85_Qyburn.png"
+        },
+        {
+            "code": "25086",
+            "type": "attachment",
+            "name": "Lann the Clever",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "lannister",
+            "loyal": true,
+            "cost": 3,
+            "traits": [
+                "Legacy",
+                "Tapestry"
+            ],
+            "text": "Unique [lannister] location you control only.\n<b>Reaction:</b> After you win an [intrigue] challenge, kneel Lann the Clever and return a participating [lannister] character to your hand to, either: gain 3 gold, or gain 1 power for your faction.",
+            "deckLimit": 3,
+            "illustrator": "Kris Cooper",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TIC/86_Lann_the_Clever.png"
+        },
+        {
+            "code": "25087",
+            "type": "character",
+            "name": "Ser Willam Wells",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Knight"
+            ],
+            "text": "<b>Challenges Action:</b> Kill Ser Willam Wells to choose a character. Until the end of the phase, that character loses a [military], an [intrigue], and a [power] icon.",
+            "flavor": "\"Will will never have his wedding. Their deaths should have some meaning.\" <cite>Quentyn Martell</cite>",
+            "deckLimit": 3,
+            "illustrator": "Nils Kratt (DALL-E)",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TIC/87_Ser_Willam_Wells.png"
+        },
+        {
+            "code": "25088",
+            "type": "location",
+            "name": "Red Mountains",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Dorne"
+            ],
+            "text": "<b>Challenges Action:</b> Kneel and sacrifice Red Mountains to choose an opponent. That player must initiate a [military] challenge against you as their next challenge this phase, if able.\n+1 Initiative.",
+            "deckLimit": 3,
+            "illustrator": "Alasdair M (Leonardo AI)",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TIC/88_Red_Mountains.png"
+        },
+        {
+            "code": "25089",
+            "type": "character",
+            "name": "Maester Harmune",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "Maester"
+            ],
+            "text": "<b>Reaction:</b> After gold is moved from an opponent's gold pool to your own, reveal the top card of that player's deck. If that card is a character, discard it and draw 1 card. (Limit twice per round.)",
+            "flavor": "“Maester Harmune of Eastwatch is drunk more than he's sober.” \r- Jon Snow",
+            "deckLimit": 3,
+            "illustrator": "Stephen Patane (Midjourney)",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TIC/89_Maester_Harmune.png"
+        },
+        {
+            "code": "25090",
+            "type": "event",
+            "name": "Saved by the Watch",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "thenightswatch",
+            "loyal": true,
+            "cost": 0,
+            "traits": [],
+            "text": "<b>Reaction:</b> After an opponent's character is sacrificed or discarded from play, kneel your faction card to put that character into play. Then, attach Saved by the Watch to that character as a <i>Condition</i> attachment with the text: \"Terminal. Take control of attached character.\"",
+            "deckLimit": 3,
+            "illustrator": "Piotr Chrzanowski",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TIC/90_Saved_by_the_Watch.png"
+        },
+        {
+            "code": "25091",
+            "type": "character",
+            "name": "Bolton Loyalist",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 5,
+            "traits": [
+                "Ally",
+                "House Bolton"
+            ],
+            "text": "<b>Forced Reaction:</b> After you lose an [intrigue] challenge, give control of Bolton Loyalist to the winning opponent unless you sacrifice another character.",
+            "flavor": "“What did any Bolton ever know o' honor?” - Proprietor of the Lazy Eel",
+            "deckLimit": 3,
+            "illustrator": "Kaya",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TIC/91_Bolton_Loyalist.png"
+        },
+        {
+            "code": "25092",
+            "type": "location",
+            "name": "Raventree Hall",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 0,
+            "traits": [
+                "House Tully",
+                "The Riverlands"
+            ],
+            "text": "<b>Reaction:</b> After power is gained by or moved to a character you control, gain 1 gold. (Limit once per phase.)",
+            "flavor": "“My hall might lack for food, but never for courtesy.” - Tytos Blackwood",
+            "deckLimit": 3,
+            "illustrator": "Yoann Boissonnet",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TIC/92_Raventree_Hall.png"
+        },
+        {
+            "code": "25093",
+            "type": "character",
+            "name": "Pink Graces",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "Companion",
+                "Grace"
+            ],
+            "text": "<b>Interrupt:</b> When the challenges phase ends, each player who did not apply [military] claim this phase may draw 1 card.",
+            "flavor": "The Pink Graces arrayed themselves behind her, with eyes lowered and hands clasped before them.",
+            "deckLimit": 3,
+            "illustrator": "Gergely Nagy",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TIC/93_Pink_Graces.png"
+        },
+        {
+            "code": "25094",
+            "type": "location",
+            "name": "Temple of the Graces",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 2,
+            "traits": [
+                "Grace",
+                "Meereen"
+            ],
+            "text": "<b>Interrupt:</b> When claim is applied for a [military] challenge in which you are the attacking player, kneel a <i>Grace</i> card to apply [intrigue] claim instead.",
+            "flavor": "\"Peace is the pearl beyond price\" <cite>Galazza Galare</cite>",
+            "deckLimit": 3,
+            "illustrator": "Tomas Vachuda",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TIC/94_Temple_of_the_Graces.png"
+        },
+        {
+            "code": "25095",
+            "type": "character",
+            "name": "Margaery Tyrell",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": true,
+            "cost": 6,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "Lady",
+                "Queen"
+            ],
+            "text": "Renown. Shadow (5).\n<b>Interrupt:</b> When 1 or more [tyrell] cards are revealed from your hand or deck, choose 1 of those cards and place it in shadows. (Limit twice per round.)",
+            "flavor": "Margaery was different, though. Sweet and gentle, yet there was a little of her grandmother in her, too.",
+            "deckLimit": 3,
+            "illustrator": "Cristi Balanescu",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TIC/95_Margaery_Tyrell.png"
+        },
+        {
+            "code": "25096",
+            "type": "event",
+            "name": "Gilbert of the Vines",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "tyrell",
+            "loyal": true,
+            "cost": "X",
+            "traits": [
+                "House Redwyne",
+                "Legacy"
+            ],
+            "text": "<b>Challenges Action:</b> Reveal the top X cards of your deck. Choose up to 2 cards revealed this way and add them to your hand. Shuffle the other cards back into your deck.",
+            "flavor": "“Can you smell the fruit, ser? The perfume of the Arbor. Taste it, my lord, and tell me it isn't the finest, richest wine that's ever touched your tongue.”\r",
+            "deckLimit": 3,
+            "illustrator": "Nils Kratt (DALL-E)",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TIC/96_Gilbert_of_the_Vines.png"
+        },
+        {
+            "code": "25097",
+            "type": "character",
+            "name": "Little Bird",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "neutral",
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 1,
+            "traits": [
+                "Spy"
+            ],
+            "text": "Shadow (1).\n<b>Reaction:</b> After Little Bird comes out of shadows, choose an opponent and look at the top card of their deck. Then, you and that player may draw 1 card.",
+            "flavor": "“Nothing happens in this city without Varys knowing.” - Littlefinger",
+            "deckLimit": 3,
+            "illustrator": "Anna Christenson",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TIC/97_Little_Bird.png"
+        },
+        {
+            "code": "25098",
+            "type": "location",
+            "name": "The Blue Fork",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "neutral",
+            "cost": 2,
+            "traits": [
+                "The Riverlands",
+                "Westeros"
+            ],
+            "text": "<b>Reaction:</b> After you win a [power] challenge by 5 or more STR, put The Blue Fork into play from your discard pile.\n+2 Reserve.",
+            "deckLimit": 3,
+            "illustrator": "Andreas Rocha",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TIC/98_The_Blue_Fork.png"
+        },
+        {
+            "code": "25099",
+            "type": "plot",
+            "name": "Enemies in Every Shadow",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "plotStats": {
+                "income": 6,
+                "initiative": 2,
+                "claim": 1,
+                "reserve": 4
+            },
+            "traits": [
+                "House Arryn"
+            ],
+            "text": "While there are no cards in shadows, each character you control gets +1 STR.\n<b>Reaction:</b> After you win a challenge, choose a card in shadows controlled by the losing opponent, and discard it. If that card is a character, place it in its owner's dead pile.",
+            "deckLimit": 2,
+            "illustrator": "Thomas Denmark",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TIC/99_Enemies_in_Every_Shadow.png"
+        },
+        {
+            "code": "25100",
+            "type": "plot",
+            "name": "The Last Greenseer",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "plotStats": {
+                "income": 4,
+                "initiative": 1,
+                "claim": 1,
+                "reserve": 5
+            },
+            "traits": [
+                "Old Gods",
+                "Omen"
+            ],
+            "text": "<b>When Revealed:</b> Switch the base gold, claim, and reserve values on The Last Greenseer with those values on another revealed plot card until either card leaves play.",
+            "deckLimit": 1,
+            "illustrator": "Owen William Weber",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TIC/100_The_Last_Greenseer.png"
+        }
+    ]
+}
