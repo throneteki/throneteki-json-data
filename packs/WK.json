@@ -1,0 +1,448 @@
+{
+    "cgdbId": null,
+    "code": "WK",
+    "name": "Winter's Kings",
+    "releaseDate": "2024-10-02",
+    "cards": [
+        {
+            "code": "25101",
+            "type": "character",
+            "name": "Maester Cressen",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "Maester"
+            ],
+            "text": "Shadow (1).\n<b>Reaction:</b> After Maester Cressen comes out of shadows or enters your dead pile, place the top 2 cards of your deck facedown under your agenda.",
+            "flavor": "\"I need no crown but truth.\"",
+            "deckLimit": 3,
+            "illustrator": "Stephen Patane (Midjourney)",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WK/101_Maester_Cressen.png"
+        },
+        {
+            "code": "25102",
+            "type": "location",
+            "name": "Deepwood Motte",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 0,
+            "traits": [
+                "Contested",
+                "House Glover",
+                "The North"
+            ],
+            "text": "<b>Reaction:</b> After a <i>Winter</i> plot card is revealed, kneel Deepwood Motte to choose and kneel another non-limited location.",
+            "flavor": "\"If I can smash the ironmen as well, the north will know it has a king again.\" <cite>Stannis Baratheon</cite>",
+            "deckLimit": 3,
+            "illustrator": "Yoann Boissonnet",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WK/102_Deepwood_Motte.png"
+        },
+        {
+            "code": "25103",
+            "type": "character",
+            "name": "Maester Joseran",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": true,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Maester"
+            ],
+            "text": "<b>Reaction:</b> After you become the first player, each player places the top card of their deck facedown under their agenda.",
+            "flavor": "\"I wrote you letters, but Maester Joseran would not send them.\" <cite>Tris Botley</cite>",
+            "deckLimit": 3,
+            "illustrator": "Nicole Cardiff",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WK/103_Maester_Joseran.png"
+        },
+        {
+            "code": "25104",
+            "type": "location",
+            "name": "Winterfell",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 3,
+            "traits": [
+                "Contested",
+                "The North",
+                "Winterfell"
+            ],
+            "text": "<b>Reaction:</b> After you win an unopposed challenge, kneel Winterfell to choose a character controlled by the losing opponent. Until the end of the phase, take control of that character.\n-2 Initiative.",
+            "deckLimit": 3,
+            "illustrator": "Roman Papuev",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WK/104_Winterfell.png"
+        },
+        {
+            "code": "25105",
+            "type": "character",
+            "name": "Tywin's Whisperer",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "lannister",
+            "loyal": true,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Ally",
+                "Spy"
+            ],
+            "text": "<b>Reaction:</b> After a character with printed cost 2 or lower is returned to an opponent's hand, put Tywin's Whisperer into play from your hand. Until the end of the phase, it gains a [power] icon and stealth.",
+            "flavor": "Tywin Lannister was as much fox as lion.",
+            "deckLimit": 3,
+            "illustrator": "Patrick Keith",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WK/105_Tywins_Whisperer.png"
+        },
+        {
+            "code": "25106",
+            "type": "event",
+            "name": "A Lannister's Honor",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "lannister",
+            "loyal": true,
+            "cost": 1,
+            "traits": [],
+            "text": "<b>Reaction:</b> After you win an [intrigue] challenge as the attacking player, the losing opponent must choose and kill a character with the lowest STR among characters they control. (Max 1 per challenge.)",
+            "flavor": "\"The Lannisters have no honor.\" <cite>Ser Jorah Mormont</cite>",
+            "deckLimit": 3,
+            "illustrator": "Nikolai Kalinin",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WK/106_A_Lannisters_Honor.png"
+        },
+        {
+            "code": "25107",
+            "type": "character",
+            "name": "Tyene Sand",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "martell",
+            "loyal": true,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 1,
+            "traits": [
+                "Bastard",
+                "Sand Snake",
+                "The Seven"
+            ],
+            "text": "Stealth.\n<b>Reaction:</b> After you lose dominance, move 1 power from the winning opponent's faction card to a character you control.",
+            "flavor": "\"Doubt your little sister if you like, but never doubt our sire.\"",
+            "deckLimit": 3,
+            "illustrator": "Sara Betsy",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WK/107_Tyene_Sand.png"
+        },
+        {
+            "code": "25108",
+            "type": "plot",
+            "name": "The Dornish Wars",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "martell",
+            "plotStats": {
+                "income": 4,
+                "initiative": 6,
+                "claim": 1,
+                "reserve": 5
+            },
+            "loyal": true,
+            "traits": [
+                "Legacy",
+                "War"
+            ],
+            "text": "Each character an opponent controls cannot gain challenge icons.\n<b>Reaction:</b> After you win a challenge, choose a character controlled by the losing opponent. Until the end of the phase, that character loses a challenge icon of your choice. (Limit twice per phase.)",
+            "deckLimit": 1,
+            "illustrator": "millikodea",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WK/108_The_Dornish_Wars.png"
+        },
+        {
+            "code": "25109",
+            "type": "character",
+            "name": "Desperate Deserter",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 1,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 1,
+            "traits": [
+                "Ally"
+            ],
+            "text": "Shadow (0).\n<b>Reaction:</b> After a card you control comes out of shadows, choose an opponent. Give control of Desperate Deserter to that player.\n-1 Income. -1 Initiative.",
+            "deckLimit": 3,
+            "illustrator": "Nils Kratt (DALL-E)",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WK/109_Desperate_Deserter.png"
+        },
+        {
+            "code": "25110",
+            "type": "location",
+            "name": "Weirwood Grove",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "thenightswatch",
+            "loyal": true,
+            "cost": 2,
+            "traits": [
+                "Old Gods",
+                "The North"
+            ],
+            "text": "<b>Reaction:</b> After an opponent reveals a non-<i>Omen</i> plot card, kneel your faction card and remove Weirwood Grove from the game to initiate the when revealed ability on that card as if you had just revealed it.",
+            "flavor": "\"Small wonder men feared them when they first came to Westeros.\" <cite>Thoren Smallwood</cite>",
+            "deckLimit": 3,
+            "illustrator": "Franz Miklis",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WK/110_Weirwood_Grove.png"
+        },
+        {
+            "code": "25111",
+            "type": "character",
+            "name": "Roose Bolton",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 6,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Ally",
+                "House Bolton",
+                "Lord"
+            ],
+            "text": "Intimidate. Shadow (5).\n<b>Reaction:</b> After Roose Bolton comes out of shadows during a challenge, kill each participating loyal character.",
+            "flavor": "\"A peaceful land, a quiet people.\"",
+            "deckLimit": 3,
+            "illustrator": "Mihai Radu",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WK/111_Roose_Bolton.png"
+        },
+        {
+            "code": "25112",
+            "type": "attachment",
+            "name": "Bran the Breaker",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "stark",
+            "loyal": true,
+            "cost": 3,
+            "traits": [
+                "Legacy",
+                "Tapestry"
+            ],
+            "text": "Unique [stark] location you control only.\n<b>Action:</b> During a challenge in which you control 2 or more unique attacking [stark] characters, kneel Bran the Breaker to raise the claim value on your revealed plot card by 1 until the end of the challenge.",
+            "deckLimit": 3,
+            "illustrator": "Kris Cooper",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WK/112_Bran_the_Breaker.png"
+        },
+        {
+            "code": "25113",
+            "type": "character",
+            "name": "Aegon Targaryen",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 7,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "King",
+                "Lord"
+            ],
+            "text": "Renown. Shadow (6).\n<b>Reaction:</b> After a non-loyal [targaryen] character enters play during the challenges phase, stand Aegon Targaryen. (Limit twice per phase.)",
+            "flavor": "\"Daenerys is Prince Rhaegar's sister but I am Rhaegar's son. I am the only dragon you need.\"",
+            "deckLimit": 3,
+            "illustrator": "Diego Gisbert Llorens",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WK/113_Aegon_Targaryen.png"
+        },
+        {
+            "code": "25114",
+            "type": "attachment",
+            "name": "Grey Worm's Spear",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "Weapon"
+            ],
+            "text": "If attached character is Grey Worm, he gains a [power] icon and intimidate.\nWhile attached character is attacking, each defending character gets -1 STR. ",
+            "deckLimit": 3,
+            "illustrator": "Alex Serban (Midjourney)",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WK/114_Grey_Worms_Spear.png"
+        },
+        {
+            "code": "25115",
+            "type": "character",
+            "name": "Blackwater Forces",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Army",
+                "Knight"
+            ],
+            "text": "No attachments except <i>Weapon</i>.\n<b>Reaction:</b> After Blackwater Forces stands during a challenge, choose a participating character. Until the end of the challenge, that character gets +2 STR. (Limit 3 times per phase.)",
+            "deckLimit": 3,
+            "illustrator": "Stephen Patane (Midjourney)",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WK/115_Blackwater_Forces.png"
+        },
+        {
+            "code": "25116",
+            "type": "attachment",
+            "name": "Garth Greenhand",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": true,
+            "cost": 3,
+            "traits": [
+                "Legacy",
+                "Tapestry"
+            ],
+            "text": "Unique [tyrell] location you control only.\nDuring a challenge, each unique participating [tyrell] character you control gets +1 STR.\n+1 Income.",
+            "deckLimit": 3,
+            "illustrator": "Kris Cooper",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WK/116_Garth_Greenhand.png"
+        },
+        {
+            "code": "25117",
+            "type": "character",
+            "name": "Septa Unella",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "neutral",
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 1,
+            "traits": [
+                "The Seven"
+            ],
+            "text": "While Septa Unella is participating in a challenge, treat each other non-<i>The Seven</i> character with 1 or more power as if its printed text box were blank (except for <i>Traits</i>).",
+            "flavor": "\"Shame upon the sinner, shame, shame.\"",
+            "deckLimit": 3,
+            "illustrator": "Jomiiyy",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WK/117_Septa_Unella.png"
+        },
+        {
+            "code": "25118",
+            "type": "event",
+            "name": "\"A Thousand Eyes, and One\"",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "cost": 0,
+            "traits": [
+                "Song"
+            ],
+            "text": "<b>Action:</b> Kneel your faction card to choose an opponent and, either: look at their hand, or look at each card in their shadows area. Draw 1 card.",
+            "flavor": "How many eyes does Lord Bloodraven have?",
+            "deckLimit": 3,
+            "illustrator": "Janka Nagy-Hernádi",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WK/118_A_Thousand_Eyes,_and_One.png"
+        },
+        {
+            "code": "25119",
+            "type": "plot",
+            "name": "Burning the Books",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "plotStats": {
+                "income": 5,
+                "initiative": 0,
+                "claim": 1,
+                "reserve": 4
+            },
+            "traits": [
+                "Edict",
+                "The Seven"
+            ],
+            "text": "<b>When Revealed:</b> Each opponent chooses a non-<i>The Seven</i> attachment they control, if able, and discards it from play. Then, you may discard 1 power from a character you control to initiate this effect again.",
+            "flavor": "Baelor the Blessed had ordered all Barth's writings destroyed when he came to the Iron Throne.",
+            "deckLimit": 2,
+            "illustrator": "Piotr Chrzanowski",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WK/119_Burning_the_Books.png"
+        },
+        {
+            "code": "25120",
+            "type": "agenda",
+            "name": "Uniting the Realm",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "traits": [],
+            "text": "You may include non-loyal characters, locations, and attachments from any faction in your deck.\nYou cannot include more than 3 different cards (by title) from each faction in your deck.",
+            "flavor": " ",
+            "deckLimit": 1,
+            "illustrator": "millikodea",
+            "designer": "Card design by 2018 European Joust Champion, James Waumsley.",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WK/120_Uniting_the_Realm.png"
+        }
+    ]
+}
