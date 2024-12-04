@@ -6745,7 +6745,9 @@
                         ]
                     }
                 ],
-                "banned": []
+                "banned": [
+                    "25100"
+                ]
             }
         ],
         "bannedCards": [
