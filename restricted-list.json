@@ -7015,7 +7015,7 @@
             },
             {
                 "name": "melee",
-                "url": "https://agot.cards/wp-content/uploads/2024/10/GOT_Card_Legality_v1.12_Melee.pdf",
+                "url": "",
                 "restricted": [
                     "01001",
                     "01013",
@@ -7113,7 +7113,9 @@
                         ]
                     }
                 ],
-                "banned": []
+                "banned": [
+                    "25100"
+                ]
             }
         ],
         "bannedCards": [
