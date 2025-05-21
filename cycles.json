@@ -217,5 +217,12 @@
             "TIC",
             "WK"
         ]
+    },
+    {
+        "id": "sea",
+        "name": "Sea of Shadow",
+        "packs": [
+            "WAID"
+        ]
     }
 ]
