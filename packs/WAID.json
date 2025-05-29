@@ -111,7 +111,7 @@
                 "Ally",
                 "Spy"
             ],
-            "text": "X is the number of cards with 1 or more gold.\n<b>Reaction:</b> After Ashemark Councilor enters play, choose up to 3 cards. Each of those cards gains 1 gold.",
+            "text": "X is the number of cards with 1 or more gold.\n<b>Reaction:</b> After Ashemark Councilor enters play, choose up to 3 cards without gold. Each of those cards gains 1 gold.",
             "deckLimit": 3,
             "illustrator": "Owen William Weber",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WAID/5_Ashemark_Councilor.png"
