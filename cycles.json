@@ -222,7 +222,8 @@
         "id": "sea",
         "name": "Sea of Shadow",
         "packs": [
-            "WAID"
+            "WAID",
+            "WoW"
         ]
     }
 ]
