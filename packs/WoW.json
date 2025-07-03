@@ -1,0 +1,431 @@
+{
+  "cgdbId": null,
+  "code": "WoW",
+  "name": "Whispers of War",
+  "releaseDate": "2025-07-02",
+  "cards": [
+    {
+      "code": "26021",
+      "type": "character",
+      "name": "Red Keep Servant",
+      "octgnId": null,
+      "quantity": 3,
+      "unique": false,
+      "faction": "baratheon",
+      "loyal": false,
+      "cost": 3,
+      "icons": {
+        "military": false,
+        "intrigue": false,
+        "power": true
+      },
+      "strength": 4,
+      "traits": [
+        "Ally"
+      ],
+      "text": "While you control a <i>King's Landing</i> location, Red Keep Servant gains an [intrigue] icon and cannot be bypassed by stealth.",
+      "flavor": "\"It was well known that in the Red Keep the very walls have ears.\" <cite>The Queen of Thorns</cite>",
+      "deckLimit": 3,
+      "illustrator": "Xia Taptara",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WoW/21_Red_Keep_Servant.png"
+    },
+    {
+      "code": "26022",
+      "type": "attachment",
+      "name": "The King's Justice",
+      "octgnId": null,
+      "quantity": 3,
+      "unique": true,
+      "faction": "baratheon",
+      "loyal": false,
+      "cost": 3,
+      "traits": [
+        "Title"
+      ],
+      "text": "Unique character only.\r\n<b>Reaction:</b> After you win a [power] challenge, kneel attached character to choose and kill a kneeling character controlled by the losing opponent.",
+      "flavor": "\"If the wicked do not fear the King's Justice, you have put the wrong man in the office.\" <cite>Cersei Lannister</cite>",
+      "deckLimit": 3,
+      "illustrator": "Mike Capprotti",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WoW/22_The_Kings_Justice.png"
+    },
+    {
+      "code": "26023",
+      "type": "character",
+      "name": "Ralf the Limper",
+      "octgnId": null,
+      "quantity": 3,
+      "unique": true,
+      "faction": "greyjoy",
+      "loyal": true,
+      "cost": 6,
+      "icons": {
+        "military": true,
+        "intrigue": false,
+        "power": true
+      },
+      "strength": 5,
+      "traits": [
+        "Captain",
+        "Ironborn",
+        "Raider"
+      ],
+      "text": "Pillage. Shadow (5).\n<b>Reaction:</b> After a non-character card is discarded from an opponent's deck, choose a card you control with shadow and return it to shadows. (Limit twice per round.)",
+      "deckLimit": 3,
+      "illustrator": "Rafal Hrynkiewicz",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WoW/23_Ralf_the_Limper.png"
+    },
+    {
+      "code": "26024",
+      "type": "location",
+      "name": "Swift Longship",
+      "octgnId": null,
+      "quantity": 3,
+      "unique": false,
+      "faction": "greyjoy",
+      "loyal": false,
+      "cost": 2,
+      "traits": [
+        "Warship"
+      ],
+      "text": "Shadow (0).\n<b>Reaction:</b> After Swift Longship comes out of shadows during a challenge, choose a defending character with printed STR 4 or lower. That character does not contribute its STR to this challenge.\n+1 Initiative.",
+      "deckLimit": 3,
+      "illustrator": "Gergely Nagy",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WoW/24_Swift_Longship.png"
+    },
+    {
+      "code": "26025",
+      "type": "character",
+      "name": "The Imp's Agent",
+      "octgnId": null,
+      "quantity": 3,
+      "unique": false,
+      "faction": "lannister",
+      "loyal": false,
+      "cost": 3,
+      "icons": {
+        "military": true,
+        "intrigue": true,
+        "power": false
+      },
+      "strength": 2,
+      "traits": [
+        "Spy"
+      ],
+      "text": "Shadow (3).\n<b>Reaction:</b> After you win a challenge in which The Imp's Agent is participating, return it to shadows to have the losing opponent choose a card in their hand and place it on the top or bottom of their deck.",
+      "deckLimit": 3,
+      "illustrator": "Marc Scheff",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WoW/25_The_Imps_Agent.png"
+    },
+    {
+      "code": "26026",
+      "type": "attachment",
+      "name": "Joffrey's Crossbow",
+      "octgnId": null,
+      "quantity": 3,
+      "unique": true,
+      "faction": "lannister",
+      "loyal": false,
+      "cost": 2,
+      "traits": [
+        "Weapon"
+      ],
+      "text": "If attached character is Joffrey Baratheon, he gains intimidate.\nWhile attached character is attacking, unique characters must be chosen for [military] claim, if able.",
+      "flavor": "\"The king is playing with his new crossbow\" <cite>Tyrion Lannister</cite>",
+      "deckLimit": 3,
+      "illustrator": "Ferenc Patkós",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WoW/26_Joffreys_Crossbow.png"
+    },
+    {
+      "code": "26027",
+      "type": "character",
+      "name": "Ghost Hill Elite",
+      "octgnId": null,
+      "quantity": 3,
+      "unique": false,
+      "faction": "martell",
+      "loyal": true,
+      "cost": 6,
+      "icons": {
+        "military": true,
+        "intrigue": false,
+        "power": false
+      },
+      "strength": 6,
+      "traits": [
+        "Army"
+      ],
+      "text": "Ambush (6). No attachments.\n<b>Reaction:</b> After Ghost Hill Elite enters play, choose a character. Until the end of the phase, that character loses an [intrigue] or [power] icon and Ghost Hill Elite gains that icon. Then, if that character has no challenge icons, kill it.",
+      "deckLimit": 3,
+      "illustrator": "Adam Lane",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WoW/27_Ghost_Hill_Elite.png"
+    },
+    {
+      "code": "26028",
+      "type": "event",
+      "name": "A Toast to the King",
+      "octgnId": null,
+      "quantity": 3,
+      "faction": "martell",
+      "loyal": true,
+      "cost": 0,
+      "traits": [],
+      "text": "Play only if you control a [martell] <i>Lord</i> or <i>Lady</i> character.\n<b>Interrupt:</b> When the challenges phase ends, choose an opponent and a challenge type. If that player does not control a character with a challenge icon of that type, they must satisfy the claim of that challenge type as if you were the winning opponent. (Max 1 per phase.)",
+      "deckLimit": 3,
+      "illustrator": "Antonio Maínez",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WoW/28_A_Toast_to_the_King.png"
+    },
+    {
+      "code": "26029",
+      "type": "character",
+      "name": "Oathsworn Wildling",
+      "octgnId": null,
+      "quantity": 3,
+      "unique": false,
+      "faction": "thenightswatch",
+      "loyal": false,
+      "cost": 1,
+      "icons": {
+        "military": true,
+        "intrigue": false,
+        "power": false
+      },
+      "strength": 1,
+      "traits": [
+        "Wildling"
+      ],
+      "text": "If you do not control another <i>Wildling</i> character or Jon Snow, sacrifice Oathsworn Wildling.",
+      "flavor": "“Tormund has given me his oath. He will serve with us until the spring.” \r- Jon Snow",
+      "deckLimit": 3,
+      "illustrator": "Stephen Patane (Midjourney)",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WoW/29_Oathsworn_Wildling.png"
+    },
+    {
+      "code": "26030",
+      "type": "location",
+      "name": "The Black Gate",
+      "octgnId": null,
+      "quantity": 3,
+      "unique": true,
+      "faction": "thenightswatch",
+      "loyal": false,
+      "cost": 1,
+      "traits": [
+        "Old Gods",
+        "The North"
+      ],
+      "text": "<b>Action:</b> Kneel The Black Gate and sacrifice a [thenightswatch] character to put a character with equal or lower printed cost that shares a <i>Trait</i> with that character into play from your hand or shadows area.",
+      "deckLimit": 3,
+      "illustrator": "Theodor Šik",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WoW/30_The_Black_Gate.png"
+    },
+    {
+      "code": "26031",
+      "type": "character",
+      "name": "House Umber Berserkers",
+      "octgnId": null,
+      "quantity": 3,
+      "unique": false,
+      "faction": "stark",
+      "loyal": false,
+      "cost": 4,
+      "icons": {
+        "military": true,
+        "intrigue": false,
+        "power": false
+      },
+      "strength": 6,
+      "traits": [
+        "Army",
+        "House Umber"
+      ],
+      "text": "Assault. No attachments. Shadow (X).\r\nX is the number of plot cards in your used pile (minimum of 1).",
+      "flavor": "“The Umbers may seem simple, but they are not without a certain low cunning” \r- Roose Bolton",
+      "deckLimit": 3,
+      "illustrator": "Felicia Cano",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WoW/31_House_Umber_Berserkers.png"
+    },
+    {
+      "code": "26032",
+      "type": "location",
+      "name": "White Harbor Galley",
+      "octgnId": null,
+      "quantity": 3,
+      "unique": false,
+      "faction": "stark",
+      "loyal": false,
+      "cost": 2,
+      "traits": [
+        "House Manderly",
+        "Warship"
+      ],
+      "text": "Shadow (1).\nWhile you are the attacking or defending player, each participating character gets +1 STR.\n<b>Reaction:</b> After White Harbor Galley comes out of shadows during a challenge in which you control a participating character, kneel a character you control to have it participate in the challenge on your side.",
+      "deckLimit": 3,
+      "illustrator": "Gergely Nagy",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WoW/32_White_Harbor_Galley.png"
+    },
+    {
+      "code": "26033",
+      "type": "character",
+      "name": "Sorrowful Man",
+      "octgnId": null,
+      "quantity": 3,
+      "unique": false,
+      "faction": "targaryen",
+      "loyal": true,
+      "cost": 3,
+      "icons": {
+        "military": false,
+        "intrigue": true,
+        "power": true
+      },
+      "strength": 3,
+      "traits": [
+        "Ally"
+      ],
+      "text": "Shadow (2).\n<b>Reaction:</b> After Sorrowful Man comes out of shadows, switch a character in an opponent's discard pile with a character in that player's dead pile.",
+      "flavor": "\"I am so sorry.\"",
+      "deckLimit": 3,
+      "illustrator": "Jon Bosco",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WoW/33_Sorrowful_Man.png"
+    },
+    {
+      "code": "26034",
+      "type": "attachment",
+      "name": "Queen of Meereen",
+      "octgnId": null,
+      "quantity": 3,
+      "unique": true,
+      "faction": "targaryen",
+      "loyal": false,
+      "cost": 2,
+      "traits": [
+        "Title"
+      ],
+      "text": "<i>Lady</i> character only.\nAttached character gains the <i>Queen</i> trait.\n<b>Action:</b> Kneel Queen of Meereen to discard 1 or more cards from your hand. Reduce the cost of the next card you marshal, ambush, or bring out of shadows this phase by 2 for each card discarded this way.",
+      "deckLimit": 3,
+      "illustrator": "Borja Pindado",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WoW/34_Queen_of_Meereen.png"
+    },
+    {
+      "code": "26035",
+      "type": "character",
+      "name": "Horn Hill Vanguard",
+      "octgnId": null,
+      "quantity": 3,
+      "unique": false,
+      "faction": "tyrell",
+      "loyal": false,
+      "cost": 6,
+      "icons": {
+        "military": true,
+        "intrigue": false,
+        "power": true
+      },
+      "strength": 4,
+      "traits": [
+        "Army",
+        "House Tarly"
+      ],
+      "text": "Assault. Intimidate. No attachments.\nWhile Horn Hill Vanguard is attacking, it gets +1 STR for each standing [tyrell] character you control.",
+      "flavor": "\"It takes more than a pretty cloak to charge a shield wall.\" <cite>Randyll Tarly</cite>",
+      "deckLimit": 3,
+      "illustrator": "Gergely Nagy",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WoW/35_Horn_Hill_Vanguard.png"
+    },
+    {
+      "code": "26036",
+      "type": "event",
+      "name": "Beneath the Petals",
+      "octgnId": null,
+      "quantity": 3,
+      "faction": "tyrell",
+      "loyal": true,
+      "cost": "-",
+      "traits": [],
+      "text": "Shadow (0).\n<b>Action:</b> Choose a character with shadow. Until the end of the phase, that character gains insight and a challenge icon of your choice.\n<b>Interrupt:</b> When Beneath the Petals is revealed from your deck, place it in shadows and gain 1 gold.",
+      "deckLimit": 3,
+      "illustrator": "Katalin Illés",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WoW/36_Beneath_the_Petals.png"
+    },
+    {
+      "code": "26037",
+      "type": "character",
+      "name": "Biter",
+      "octgnId": null,
+      "quantity": 3,
+      "unique": true,
+      "faction": "neutral",
+      "cost": 5,
+      "icons": {
+        "military": true,
+        "intrigue": false,
+        "power": false
+      },
+      "strength": 5,
+      "traits": [
+        "Ally",
+        "Mercenary"
+      ],
+      "text": "Intimidate.\n<b>Reaction:</b> After Biter kneels a character with a lower STR than his using intimidate, sacrifice him to kill that character.",
+      "flavor": "Half-healed burns covered his body, making him even more hideous than before.",
+      "deckLimit": 3,
+      "illustrator": "Tamás Matiscsák",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WoW/37_Biter.png"
+    },
+    {
+      "code": "26038",
+      "type": "event",
+      "name": "Reinstatement",
+      "octgnId": null,
+      "quantity": 3,
+      "faction": "neutral",
+      "cost": 2,
+      "traits": [
+        "Small Council"
+      ],
+      "text": "<b>Standing Action:</b> Kneel your faction card to put a <i>Small Council</i> character into play from your discard pile.",
+      "flavor": "“Someone has to rule this damnable kingdom. Put on the badge, Ned. It suits you.”\r- Robert Baratheon\r",
+      "deckLimit": 3,
+      "illustrator": "Lukasz Jaskolski",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WoW/38_Reinstatement.png"
+    },
+    {
+      "code": "26039",
+      "type": "plot",
+      "name": "Striking at Dawn",
+      "octgnId": null,
+      "quantity": 3,
+      "faction": "neutral",
+      "plotStats": {
+        "income": 5,
+        "initiative": 4,
+        "claim": 1,
+        "reserve": 5
+      },
+      "traits": [
+        "Summer",
+        "War"
+      ],
+      "text": "Each character's STR cannot be increased or reduced by card effects.",
+      "flavor": "“We shall see, brother. Come the dawn, we shall see.” - Stannis Baratheon",
+      "deckLimit": 2,
+      "illustrator": "Piotr Chrzanowski",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WoW/39_Striking_at_Dawn.png"
+    },
+    {
+      "code": "26040",
+      "type": "agenda",
+      "name": "The Small Council",
+      "octgnId": null,
+      "quantity": 3,
+      "faction": "neutral",
+      "traits": [
+        "Small Council"
+      ],
+      "text": "You may include non-loyal <i>Small Council</i> characters from any faction in your deck. You must include at least 7 different <i>Small Council</i> characters in your deck.\n<b>Reaction:</b> After you win dominance, choose a standing <i>Small Council</i> character you control and have it gain 1 power. Then, if you control a <i>King</i> or <i>Queen</i> character, draw 1 card.",
+      "deckLimit": 1,
+      "illustrator": "Juan Hernández",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WoW/40_The_Small_Council.png"
+    }
+  ]
+}
