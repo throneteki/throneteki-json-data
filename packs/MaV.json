@@ -1,0 +1,434 @@
+    {
+    "cgdbId": null,
+    "code": "MaV",
+    "name": "Mountain and Vale",
+    "releaseDate": "2025-08-24",
+    "cards": [
+        {
+            "code": "26041",
+            "type": "character",
+            "name": "Stormlord",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 6,
+            "traits": [
+                "Ally",
+                "Lord"
+            ],
+            "text": "Renown.\n<b>Forced Reaction:</b> After the dominance phase begins, if you control no <i>King</i> characters, sacrifice a character.",
+            "flavor": "“Most of the lords who rode with Lord Renly to Storm's End have gone over banner-and-blade to Stannis, with all their chivalry.” - Varys",
+            "deckLimit": 3,
+            "illustrator": "Christine Griffin",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/MaV/41_Stormlord.png"
+        },
+        {
+            "code": "26042",
+            "type": "location",
+            "name": "Narrow Sea Dromond",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "Warship"
+            ],
+            "text": "Shadow (1).\nNarrow Sea Dromond contributes 1 STR to your total for dominance.\n<b>Reaction:</b> After Narrow Sea Dromond comes out of shadows, choose and kneel a character with printed cost 4 or lower.",
+            "deckLimit": 3,
+            "illustrator": "Gergely Nagy",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/MaV/42_Narrow_Sea_Dromond.png"
+        },
+        {
+            "code": "26043",
+            "type": "character",
+            "name": "Wandering Disciple",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "greyjoy",
+            "loyal": true,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Drowned God"
+            ],
+            "text": "Shadow (3).\n<b>Reaction:</b> After Wandering Disciple comes out of shadows, put a non-unique <i>Drowned God</i> character into play from your dead pile. At the end of the phase, if that card is still in play, discard it from play.",
+            "deckLimit": 3,
+            "illustrator": "Rafal Hrynkiewicz",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/MaV/43_Wandering_Disciple.png"
+        },
+        {
+            "code": "26044",
+            "type": "event",
+            "name": "Taking the Shield Islands",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 1,
+            "traits": [],
+            "text": "Shadow (1).\n<b>Reaction:</b> After you win a challenge in which you control an attacking <i>Raider</i> character, look at the losing opponent's hand. Then, choose 1 card in that hand and place it on top of its owner's deck. (Choose up to 2 cards and place them in any order instead if you played this event from shadows.) (Max 1 per challenge.)",
+            "deckLimit": 3,
+            "illustrator": "Tomasz Jedruszek",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/MaV/44_Taking_the_Shield_Islands.png"
+        },
+        {
+            "code": "26045",
+            "type": "character",
+            "name": "Crawn Son of Calor",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 4,
+            "traits": [
+                "Clansman"
+            ],
+            "text": "Shadow (4). Stealth.\nYou may marshal Crawn Son of Calor into shadows from your discard pile as if he were in your hand.",
+            "flavor": "Tyrion was not amused. Crawn would be even less so; his Moon Brothers had the guard today.",
+            "deckLimit": 3,
+            "illustrator": "Nacho Molina",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/MaV/45_Crawn_Son_of_Calor.png"
+        },
+        {
+            "code": "26046",
+            "type": "event",
+            "name": "The Regent's Council",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "lannister",
+            "loyal": true,
+            "cost": 1,
+            "traits": [
+                "Small Council"
+            ],
+            "text": "<b>Reaction:</b> After you win an [intrigue] challenge in which you control a participating <i>Small Council</i> character or Cersei Lannister, determine dominance. (Max 1 per phase.)",
+            "flavor": "Cersei had uprooted every rose, and all those beholden to her uncle and her brothers. In their places were men whose loyalty would be to her.",
+            "deckLimit": 3,
+            "illustrator": "Darko Stojanovic",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/MaV/46_The_Regents_Council.png"
+        },
+        {
+            "code": "26047",
+            "type": "character",
+            "name": "Ser Gulian Qorgyle",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "martell",
+            "loyal": true,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "House Qorgyle",
+                "Knight"
+            ],
+            "text": "<b>Reaction:</b> After a character an opponent controls is declared as an attacker or defender, it loses a challenge icon of your choice until the end of the phase. (Limit twice per phase.)",
+            "flavor": "\"They're scorpions, ser. House Qorgyle of Sandstone, three scorpions black on red.\" <cite>Podrick Payne</cite>",
+            "deckLimit": 3,
+            "illustrator": "Gergely Nagy",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/MaV/47_Ser_Gulian_Qorgyle.png"
+        },
+        {
+            "code": "26048",
+            "type": "event",
+            "name": "Retribution",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "martell",
+            "loyal": true,
+            "cost": 1,
+            "traits": [],
+            "text": "<b>Reaction:</b> After a character you control is killed for [military] claim, if you control fewer characters than the attacking player, that player must choose and kill an attacking character.",
+            "flavor": "\"Only royal blood can wash out my father's murder.\" <cite>Nymeria Sand</cite>",
+            "deckLimit": 3,
+            "illustrator": "Régis Moulun",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/MaV/48_Retribution.png"
+        },
+        {
+            "code": "26049",
+            "type": "character",
+            "name": "Northern Envoy",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "thenightswatch",
+            "loyal": true,
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "Companion",
+                "Wandering Crow"
+            ],
+            "text": "<b>Reaction:</b> After Northern Envoy enters play, reveal the top 10 cards of an opponent's deck. Choose 1 non-unique character revealed this way and place it in that player's discard pile. Shuffle that player's deck.",
+            "deckLimit": 3,
+            "illustrator": "Nikolai Kalinin",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/MaV/49_Northern_Envoy.png"
+        },
+        {
+            "code": "26050",
+            "type": "location",
+            "name": "Grey Galley",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "Warship"
+            ],
+            "text": "Shadow (1).\nGrey Galley contributes 1 STR to your side during any challenge in which you control a defending character. (3 STR instead if Grey Galley came out of shadows this phase.)",
+            "deckLimit": 3,
+            "illustrator": "Gergely Nagy",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/MaV/50_Grey_Galley.png"
+        },
+        {
+            "code": "26051",
+            "type": "character",
+            "name": "Steelshanks Walton",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Guard",
+                "House Bolton"
+            ],
+            "text": "<b>Dominance Action:</b> Choose a non-loyal character you own and take control of it. (Limit once per phase.)",
+            "flavor": "\"Steelshanks, he is called. A soldier of iron loyalty.\" <cite>Roose Bolton</cite>",
+            "deckLimit": 3,
+            "illustrator": "Skysoul Visual Art Studios",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/MaV/51_Steelshanks_Walton.png"
+        },
+        {
+            "code": "26052",
+            "type": "attachment",
+            "name": "Dubious Loyalties",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Condition",
+                "House Bolton"
+            ],
+            "text": "Non-loyal character you own only.\nAttached character gains the <i>House Bolton</i> trait, stealth, and renown.\n<b>Reaction:</b> After you win a challenge by 5 or more STR, discard the top card of your deck to take control of attached character. (Any player may initiate this ability.)",
+            "deckLimit": 3,
+            "illustrator": "Marc Scheff",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/MaV/52_Dubious_Loyalties.png"
+        },
+        {
+            "code": "26053",
+            "type": "character",
+            "name": "Magister Illyrio",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 6,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "Lord",
+                "Merchant"
+            ],
+            "text": "Insight. Shadow (5).\n<b>Reaction:</b> After the challenges phase begins, gain 1 gold for every 2 cards in shadows.\n+1 Income.",
+            "deckLimit": 3,
+            "illustrator": "Tiziano Baracchi",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/MaV/53_Magister_Illyrio.png"
+        },
+        {
+            "code": "26054",
+            "type": "event",
+            "name": "Take to the Sky!",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 0,
+            "traits": [],
+            "text": "Play only if you control a <i>Dragon</i> character.\n<b>Interrupt:</b> When a <i>Dragon</i> or <i>Stormborn</i> character would be killed or discarded from play, save it and return it to its owner's hand.",
+            "flavor": "She had the whip in her hand and she was shouting, then she was on the dragon's back, flying.",
+            "deckLimit": 3,
+            "illustrator": "Joshua Cairós",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/MaV/54_Take_to_the_Sky!.png"
+        },
+        {
+            "code": "26055",
+            "type": "character",
+            "name": "Butterbumps",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": true,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Fool"
+            ],
+            "text": "Shadow (2).\n<b>Challenges Action:</b> During a challenge in which Butterbumps is participating, return him to shadows to choose a participating character with a higher STR than his. Stand that character and remove it from the challenge.",
+            "deckLimit": 3,
+            "illustrator": "Stephen Patane (Midjourney)",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/MaV/55_Butterbumps.png"
+        },
+        {
+            "code": "26056",
+            "type": "location",
+            "name": "The Whispering Sound",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": true,
+            "cost": 2,
+            "traits": [
+                "House Hightower",
+                "The Reach"
+            ],
+            "text": "Shadow (1).\n<b>Reaction:</b> After a location enters play during the challenges phase, kneel The Whispering Sound to draw 2 cards. Then, choose a card in your hand and place it on top of your deck.",
+            "deckLimit": 3,
+            "illustrator": "Onur Bakar",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/MaV/56_The_Whispering_Sound.png"
+        },
+        {
+            "code": "26057",
+            "type": "character",
+            "name": "Lysa Arryn",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "neutral",
+            "cost": 7,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 6,
+            "traits": [
+                "House Arryn",
+                "House Tully",
+                "Lady"
+            ],
+            "text": "Each <i>House Arryn</i> character you control is considered to be loyal.\nWhile your initiative value is 0, Lysa Arryn gains the keywords of each other loyal character you control.",
+            "flavor": "\"The Lannisters are all liars. No one will hurt my sweet boy.\"",
+            "deckLimit": 3,
+            "illustrator": "Anh Bui",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/MaV/57_Lysa_Arryn.png"
+        },
+        {
+            "code": "26058",
+            "type": "attachment",
+            "name": "The Warden of the East",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "neutral",
+            "cost": 2,
+            "traits": [
+                "House Arryn",
+                "Title"
+            ],
+            "text": "<i>House Arryn</i> character only.\nAttached character gets +2 STR and gains the <i>Commander</i> trait.\n<b>Reaction:</b> After 1 or more characters are revealed from an opponent's hand, deck, or shadows area, attached character gains 1 power. (Limit 3 times per round.)",
+            "deckLimit": 3,
+            "illustrator": "Julepe",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/MaV/58_The_Warden_of_the_East.png"
+        },
+        {
+            "code": "26059",
+            "type": "plot",
+            "name": "Battle Beneath the Wall",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "plotStats": {
+                "income": 5,
+                "initiative": 5,
+                "claim": 1,
+                "reserve": 5
+            },
+            "traits": [
+                "War"
+            ],
+            "text": "<b>When Revealed:</b> Name a challenge type. Until you reveal a new plot card, each player must declare all eligible characters as attackers or defenders during challenges of that type.",
+            "deckLimit": 1,
+            "illustrator": "Tomasz Jedruszek",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/MaV/59_Battle_Beneath_the_Wall.png"
+        },
+        {
+            "code": "26060",
+            "type": "plot",
+            "name": "Strained Reserves",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "plotStats": {
+                "income": 3,
+                "initiative": 6,
+                "claim": 2,
+                "reserve": 3
+            },
+            "traits": [
+                "Winter"
+            ],
+            "text": "Each player cannot marshal or put into play more than 2 characters, locations, or attachments this round. (4 characters, locations, or attachments instead if that player has a <i>Summer</i> plot card revealed.)",
+            "deckLimit": 1,
+            "illustrator": "Régis Moulun",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/MaV/60_Strained_Reserves.png"
+        }
+    ]
+}
