@@ -178,7 +178,7 @@
             "name": "Tyrion Lannister",
             "octgnId": "86cc2dd3-7688-4ffb-af08-0991e4e8a38f",
             "quantity": 3,
-            "unique": false,
+            "unique": true,
             "faction": "lannister",
             "loyal": false,
             "cost": 6,
