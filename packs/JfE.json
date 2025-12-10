@@ -1,0 +1,449 @@
+{
+  "cgdbId": null,
+  "code": "JfE",
+  "name": "Justice for Elia",
+  "releaseDate": "2025-12-07",
+  "cards": [
+    {
+      "code": "26081",
+      "type": "character",
+      "name": "Living Shadow",
+      "octgnId": null,
+      "quantity": 3,
+      "unique": false,
+      "faction": "baratheon",
+      "loyal": true,
+      "cost": 2,
+      "icons": {
+        "military": true,
+        "intrigue": true,
+        "power": false
+      },
+      "strength": 0,
+      "traits": [
+        "R'hllor"
+      ],
+      "text": "No attachments. Shadow (1). Stealth.\nLiving Shadow cannot be killed.\n<b>Forced Reaction:</b> After Living Shadow bypasses a character using stealth, attach it to that character as a <i>Condition</i> attachment with the text: \"Terminal. Attached character cannot be saved.\"",
+      "deckLimit": 3,
+      "illustrator": "Rafal Hrynkiewicz",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JfE/81_Living_Shadow.png"
+    },
+    {
+      "code": "26082",
+      "type": "location",
+      "name": "Northern Pyre",
+      "octgnId": null,
+      "quantity": 3,
+      "unique": false,
+      "faction": "baratheon",
+      "loyal": false,
+      "cost": 1,
+      "traits": [
+        "R'hllor",
+        "The North"
+      ],
+      "text": "<b>Challenges Action:</b> If there is a <i>Winter</i> plot card revealed, kneel Northern Pyre to choose a participating character. Until the end of the challenge, set that character's STR to 3.",
+      "flavor": "The heat of the flames beat against her face, but even so she shivered.",
+      "deckLimit": 3,
+      "illustrator": "Ben Barnhart",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JfE/82_Northern_Pyre.png"
+    },
+    {
+      "code": "26083",
+      "type": "character",
+      "name": "Theon Greyjoy",
+      "octgnId": null,
+      "quantity": 3,
+      "unique": true,
+      "faction": "greyjoy",
+      "loyal": false,
+      "cost": 6,
+      "icons": {
+        "military": true,
+        "intrigue": false,
+        "power": true
+      },
+      "strength": 4,
+      "traits": [
+        "Ally",
+        "Ironborn",
+        "Lord"
+      ],
+      "text": "<b>Forced Reaction:</b> After a player collects income, they must choose and kill a character they control.\n<b>Forced Interrupt:</b> When Theon Greyjoy leaves play, each opponent gains 2 power for their faction.",
+      "deckLimit": 3,
+      "illustrator": "Jason Engle",
+      "designer": "Card Designed by 2012 European Joust Champion, Stefano Montanari.",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JfE/83_Theon_Greyjoy.png"
+    },
+    {
+      "code": "26084",
+      "type": "attachment",
+      "name": "Smiler",
+      "octgnId": null,
+      "quantity": 3,
+      "unique": true,
+      "faction": "greyjoy",
+      "loyal": true,
+      "cost": 1,
+      "traits": [
+        "Warhorse"
+      ],
+      "text": "Ambush (2).\n<b>Reaction:</b> After you win an unopposed challenge in which attached character is attacking, kneel Smiler to have attached character gain intimidate or renown until the end of the challenge.",
+      "deckLimit": 3,
+      "illustrator": "Marc Fishman",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JfE/84_Smiler.png"
+    },
+    {
+      "code": "26085",
+      "type": "character",
+      "name": "Ser Osfryd Kettleblack",
+      "octgnId": null,
+      "quantity": 3,
+      "unique": true,
+      "faction": "lannister",
+      "loyal": false,
+      "cost": 4,
+      "icons": {
+        "military": true,
+        "intrigue": false,
+        "power": true
+      },
+      "strength": 4,
+      "traits": [
+        "Commander",
+        "Knight"
+      ],
+      "text": "While you have more cards in hand than each opponent, Ser Osfryd Kettleblack gains renown.",
+      "deckLimit": 3,
+      "illustrator": "Gergely Nagy",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JfE/85_Ser_Osfryd_Kettleblack.png"
+    },
+    {
+      "code": "26086",
+      "type": "attachment",
+      "name": "Slander and Lies",
+      "octgnId": null,
+      "quantity": 3,
+      "unique": false,
+      "faction": "lannister",
+      "loyal": false,
+      "cost": 2,
+      "traits": [
+        "Condition"
+      ],
+      "text": "Opponent's character only. Ambush (3). Terminal.\nYou may spend each power on attached character as if it were 2 gold in your gold pool.\n<b>Forced Reaction:</b> After you lose a challenge in which attached character is participating, it gains 1 power.",
+      "deckLimit": 3,
+      "illustrator": "Pedro H. Cardoso",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JfE/86_Slander_and_Lies.png"
+    },
+    {
+      "code": "26087",
+      "type": "character",
+      "name": "The Red Viper",
+      "octgnId": null,
+      "quantity": 3,
+      "unique": true,
+      "faction": "martell",
+      "loyal": true,
+      "cost": 6,
+      "icons": {
+        "military": true,
+        "intrigue": true,
+        "power": true
+      },
+      "strength": 5,
+      "traits": [
+        "Lord",
+        "Small Council"
+      ],
+      "text": "Shadow (5). Stealth.\n<b>Action:</b> During a challenge in which The Red Viper is attacking, discard 1 card from shadows to raise the claim value on your revealed plot card by 1 until the end of the challenge. (Limit once per challenge.)",
+      "flavor": "\"I am going to kill that.\"",
+      "deckLimit": 3,
+      "illustrator": "Filipe Ferreira",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JfE/87_The_Red_Viper.png"
+    },
+    {
+      "code": "26088",
+      "type": "attachment",
+      "name": "The Viper's Spear",
+      "octgnId": null,
+      "quantity": 3,
+      "unique": true,
+      "faction": "martell",
+      "loyal": false,
+      "cost": 2,
+      "traits": [
+        "Weapon"
+      ],
+      "text": "<i>Sand Snake</i> character or The Red Viper only.\nDuring [military] challenges, attached character gets +3 STR and does not kneel when declared as an attacker against an opponent who controls more characters than you.",
+      "deckLimit": 3,
+      "illustrator": "Levon Jihanian",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JfE/88_The_Vipers_Spear.png"
+    },
+    {
+      "code": "26089",
+      "type": "character",
+      "name": "Greyguard Artisan",
+      "octgnId": null,
+      "quantity": 3,
+      "unique": false,
+      "faction": "thenightswatch",
+      "loyal": false,
+      "cost": 3,
+      "icons": {
+        "military": false,
+        "intrigue": false,
+        "power": true
+      },
+      "strength": 4,
+      "traits": [
+        "Builder"
+      ],
+      "text": "Shadow (2).\n<b>Reaction:</b> After Greyguard Artisan comes out of shadows, choose an attachment. Until the end of the phase, treat that attachment as if its printed text box were blank (except for <i>Traits</i>).",
+      "deckLimit": 3,
+      "illustrator": "Hector Ortiz",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JfE/89_Greyguard_Artisan.png"
+    },
+    {
+      "code": "26090",
+      "type": "attachment",
+      "name": "Torch and Oil",
+      "octgnId": null,
+      "quantity": 3,
+      "unique": false,
+      "faction": "thenightswatch",
+      "loyal": false,
+      "cost": 1,
+      "traits": [
+        "Item"
+      ],
+      "text": "<b>Reaction:</b> After an opponent draws a card or marshals a card into shadows, kneel Torch and Oil to reveal that card. If it is a character, you may sacrifice Torch and Oil to discard that card and stand attached character.",
+      "flavor": "Up above another fire was blooming. The old wooden steps had drunk up oil like a sponge.",
+      "deckLimit": 3,
+      "illustrator": "Stephen Patane (Midjourney)",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JfE/90_Torch_and_Oil.png"
+    },
+    {
+      "code": "26091",
+      "type": "character",
+      "name": "Northern Patriarch",
+      "octgnId": null,
+      "quantity": 3,
+      "unique": false,
+      "faction": "stark",
+      "loyal": true,
+      "cost": 4,
+      "icons": {
+        "military": true,
+        "intrigue": false,
+        "power": true
+      },
+      "strength": 3,
+      "traits": [
+        "Lord"
+      ],
+      "text": "Immune to opponents' <i>Omen</i> plot effects.\n<b>Interrupt:</b> When the effects of an opponent's event would initiate, cancel those effects unless that player moves 1 power from a card they control to Northern Patriarch. (Max once per round.)",
+      "deckLimit": 3,
+      "illustrator": "Tiziano Baracchi",
+      "designer": "Card design by 2012 World Champion, Derek Shoemaker.\nIn Memory of Guy Gray.",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JfE/91_Northern_Patriarch.png"
+    },
+    {
+      "code": "26092",
+      "type": "location",
+      "name": "Winterfell Kennels",
+      "octgnId": null,
+      "quantity": 3,
+      "unique": true,
+      "faction": "stark",
+      "loyal": true,
+      "cost": 3,
+      "traits": [
+        "The North",
+        "Winterfell"
+      ],
+      "text": "Each <i>Direwolf</i> character you control gets +1 STR.\n<b>Challenges Action:</b> Kneel Winterfell Kennels to put a <i>Direwolf</i> card into play from your hand. At the end of the phase, if that card is still in play, place it on the bottom of your deck.",
+      "deckLimit": 3,
+      "illustrator": "Balázs Németh",
+      "designer": "Card Designed by 2023 Stahleck Melee Champion, David Kennedy.",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JfE/92_Winterfell_Kennels.png"
+    },
+    {
+      "code": "26093",
+      "type": "character",
+      "name": "White Graces",
+      "octgnId": null,
+      "quantity": 3,
+      "unique": false,
+      "faction": "targaryen",
+      "loyal": false,
+      "cost": 2,
+      "icons": {
+        "military": false,
+        "intrigue": false,
+        "power": true
+      },
+      "strength": 1,
+      "traits": [
+        "Grace",
+        "Lady"
+      ],
+      "text": "<b>Interrupt:</b> When White Graces is discarded from your hand or deck, place it on a unique <i>Lady</i> or <i>Grace</i> character as a duplicate instead of placing it in your discard pile.",
+      "flavor": "They made for a pretty portrait, the proud old woman all in green surrounded by the little girls robed and veiled in white, armored in their innocence.",
+      "deckLimit": 3,
+      "illustrator": "Stephen Patane (Midjourney)",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JfE/93_White_Graces.png"
+    },
+    {
+      "code": "26094",
+      "type": "attachment",
+      "name": "Poisoned Locusts",
+      "octgnId": null,
+      "quantity": 3,
+      "unique": false,
+      "faction": "targaryen",
+      "loyal": true,
+      "cost": 1,
+      "traits": [
+        "Condition",
+        "Item",
+        "Poison"
+      ],
+      "text": "Opponent's character only. Shadow (0). Terminal.\nWhile attached character is participating in a challenge, it gets -1 STR for each attachment it has and is killed if its STR is 0.",
+      "flavor": "“You ought to try a few yourself, my love.”\r- Hizdahr zo Loraq",
+      "deckLimit": 3,
+      "illustrator": "Stephen Patane (Midjourney)",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JfE/94_Poisoned_Locusts.png"
+    },
+    {
+      "code": "26095",
+      "type": "character",
+      "name": "Baelor Brightsmile",
+      "octgnId": null,
+      "quantity": 3,
+      "unique": true,
+      "faction": "tyrell",
+      "loyal": true,
+      "cost": 6,
+      "icons": {
+        "military": true,
+        "intrigue": false,
+        "power": true
+      },
+      "strength": 5,
+      "traits": [
+        "House Hightower",
+        "Knight"
+      ],
+      "text": "Renown.\n<b>Reaction:</b> After you win a challenge by 5 or more STR in which Baelor Brightsmile is participating, reveal the top card of your deck. You may place that card on Baelor Brightsmile facedown as a duplicate.",
+      "deckLimit": 3,
+      "illustrator": "Zsolt Ruzsinszki",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JfE/95_Baelor_Brightsmile.png"
+    },
+    {
+      "code": "26096",
+      "type": "attachment",
+      "name": "Enameled Green Armor",
+      "octgnId": null,
+      "quantity": 3,
+      "unique": true,
+      "faction": "tyrell",
+      "loyal": true,
+      "cost": 3,
+      "traits": [
+        "Item"
+      ],
+      "text": "Character you control only.\nAttached character gains renown.\n<b>Challenges Action:</b> During a challenge in which attached character is participating, kneel Enameled Green Armor to choose a participating character. That character contributes its STR to your side this challenge.",
+      "deckLimit": 3,
+      "illustrator": "Henning Ludvigsen",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JfE/96_Enameled_Green_Armor.png"
+    },
+    {
+      "code": "26097",
+      "type": "character",
+      "name": "Alleras the Sphinx",
+      "octgnId": null,
+      "quantity": 3,
+      "unique": true,
+      "faction": "neutral",
+      "cost": 3,
+      "icons": {
+        "military": false,
+        "intrigue": true,
+        "power": false
+      },
+      "strength": 2,
+      "traits": [
+        "Ally",
+        "Maester"
+      ],
+      "text": "<b>Reaction:</b> After you lose a challenge in which Alleras the Sphinx is participating, search the top 10 cards of your deck for a card, reveal it, and place it facedown under your agenda. Shuffle your deck.",
+      "flavor": "He had only been at the Citadel for a year, yet already he had forged three links of his maester's chain.",
+      "deckLimit": 3,
+      "illustrator": "Dallas Williams",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JfE/97_Alleras_the_Sphinx.png"
+    },
+    {
+      "code": "26098",
+      "type": "attachment",
+      "name": "Candle in the Dark",
+      "octgnId": null,
+      "quantity": 3,
+      "unique": false,
+      "faction": "neutral",
+      "cost": 1,
+      "traits": [
+        "Item"
+      ],
+      "text": "Attached character cannot be bypassed by stealth.\n<b>Interrupt:</b> When the effects of a triggered card ability would initiate, if that card has shadow, kneel attached character to cancel those effects.",
+      "deckLimit": 3,
+      "illustrator": "Ben Barnhart",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JfE/98_Candle_in_the_Dark.png"
+    },
+    {
+      "code": "26099",
+      "type": "plot",
+      "name": "A Meeting of Minds",
+      "octgnId": null,
+      "quantity": 3,
+      "faction": "neutral",
+      "plotStats": {
+        "income": 4,
+        "initiative": 3,
+        "claim": 1,
+        "reserve": 8
+      },
+      "traits": [
+        "Noble"
+      ],
+      "text": "Each <i>Small Council</i> character you control gains insight.",
+      "flavor": "“He entrusts some small matters to us, to lighten his load.” - Varys",
+      "deckLimit": 2,
+      "illustrator": "Thomas Denmark",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JfE/99_A_Meeting_of_Minds.png"
+    },
+    {
+      "code": "26100",
+      "type": "plot",
+      "name": "The Doom of Valyria",
+      "octgnId": null,
+      "quantity": 3,
+      "faction": "neutral",
+      "plotStats": {
+        "income": 3,
+        "initiative": 2,
+        "claim": 1,
+        "reserve": 4
+      },
+      "traits": [
+        "Legacy",
+        "Omen",
+        "Prophecy"
+      ],
+      "text": "<b>When Revealed:</b> If there are 3 or more plot cards in your used pile, discard each non-limited card from play, and each card in shadows. An opponent may discard their hand (of at least 3 cards) to cancel this effect.",
+      "deckLimit": 1,
+      "illustrator": "Ertaç Altınöz",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JfE/100_The_Doom_of_Valyria.png"
+    }
+  ]
+}
