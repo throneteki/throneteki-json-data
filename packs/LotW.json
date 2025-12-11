@@ -1,437 +1,437 @@
 {
-  "cgdbId": null,
-  "code": "LotW",
-  "name": "Lord of the Waters",
-  "releaseDate": "2025-10-03",
-  "cards": [
-    {
-      "code": "26061",
-      "type": "character",
-      "name": "Edric Storm",
-      "octgnId": null,
-      "quantity": 3,
-      "unique": true,
-      "faction": "baratheon",
-      "loyal": true,
-      "cost": 5,
-      "icons": {
-        "military": false,
-        "intrigue": false,
-        "power": true
-      },
-      "strength": 5,
-      "traits": [
-        "Bastard",
-        "The Seven"
-      ],
-      "text": "Stealth.\nEach player cannot gain more than 3 power each round <em>(among all cards they control)</em>.",
-      "flavor": "“And may the Father judge you justly, Lord Davos.”",
-      "deckLimit": 3,
-      "illustrator": "Stephen Patane (Midjourney)",
-      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/LotW/61_Edric_Storm.png"
-    },
-    {
-      "code": "26062",
-      "type": "event",
-      "name": "A New Hand",
-      "octgnId": null,
-      "quantity": 3,
-      "faction": "baratheon",
-      "loyal": false,
-      "cost": 0,
-      "traits": [],
-      "text": "<b>Reaction:</b> After a <i>Small Council</i> character you control leaves play, search your deck for a different <i>Small Council</i> character, reveal it, and add it to your hand. Shuffle your deck. (Max 1 per phase.)",
-      "flavor": "“Lord Eddard Stark, I would name you the Hand of the King”\r- Robert Baratheon\r",
-      "deckLimit": 3,
-      "illustrator": "Thomas Denmark",
-      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/LotW/62_A_New_Hand.png"
-    },
-    {
-      "code": "26063",
-      "type": "character",
-      "name": "Orkmont Elite",
-      "octgnId": null,
-      "quantity": 3,
-      "unique": false,
-      "faction": "greyjoy",
-      "loyal": false,
-      "cost": 6,
-      "icons": {
-        "military": true,
-        "intrigue": false,
-        "power": true
-      },
-      "strength": 5,
-      "traits": [
-        "Army",
-        "Ironborn",
-        "Raider"
-      ],
-      "text": "Assault. Pillage.\nWhile Orkmont Elite has an attachment, it gains renown.\n<b>Reaction:</b> After Orkmont Elite discards a card using pillage, put an attachment from the losing opponent's discard pile into play under your control, attached to a character you control.",
-      "deckLimit": 3,
-      "illustrator": "Tommy Arnold",
-      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/LotW/63_Orkmont_Elite.png"
-    },
-    {
-      "code": "26064",
-      "type": "attachment",
-      "name": "Reaver's Greataxe",
-      "octgnId": null,
-      "quantity": 3,
-      "unique": false,
-      "faction": "greyjoy",
-      "loyal": false,
-      "cost": 1,
-      "traits": [
-        "Weapon"
-      ],
-      "text": "Non-unique [greyjoy] character only.\nAttached character gains the <i>Raider</i> trait.\nDuring the first challenge you initiate each phase, attached character does not kneel when declared as an attacker against an opponent who controls fewer attachments than you.",
-      "deckLimit": 3,
-      "illustrator": "Biagio D'Alessandro",
-      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/LotW/64_Reavers_Greataxe.png"
-    },
-    {
-      "code": "26065",
-      "type": "character",
-      "name": "Gyles Rosby",
-      "octgnId": null,
-      "quantity": 3,
-      "unique": true,
-      "faction": "lannister",
-      "loyal": false,
-      "cost": 3,
-      "icons": {
-        "military": false,
-        "intrigue": false,
-        "power": true
-      },
-      "strength": 3,
-      "traits": [
-        "Lord",
-        "Small Council"
-      ],
-      "text": "If you have no gold in your gold pool during the challenges phase, kill Gyles Rosby.\n+2 Income.",
-      "flavor": "“No doubt he will cough the whole lot of us into our graves.” \r-  Cersei Lannister",
-      "deckLimit": 3,
-      "illustrator": "Tamás Buzássy",
-      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/LotW/65_Gyles_Rosby.png"
-    },
-    {
-      "code": "26066",
-      "type": "location",
-      "name": "King's Landing Dromond",
-      "octgnId": null,
-      "quantity": 3,
-      "unique": false,
-      "faction": "lannister",
-      "loyal": false,
-      "cost": 2,
-      "traits": [
-        "Warship"
-      ],
-      "text": "Shadow (1).\nReduce the number of unspent gold you return to the treasury during the taxation phase by 1.\n<b>Reaction:</b> After King's Landing Dromond comes out of shadows, choose a character with printed cost 2 or lower and return it to its owner's hand.",
-      "deckLimit": 3,
-      "illustrator": "Gergely Nagy",
-      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/LotW/66_Kings_Landing_Dromond.png"
-    },
-    {
-      "code": "26067",
-      "type": "character",
-      "name": "Southron Informant",
-      "octgnId": null,
-      "quantity": 3,
-      "unique": false,
-      "faction": "martell",
-      "loyal": true,
-      "cost": 1,
-      "icons": {
-        "military": false,
-        "intrigue": true,
-        "power": false
-      },
-      "strength": 1,
-      "traits": [
-        "Spy"
-      ],
-      "text": "Ambush (1).\n<b>Forced Reaction:</b> After Southron Informant enters play during the challenges phase, give control of it to an opponent. Then, discard 1 card at random from that player's hand and draw 1 card.",
-      "deckLimit": 3,
-      "illustrator": "Dallas Williams",
-      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/LotW/67_Southron_Informant.png"
-    },
-    {
-      "code": "26068",
-      "type": "location",
-      "name": "Dornish Sloop",
-      "octgnId": null,
-      "quantity": 3,
-      "unique": false,
-      "faction": "martell",
-      "loyal": false,
-      "cost": 2,
-      "traits": [
-        "Warship"
-      ],
-      "text": "Shadow (0).\n<b>Reaction:</b> After Dornish Sloop comes out of shadows, choose a character with printed cost 5 or lower. Until the end of the phase, that character loses a challenge icon of your choice.\n+1 Reserve.",
-      "deckLimit": 3,
-      "illustrator": "Gergely Nagy",
-      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/LotW/68_Dornish_Sloop.png"
-    },
-    {
-      "code": "26069",
-      "type": "character",
-      "name": "Dirk",
-      "octgnId": null,
-      "quantity": 3,
-      "unique": true,
-      "faction": "thenightswatch",
-      "loyal": false,
-      "cost": 3,
-      "icons": {
-        "military": true,
-        "intrigue": true,
-        "power": false
-      },
-      "strength": 2,
-      "traits": [
-        "Ally",
-        "Ranger"
-      ],
-      "text": "<b>Forced Reaction:</b> After a character is discarded from play, place it in its owner's dead pile.",
-      "flavor": "“There are no laws beyond the Wall, old man. Remember?” ",
-      "deckLimit": 3,
-      "illustrator": "Gergely Nagy",
-      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/LotW/69_Dirk.png"
-    },
-    {
-      "code": "26070",
-      "type": "attachment",
-      "name": "Conspirator's Blade",
-      "octgnId": null,
-      "quantity": 3,
-      "unique": false,
-      "faction": "thenightswatch",
-      "loyal": false,
-      "cost": 1,
-      "traits": [
-        "Weapon"
-      ],
-      "text": "Shadow (1).\nWhile attached character is participating in a challenge, the effects of events you play cannot be canceled.\n<b>Reaction:</b> After Conspirator's Blade comes out of shadows, reduce the cost of the next card you bring out of shadows this phase by 2.",
-      "deckLimit": 3,
-      "illustrator": "Stephen Patane (Midjourney)",
-      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/LotW/70_Conspirators_Blade.png"
-    },
-    {
-      "code": "26071",
-      "type": "character",
-      "name": "Tytos Blackwood",
-      "octgnId": null,
-      "quantity": 3,
-      "unique": true,
-      "faction": "stark",
-      "loyal": true,
-      "cost": 6,
-      "icons": {
-        "military": true,
-        "intrigue": false,
-        "power": true
-      },
-      "strength": 4,
-      "traits": [
-        "House Tully",
-        "Lord"
-      ],
-      "text": "Renown.\nWhile Tytos Blackwood is participating in a challenge, treat each other character without power as if its printed text box were blank (except for <i>Traits</i>).",
-      "deckLimit": 3,
-      "illustrator": "Anh Bui",
-      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/LotW/71_Tytos_Blackwood.png"
-    },
-    {
-      "code": "26072",
-      "type": "event",
-      "name": "Above the Rest",
-      "octgnId": null,
-      "quantity": 3,
-      "faction": "stark",
-      "loyal": true,
-      "cost": 0,
-      "traits": [
-        "House Tully"
-      ],
-      "text": "<b>Reaction:</b> After a character you control gains exactly 1 power, have it gain 1 power. Then, if that character has the <i>House Tully</i> trait, stand it. (Max 1 per phase.)",
-      "flavor": "Lord Jason Mallister had brought his power out from Seagard to join them as they swept around the headwaters of the Blue Fork.",
-      "deckLimit": 3,
-      "illustrator": "Kristóf Kovács",
-      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/LotW/72_Above_the_Rest.png"
-    },
-    {
-      "code": "26073",
-      "type": "character",
-      "name": "Ser Harry Strickland",
-      "octgnId": null,
-      "quantity": 3,
-      "unique": true,
-      "faction": "targaryen",
-      "loyal": false,
-      "cost": 4,
-      "icons": {
-        "military": true,
-        "intrigue": false,
-        "power": true
-      },
-      "strength": 3,
-      "traits": [
-        "Commander",
-        "Knight",
-        "Mercenary"
-      ],
-      "text": "Renown. Shadow (3).\n<b>Reaction:</b> After Ser Harry Strickland enters play, choose and stand a <i>Mercenary</i> character. Until the end of the phase, that character gains a challenge icon of your choice.",
-      "flavor": "Homeless Harry looked little like a warrior.",
-      "deckLimit": 3,
-      "illustrator": "Paw",
-      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/LotW/73_Ser_Harry_Strickland.png"
-    },
-    {
-      "code": "26074",
-      "type": "location",
-      "name": "Qartheen Galleas",
-      "octgnId": null,
-      "quantity": 3,
-      "unique": false,
-      "faction": "targaryen",
-      "loyal": false,
-      "cost": 2,
-      "traits": [
-        "Qarth",
-        "Warship"
-      ],
-      "text": "Shadow (1).\nYou are considered to have 1 fewer card in your hand.\n<b>Reaction:</b> After Qartheen Galleas comes out of shadows, choose a card with shadow in your discard pile and return it to your hand.",
-      "deckLimit": 3,
-      "illustrator": "Gergely Nagy",
-      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/LotW/74_Qartheen_Galleas.png"
-    },
-    {
-      "code": "26075",
-      "type": "character",
-      "name": "Megga Tyrell",
-      "octgnId": null,
-      "quantity": 3,
-      "unique": true,
-      "faction": "tyrell",
-      "loyal": true,
-      "cost": 4,
-      "icons": {
-        "military": false,
-        "intrigue": true,
-        "power": true
-      },
-      "strength": 3,
-      "traits": [
-        "Lady"
-      ],
-      "text": "<b>Reaction:</b> After 1 or more characters are removed from a challenge, gain 1 power for your faction. (Limit twice per round.)",
-      "flavor": "“Someday I want some champion to wear my favor, and kill a hundred men.”",
-      "deckLimit": 3,
-      "illustrator": "Ferenc Patkós",
-      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/LotW/75_Megga_Tyrell.png"
-    },
-    {
-      "code": "26076",
-      "type": "location",
-      "name": "Redwyne Merchanter",
-      "octgnId": null,
-      "quantity": 3,
-      "unique": false,
-      "faction": "tyrell",
-      "loyal": false,
-      "cost": 2,
-      "traits": [
-        "House Redwyne",
-        "Warship"
-      ],
-      "text": "Shadow (1).\n<b>Reaction:</b> After Redwyne Merchanter comes out of shadows, choose a character. Until the end of the phase, that character gets +2 STR.\n+1 Income",
-      "deckLimit": 3,
-      "illustrator": "Gergely Nagy",
-      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/LotW/76_Redwyne_Merchanter.png"
-    },
-    {
-      "code": "26077",
-      "type": "character",
-      "name": "The Bastard of Driftmark",
-      "octgnId": null,
-      "quantity": 3,
-      "unique": true,
-      "faction": "neutral",
-      "cost": 5,
-      "icons": {
-        "military": false,
-        "intrigue": true,
-        "power": true
-      },
-      "strength": 3,
-      "traits": [
-        "Bastard",
-        "Small Council"
-      ],
-      "text": "Shadow (4). Stealth.\n<b>Reaction:</b> After a <i>Warship</i> location enters play under your control, stand The Bastard of Driftmark. (Limit twice per phase.)",
-      "flavor": "“I am told that removing the head from the body is often mortal.” ",
-      "deckLimit": 3,
-      "illustrator": "Zsolt Ruzsinszki",
-      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/LotW/77_The_Bastard_of_Driftmark.png"
-    },
-    {
-      "code": "26078",
-      "type": "location",
-      "name": "Ibbenese Whaler",
-      "octgnId": null,
-      "quantity": 3,
-      "unique": false,
-      "faction": "neutral",
-      "cost": 2,
-      "traits": [
-        "Ibben",
-        "Warship"
-      ],
-      "text": "Shadow (2).\nReduce the cost to marshal your first card into shadows each round by 1.\n<b>Taxation Action:</b> If you have no cards in your hand, kneel and return Ibbenese Whaler to shadows to draw 2 cards.",
-      "deckLimit": 3,
-      "illustrator": "Gergely Nagy",
-      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/LotW/78_Ibbenese_Whaler.png"
-    },
-    {
-      "code": "26079",
-      "type": "plot",
-      "name": "The War of the Five Kings",
-      "octgnId": null,
-      "quantity": 3,
-      "faction": "neutral",
-      "plotStats": {
-        "income": 5,
-        "initiative": 2,
-        "claim": 1,
-        "reserve": 4
-      },
-      "traits": [
-        "Noble",
-        "War"
-      ],
-      "text": "Raise the claim value on The War of the Five Kings by 1 for each rival you have.",
-      "deckLimit": 1,
-      "illustrator": "Kay Huang",
-      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/LotW/79_The_War_of_the_Five_Kings.png"
-    },
-    {
-      "code": "26080",
-      "type": "agenda",
-      "name": "Trading With Braavos",
-      "octgnId": null,
-      "quantity": 3,
-      "faction": "neutral",
-      "traits": [
-        "Banner"
-      ],
-      "text": "Your deck may include non-loyal <i>Warship</i> locations from any faction. Your deck cannot include more than 1 copy of each non-limited location.\n<b>Reaction:</b> After claim is applied for a challenge you won, kneel your faction card to search the top 10 cards of your deck for a non-limited location, reveal it, and add it to your hand (you may place it in shadows instead if it has the <i>Warship</i> trait). Shuffle your deck.",
-      "deckLimit": 1,
-      "illustrator": "Sebastián Aguirre",
-      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/LotW/80_Trading_With_Braavos.png"
-    }
-  ]
+    "cgdbId": null,
+    "code": "LotW",
+    "name": "Lord of the Waters",
+    "releaseDate": "2025-10-03",
+    "cards": [
+        {
+            "code": "26061",
+            "type": "character",
+            "name": "Edric Storm",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": true,
+            "cost": 5,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "Bastard",
+                "The Seven"
+            ],
+            "text": "Stealth.\nEach player cannot gain more than 3 power each round <em>(among all cards they control)</em>.",
+            "flavor": "“And may the Father judge you justly, Lord Davos.”",
+            "deckLimit": 3,
+            "illustrator": "Stephen Patane (Midjourney)",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/LotW/61_Edric_Storm.png"
+        },
+        {
+            "code": "26062",
+            "type": "event",
+            "name": "A New Hand",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 0,
+            "traits": [],
+            "text": "<b>Reaction:</b> After a <i>Small Council</i> character you control leaves play, search your deck for a different <i>Small Council</i> character, reveal it, and add it to your hand. Shuffle your deck. (Max 1 per phase.)",
+            "flavor": "“Lord Eddard Stark, I would name you the Hand of the King” - Robert Baratheon",
+            "deckLimit": 3,
+            "illustrator": "Thomas Denmark",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/LotW/62_A_New_Hand.png"
+        },
+        {
+            "code": "26063",
+            "type": "character",
+            "name": "Orkmont Elite",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 6,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "Army",
+                "Ironborn",
+                "Raider"
+            ],
+            "text": "Assault. Pillage.\nWhile Orkmont Elite has an attachment, it gains renown.\n<b>Reaction:</b> After Orkmont Elite discards a card using pillage, put an attachment from the losing opponent's discard pile into play under your control, attached to a character you control.",
+            "deckLimit": 3,
+            "illustrator": "Tommy Arnold",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/LotW/63_Orkmont_Elite.png"
+        },
+        {
+            "code": "26064",
+            "type": "attachment",
+            "name": "Reaver's Greataxe",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Weapon"
+            ],
+            "text": "Non-unique [greyjoy] character only.\nAttached character gains the <i>Raider</i> trait.\nDuring the first challenge you initiate each phase, attached character does not kneel when declared as an attacker against an opponent who controls fewer attachments than you.",
+            "deckLimit": 3,
+            "illustrator": "Biagio D'Alessandro",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/LotW/64_Reavers_Greataxe.png"
+        },
+        {
+            "code": "26065",
+            "type": "character",
+            "name": "Gyles Rosby",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Lord",
+                "Small Council"
+            ],
+            "text": "If you have no gold in your gold pool during the challenges phase, kill Gyles Rosby.\n+2 Income.",
+            "flavor": "“No doubt he will cough the whole lot of us into our graves.” - Cersei Lannister",
+            "deckLimit": 3,
+            "illustrator": "Tamás Buzássy",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/LotW/65_Gyles_Rosby.png"
+        },
+        {
+            "code": "26066",
+            "type": "location",
+            "name": "King's Landing Dromond",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "Warship"
+            ],
+            "text": "Shadow (1).\nReduce the number of unspent gold you return to the treasury during the taxation phase by 1.\n<b>Reaction:</b> After King's Landing Dromond comes out of shadows, choose a character with printed cost 2 or lower and return it to its owner's hand.",
+            "deckLimit": 3,
+            "illustrator": "Gergely Nagy",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/LotW/66_Kings_Landing_Dromond.png"
+        },
+        {
+            "code": "26067",
+            "type": "character",
+            "name": "Southron Informant",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "martell",
+            "loyal": true,
+            "cost": 1,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 1,
+            "traits": [
+                "Spy"
+            ],
+            "text": "Ambush (1).\n<b>Forced Reaction:</b> After Southron Informant enters play during the challenges phase, give control of it to an opponent. Then, discard 1 card at random from that player's hand and draw 1 card.",
+            "deckLimit": 3,
+            "illustrator": "Dallas Williams",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/LotW/67_Southron_Informant.png"
+        },
+        {
+            "code": "26068",
+            "type": "location",
+            "name": "Dornish Sloop",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "Warship"
+            ],
+            "text": "Shadow (0).\n<b>Reaction:</b> After Dornish Sloop comes out of shadows, choose a character with printed cost 5 or lower. Until the end of the phase, that character loses a challenge icon of your choice.\n+1 Reserve.",
+            "deckLimit": 3,
+            "illustrator": "Gergely Nagy",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/LotW/68_Dornish_Sloop.png"
+        },
+        {
+            "code": "26069",
+            "type": "character",
+            "name": "Dirk",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Ally",
+                "Ranger"
+            ],
+            "text": "<b>Forced Reaction:</b> After a character is discarded from play, place it in its owner's dead pile.",
+            "flavor": "“There are no laws beyond the Wall, old man. Remember?” ",
+            "deckLimit": 3,
+            "illustrator": "Gergely Nagy",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/LotW/69_Dirk.png"
+        },
+        {
+            "code": "26070",
+            "type": "attachment",
+            "name": "Conspirator's Blade",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Weapon"
+            ],
+            "text": "Shadow (1).\nWhile attached character is participating in a challenge, the effects of events you play cannot be canceled.\n<b>Reaction:</b> After Conspirator's Blade comes out of shadows, reduce the cost of the next card you bring out of shadows this phase by 2.",
+            "deckLimit": 3,
+            "illustrator": "Stephen Patane (Midjourney)",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/LotW/70_Conspirators_Blade.png"
+        },
+        {
+            "code": "26071",
+            "type": "character",
+            "name": "Tytos Blackwood",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "stark",
+            "loyal": true,
+            "cost": 6,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "House Tully",
+                "Lord"
+            ],
+            "text": "Renown.\nWhile Tytos Blackwood is participating in a challenge, treat each other character without power as if its printed text box were blank (except for <i>Traits</i>).",
+            "deckLimit": 3,
+            "illustrator": "Anh Bui",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/LotW/71_Tytos_Blackwood.png"
+        },
+        {
+            "code": "26072",
+            "type": "event",
+            "name": "Above the Rest",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "stark",
+            "loyal": true,
+            "cost": 0,
+            "traits": [
+                "House Tully"
+            ],
+            "text": "<b>Reaction:</b> After a character you control gains exactly 1 power, have it gain 1 power. Then, if that character has the <i>House Tully</i> trait, stand it. (Max 1 per phase.)",
+            "flavor": "Lord Jason Mallister had brought his power out from Seagard to join them as they swept around the headwaters of the Blue Fork.",
+            "deckLimit": 3,
+            "illustrator": "Kristóf Kovács",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/LotW/72_Above_the_Rest.png"
+        },
+        {
+            "code": "26073",
+            "type": "character",
+            "name": "Ser Harry Strickland",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Commander",
+                "Knight",
+                "Mercenary"
+            ],
+            "text": "Renown. Shadow (3).\n<b>Reaction:</b> After Ser Harry Strickland enters play, choose and stand a <i>Mercenary</i> character. Until the end of the phase, that character gains a challenge icon of your choice.",
+            "flavor": "Homeless Harry looked little like a warrior.",
+            "deckLimit": 3,
+            "illustrator": "Paw",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/LotW/73_Ser_Harry_Strickland.png"
+        },
+        {
+            "code": "26074",
+            "type": "location",
+            "name": "Qartheen Galleas",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "Qarth",
+                "Warship"
+            ],
+            "text": "Shadow (1).\nYou are considered to have 1 fewer card in your hand.\n<b>Reaction:</b> After Qartheen Galleas comes out of shadows, choose a card with shadow in your discard pile and return it to your hand.",
+            "deckLimit": 3,
+            "illustrator": "Gergely Nagy",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/LotW/74_Qartheen_Galleas.png"
+        },
+        {
+            "code": "26075",
+            "type": "character",
+            "name": "Megga Tyrell",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": true,
+            "cost": 4,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Lady"
+            ],
+            "text": "<b>Reaction:</b> After 1 or more characters are removed from a challenge, gain 1 power for your faction. (Limit twice per round.)",
+            "flavor": "“Someday I want some champion to wear my favor, and kill a hundred men.”",
+            "deckLimit": 3,
+            "illustrator": "Ferenc Patkós",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/LotW/75_Megga_Tyrell.png"
+        },
+        {
+            "code": "26076",
+            "type": "location",
+            "name": "Redwyne Merchanter",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "House Redwyne",
+                "Warship"
+            ],
+            "text": "Shadow (1).\n<b>Reaction:</b> After Redwyne Merchanter comes out of shadows, choose a character. Until the end of the phase, that character gets +2 STR.\n+1 Income",
+            "deckLimit": 3,
+            "illustrator": "Gergely Nagy",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/LotW/76_Redwyne_Merchanter.png"
+        },
+        {
+            "code": "26077",
+            "type": "character",
+            "name": "The Bastard of Driftmark",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "neutral",
+            "cost": 5,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Bastard",
+                "Small Council"
+            ],
+            "text": "Shadow (4). Stealth.\n<b>Reaction:</b> After a <i>Warship</i> location enters play under your control, stand The Bastard of Driftmark. (Limit twice per phase.)",
+            "flavor": "“I am told that removing the head from the body is often mortal.” ",
+            "deckLimit": 3,
+            "illustrator": "Zsolt Ruzsinszki",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/LotW/77_The_Bastard_of_Driftmark.png"
+        },
+        {
+            "code": "26078",
+            "type": "location",
+            "name": "Ibbenese Whaler",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "neutral",
+            "cost": 2,
+            "traits": [
+                "Ibben",
+                "Warship"
+            ],
+            "text": "Shadow (2).\nReduce the cost to marshal your first card into shadows each round by 1.\n<b>Taxation Action:</b> If you have no cards in your hand, kneel and return Ibbenese Whaler to shadows to draw 2 cards.",
+            "deckLimit": 3,
+            "illustrator": "Gergely Nagy",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/LotW/78_Ibbenese_Whaler.png"
+        },
+        {
+            "code": "26079",
+            "type": "plot",
+            "name": "The War of the Five Kings",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "plotStats": {
+                "income": 5,
+                "initiative": 2,
+                "claim": 1,
+                "reserve": 4
+            },
+            "traits": [
+                "Noble",
+                "War"
+            ],
+            "text": "Raise the claim value on The War of the Five Kings by 1 for each rival you have.",
+            "deckLimit": 1,
+            "illustrator": "Kay Huang",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/LotW/79_The_War_of_the_Five_Kings.png"
+        },
+        {
+            "code": "26080",
+            "type": "agenda",
+            "name": "Trading With Braavos",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "traits": [
+                "Banner"
+            ],
+            "text": "Your deck may include non-loyal <i>Warship</i> locations from any faction. Your deck cannot include more than 1 copy of each non-limited location.\n<b>Reaction:</b> After claim is applied for a challenge you won, kneel your faction card to search the top 10 cards of your deck for a non-limited location, reveal it, and add it to your hand (you may place it in shadows instead if it has the <i>Warship</i> trait). Shuffle your deck.",
+            "deckLimit": 1,
+            "illustrator": "Sebastián Aguirre",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/LotW/80_Trading_With_Braavos.png"
+        }
+    ]
 }
