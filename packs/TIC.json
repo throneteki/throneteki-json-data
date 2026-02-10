@@ -24,7 +24,7 @@
                 "Brotherhood"
             ],
             "text": "<b>Reaction:</b> After Blackhaven Rider enters play, each player must choose and kneel a loyal character they control, if able.",
-            "flavor": "“Robert is slain, but his realm remains. And we defend her.” - Beric Dondarrion",
+            "flavor": "\"Robert is slain, but his realm remains. And we defend her.\" <cite>Beric Dondarrion</cite>",
             "deckLimit": 3,
             "illustrator": "Nils Kratt (DALL-E)",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TIC/81_Blackhaven_Rider.png"
@@ -204,7 +204,7 @@
                 "Maester"
             ],
             "text": "<b>Reaction:</b> After gold is moved from an opponent's gold pool to your own, reveal the top card of that player's deck. If that card is a character, discard it and draw 1 card. (Limit twice per round.)",
-            "flavor": "“Maester Harmune of Eastwatch is drunk more than he's sober.” \r- Jon Snow",
+            "flavor": "\"Maester Harmune of Eastwatch is drunk more than he's sober.\" <cite>Jon Snow</cite>",
             "deckLimit": 3,
             "illustrator": "Stephen Patane (Midjourney)",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TIC/89_Maester_Harmune.png"
@@ -245,7 +245,7 @@
                 "House Bolton"
             ],
             "text": "<b>Forced Reaction:</b> After you lose an [intrigue] challenge, give control of Bolton Loyalist to the winning opponent unless you sacrifice another character.",
-            "flavor": "“What did any Bolton ever know o' honor?” - Proprietor of the Lazy Eel",
+            "flavor": "\"What did any Bolton ever know o' honor?\" <cite>Proprietor of the Lazy Eel</cite>",
             "deckLimit": 3,
             "illustrator": "Kaya",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TIC/91_Bolton_Loyalist.png"
@@ -265,7 +265,7 @@
                 "The Riverlands"
             ],
             "text": "<b>Reaction:</b> After power is gained by or moved to a character you control, gain 1 gold. (Limit once per phase.)",
-            "flavor": "“My hall might lack for food, but never for courtesy.” - Tytos Blackwood",
+            "flavor": "\"My hall might lack for food, but never for courtesy.\" <cite>Tytos Blackwood</cite>",
             "deckLimit": 3,
             "illustrator": "Yoann Boissonnet",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TIC/92_Raventree_Hall.png"
@@ -356,7 +356,7 @@
                 "Legacy"
             ],
             "text": "<b>Challenges Action:</b> Reveal the top X cards of your deck. Choose up to 2 cards revealed this way and add them to your hand. Shuffle the other cards back into your deck.",
-            "flavor": "“Can you smell the fruit, ser? The perfume of the Arbor. Taste it, my lord, and tell me it isn't the finest, richest wine that's ever touched your tongue.”\r",
+            "flavor": "\"Can you smell the fruit, ser? The perfume of the Arbor. Taste it, my lord, and tell me it isn't the finest, richest wine that's ever touched your tongue.\"",
             "deckLimit": 3,
             "illustrator": "Nils Kratt (DALL-E)",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TIC/96_Gilbert_of_the_Vines.png"
@@ -380,7 +380,7 @@
                 "Spy"
             ],
             "text": "Shadow (1).\n<b>Reaction:</b> After Little Bird comes out of shadows, choose an opponent and look at the top card of their deck. Then, you and that player may draw 1 card.",
-            "flavor": "“Nothing happens in this city without Varys knowing.” - Littlefinger",
+            "flavor": "\"Nothing happens in this city without Varys knowing.\" <cite>Littlefinger</cite>",
             "deckLimit": 3,
             "illustrator": "Anna Christenson",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TIC/97_Little_Bird.png"

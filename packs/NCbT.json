@@ -125,7 +125,7 @@
             "cost": "-",
             "traits": [],
             "text": "Limited. Shadow (0).\n<b>Reaction:</b> After you win an [intrigue] challenge, gain 2 gold for each card you control in shadows.",
-            "flavor": "“The gold I grant you, but the Rock is mine.”\n- Tyrion Lannister\n",
+            "flavor": "\"The gold I grant you, but the Rock is mine.\" <cite>Tyrion Lannister</cite>",
             "deckLimit": 3,
             "illustrator": "Jonny Klein",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/NCbT/106_All_the_Gold_in_Casterly_Rock.png"
@@ -238,7 +238,7 @@
                 "Lord"
             ],
             "text": "Stealth.\nReduce the cost of the first [stark] card you bring out of shadows each round by 2.",
-            "flavor": "“But they will not fail. My father knew the worth of Howland Reed.” - Robb Stark",
+            "flavor": "\"But they will not fail. My father knew the worth of Howland Reed.\" <cite>Robb Stark</cite>",
             "deckLimit": 3,
             "illustrator": "Zsolt Ruzsinszki",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/NCbT/111_Howland_Reed.png"
@@ -340,7 +340,7 @@
             "cost": 1,
             "traits": [],
             "text": "<b>Interrupt:</b> When the effects of an opponent's triggered character or location ability would initiate, give that player 1 gold from your gold pool to cancel those effects.",
-            "flavor": "“The bride's father and brothers have bent the knee and sworn him their swords.” - Tywin Lannister",
+            "flavor": "\"The bride's father and brothers have bent the knee and sworn him their swords.\" <cite>Tywin Lannister</cite>",
             "deckLimit": 3,
             "illustrator": "Roman Papsuev",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/NCbT/116_Growing_Influence.png"
@@ -364,7 +364,7 @@
                 "The Seven"
             ],
             "text": "While you have a <i>The Seven</i> plot card revealed, Elder Brother cannot be killed.",
-            "flavor": "“He has restored many a man to health that even the Maesters could not cure, and many a woman too.” - Narbert",
+            "flavor": "\"He has restored many a man to health that even the Maesters could not cure, and many a woman too.\" <cite>Narbert</cite>",
             "deckLimit": 3,
             "illustrator": "Marc Simonetti",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/NCbT/117_Elder_Brother.png"

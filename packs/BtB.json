@@ -555,7 +555,7 @@
                 "Dothraki",
                 "Mercenary"
             ],
-            "text": "<b>Reaction:</b> After an opponent gains gold, if it is not the marshaling phase, sacrifice Zollo the Fat to move all gold from that player's gold pool to your own.\n",
+            "text": "<b>Reaction:</b> After an opponent gains gold, if it is not the marshaling phase, sacrifice Zollo the Fat to move all gold from that player's gold pool to your own.",
             "flavor": "Captured again by the Brave Companions, and maimed at the word of Vargo Hoat their captain, losing his sword hand to the blade of Zollo the Fat.",
             "deckLimit": 3,
             "illustrator": "Jon Bosco",
