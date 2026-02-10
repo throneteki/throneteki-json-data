@@ -42,7 +42,7 @@
       "traits": [
         "Title"
       ],
-      "text": "Unique character only.\r\n<b>Reaction:</b> After you win a [power] challenge, kneel attached character to choose and kill a kneeling character controlled by the losing opponent.",
+      "text": "Unique character only.\n<b>Reaction:</b> After you win a [power] challenge, kneel attached character to choose and kill a kneeling character controlled by the losing opponent.",
       "flavor": "\"If the wicked do not fear the King's Justice, you have put the wrong man in the office.\" <cite>Cersei Lannister</cite>",
       "deckLimit": 3,
       "illustrator": "Mike Capprotti",
@@ -194,7 +194,7 @@
         "Wildling"
       ],
       "text": "If you do not control another <i>Wildling</i> character or Jon Snow, sacrifice Oathsworn Wildling.",
-      "flavor": "“Tormund has given me his oath. He will serve with us until the spring.” \r- Jon Snow",
+      "flavor": "\"Tormund has given me his oath. He will serve with us until the spring.\" <cite>Jon Snow</cite>",
       "deckLimit": 3,
       "illustrator": "Stephen Patane (Midjourney)",
       "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WoW/29_Oathsworn_Wildling.png"
@@ -238,8 +238,8 @@
         "Army",
         "House Umber"
       ],
-      "text": "Assault. No attachments. Shadow (X).\r\nX is the number of plot cards in your used pile (minimum of 1).",
-      "flavor": "“The Umbers may seem simple, but they are not without a certain low cunning” \r- Roose Bolton",
+      "text": "Assault. No attachments. Shadow (X).\nX is the number of plot cards in your used pile (minimum of 1).",
+      "flavor": "\"The Umbers may seem simple, but they are not without a certain low cunning\" <cite>Roose Bolton</cite>",
       "deckLimit": 3,
       "illustrator": "Felicia Cano",
       "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WoW/31_House_Umber_Berserkers.png"
@@ -384,7 +384,7 @@
         "Small Council"
       ],
       "text": "<b>Standing Action:</b> Kneel your faction card to put a <i>Small Council</i> character into play from your discard pile.",
-      "flavor": "“Someone has to rule this damnable kingdom. Put on the badge, Ned. It suits you.”\r- Robert Baratheon\r",
+      "flavor": "\"Someone has to rule this damnable kingdom. Put on the badge, Ned. It suits you.\" <cite>Robert Baratheon</cite>",
       "deckLimit": 3,
       "illustrator": "Lukasz Jaskolski",
       "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WoW/38_Reinstatement.png"
@@ -407,7 +407,7 @@
         "War"
       ],
       "text": "Each character's STR cannot be increased or reduced by card effects.",
-      "flavor": "“We shall see, brother. Come the dawn, we shall see.” - Stannis Baratheon",
+      "flavor": "\"We shall see, brother. Come the dawn, we shall see.\" <cite>Stannis Baratheon</cite>",
       "deckLimit": 2,
       "illustrator": "Piotr Chrzanowski",
       "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WoW/39_Striking_at_Dawn.png"

@@ -310,7 +310,7 @@
                 "Poison"
             ],
             "text": "Opponent's character only. Shadow (0). Terminal.\nWhile attached character is participating in a challenge, it gets -1 STR for each attachment it has and is killed if its STR is 0.",
-            "flavor": "“You ought to try a few yourself, my love.” - Hizdahr zo Loraq",
+            "flavor": "\"You ought to try a few yourself, my love.\" <cite>Hizdahr zo Loraq</cite>",
             "deckLimit": 3,
             "illustrator": "Stephen Patane (Midjourney)",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JfE/94_Poisoned_Locusts.png"
@@ -417,7 +417,7 @@
                 "Noble"
             ],
             "text": "Each <i>Small Council</i> character you control gains insight.",
-            "flavor": "“He entrusts some small matters to us, to lighten his load.” - Varys",
+            "flavor": "\"He entrusts some small matters to us, to lighten his load.\" <cite>Varys</cite>",
             "deckLimit": 2,
             "illustrator": "Thomas Denmark",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/JfE/99_A_Meeting_of_Minds.png"

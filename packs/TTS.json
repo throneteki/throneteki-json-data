@@ -43,7 +43,7 @@
                 "Condition"
             ],
             "text": "Non-limited location only. Terminal.\nAttached location cannot stand unless its controller has won a [power] challenge this round.",
-            "flavor": "“It takes more than a gold cloak to make a watchman.”\r- Ser Jacelyn Bywater",
+            "flavor": "\"It takes more than a gold cloak to make a watchman.\" <cite>Ser Jacelyn Bywater</cite>",
             "deckLimit": 3,
             "illustrator": "Rafal Hrynkiewicz",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TTS/62_Martial_Law.png"
@@ -175,7 +175,7 @@
                 "Tapestry"
             ],
             "text": "Unique [martell] location you control only.\n<b>Reaction:</b> After you win a challenge by 5 or more STR, kneel Nymeria of Ny Sar to reveal a [martell] or <i>Summer</i> plot.",
-            "flavor": "“On the day they wed, Nymeria fired her ships, so her people would understand that there could be no going back.”\r- Arianne Martell",
+            "flavor": "\"On the day they wed, Nymeria fired her ships, so her people would understand that there could be no going back.\" <cite>Arianne Martell</cite>",
             "deckLimit": 3,
             "illustrator": "Kris Cooper",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TTS/68_Nymeria_of_Ny_Sar.png"
@@ -271,7 +271,7 @@
                 "Legacy"
             ],
             "text": "<b>When Revealed:</b> Each player sacrifices a non-loyal character, if able.",
-            "flavor": "“The winters are hard, but the Starks will endure. We always have.” \r- Eddard Stark",
+            "flavor": "\"The winters are hard, but the Starks will endure. We always have.\" <cite>Eddard Stark</cite>",
             "deckLimit": 1,
             "illustrator": "Stephen Patane (Midjourney)",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TTS/72_The_Hour_of_the_Wolf.png"
@@ -317,7 +317,7 @@
                 "Tapestry"
             ],
             "text": "Unique [targaryen] location you control only.\nDuring a challenge in which you control an attacking <i>Dragon</i> character with printed cost 7 or higher, raise the claim value on your revealed plot card by 1.",
-            "flavor": "“When the sun sets, your line shall end.”",
+            "flavor": "\"When the sun sets, your line shall end.\"",
             "deckLimit": 3,
             "illustrator": "Kris Cooper",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/TTS/74_Aegon_the_Conqueror.png"
