@@ -417,8 +417,8 @@
             "strength": 3,
             "traits": [
                 "Mercenary",
+                "Raider",
                 "R'hllor",
-                "Smuggler",
                 "The Seven"
             ],
             "text": "Shadow (3).\n<b>Reaction:</b> After Myrish Pirates enters play during the challenges phase, move 1 power or 1 gold from a character you do not control to a character you control.\n<b>Draft format only.</b>",
@@ -799,7 +799,7 @@
             "traits": [
                 "Drowned God"
             ],
-            "text": "You may ambush non-unique <i>Drowned God</i> or <i>Raider</i> characters from your dead pile as if they were in your hand.\nEach <i>Drowned God</i> or <i>Raider</i> character in your hand or dead pile gains ambush (X). X is that card's printed cost.\n<b>Draft format only.</b>",
+            "text": "You may ambush <i>Drowned God</i> or <i>Raider</i> characters from your dead pile as if they were in your hand.\nEach <i>Drowned God</i> or <i>Raider</i> character in your hand or dead pile gains ambush (X). X is that card's printed cost.\n<b>Draft format only.</b>",
             "flavor": "\"When he cast me forth again he gave me eyes to see, ears to hear, and a voice to spread his word, that I might be his prophet and teach his truth to those who have forgotten.\" <cite>Aeron Damphair</cite>",
             "deckLimit": 1,
             "illustrator": "Lincoln Renall",
@@ -1151,12 +1151,12 @@
                 "intrigue": true,
                 "power": true
             },
-            "strength": 1,
+            "strength": 2,
             "traits": [
                 "Old Gods",
                 "Steward"
             ],
-            "text": "<b>Reaction:</b> After a card enters play during the challenges phase, kneel Stony Shore Thrall to choose an opponent. Until that player reveals a new plot card, reduce the reserve value on their revealed plot card by 1 (to a minimum of 2). Then, you may have each player check reserve.\n<b>Draft format only.</b>",
+            "text": "<b>Reaction:</b> After a card enters play during the challenges phase, choose an opponent. Until that player reveals a new plot card, reduce the reserve value on their revealed plot card by 1 (to a minimum of 2). Then, you may have each player check reserve. (Limit once per round.)\n<b>Draft format only.</b>",
             "deckLimit": 40,
             "illustrator": "Hermann Baisch",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/46C_Stony_Shore_Thrall.png",
@@ -5423,6 +5423,7 @@
                 "Omen"
             ],
             "text": "<b>When Revealed:</b> Kneel each character.\nDraft format only.",
+            "flavor": "\"Almost all are common-born, simple folk who had never been more than a mile from the house where they were born until the day some lord came round to take them off to war.\" <cite>Septon Meribald</cite>",
             "deckLimit": 1,
             "illustrator": "Franz von Defregger",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/225U_All_Men_Must_Serve.png",
