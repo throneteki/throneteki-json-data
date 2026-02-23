@@ -6448,7 +6448,7 @@
                 "Winter"
             ],
             "text": "<b>When Revealed:</b> Either, increase the gold value on Feast or Famine by 5, or increase the claim value on Feast or Famine by 2.\n<b>Draft format only.</b>",
-            "deckLimit": 2,
+            "deckLimit": 1,
             "illustrator": "Circle of Sebastian Stoskopff",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/272S_Feast_or_Famine.png",
             "rarity": "Starter"
@@ -6470,7 +6470,7 @@
                 "Omen"
             ],
             "text": "<b>When Revealed:</b> Each player chooses any number of characters they control with total printed cost 10 or lower. Kill each character not chosen (cannot be saved).\n<b>Draft format only.</b>",
-            "deckLimit": 2,
+            "deckLimit": 1,
             "illustrator": "Carlo Coppola",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/273S_The_Pale_Mare.png",
             "rarity": "Starter"
@@ -6492,7 +6492,7 @@
                 "City"
             ],
             "text": "<b>When Revealed:</b> Draw 1 card. (2 cards instead if there is a <i>City</i> plot card in your used pile.)\n<b>Draft format only.</b>",
-            "deckLimit": 2,
+            "deckLimit": 1,
             "illustrator": "Fritz Beinke",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/274S_City_Fair.png",
             "rarity": "Starter"
@@ -6515,7 +6515,7 @@
                 "War"
             ],
             "text": "<b>When Revealed:</b> Put a character with printed cost 3 or lower into play from your hand. (Printed cost 6 or lower instead if there is a <i>City</i> plot card in your used pile.)\n<b>Draft format only.</b>",
-            "deckLimit": 2,
+            "deckLimit": 1,
             "illustrator": "Tomasz Jedruszek",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/275S_Manning_the_City_Walls.png",
             "rarity": "Starter"
@@ -6537,7 +6537,7 @@
                 "Siege"
             ],
             "text": "During the first [military] challenge you initiate during the challenges phase, raise the claim value on Razed to the Ground by 1.\n<b>Draft format only.</b>",
-            "deckLimit": 2,
+            "deckLimit": 1,
             "illustrator": "Pieter Meulener",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/276S_Razed_to_the_Ground.png",
             "rarity": "Starter"
@@ -6559,7 +6559,7 @@
                 "Scheme"
             ],
             "text": "<b>Reaction:</b> After you win an [intrigue] challenge, draw X cards, where X is the claim value on Bitter Accusation. Then, choose and discard 1 card from your hand.\n<b>Draft format only.</b>",
-            "deckLimit": 2,
+            "deckLimit": 1,
             "illustrator": "Emil Lauffer",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/277S_Bitter_Accusation.png",
             "rarity": "Starter"
@@ -6581,7 +6581,7 @@
                 "Edict"
             ],
             "text": "You may initiate an additional [power] challenge during the challenges phase.\n<b>Draft format only.</b>",
-            "deckLimit": 2,
+            "deckLimit": 1,
             "illustrator": "Tomasz Jedruszek",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/278S_Royal_Decree.png",
             "rarity": "Starter"
@@ -6603,7 +6603,7 @@
                 "War"
             ],
             "text": "Each player cannot declare more than 1 character as an attacker or defender in each challenge.\n<b>Draft format only.</b>",
-            "deckLimit": 2,
+            "deckLimit": 1,
             "illustrator": "Zygmunt Ajdukiewicz",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/279S_Jousting_Contest.png",
             "rarity": "Starter"
@@ -6626,7 +6626,7 @@
                 "Winter"
             ],
             "text": "<b>When Revealed:</b> Place each character with printed cost 3 or lower without attachments on the bottom of its owner's deck.\n<b>Draft format only.</b>",
-            "deckLimit": 2,
+            "deckLimit": 1,
             "illustrator": "Julius Sergius Klever",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/280S_Biting_Cold.png",
             "rarity": "Starter"
@@ -6649,7 +6649,7 @@
                 "Riddle"
             ],
             "text": "<b>Action:</b> Choose a character. Until the end of the phase, that character gains a <i>Trait</i> or challenge icon of your choice. (Limit once per round.)\n<b>Draft format only.</b>",
-            "deckLimit": 2,
+            "deckLimit": 1,
             "illustrator": "Juan Carlos Barquet",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/281S_Secrets_of_Oldtown.png",
             "rarity": "Starter"
