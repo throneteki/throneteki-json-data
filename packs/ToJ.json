@@ -6622,6 +6622,7 @@
                 "reserve": 5
             },
             "traits": [
+                "Omen",
                 "Winter"
             ],
             "text": "<b>When Revealed:</b> Place each character with printed cost 3 or lower without attachments on the bottom of its owner's deck.\n<b>Draft format only.</b>",
