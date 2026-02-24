@@ -141,6 +141,15 @@
             "minLength": 1,
             "type": "string",
             "pattern": "^\\S+$"
+        },
+        "rarity": {
+            "enum": [
+                "common",
+                "uncommon",
+                "rare",
+                "hidden",
+                "starter"
+            ]
         }
     },
     "required": [
