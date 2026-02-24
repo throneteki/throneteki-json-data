@@ -29,7 +29,7 @@
             "deckLimit": 40,
             "illustrator": "Tomasz Jedruszek",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/1R_King_Stanniss_Host.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00102",
@@ -55,7 +55,7 @@
             "deckLimit": 40,
             "illustrator": "Marc Simonetti",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/2R_Beric_Dondarrion.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00103",
@@ -82,7 +82,7 @@
             "deckLimit": 40,
             "illustrator": "Melle (Midjourney)",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/3R_Salladhor_Saans_Lyseni.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00104",
@@ -110,7 +110,7 @@
             "deckLimit": 40,
             "illustrator": "Allen Douglas",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/4R_Stannis_Baratheon.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00105",
@@ -136,7 +136,7 @@
             "deckLimit": 40,
             "illustrator": "Tomasz Jedruszek",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/5R_Ser_Richard_Horpe.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00106",
@@ -156,7 +156,7 @@
             "deckLimit": 40,
             "illustrator": "Ted Nasmith",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/6R_Storms_End.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00107",
@@ -177,7 +177,7 @@
             "illustrator": "Kris Cooper",
             "designer": "Card inspired by 2010 Joust World Champion, Alec Irwin.",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/7R_The_Laughing_Storm.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00108",
@@ -202,7 +202,7 @@
             "deckLimit": 1,
             "illustrator": "Dipa dipo",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/8R_Roberts_Rebellion.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00109",
@@ -229,7 +229,7 @@
             "deckLimit": 40,
             "illustrator": "Henning Ludvigsen",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/9U_Gendry.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00110",
@@ -257,7 +257,7 @@
             "deckLimit": 40,
             "illustrator": "Ben Guldemond",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/10U_Bonifer_the_Good.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00111",
@@ -283,7 +283,7 @@
             "deckLimit": 40,
             "illustrator": "Harry Platt",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/11U_Ser_Gilbert_Farring.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00112",
@@ -310,7 +310,7 @@
             "deckLimit": 40,
             "illustrator": "Allen Douglas",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/12U_Jon_Arryn.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00113",
@@ -337,7 +337,7 @@
             "deckLimit": 40,
             "illustrator": "Chillyraven",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/13U_Ser_Clayton_Suggs.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00114",
@@ -364,7 +364,7 @@
             "deckLimit": 40,
             "illustrator": "Mike Gardner",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/14U_Godry_the_Giantslayer.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00115",
@@ -380,7 +380,7 @@
             "deckLimit": 40,
             "illustrator": "GooseFrol",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/15U_No_Song_So_Sweet.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00116",
@@ -397,7 +397,7 @@
             "deckLimit": 40,
             "illustrator": "Ekaterina Burmak",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/16U_Set_Down_Our_Deeds.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00117",
@@ -425,7 +425,7 @@
             "deckLimit": 40,
             "illustrator": "Henning Ludvigsen",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/17C_Myrish_Pirates.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00118",
@@ -451,7 +451,7 @@
             "deckLimit": 40,
             "illustrator": "Nils Kratt (DALL-E)",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/18C_Blackhaven_Rider.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00119",
@@ -478,7 +478,7 @@
             "flavor": "\"They pray well, I suppose, but can they fight?\" <cite>Jaime Lannister</cite>",
             "illustrator": "Andrew Bosley",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/19C_The_Holy_Hundred.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00120",
@@ -504,7 +504,7 @@
             "deckLimit": 40,
             "illustrator": "Marc Simonetti",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/20C_Acolyte_of_the_Shadow.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00121",
@@ -530,7 +530,7 @@
             "deckLimit": 40,
             "illustrator": "Mike Capprotti",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/21C_Antler_Men.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00122",
@@ -558,7 +558,7 @@
             "flavor": "The striped hulls of Lysene war galleys had been seen offshore, and Varys had reports from Myr of sellsail captains taking service with Dragonstone.",
             "illustrator": "Dimitri Bielak",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/22C_Sellsails.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00123",
@@ -577,7 +577,7 @@
             "deckLimit": 40,
             "illustrator": "Marc Simonetti",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/23C_Nightfort_Ruins.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00124",
@@ -598,7 +598,7 @@
             "deckLimit": 40,
             "illustrator": "Jason Engle",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/24C_Flaming_Sword.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00125",
@@ -627,7 +627,7 @@
             "deckLimit": 40,
             "illustrator": "Mathia Arkoniel",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/25R_Euron_Crows_Eye.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00126",
@@ -655,7 +655,7 @@
             "deckLimit": 40,
             "illustrator": "Rafal Hrynkiewicz",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/26R_Ralf_the_Limper.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00127",
@@ -683,7 +683,7 @@
             "deckLimit": 40,
             "illustrator": "Nikolai Kalinin",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/27R_Victarion_Greyjoy.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00128",
@@ -711,7 +711,7 @@
             "illustrator": "Guillem H.Pongiluppi",
             "designer": "Card design by 2017 Castle Stahleck Joust Champion, Martí Foz Hernàndez.",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/28R_Ralf_Kenning.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00129",
@@ -739,7 +739,7 @@
             "deckLimit": 40,
             "illustrator": "Stepan Gilev",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/29R_Erik_Anvil-Breaker.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00130",
@@ -760,7 +760,7 @@
             "deckLimit": 40,
             "illustrator": "Roman Papsuev",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/30R_Winterfell.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00131",
@@ -780,7 +780,7 @@
             "deckLimit": 40,
             "illustrator": "Roman Papsuev",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/31R_Valyrian_Steel_Armor.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00132",
@@ -804,7 +804,7 @@
             "deckLimit": 1,
             "illustrator": "Lincoln Renall",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/32R_Cast_Me_Forth.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00133",
@@ -830,7 +830,7 @@
             "deckLimit": 40,
             "illustrator": "Andrea Piazza",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/33U_The_Knight.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00134",
@@ -858,7 +858,7 @@
             "deckLimit": 40,
             "illustrator": "Roman Papsuev",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/34U_Dagmer_Cleftjaw.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00135",
@@ -886,7 +886,7 @@
             "deckLimit": 40,
             "illustrator": "Helder Almeida",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/35U_Left-Hand_Lucas_Codd.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00136",
@@ -913,7 +913,7 @@
             "deckLimit": 40,
             "illustrator": "Tommy Arnold",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/36U_Black_Lorren.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00137",
@@ -940,7 +940,7 @@
             "deckLimit": 40,
             "illustrator": "Elena María Vacas",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/37U_Moqorro.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00138",
@@ -965,7 +965,7 @@
             "deckLimit": 40,
             "illustrator": "Yoann Boissonnet",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/38U_Cragorn.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00139",
@@ -984,7 +984,7 @@
             "deckLimit": 40,
             "illustrator": "Juan Carlos Barquet",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/39U_Silence.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00140",
@@ -1004,7 +1004,7 @@
             "deckLimit": 40,
             "illustrator": "Tysen Johnson",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/40U_Saltcliffe.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00141",
@@ -1030,7 +1030,7 @@
             "deckLimit": 40,
             "illustrator": "Tomasz Jedruszek",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/41C_Fleet_from_Ten_Towers.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00142",
@@ -1055,7 +1055,7 @@
             "deckLimit": 40,
             "illustrator": "Matt Olson",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/42C_Great_Krakens_Crew.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00143",
@@ -1081,7 +1081,7 @@
             "deckLimit": 40,
             "illustrator": "Marc Scheff",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/43C_Saltcliffe_Marauder.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00144",
@@ -1107,7 +1107,7 @@
             "deckLimit": 40,
             "illustrator": "Tomasz Jedruszek",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/44C_Harlaw_Scout.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00145",
@@ -1134,7 +1134,7 @@
             "deckLimit": 40,
             "illustrator": "Aurelien Hubert",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/45C_Old_Captain.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00146",
@@ -1160,7 +1160,7 @@
             "deckLimit": 40,
             "illustrator": "Hermann Baisch",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/46C_Stony_Shore_Thrall.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00147",
@@ -1180,7 +1180,7 @@
             "deckLimit": 40,
             "illustrator": "Aaron Riley",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/47C_Krakens_Hatchet.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00148",
@@ -1197,7 +1197,7 @@
             "deckLimit": 40,
             "illustrator": "Aurelien Hubert",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/48C_Though_All_Men_Do_Despise_Us.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00149",
@@ -1223,7 +1223,7 @@
             "deckLimit": 40,
             "illustrator": "Magali Villeneuve",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/49R_Tywin_Lannister.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00150",
@@ -1250,7 +1250,7 @@
             "deckLimit": 40,
             "illustrator": "Nacho Molina",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/50R_Ser_Daven_Lannister.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00151",
@@ -1277,7 +1277,7 @@
             "deckLimit": 40,
             "illustrator": "Jason Engle",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/51R_Ser_Jaime_Lannister.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00152",
@@ -1304,7 +1304,7 @@
             "deckLimit": 40,
             "illustrator": "Tomasz Jedruszek",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/52R_Ser_Lancel_Lannister.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00153",
@@ -1330,7 +1330,7 @@
             "deckLimit": 40,
             "illustrator": "Joshua Cairos",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/53R_Tommen_Baratheon.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00154",
@@ -1350,7 +1350,7 @@
             "deckLimit": 40,
             "illustrator": "Ted Nasmith",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/54R_Casterly_Rock.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00155",
@@ -1369,7 +1369,7 @@
             "deckLimit": 40,
             "illustrator": "Félix Sotomayor",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/55R_Lannisport.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00156",
@@ -1393,7 +1393,7 @@
             "deckLimit": 1,
             "illustrator": "Samuel Pi Pedrini",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/56R_The_Sack_of_Kings_Landing.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00157",
@@ -1419,7 +1419,7 @@
             "deckLimit": 40,
             "illustrator": "Roman Papsuev",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/57U_Ser_Addam_Marbrand.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00158",
@@ -1446,7 +1446,7 @@
             "deckLimit": 40,
             "illustrator": "Kirill Nedorosol",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/58U_Ser_Harys_Swyft.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00159",
@@ -1472,7 +1472,7 @@
             "deckLimit": 40,
             "illustrator": "Natascha Röösli",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/59U_Bronn.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00160",
@@ -1497,7 +1497,7 @@
             "deckLimit": 40,
             "illustrator": "Sacha Diener",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/60U_Myrcella_Baratheon.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00161",
@@ -1523,7 +1523,7 @@
             "deckLimit": 40,
             "illustrator": "Henning Ludvigsen",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/61U_Ser_Boros_Blount.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00162",
@@ -1543,7 +1543,7 @@
             "deckLimit": 40,
             "illustrator": "Katalin Illés",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/62U_Boots.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00163",
@@ -1563,7 +1563,7 @@
             "deckLimit": 40,
             "illustrator": "Joshua Cairos",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/63U_Lady_Whiskers.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00164",
@@ -1580,7 +1580,7 @@
             "deckLimit": 40,
             "illustrator": "Nikolai Kalinin",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/64U_A_Lannisters_Honor.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00165",
@@ -1606,7 +1606,7 @@
             "deckLimit": 40,
             "illustrator": "Gergely Nagy",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/65C_Warriors_Sons.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00166",
@@ -1632,7 +1632,7 @@
             "deckLimit": 40,
             "illustrator": "Owen William Weber",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/66C_Ashemark_Councilor.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00167",
@@ -1658,7 +1658,7 @@
             "deckLimit": 40,
             "illustrator": "Aleksander Karcz",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/67C_Eager_Opportunist.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00168",
@@ -1683,7 +1683,7 @@
             "deckLimit": 40,
             "illustrator": "Marc Scheff",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/68C_The_Imps_Agent.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00169",
@@ -1709,7 +1709,7 @@
             "deckLimit": 40,
             "illustrator": "N.C. Wyeth",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/69C_Cruel_Brigand.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00170",
@@ -1728,7 +1728,7 @@
             "deckLimit": 40,
             "illustrator": "Gergely Nagy",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/70C_Kings_Landing_Dromond.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00171",
@@ -1747,7 +1747,7 @@
             "deckLimit": 40,
             "illustrator": "Anton Hansch",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/71C_Silverhill_River.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00172",
@@ -1764,7 +1764,7 @@
             "deckLimit": 40,
             "illustrator": "Grandfailure",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/72C_Burning_Bright.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00173",
@@ -1790,7 +1790,7 @@
             "deckLimit": 40,
             "illustrator": "Tomasz Jedruszek",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/73R_Lord_Anderss_Host.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00174",
@@ -1817,7 +1817,7 @@
             "deckLimit": 40,
             "illustrator": "Lukasz Jaskolski",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/74R_Anders_Yronwood.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00175",
@@ -1842,7 +1842,7 @@
             "deckLimit": 40,
             "illustrator": "Borja Pindado",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/75R_Doran_Martell.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00176",
@@ -1869,7 +1869,7 @@
             "deckLimit": 40,
             "illustrator": "Harry Platt",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/76R_Ser_Arys_Oakheart.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00177",
@@ -1894,7 +1894,7 @@
             "deckLimit": 40,
             "illustrator": "Drazenka Kimpel",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/77R_Arianne_Martell.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00178",
@@ -1920,7 +1920,7 @@
             "deckLimit": 40,
             "illustrator": "Diego Gisbert Llorens",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/78R_The_Tattered_Prince.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00179",
@@ -1939,7 +1939,7 @@
             "deckLimit": 40,
             "illustrator": "Henning Ludvigsen",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/79R_Sword_of_the_Morning.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00180",
@@ -1963,7 +1963,7 @@
             "deckLimit": 1,
             "illustrator": "millikodea",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/80R_The_Dornish_Wars.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00181",
@@ -1988,7 +1988,7 @@
             "deckLimit": 40,
             "illustrator": "Karla Ortiz",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/81U_Mellario.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00182",
@@ -2015,7 +2015,7 @@
             "deckLimit": 40,
             "illustrator": "Gergely Nagy",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/82U_Ser_Gulian_Qorgyle.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00183",
@@ -2040,7 +2040,7 @@
             "deckLimit": 40,
             "illustrator": "Anh Bui",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/83U_Trystane_Martell.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00184",
@@ -2068,7 +2068,7 @@
             "deckLimit": 40,
             "illustrator": "Sara Betsy",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/84U_Tyene_Sand.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00185",
@@ -2094,7 +2094,7 @@
             "deckLimit": 40,
             "illustrator": "Nils Kratt (DALL-E)",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/85U_Ser_Willam_Wells.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00186",
@@ -2115,7 +2115,7 @@
             "deckLimit": 40,
             "illustrator": "Tomasz Jedruszek",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/86U_Sandstone.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00187",
@@ -2134,7 +2134,7 @@
             "deckLimit": 40,
             "illustrator": "Luis Guggenberger",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/87U_War_Scorpion.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00188",
@@ -2154,7 +2154,7 @@
             "deckLimit": 40,
             "illustrator": "Stephen Patane (Midjourney)",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/88U_Vulture_King.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00189",
@@ -2179,7 +2179,7 @@
             "deckLimit": 40,
             "illustrator": "Adam Lane",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/89C_Ghost_Hill_Elite.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00190",
@@ -2205,7 +2205,7 @@
             "deckLimit": 40,
             "illustrator": "Harold Piffard",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/90C_Starfall_Servant.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00191",
@@ -2231,7 +2231,7 @@
             "deckLimit": 40,
             "illustrator": "Stephen Patane (Midjourney)",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/91C_Scheming_Snake.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00192",
@@ -2258,7 +2258,7 @@
             "deckLimit": 40,
             "illustrator": "Tomasz Jedruszek",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/92C_Windblown.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00193",
@@ -2284,7 +2284,7 @@
             "deckLimit": 40,
             "illustrator": "Henri Rousseau",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/93C_Desert_Freerider.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00194",
@@ -2309,7 +2309,7 @@
             "deckLimit": 40,
             "illustrator": "Jean-Léon Gérôme",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/94C_Vengeful_Lordling.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00195",
@@ -2328,7 +2328,7 @@
             "deckLimit": 40,
             "illustrator": "Gergely Nagy",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/95C_Dornish_Sloop.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00196",
@@ -2347,7 +2347,7 @@
             "deckLimit": 40,
             "illustrator": "Melle (DALL-E)",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/96C_A_Bed_of_Scorpions.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00197",
@@ -2374,7 +2374,7 @@
             "deckLimit": 40,
             "illustrator": "Tomasz Jedruszek",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/97R_Great_Ranging.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00198",
@@ -2401,7 +2401,7 @@
             "deckLimit": 40,
             "illustrator": "Alexandre Dainche",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/98R_Melisandre.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00199",
@@ -2427,7 +2427,7 @@
             "deckLimit": 40,
             "illustrator": "Christine Griffin",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/99R_Benjen_Stark.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00200",
@@ -2452,7 +2452,7 @@
             "deckLimit": 40,
             "illustrator": "Tony Nguyen",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/100R_Dywen.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00201",
@@ -2478,7 +2478,7 @@
             "deckLimit": 40,
             "illustrator": "Melle (Midjourney)",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/101R_Bowen_Marsh.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00202",
@@ -2498,7 +2498,7 @@
             "deckLimit": 40,
             "illustrator": "Ted Nasmith",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/102R_Castle_Black.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00203",
@@ -2519,7 +2519,7 @@
             "deckLimit": 40,
             "illustrator": "Marc Simonetti",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/103R_Sentinel_Stand.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00204",
@@ -2542,7 +2542,7 @@
             "deckLimit": 1,
             "illustrator": "Kay Huang",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/104R_The_Watch_Needs_Good_Men.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00205",
@@ -2568,7 +2568,7 @@
             "deckLimit": 40,
             "illustrator": "Colin Boyer",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/105U_Samwell_Tarly.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00206",
@@ -2595,7 +2595,7 @@
             "deckLimit": 40,
             "illustrator": "Lucas Soriano",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/106U_Iron_Emmett.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00207",
@@ -2620,7 +2620,7 @@
             "deckLimit": 40,
             "illustrator": "Raymond Bonilla",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/107U_Old_Tattersalt.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00208",
@@ -2646,7 +2646,7 @@
             "deckLimit": 40,
             "illustrator": "Stephen Patane (DALL-E)",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/108U_Gared.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00209",
@@ -2665,7 +2665,7 @@
             "deckLimit": 40,
             "illustrator": "Roman Papsuev",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/109U_Lord_Steward.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00210",
@@ -2685,7 +2685,7 @@
             "deckLimit": 40,
             "illustrator": "Lukasz Jaskolski",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/110U_Insubordination.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00211",
@@ -2702,7 +2702,7 @@
             "deckLimit": 40,
             "illustrator": "Jason Engle",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/111U_I_Pledge_My_Life_and_Honor.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00212",
@@ -2719,7 +2719,7 @@
             "deckLimit": 40,
             "illustrator": "Pedro H. Cardoso",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/112U_When_All_is_Darkest.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00213",
@@ -2747,7 +2747,7 @@
             "deckLimit": 40,
             "illustrator": "Tomasz Jedruszek",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/113C_Tormunds_Horde.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00214",
@@ -2774,7 +2774,7 @@
             "deckLimit": 40,
             "illustrator": "Jean-Baptiste Greuze",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/114C_Abels_Washerwoman.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00215",
@@ -2800,7 +2800,7 @@
             "deckLimit": 40,
             "illustrator": "Owen William Weber",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/115C_Marshs_Conspirator.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00216",
@@ -2825,7 +2825,7 @@
             "deckLimit": 40,
             "illustrator": "Aaron Riley",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/116C_Old_Steward.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00217",
@@ -2852,7 +2852,7 @@
             "deckLimit": 40,
             "illustrator": "Rudolf Otto Ritter von Ottenfeld",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/117C_Wall-Bound_Knight.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00218",
@@ -2878,7 +2878,7 @@
             "deckLimit": 40,
             "illustrator": "Stephen Patane (Midjourney)",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/118C_Highborn_Recruit.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00219",
@@ -2897,7 +2897,7 @@
             "deckLimit": 40,
             "illustrator": "Gergely Nagy",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/119C_Grey_Galley.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00220",
@@ -2914,7 +2914,7 @@
             "deckLimit": 40,
             "illustrator": "Roman Papsuev",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/120C_You_Know_Nothing.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00221",
@@ -2941,7 +2941,7 @@
             "deckLimit": 40,
             "illustrator": "Christine Griffin",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/121R_Robb_Stark.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00222",
@@ -2969,7 +2969,7 @@
             "deckLimit": 40,
             "illustrator": "Mihai Radu",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/122R_Roose_Bolton.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00223",
@@ -2997,7 +2997,7 @@
             "deckLimit": 40,
             "illustrator": "Roman Papsuev",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/123R_The_Blackfish.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00224",
@@ -3023,7 +3023,7 @@
             "deckLimit": 40,
             "illustrator": "Anh Bui",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/124R_Tytos_Blackwood.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00225",
@@ -3049,7 +3049,7 @@
             "deckLimit": 40,
             "illustrator": "Jeff Lee Johnson",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/125R_Rickard_Karstark.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00226",
@@ -3069,7 +3069,7 @@
             "deckLimit": 40,
             "illustrator": "Tsvetomir Zehov",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/126R_The_Crag.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00227",
@@ -3088,7 +3088,7 @@
             "deckLimit": 40,
             "illustrator": "Roman Papsuev",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/127R_Grey_Wind.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00228",
@@ -3113,7 +3113,7 @@
             "deckLimit": 1,
             "illustrator": "Stephen Patane (Midjourney)",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/128R_The_Hour_of_the_Wolf.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00229",
@@ -3139,7 +3139,7 @@
             "deckLimit": 40,
             "illustrator": "Sedone Thongvilay",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/129U_King_Robbs_Bannermen.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00230",
@@ -3165,7 +3165,7 @@
             "deckLimit": 40,
             "illustrator": "jason840629",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/130U_Bran_Stark.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00231",
@@ -3191,7 +3191,7 @@
             "illustrator": "Ertaç Altınöz",
             "designer": "Card design by 2019 Melee World Champion, Richard Walker.",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/131U_Jon_Snow.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00232",
@@ -3216,7 +3216,7 @@
             "deckLimit": 40,
             "illustrator": "Anna Christenson",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/132U_Farlen.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00233",
@@ -3242,7 +3242,7 @@
             "illustrator": "Ertaç Altınöz",
             "designer": "Card design by 2019 European Melee Champion, Chris Meeuwsen.",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/133U_Ghost.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00234",
@@ -3268,7 +3268,7 @@
             "deckLimit": 40,
             "illustrator": "JB Casacop",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/134U_Harwin.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00235",
@@ -3288,7 +3288,7 @@
             "deckLimit": 40,
             "illustrator": "Sergey Vasnev",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/135U_The_Wolfs_Den.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00236",
@@ -3308,7 +3308,7 @@
             "deckLimit": 40,
             "illustrator": "Sebastián Aguirre",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/136U_Greywater_Watch.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00237",
@@ -3335,7 +3335,7 @@
             "deckLimit": 40,
             "illustrator": "\nIgnacio Bazan-Lazcano",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/137C_The_Bastards_Boys.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00238",
@@ -3361,7 +3361,7 @@
             "deckLimit": 40,
             "illustrator": "Stephen Patane (Midjourney)",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/138C_Crannogmen.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00239",
@@ -3389,7 +3389,7 @@
             "deckLimit": 40,
             "illustrator": "Aurelien Hubert",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/139C_Mermans_Guard.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00240",
@@ -3416,7 +3416,7 @@
             "deckLimit": 40,
             "illustrator": "Andrius Anezin",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/140C_Trident_Guard.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00241",
@@ -3442,7 +3442,7 @@
             "deckLimit": 40,
             "illustrator": "Tomasz Jedruszek",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/141C_Bryndens_Outriders.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00242",
@@ -3469,7 +3469,7 @@
             "deckLimit": 40,
             "illustrator": "Melle (DALL-E)",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/142C_Karstark_Lancer.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00243",
@@ -3488,7 +3488,7 @@
             "deckLimit": 40,
             "illustrator": "Eric Lofgren",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/143C_The_Wolfswood.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00244",
@@ -3509,7 +3509,7 @@
             "deckLimit": 40,
             "illustrator": "Jon Bosco",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/144C_Wolf_Dreams.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00245",
@@ -3536,7 +3536,7 @@
             "deckLimit": 40,
             "illustrator": "Diego Gisbert Llorens",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/145R_Aegon_Targaryen.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00246",
@@ -3562,7 +3562,7 @@
             "deckLimit": 40,
             "illustrator": "Mike Capprotti",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/146R_Ser_Barristan_Selmy.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00247",
@@ -3589,7 +3589,7 @@
             "illustrator": "Harry Platt",
             "designer": "Card design by 2019 Joust World Champion, Francis Côté.",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/147R_Daenerys_Targaryen.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00248",
@@ -3615,7 +3615,7 @@
             "deckLimit": 40,
             "illustrator": "Tiziano Baracchi",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/148R_Magister_Illyrio.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00249",
@@ -3642,7 +3642,7 @@
             "illustrator": "Mark Bulahao",
             "designer": "Card design by 2017 European Joust Champion, Reinhard Schefcik.",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/149R_Lysono_Maar.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00250",
@@ -3669,7 +3669,7 @@
             "deckLimit": 40,
             "illustrator": "Tiziano Baracchi",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/150R_Quentyn_Martell.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00251",
@@ -3697,7 +3697,7 @@
             "deckLimit": 40,
             "illustrator": "Paw",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/151R_Ser_Harry_Strickland.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00252",
@@ -3722,7 +3722,7 @@
             "deckLimit": 1,
             "illustrator": "Ruben Devela",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/152R_Dance_of_the_Dragons.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00253",
@@ -3748,7 +3748,7 @@
             "deckLimit": 40,
             "illustrator": "Tomasz Jedruszek",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/153U_Grey_Worm.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00254",
@@ -3775,7 +3775,7 @@
             "deckLimit": 40,
             "illustrator": "Darek Zabrocki",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/154U_Ser_Rolly_Duckfield.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00255",
@@ -3800,7 +3800,7 @@
             "deckLimit": 40,
             "illustrator": "Lukasz Jaskolski",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/155U_Tyrion_Lannister.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00256",
@@ -3827,7 +3827,7 @@
             "deckLimit": 40,
             "illustrator": "Stephen Patane (Midjourney)",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/156U_Black_Balaq.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00257",
@@ -3853,7 +3853,7 @@
             "deckLimit": 40,
             "illustrator": "Sara Biddle",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/157U_Septa_Lemore.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00258",
@@ -3872,7 +3872,7 @@
             "deckLimit": 40,
             "illustrator": "Alex Serban (Midjourney)",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/158U_Grey_Worms_Spear.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00259",
@@ -3889,7 +3889,7 @@
             "deckLimit": 40,
             "illustrator": "Tomasz Jedruszek",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/159U_Our_Word_Is_Good_as_Gold.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00260",
@@ -3905,7 +3905,7 @@
             "deckLimit": 40,
             "illustrator": "Marc Simonetti",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/160U_Beneath_the_Gold_the_Bitter_Steel.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00261",
@@ -3931,7 +3931,7 @@
             "deckLimit": 40,
             "illustrator": "Tomasz Jedruszek",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/161C_Golden_Company.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00262",
@@ -3956,7 +3956,7 @@
             "deckLimit": 40,
             "illustrator": "David Horne",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/162C_Long_Lances.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00263",
@@ -3982,7 +3982,7 @@
             "deckLimit": 40,
             "illustrator": "Jon Bosco",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/163C_Sorrowful_Man.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00264",
@@ -4007,7 +4007,7 @@
             "deckLimit": 40,
             "illustrator": "Stephen Patane (Midjourney)",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/164C_Stalwart_Shields.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00265",
@@ -4032,7 +4032,7 @@
             "deckLimit": 40,
             "illustrator": "Stephen Patane (Midjourney)",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/165C_Free_Brothers.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00266",
@@ -4057,7 +4057,7 @@
             "deckLimit": 40,
             "illustrator": "Régis Moulun",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/166C_Stormcrows.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00267",
@@ -4076,7 +4076,7 @@
             "deckLimit": 40,
             "illustrator": "Martina Pilcerova",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/167C_Fighting_Pit.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00268",
@@ -4093,7 +4093,7 @@
             "deckLimit": 40,
             "illustrator": "Laio Yuni",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/168C_Naught_but_Ashes.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00269",
@@ -4120,7 +4120,7 @@
             "deckLimit": 40,
             "illustrator": "Francisco Rico Torres",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/169R_Randyll_Tarly.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00270",
@@ -4147,7 +4147,7 @@
             "deckLimit": 40,
             "illustrator": "Cristi Balanescu",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/170R_Margaery_Tyrell.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00271",
@@ -4173,7 +4173,7 @@
             "deckLimit": 40,
             "illustrator": "DrEvilsPjs (Midjourney)",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/171R_Mace_Tyrell.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00272",
@@ -4199,7 +4199,7 @@
             "deckLimit": 40,
             "illustrator": "Stephen Patane (Midjourney)",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/172R_Willas_Tyrell.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00273",
@@ -4227,7 +4227,7 @@
             "deckLimit": 40,
             "illustrator": "Felicia Cano",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/173R_The_Knight_of_Flowers.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00274",
@@ -4247,7 +4247,7 @@
             "deckLimit": 40,
             "illustrator": "Ted Nasmith",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/174R_Highgarden.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00275",
@@ -4267,7 +4267,7 @@
             "deckLimit": 40,
             "illustrator": "Kris Cooper",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/175R_Garth_Greenhand.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00276",
@@ -4292,7 +4292,7 @@
             "deckLimit": 1,
             "illustrator": "Diego Gisbert Llorens",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/176R_Chivalry_of_the_South.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00277",
@@ -4318,7 +4318,7 @@
             "deckLimit": 40,
             "illustrator": "Joshua Cairos",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/177U_Mina_Redwyne.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00278",
@@ -4346,7 +4346,7 @@
             "deckLimit": 40,
             "illustrator": "Michael Chrzanowski",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/178U_Ser_Bryce_Caron.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00279",
@@ -4372,7 +4372,7 @@
             "deckLimit": 40,
             "illustrator": "Drazenka Kimpel",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/179U_Alla_Tyrell.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00280",
@@ -4399,7 +4399,7 @@
             "deckLimit": 40,
             "illustrator": "Anh Bui",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/180U_Ser_Robar_Royce.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00281",
@@ -4425,7 +4425,7 @@
             "deckLimit": 40,
             "illustrator": "Stephen Patane (Midjourney)",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/181U_Dickon_Tarly.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00282",
@@ -4452,7 +4452,7 @@
             "deckLimit": 40,
             "illustrator": "Michael Chrzanowski",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/182U_Ser_Emmon_Cuy.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00283",
@@ -4472,7 +4472,7 @@
             "deckLimit": 40,
             "illustrator": "Storn Cook",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/183U_Highgarden_Destrier.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00284",
@@ -4492,7 +4492,7 @@
             "deckLimit": 40,
             "illustrator": "Nils Kratt (DALL-E)",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/184U_Gilbert_of_the_Vines.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00285",
@@ -4518,7 +4518,7 @@
             "deckLimit": 40,
             "illustrator": "Stephen Patane (Midjourney)",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/185C_Blackwater_Forces.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00286",
@@ -4543,7 +4543,7 @@
             "deckLimit": 40,
             "illustrator": "JB Casacop",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/186C_Red-Apple_Knight.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00287",
@@ -4570,7 +4570,7 @@
             "deckLimit": 40,
             "illustrator": "Tomasz Jedruszek",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/187C_Brightwater_Cavalry.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00288",
@@ -4596,7 +4596,7 @@
             "deckLimit": 40,
             "illustrator": "Gerard van Honthorst",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/188C_Arbor_Jester.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00289",
@@ -4622,7 +4622,7 @@
             "deckLimit": 40,
             "illustrator": "Régis Moulun",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/189C_Youthful_Acolyte.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00290",
@@ -4638,7 +4638,7 @@
             "deckLimit": 40,
             "illustrator": "Clément Fëanor",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/190C_Brienne_the_Blue.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00291",
@@ -4654,7 +4654,7 @@
             "deckLimit": 40,
             "illustrator": "Dimitri Bielak",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/191C_Behold_Our_Bounty.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00292",
@@ -4670,7 +4670,7 @@
             "deckLimit": 40,
             "illustrator": "Katalin Illés",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/192C_Beneath_the_Petals.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00293",
@@ -4695,7 +4695,7 @@
             "deckLimit": 40,
             "illustrator": "Josu Hernaiz",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/193R_Littlefinger.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00294",
@@ -4721,7 +4721,7 @@
             "deckLimit": 40,
             "illustrator": "Andrius Anezin",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/194R_Vargo_Hoat.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00295",
@@ -4748,7 +4748,7 @@
             "deckLimit": 40,
             "illustrator": "Chris Dien",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/195R_Brienne_of_Tarth.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00296",
@@ -4773,7 +4773,7 @@
             "deckLimit": 40,
             "illustrator": "Henning Ludvigsen",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/196R_Harma_Dogshead.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00297",
@@ -4798,7 +4798,7 @@
             "illustrator": "Christine Griffin",
             "designer": "Card design by 2008 Overall World Champion, Tzu-Mainn Chen.",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/197R_Former_Champion.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00298",
@@ -4816,7 +4816,7 @@
             "deckLimit": 40,
             "illustrator": "Ted Nasmith",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/198R_The_Vale_of_Arryn.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00299",
@@ -4834,7 +4834,7 @@
             "deckLimit": 40,
             "illustrator": "Thomas Denmark",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/199R_The_Moon_Door.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00300",
@@ -4853,7 +4853,7 @@
             "deckLimit": 40,
             "illustrator": "Henning Ludvigsen",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/200R_The_Tower_of_Joy.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00301",
@@ -4876,7 +4876,7 @@
             "deckLimit": 1,
             "illustrator": "Józef Simmler",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/201R_All_Men_Must_Die.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00302",
@@ -4899,7 +4899,7 @@
             "illustrator": "Melle (Midjourney)",
             "designer": "Card design by 2023 Online World Champion, Jim Hansen.",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/202R_Battle_on_the_Green_Fork.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00303",
@@ -4921,7 +4921,7 @@
             "deckLimit": 2,
             "illustrator": "Marc Simonetti",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/203R_Bran_the_Builder.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00304",
@@ -4944,7 +4944,7 @@
             "deckLimit": 1,
             "illustrator": "Niten",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/204R_The_Father.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00305",
@@ -4967,7 +4967,7 @@
             "deckLimit": 1,
             "illustrator": "ZG Fisher",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/205R_The_Mad_Kings_Command.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00306",
@@ -4990,7 +4990,7 @@
             "deckLimit": 2,
             "illustrator": "Drew Whitmore",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/206R_The_Maiden.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00307",
@@ -5013,7 +5013,7 @@
             "deckLimit": 1,
             "illustrator": "Joshua Cairos",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/207R_The_Stranger.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00308",
@@ -5036,7 +5036,7 @@
             "deckLimit": 1,
             "illustrator": "Drew Whitmore",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/208R_The_Warrior.png",
-            "rarity": "Rare"
+            "rarity": "rare"
         },
         {
             "code": "00309",
@@ -5062,7 +5062,7 @@
             "deckLimit": 40,
             "illustrator": "Fadly Romdhani",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/209U_Knights_of_the_Vale.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00310",
@@ -5087,7 +5087,7 @@
             "deckLimit": 40,
             "illustrator": "Tomasz Jedruszek",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/210U_Brave_Companions.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00311",
@@ -5113,7 +5113,7 @@
             "deckLimit": 40,
             "illustrator": "Chris Dien",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/211U_Nestor_Royce.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00312",
@@ -5140,7 +5140,7 @@
             "flavor": "\"I pray to the Warrior for strength, but the gods made me weak.\"",
             "illustrator": "Jeff Lee Johnson",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/212U_Septon_Utt.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00313",
@@ -5165,7 +5165,7 @@
             "illustrator": "Marc Simonetti",
             "designer": "Card design by 2022 Online World Champion, Alexandre Carry.",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/213U_Bloodraven.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00314",
@@ -5190,7 +5190,7 @@
             "deckLimit": 40,
             "illustrator": "Jomiiyy",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/214U_Septa_Unella.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00315",
@@ -5216,7 +5216,7 @@
             "deckLimit": 40,
             "illustrator": "Marc Simonetti",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/215U_Ser_Vardis_Egen.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00316",
@@ -5242,7 +5242,7 @@
             "deckLimit": 40,
             "illustrator": "Joshua Cairos",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/216U_Balerion.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00317",
@@ -5268,7 +5268,7 @@
             "flavor": "\"You mustn't hurt sweet Shagwell, I'm too droll to die.\"",
             "illustrator": "Rafal Hrynkiewicz",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/217U_Shagwell.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00318",
@@ -5294,7 +5294,7 @@
             "flavor": "\"A son for a son, heh. But that’s a grandson… and he never was much use.\" <cite>Walder Frey</cite>",
             "illustrator": "Polina Kirillova",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/218U_Jinglebell.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00319",
@@ -5313,7 +5313,7 @@
             "deckLimit": 40,
             "illustrator": "Andreas Rocha",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/219U_The_Green_Fork.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00320",
@@ -5331,7 +5331,7 @@
             "deckLimit": 40,
             "illustrator": "Taehoon Kang",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/220U_Gulltown.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00321",
@@ -5350,7 +5350,7 @@
             "deckLimit": 40,
             "illustrator": "Stephen Patane (Midjourney)",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/221U_The_Bloody_Gate.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00322",
@@ -5368,7 +5368,7 @@
             "deckLimit": 40,
             "illustrator": "Andreas Rocha",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/222U_Milkwater_Crossing.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00323",
@@ -5386,7 +5386,7 @@
             "deckLimit": 40,
             "illustrator": "Tiziano Baracchi",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/223U_Sweetsleep.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00324",
@@ -5404,7 +5404,7 @@
             "deckLimit": 40,
             "illustrator": "Stephen Najarian",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/224U_As_High_as_Honor.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00325",
@@ -5427,7 +5427,7 @@
             "deckLimit": 1,
             "illustrator": "Franz von Defregger",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/225U_All_Men_Must_Serve.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00326",
@@ -5451,7 +5451,7 @@
             "deckLimit": 1,
             "illustrator": "Florian Biege",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/226U_At_the_Tower_of_Joy.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00327",
@@ -5473,7 +5473,7 @@
             "deckLimit": 1,
             "illustrator": "Tomasz Jedruszek",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/227U_Battle_Beneath_the_Wall.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00328",
@@ -5495,7 +5495,7 @@
             "deckLimit": 1,
             "illustrator": "Tomasz Jedruszek",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/228U_Battle_of_the_Camps.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00329",
@@ -5519,7 +5519,7 @@
             "deckLimit": 2,
             "illustrator": "Piotr Chrzanowski",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/229U_Burning_the_Books.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00330",
@@ -5542,7 +5542,7 @@
             "deckLimit": 1,
             "illustrator": "Thomas Denmark",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/230U_City_Blockade.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00331",
@@ -5565,7 +5565,7 @@
             "deckLimit": 1,
             "illustrator": "Taehoon Kang",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/231U_City_Festival.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00332",
@@ -5588,7 +5588,7 @@
             "deckLimit": 1,
             "illustrator": "Ludwig Hermann",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/232U_City_of_Ice.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00333",
@@ -5611,7 +5611,7 @@
             "deckLimit": 1,
             "illustrator": "Rene Aigner",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/233U_City_of_Shadows.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00334",
@@ -5633,7 +5633,7 @@
             "deckLimit": 2,
             "illustrator": "Thomas Denmark",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/234U_Enemies_in_Every_Shadow.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00335",
@@ -5656,7 +5656,7 @@
             "deckLimit": 2,
             "illustrator": "Tomasz Jedruszek",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/235U_For_the_Realm.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00336",
@@ -5680,7 +5680,7 @@
             "deckLimit": 1,
             "illustrator": "Lukasz Jaskolski",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/236U_Melisandres_Gambit.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00337",
@@ -5703,7 +5703,7 @@
             "deckLimit": 1,
             "illustrator": "Fuderiki",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/237U_Open_Revolt.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00338",
@@ -5725,7 +5725,7 @@
             "deckLimit": 1,
             "illustrator": "Régis Moulun",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/238U_Strained_Reserves.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00339",
@@ -5749,7 +5749,7 @@
             "deckLimit": 2,
             "illustrator": "Piotr Chrzanowski",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/239U_Striking_at_Dawn.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00340",
@@ -5772,7 +5772,7 @@
             "deckLimit": 1,
             "illustrator": "Drew Whitmore",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/240U_The_Crone.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00341",
@@ -5796,7 +5796,7 @@
             "deckLimit": 1,
             "illustrator": "Marc Simonetti",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/241U_The_Defiance_of_Duskendale.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00342",
@@ -5819,7 +5819,7 @@
             "deckLimit": 2,
             "illustrator": "Niten",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/242U_The_Mother.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00343",
@@ -5842,7 +5842,7 @@
             "deckLimit": 2,
             "illustrator": "Darren Tan",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/243U_The_Pointy_End.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00344",
@@ -5865,7 +5865,7 @@
             "deckLimit": 2,
             "illustrator": "Niten",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/244U_The_Smith.png",
-            "rarity": "Uncommon"
+            "rarity": "uncommon"
         },
         {
             "code": "00345",
@@ -5891,7 +5891,7 @@
             "deckLimit": 40,
             "illustrator": "Robbie McSweeney",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/245C_Gulltown_City_Guard.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00346",
@@ -5916,7 +5916,7 @@
             "deckLimit": 40,
             "illustrator": "Salomon Koninck",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/246C_Maester_of_the_Eyrie.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00347",
@@ -5942,7 +5942,7 @@
             "deckLimit": 40,
             "illustrator": "Mathia Arkoniel",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/247C_Kings_Landing_Mob.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00348",
@@ -5966,7 +5966,7 @@
             "deckLimit": 40,
             "illustrator": "Frederick Arthur Bridgman",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/248C_Mummers_Troupe.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00349",
@@ -5990,7 +5990,7 @@
             "deckLimit": 40,
             "illustrator": "Stephen Patane (Midjourney)",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/249C_Harrenhal_Cupbearer.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00350",
@@ -6016,7 +6016,7 @@
             "deckLimit": 40,
             "illustrator": "Kerem Beyit",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/250C_Thenns.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00351",
@@ -6042,7 +6042,7 @@
             "deckLimit": 40,
             "illustrator": "Eugène Joseph Verboeckhoven",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/251C_Wandering_Knight.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00352",
@@ -6067,7 +6067,7 @@
             "deckLimit": 40,
             "illustrator": "ZG Fisher",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/252C_Kings_Landing_Smuggler.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00353",
@@ -6091,7 +6091,7 @@
             "deckLimit": 40,
             "illustrator": "Tomasz Jedruszek",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/253C_Squire.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00354",
@@ -6118,7 +6118,7 @@
             "deckLimit": 40,
             "illustrator": "Pastén (Midjourney)",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/254C_Gulltown_Merchant.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00355",
@@ -6136,7 +6136,7 @@
             "deckLimit": 40,
             "illustrator": "Torbjörn Källström",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/255C_The_Highroad.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00356",
@@ -6155,7 +6155,7 @@
             "deckLimit": 40,
             "illustrator": "Rutilio Manetti",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/256C_Quill_and_Parchment.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00357",
@@ -6174,7 +6174,7 @@
             "deckLimit": 40,
             "illustrator": "Victor Wong",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/257C_Face_Mask.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00358",
@@ -6191,7 +6191,7 @@
             "deckLimit": 40,
             "illustrator": "Octavio Huerta",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/258C_Florian_and_Jonquil.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00359",
@@ -6209,7 +6209,7 @@
             "deckLimit": 40,
             "illustrator": "Janka Nagy-Hernádi",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/259C_A_Thousand_Eyes_and_One.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00360",
@@ -6225,7 +6225,7 @@
             "deckLimit": 40,
             "illustrator": "Rene Aigner",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/260C_Calm_as_still_water.png",
-            "rarity": "Common"
+            "rarity": "common"
         },
         {
             "code": "00361",
@@ -6250,7 +6250,7 @@
             "deckLimit": 40,
             "illustrator": "Roman Papsuev",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/261H_Hot_Pie.png",
-            "rarity": "Hidden"
+            "rarity": "hidden"
         },
         {
             "code": "00362",
@@ -6266,7 +6266,7 @@
             "deckLimit": 1,
             "illustrator": "Tomasz Jedruszek",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/262S_Sealing_the_Pact.png",
-            "rarity": "Starter"
+            "rarity": "starter"
         },
         {
             "code": "00363",
@@ -6282,7 +6282,7 @@
             "deckLimit": 1,
             "illustrator": "Onur Bakar",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/263S_Unknown_and_Unknowable.png",
-            "rarity": "Starter"
+            "rarity": "starter"
         },
         {
             "code": "00364",
@@ -6298,7 +6298,7 @@
             "deckLimit": 1,
             "illustrator": "Camille Roqueplan",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/264S_Pass_Beneath_the_Shadow.png",
-            "rarity": "Starter"
+            "rarity": "starter"
         },
         {
             "code": "00365",
@@ -6314,7 +6314,7 @@
             "deckLimit": 1,
             "illustrator": "Marc Simonetti",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/265S_Seeking_Fortunes.png",
-            "rarity": "Starter"
+            "rarity": "starter"
         },
         {
             "code": "00366",
@@ -6330,7 +6330,7 @@
             "deckLimit": 1,
             "illustrator": "Régis Moulun",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/266S_Join_Forces.png",
-            "rarity": "Starter"
+            "rarity": "starter"
         },
         {
             "code": "00367",
@@ -6346,7 +6346,7 @@
             "deckLimit": 1,
             "illustrator": "Régis Moulun",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/267S_Desperate_Hope.png",
-            "rarity": "Starter"
+            "rarity": "starter"
         },
         {
             "code": "00368",
@@ -6368,7 +6368,7 @@
             "deckLimit": 3,
             "illustrator": "@justinwongart",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/268S_Faceless_Man.png",
-            "rarity": "Starter"
+            "rarity": "starter"
         },
         {
             "code": "00369",
@@ -6392,7 +6392,7 @@
             "deckLimit": 3,
             "illustrator": "Francesco Ballesio",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/269S_Pentoshi_Trader.png",
-            "rarity": "Starter"
+            "rarity": "starter"
         },
         {
             "code": "00370",
@@ -6410,7 +6410,7 @@
             "deckLimit": 3,
             "illustrator": "Johann Ludwig Bleuler",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/270S_Holdfast_Village.png",
-            "rarity": "Starter"
+            "rarity": "starter"
         },
         {
             "code": "00371",
@@ -6428,7 +6428,7 @@
             "deckLimit": 3,
             "illustrator": "Cornelis Springer",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/271S_Market_Square.png",
-            "rarity": "Starter"
+            "rarity": "starter"
         },
         {
             "code": "00372",
@@ -6451,7 +6451,7 @@
             "deckLimit": 1,
             "illustrator": "Circle of Sebastian Stoskopff",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/272S_Feast_or_Famine.png",
-            "rarity": "Starter"
+            "rarity": "starter"
         },
         {
             "code": "00373",
@@ -6473,7 +6473,7 @@
             "deckLimit": 1,
             "illustrator": "Carlo Coppola",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/273S_The_Pale_Mare.png",
-            "rarity": "Starter"
+            "rarity": "starter"
         },
         {
             "code": "00374",
@@ -6495,7 +6495,7 @@
             "deckLimit": 1,
             "illustrator": "Fritz Beinke",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/274S_City_Fair.png",
-            "rarity": "Starter"
+            "rarity": "starter"
         },
         {
             "code": "00375",
@@ -6518,7 +6518,7 @@
             "deckLimit": 1,
             "illustrator": "Tomasz Jedruszek",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/275S_Manning_the_City_Walls.png",
-            "rarity": "Starter"
+            "rarity": "starter"
         },
         {
             "code": "00376",
@@ -6540,7 +6540,7 @@
             "deckLimit": 1,
             "illustrator": "Pieter Meulener",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/276S_Razed_to_the_Ground.png",
-            "rarity": "Starter"
+            "rarity": "starter"
         },
         {
             "code": "00377",
@@ -6562,7 +6562,7 @@
             "deckLimit": 1,
             "illustrator": "Emil Lauffer",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/277S_Bitter_Accusation.png",
-            "rarity": "Starter"
+            "rarity": "starter"
         },
         {
             "code": "00378",
@@ -6584,7 +6584,7 @@
             "deckLimit": 1,
             "illustrator": "Tomasz Jedruszek",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/278S_Royal_Decree.png",
-            "rarity": "Starter"
+            "rarity": "starter"
         },
         {
             "code": "00379",
@@ -6606,7 +6606,7 @@
             "deckLimit": 1,
             "illustrator": "Zygmunt Ajdukiewicz",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/279S_Jousting_Contest.png",
-            "rarity": "Starter"
+            "rarity": "starter"
         },
         {
             "code": "00380",
@@ -6629,7 +6629,7 @@
             "deckLimit": 1,
             "illustrator": "Julius Sergius Klever",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/280S_Biting_Cold.png",
-            "rarity": "Starter"
+            "rarity": "starter"
         },
         {
             "code": "00381",
@@ -6652,7 +6652,7 @@
             "deckLimit": 1,
             "illustrator": "Juan Carlos Barquet",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/ToJ/281S_Secrets_of_Oldtown.png",
-            "rarity": "Starter"
+            "rarity": "starter"
         }
     ]
 }
