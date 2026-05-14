@@ -6233,7 +6233,7 @@
             "name": "Hot Pie",
             "octgnId": null,
             "quantity": 3,
-            "unique": false,
+            "unique": true,
             "faction": "neutral",
             "cost": 1,
             "icons": {
