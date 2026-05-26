@@ -1,0 +1,424 @@
+{
+    "cgdbId": null,
+    "code": "NCbT",
+    "name": "No Crown but Truth",
+    "releaseDate": "2026-02-07",
+    "cards": [
+        {
+            "code": "26101",
+            "type": "character",
+            "name": "Melisandre",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": true,
+            "cost": 6,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "Lady",
+                "R'hllor"
+            ],
+            "text": "Shadow (5). Stealth.\nEach participating character without shadow gets -1 STR.\n<b>Challenges Action:</b> Choose a character with STR 1 or lower and place it in shadows. (Limit once per phase.)",
+            "deckLimit": 3,
+            "illustrator": "Tiziano Baracchi",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/NCbT/101_Melisandre.png"
+        },
+        {
+            "code": "26102",
+            "type": "event",
+            "name": "No Crown but Truth",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "baratheon",
+            "loyal": true,
+            "cost": 0,
+            "traits": [],
+            "text": "<b>Interrupt:</b> When the effects of an opponent's triggered character ability would initiate, kill a <i>Maester</i> character to cancel those effects and draw 1 card.",
+            "flavor": "\"A clever fool and a foolish wise man. A crown to match your chain, Lord Maester.\" <cite>Melisandre</cite>",
+            "deckLimit": 3,
+            "illustrator": "Roman Papsuev",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/NCbT/102_No_Crown_but_Truth.png"
+        },
+        {
+            "code": "26103",
+            "type": "character",
+            "name": "Shipborn Bastard",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "greyjoy",
+            "loyal": true,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": "X",
+            "traits": [
+                "Bastard",
+                "Ironborn"
+            ],
+            "text": "X is the number of cards you control with initiative modifiers. \n+1 Initiative.",
+            "deckLimit": 3,
+            "illustrator": "Rafal Hrynkiewicz",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/NCbT/103_Shipborn_Bastard.png"
+        },
+        {
+            "code": "26104",
+            "type": "location",
+            "name": "Lonely Light",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": true,
+            "cost": 1,
+            "traits": [
+                "House Farwynd",
+                "Iron Islands"
+            ],
+            "text": "While Lonely Light is standing, increase the cost for each player to bring cards out of shadows by 1.\n+1 Reserve.",
+            "deckLimit": 3,
+            "illustrator": "Katalin Illés",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/NCbT/104_Lonely_Light.png"
+        },
+        {
+            "code": "26105",
+            "type": "character",
+            "name": "Alchemist Apprentice",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Ally"
+            ],
+            "text": "<b>Dominance Action:</b> Kneel Alchemist Apprentice to choose a non-limited location with printed cost 2 or lower and return it to its owner's hand. (Limit once per phase.)",
+            "flavor": "The pyromancer looked indecently pleased with that prospect.",
+            "deckLimit": 3,
+            "illustrator": "Tamás Buzássy",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/NCbT/105_Alchemist_Apprentice.png"
+        },
+        {
+            "code": "26106",
+            "type": "event",
+            "name": "All the Gold in Casterly Rock",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "lannister",
+            "loyal": true,
+            "cost": "-",
+            "traits": [],
+            "text": "Limited. Shadow (0).\n<b>Reaction:</b> After you win an [intrigue] challenge, gain 2 gold for each card you control in shadows.",
+            "flavor": "\"The gold I grant you, but the Rock is mine.\" <cite>Tyrion Lannister</cite>",
+            "deckLimit": 3,
+            "illustrator": "Jonny Klein",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/NCbT/106_All_the_Gold_in_Casterly_Rock.png"
+        },
+        {
+            "code": "26107",
+            "type": "character",
+            "name": "Ser Manfrey Martell",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "martell",
+            "loyal": true,
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Knight"
+            ],
+            "text": "Renown.\nWhile Ser Manfrey Martell is participating in a challenge, insight and renown resolve for the losing player instead of the winning player.",
+            "deckLimit": 3,
+            "illustrator": "Gergely Nagy",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/NCbT/107_Ser_Manfrey_Martell.png"
+        },
+        {
+            "code": "26108",
+            "type": "attachment",
+            "name": "Hidden in Shadow",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Skill"
+            ],
+            "text": "Character you control only. Shadow (0).\n<b>Action:</b> Sacrifice Hidden in Shadow to place attached character in shadows.\n<b>Reaction:</b> After Hidden in Shadow is discarded from shadows, draw 1 card.",
+            "deckLimit": 3,
+            "illustrator": "Régis Moulun",
+            "designer": "Card design by 2018 Joust World Champion, Lennart Paga.",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/NCbT/108_Hidden_in_Shadow.png"
+        },
+        {
+            "code": "26109",
+            "type": "character",
+            "name": "Wick Whittlestick",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": true,
+            "cost": 4,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Ally",
+                "Guard",
+                "Steward"
+            ],
+            "text": "Shadow (3).\n<b>Reaction:</b> After Wick Whittlestick comes out of shadows during a challenge in which you control a participating character, each player must choose a participating character they control, if able, and discard it from play.",
+            "deckLimit": 3,
+            "illustrator": "Stephen Patane (Midjourney)",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/NCbT/109_Wick_Whittlestick.png"
+        },
+        {
+            "code": "26110",
+            "type": "event",
+            "name": "Seventy-Nine Sentinels",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "thenightswatch",
+            "loyal": true,
+            "cost": 1,
+            "traits": [
+                "Legacy"
+            ],
+            "text": "<b>Challenges Action:</b> During a challenge in which you control a defending [thenightswatch] character, kneel any number of [thenightswatch] characters with 1 or fewer challenge icons to have them participate in the challenge on your side.",
+            "flavor": "\"They left their posts in life, so in death their watch goes on forever\" <cite>Bran Stark</cite>",
+            "deckLimit": 3,
+            "illustrator": "Roman Papsuev",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/NCbT/110_Seventy-Nine_Sentinels.png"
+        },
+        {
+            "code": "26111",
+            "type": "character",
+            "name": "Howland Reed",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "stark",
+            "loyal": true,
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "House Reed",
+                "Lord"
+            ],
+            "text": "Stealth.\nReduce the cost of the first [stark] card you bring out of shadows each round by 2.",
+            "flavor": "\"But they will not fail. My father knew the worth of Howland Reed.\" <cite>Robb Stark</cite>",
+            "deckLimit": 3,
+            "illustrator": "Zsolt Ruzsinszki",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/NCbT/111_Howland_Reed.png"
+        },
+        {
+            "code": "26112",
+            "type": "event",
+            "name": "\"Wolves in the Hills\"",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "stark",
+            "loyal": true,
+            "cost": 1,
+            "traits": [
+                "Song"
+            ],
+            "text": "<b>Interrupt:</b> When claim is applied for a challenge, return an attacking <i>Direwolf</i> character or an attacking character with a <i>Direwolf</i> attachment to your hand to apply claim of another challenge type instead.",
+            "deckLimit": 3,
+            "illustrator": "Sara Bertoncelj Čadež",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/NCbT/112_Wolves_in_the_Hills.png"
+        },
+        {
+            "code": "26113",
+            "type": "character",
+            "name": "War Elephants",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 10,
+            "traits": [
+                "Army",
+                "Elephant",
+                "Mercenary"
+            ],
+            "text": "Ambush (8). Intimidate. No attachments.\nReduce the cost to ambush War Elephants by 1 for each <i>Commander</i> character you control.\nWar Elephants cannot be marshaled or placed during setup.",
+            "deckLimit": 3,
+            "illustrator": "Paw",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/NCbT/113_War_Elephants.png"
+        },
+        {
+            "code": "26114",
+            "type": "event",
+            "name": "The Stallion Who Mounts the World",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 3,
+            "traits": [
+                "Prophecy"
+            ],
+            "text": "<b>Reaction:</b> After you win a [power] challenge as the attacking player, kneel your faction card to search your deck for a <i>Dothraki</i> character and put it into play. Shuffle your deck. The defending player may kill 2 characters to cancel this effect.",
+            "deckLimit": 3,
+            "illustrator": "Ben Barnhart",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/NCbT/114_The_Stallion_Who_Mounts_the_World.png"
+        },
+        {
+            "code": "26115",
+            "type": "character",
+            "name": "Undercity Spymaster",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Ally",
+                "Spy"
+            ],
+            "text": "Shadow (3). Stealth.",
+            "flavor": "Men spoke of seeing him down in the undercity, in rat pits and black brothels, consorting with mummers, singers, sellswords, even beggars.",
+            "deckLimit": 3,
+            "illustrator": "Nicole Cardiff",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/NCbT/115_Undercity_Spymaster.png"
+        },
+        {
+            "code": "26116",
+            "type": "event",
+            "name": "Growing Influence",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "tyrell",
+            "loyal": true,
+            "cost": 1,
+            "traits": [],
+            "text": "<b>Interrupt:</b> When the effects of an opponent's triggered character or location ability would initiate, give that player 1 gold from your gold pool to cancel those effects.",
+            "flavor": "\"The bride's father and brothers have bent the knee and sworn him their swords.\" <cite>Tywin Lannister</cite>",
+            "deckLimit": 3,
+            "illustrator": "Roman Papsuev",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/NCbT/116_Growing_Influence.png"
+        },
+        {
+            "code": "26117",
+            "type": "character",
+            "name": "Elder Brother",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "neutral",
+            "cost": 4,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "The Seven"
+            ],
+            "text": "While you have a <i>The Seven</i> plot card revealed, Elder Brother cannot be killed.",
+            "flavor": "\"He has restored many a man to health that even the Maesters could not cure, and many a woman too.\" <cite>Narbert</cite>",
+            "deckLimit": 3,
+            "illustrator": "Marc Simonetti",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/NCbT/117_Elder_Brother.png"
+        },
+        {
+            "code": "26118",
+            "type": "event",
+            "name": "\"Widow's Ford\"",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "cost": "-",
+            "traits": [
+                "Song"
+            ],
+            "text": "Shadow (0).\n<b>Reaction:</b> After an attachment or location enters your discard pile, place it in shadows with a shadow token on it. While that card is in shadows, it gains shadow (X). X is its printed cost.",
+            "deckLimit": 3,
+            "illustrator": "Sara Bertoncelj Čadež",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/NCbT/118_Widows_Ford.png"
+        },
+        {
+            "code": "26119",
+            "type": "plot",
+            "name": "The Age of Heroes",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "plotStats": {
+                "income": 3,
+                "initiative": 2,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "Legacy"
+            ],
+            "text": "<b>Reaction:</b> After the challenges phase begins, kneel your faction card to search your deck for a <i>Legacy</i> or <i>Valyrian Steel</i> attachment, reveal it, and add it to your hand (you may put it into play instead if it is a <i>Tapestry</i> attachment). Shuffle your deck.",
+            "deckLimit": 2,
+            "illustrator": "Tamás Matiscsák",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/NCbT/119_The_Age_of_Heroes.png"
+        },
+        {
+            "code": "26120",
+            "type": "agenda",
+            "name": "Armed to the Teeth",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "neutral",
+            "traits": [],
+            "text": "Your deck cannot include non-<i>Weapon</i> attachments.\nAfter all agendas are announced, search your deck for up to 5 different attachments, reveal them, and place them facedown under this agenda.\n<b>Reaction:</b> After you win a challenge, kneel your faction card and pay X gold to put an attachment with printed cost X into play from under this agenda.",
+            "deckLimit": 1,
+            "illustrator": "Gergely Nagy",
+            "designer": "Card design by 2022 Stahleck Joust World Champion, Marti Foz Hernandez.",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/NCbT/120_Armed_to_the_Teeth.png"
+        }
+    ]
+}

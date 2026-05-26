@@ -25,7 +25,7 @@
                 "The Seven"
             ],
             "text": "Stealth.\nEach player cannot gain more than 3 power each round <em>(among all cards they control)</em>.",
-            "flavor": "“And may the Father judge you justly, Lord Davos.”",
+            "flavor": "\"And may the Father judge you justly, Lord Davos.\"",
             "deckLimit": 3,
             "illustrator": "Stephen Patane (Midjourney)",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/LotW/61_Edric_Storm.png"
@@ -41,7 +41,7 @@
             "cost": 0,
             "traits": [],
             "text": "<b>Reaction:</b> After a <i>Small Council</i> character you control leaves play, search your deck for a different <i>Small Council</i> character, reveal it, and add it to your hand. Shuffle your deck. (Max 1 per phase.)",
-            "flavor": "“Lord Eddard Stark, I would name you the Hand of the King” - Robert Baratheon",
+            "flavor": "\"Lord Eddard Stark, I would name you the Hand of the King\" <cite>Robert Baratheon</cite>",
             "deckLimit": 3,
             "illustrator": "Thomas Denmark",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/LotW/62_A_New_Hand.png"
@@ -111,7 +111,7 @@
                 "Small Council"
             ],
             "text": "If you have no gold in your gold pool during the challenges phase, kill Gyles Rosby.\n+2 Income.",
-            "flavor": "“No doubt he will cough the whole lot of us into our graves.” - Cersei Lannister",
+            "flavor": "\"No doubt he will cough the whole lot of us into our graves.\" <cite>Cersei Lannister</cite>",
             "deckLimit": 3,
             "illustrator": "Tamás Buzássy",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/LotW/65_Gyles_Rosby.png"
@@ -197,7 +197,7 @@
                 "Ranger"
             ],
             "text": "<b>Forced Reaction:</b> After a character is discarded from play, place it in its owner's dead pile.",
-            "flavor": "“There are no laws beyond the Wall, old man. Remember?” ",
+            "flavor": "\"There are no laws beyond the Wall, old man. Remember?\"",
             "deckLimit": 3,
             "illustrator": "Gergely Nagy",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/LotW/69_Dirk.png"
@@ -329,7 +329,7 @@
                 "Lady"
             ],
             "text": "<b>Reaction:</b> After 1 or more characters are removed from a challenge, gain 1 power for your faction. (Limit twice per round.)",
-            "flavor": "“Someday I want some champion to wear my favor, and kill a hundred men.”",
+            "flavor": "\"Someday I want some champion to wear my favor, and kill a hundred men.\"",
             "deckLimit": 3,
             "illustrator": "Ferenc Patkós",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/LotW/75_Megga_Tyrell.png"
@@ -373,7 +373,7 @@
                 "Small Council"
             ],
             "text": "Shadow (4). Stealth.\n<b>Reaction:</b> After a <i>Warship</i> location enters play under your control, stand The Bastard of Driftmark. (Limit twice per phase.)",
-            "flavor": "“I am told that removing the head from the body is often mortal.” ",
+            "flavor": "\"I am told that removing the head from the body is often mortal.\"",
             "deckLimit": 3,
             "illustrator": "Zsolt Ruzsinszki",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/LotW/77_The_Bastard_of_Driftmark.png"
