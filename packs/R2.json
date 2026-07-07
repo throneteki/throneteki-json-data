@@ -5,7 +5,7 @@
     "releaseDate": "2026-07-01",
     "cards": [
         {
-            "code": "17201",
+            "code": "17061",
             "type": "character",
             "name": "Red Priest",
             "octgnId": null,
@@ -29,7 +29,7 @@
             "illustrator": "Adam Lane"
         },
         {
-            "code": "17202",
+            "code": "17062",
             "type": "character",
             "name": "Asha Greyjoy",
             "octgnId": null,
@@ -54,7 +54,7 @@
             "illustrator": "Magali Villeneuve"
         },
         {
-            "code": "17203",
+            "code": "17063",
             "type": "location",
             "name": "Pyke",
             "octgnId": null,
@@ -72,7 +72,7 @@
             "illustrator": "Ted Nasmith"
         },
         {
-            "code": "17204",
+            "code": "17064",
             "type": "location",
             "name": "Nightflyer",
             "octgnId": null,
@@ -89,7 +89,7 @@
             "illustrator": "Federico Musetti"
         },
         {
-            "code": "17205",
+            "code": "17065",
             "type": "character",
             "name": "Ser Balon Swann",
             "octgnId": null,
@@ -113,7 +113,7 @@
             "illustrator": "Alexandre Dainche"
         },
         {
-            "code": "17206",
+            "code": "17066",
             "type": "location",
             "name": "Casterly Rock",
             "octgnId": null,
@@ -131,7 +131,7 @@
             "illustrator": "Ted Nasmith"
         },
         {
-            "code": "17207",
+            "code": "17067",
             "type": "event",
             "name": "Clever Feint",
             "octgnId": null,
@@ -145,7 +145,7 @@
             "illustrator": "Jason Jenicke"
         },
         {
-            "code": "17208",
+            "code": "17068",
             "type": "event",
             "name": "Someone Always Tells",
             "octgnId": null,
@@ -160,7 +160,7 @@
             "illustrator": "Igor Artyomenko"
         },
         {
-            "code": "17209",
+            "code": "17069",
             "type": "event",
             "name": "Secret Schemes",
             "octgnId": null,
@@ -174,7 +174,7 @@
             "illustrator": "Cristi Balanescu"
         },
         {
-            "code": "17210",
+            "code": "17070",
             "type": "character",
             "name": "Daenerys Targaryen",
             "octgnId": null,
@@ -198,7 +198,7 @@
             "illustrator": "Drazenka Kimpel"
         },
         {
-            "code": "17211",
+            "code": "17071",
             "type": "character",
             "name": "Aegon Targaryen",
             "octgnId": null,
@@ -221,7 +221,7 @@
             "illustrator": "Paolo Puggioni"
         },
         {
-            "code": "17212",
+            "code": "17072",
             "type": "attachment",
             "name": "Queensguard",
             "octgnId": null,
@@ -239,7 +239,7 @@
             "illustrator": "Jason Jenicke"
         },
         {
-            "code": "17213",
+            "code": "17073",
             "type": "character",
             "name": "Great Ranging",
             "octgnId": null,
@@ -264,7 +264,7 @@
             "illustrator": "Tomasz Jedruszek"
         },
         {
-            "code": "17214",
+            "code": "17074",
             "type": "character",
             "name": "Randyll Tarly",
             "octgnId": null,
@@ -289,7 +289,7 @@
             "illustrator": "Francisco Rico Torres"
         },
         {
-            "code": "17215",
+            "code": "17075",
             "type": "location",
             "name": "Oldtown",
             "octgnId": null,
@@ -308,7 +308,7 @@
             "illustrator": "Logan Feliciano"
         },
         {
-            "code": "17216",
+            "code": "17076",
             "type": "location",
             "name": "Goldengrove",
             "octgnId": null,
