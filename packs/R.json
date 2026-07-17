@@ -5,7 +5,7 @@
     "releaseDate": "2020-10-01",
     "cards": [
         {
-            "code": "17001",
+            "code": "17101",
             "type": "character",
             "name": "Selyse Baratheon",
             "octgnId": null,
@@ -33,7 +33,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/01_Selysse.png"
         },
         {
-            "code": "17002",
+            "code": "17102",
             "type": "character",
             "name": "Victarion Greyjoy",
             "octgnId": null,
@@ -59,7 +59,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/02_Victarion.png"
         },
         {
-            "code": "17003",
+            "code": "17103",
             "type": "character",
             "name": "Euron Crow's Eye",
             "octgnId": null,
@@ -87,7 +87,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/03_Euron.png"
         },
         {
-            "code": "17004",
+            "code": "17104",
             "type": "character",
             "name": "Nighttime Marauders",
             "octgnId": null,
@@ -111,7 +111,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/04_Marauders.png"
         },
         {
-            "code": "17005",
+            "code": "17105",
             "type": "character",
             "name": "Drowned Disciple",
             "octgnId": null,
@@ -136,7 +136,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/05_Disciple.png"
         },
         {
-            "code": "17006",
+            "code": "17106",
             "type": "character",
             "name": "Drowned God Fanatic",
             "octgnId": null,
@@ -155,13 +155,13 @@
                 "Drowned God"
             ],
             "text": "<b>Action:</b> Kill a [greyjoy] character you own and control to put Drowned God Fanatic into play from your dead pile. (Max once per round.)\n<b>Interrupt:</b> When the effects of an opponent's triggered character ability would initiate, discard Drowned God Fanatic from your hand to cancel those effects.",
-            "designer": "Card design by 2013 European Melee champion, Vincent Teulé.",
+            "designer": "Card design by 2013 European Melee champion, Vincent Teul\u00e9.",
             "deckLimit": 3,
             "illustrator": "Aleksander Karcz",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/06_Fanatic.png"
         },
         {
-            "code": "17007",
+            "code": "17107",
             "type": "character",
             "name": "Raider from Pyke",
             "octgnId": null,
@@ -185,7 +185,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/07_Raider.png"
         },
         {
-            "code": "17008",
+            "code": "17108",
             "type": "location",
             "name": "Iron Mines",
             "octgnId": null,
@@ -204,7 +204,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/08_Iron%20Mines.png"
         },
         {
-            "code": "17009",
+            "code": "17109",
             "type": "plot",
             "name": "We Take Westeros!",
             "octgnId": null,
@@ -226,7 +226,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/09_Westeros.png"
         },
         {
-            "code": "17010",
+            "code": "17110",
             "type": "character",
             "name": "Taena Merryweather",
             "octgnId": null,
@@ -252,7 +252,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/10_Taena.png"
         },
         {
-            "code": "17011",
+            "code": "17111",
             "type": "location",
             "name": "The Red Keep",
             "octgnId": null,
@@ -270,7 +270,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/11_Red%20Keep.png"
         },
         {
-            "code": "17012",
+            "code": "17112",
             "type": "character",
             "name": "Desert Raider",
             "octgnId": null,
@@ -297,7 +297,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/12_Desert_raider.png"
         },
         {
-            "code": "17013",
+            "code": "17113",
             "type": "location",
             "name": "Dorne",
             "octgnId": null,
@@ -315,7 +315,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/13_Dorne.png"
         },
         {
-            "code": "17014",
+            "code": "17114",
             "type": "event",
             "name": "Doran's Game",
             "octgnId": null,
@@ -330,7 +330,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/14_Dorans_Game.png"
         },
         {
-            "code": "17015",
+            "code": "17115",
             "type": "event",
             "name": "A Mission in Essos",
             "octgnId": null,
@@ -345,7 +345,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/15_Mission_in_%20Essos.png"
         },
         {
-            "code": "17016",
+            "code": "17116",
             "type": "character",
             "name": "Yoren",
             "octgnId": null,
@@ -370,7 +370,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/16_Yoren.png"
         },
         {
-            "code": "17017",
+            "code": "17117",
             "type": "character",
             "name": "Clydas",
             "octgnId": null,
@@ -395,7 +395,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/17_Clydas.png"
         },
         {
-            "code": "17018",
+            "code": "17118",
             "type": "character",
             "name": "Halder",
             "octgnId": null,
@@ -420,7 +420,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/18_Halder.png"
         },
         {
-            "code": "17019",
+            "code": "17119",
             "type": "character",
             "name": "Three-Finger Hobb",
             "octgnId": null,
@@ -445,7 +445,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/19_Hobb.png"
         },
         {
-            "code": "17020",
+            "code": "17120",
             "type": "location",
             "name": "Abandoned Stronghold",
             "octgnId": null,
@@ -464,7 +464,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/20_Stronghold.png"
         },
         {
-            "code": "17021",
+            "code": "17121",
             "type": "event",
             "name": "Bound for the Wall",
             "octgnId": null,
@@ -473,13 +473,13 @@
             "loyal": true,
             "cost": 2,
             "traits": [],
-            "text": "<b>Reaction:</b> After you win a challenge as the attacking player, discard the top 2 cards of the losing opponent's deck. You may put an eligible character of the losing player’s choice from their discard pile into play under your control. (Max 1 per challenge.)",
+            "text": "<b>Reaction:</b> After you win a challenge as the attacking player, discard the top 2 cards of the losing opponent's deck. You may put an eligible character of the losing player\u2019s choice from their discard pile into play under your control. (Max 1 per challenge.)",
             "deckLimit": 3,
             "illustrator": "Federico Musetti",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/21_Bound.png"
         },
         {
-            "code": "17022",
+            "code": "17122",
             "type": "character",
             "name": "Wyman Manderly",
             "octgnId": null,
@@ -505,7 +505,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/22_Wyman.png"
         },
         {
-            "code": "17023",
+            "code": "17123",
             "type": "character",
             "name": "Meera Reed",
             "octgnId": null,
@@ -531,7 +531,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/23_Meera.png"
         },
         {
-            "code": "17024",
+            "code": "17124",
             "type": "character",
             "name": "Bear Island Scout",
             "octgnId": null,
@@ -555,7 +555,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/24_Scout.png"
         },
         {
-            "code": "17025",
+            "code": "17125",
             "type": "location",
             "name": "Skagos",
             "octgnId": null,
@@ -573,7 +573,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/25_Skagos.png"
         },
         {
-            "code": "17026",
+            "code": "17126",
             "type": "attachment",
             "name": "Ward",
             "octgnId": null,
@@ -591,7 +591,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/26_Ward.png"
         },
         {
-            "code": "17027",
+            "code": "17127",
             "type": "event",
             "name": "I Am No One",
             "octgnId": null,
@@ -606,7 +606,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/27_NoOne.png"
         },
         {
-            "code": "17028",
+            "code": "17128",
             "type": "character",
             "name": "Daenerys Targaryen",
             "octgnId": null,
@@ -633,7 +633,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/28_Danny.png"
         },
         {
-            "code": "17029",
+            "code": "17129",
             "type": "character",
             "name": "Drogon",
             "octgnId": null,
@@ -657,7 +657,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/29_Drogon.png"
         },
         {
-            "code": "17030",
+            "code": "17130",
             "type": "character",
             "name": "Hizdahr zo Loraq",
             "octgnId": null,
@@ -682,7 +682,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/30_Loraq.png"
         },
         {
-            "code": "17031",
+            "code": "17131",
             "type": "character",
             "name": "Qotho",
             "octgnId": null,
@@ -704,11 +704,11 @@
             "text": "<b>Action:</b>  If there is a Summer plot card revealed, discard 2 [targaryen] cards from your hand to put Qotho into play from your hand.",
             "flavor": "Qotho was ever the cruelest of the bloodriders.",
             "deckLimit": 3,
-            "illustrator": "Joshua Cairós",
+            "illustrator": "Joshua Cair\u00f3s",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/31_Qotho.png"
         },
         {
-            "code": "17032",
+            "code": "17132",
             "type": "location",
             "name": "Womb of the World",
             "octgnId": null,
@@ -726,7 +726,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/32_Womb.png"
         },
         {
-            "code": "17033",
+            "code": "17133",
             "type": "location",
             "name": "Meereen",
             "octgnId": null,
@@ -746,7 +746,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/33_Meereen.png"
         },
         {
-            "code": "17034",
+            "code": "17134",
             "type": "attachment",
             "name": "Crown of Gold",
             "octgnId": null,
@@ -764,7 +764,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/34_Crown.png"
         },
         {
-            "code": "17035",
+            "code": "17135",
             "type": "event",
             "name": "Gifts for the Widow",
             "octgnId": null,
@@ -774,13 +774,13 @@
             "cost": "X",
             "traits": [],
             "text": "<b>Action:</b> Kneel your faction card to search your deck for an attachment with printed cost X or lower and put it into play attached to a character you control. Shuffle your deck.",
-            "flavor": "\"Gloves for my poor old wrinkled hands. How nice.\" <cite>The Widow of the Waterfront</cite>",
+            "flavor": "\"Gifts for my poor old wrinkled hands. How nice.\" <cite>The Widow of the Waterfront</cite>",
             "deckLimit": 3,
             "illustrator": "Preston Stone",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/35_Widow.png"
         },
         {
-            "code": "17036",
+            "code": "17136",
             "type": "character",
             "name": "Mace Tyrell",
             "octgnId": null,
@@ -804,7 +804,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/36_Mace.png"
         },
         {
-            "code": "17037",
+            "code": "17137",
             "type": "character",
             "name": "The Queen's Retinue",
             "octgnId": null,
@@ -829,7 +829,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/37_Queens.png"
         },
         {
-            "code": "17038",
+            "code": "17138",
             "type": "character",
             "name": "Oldtown Informer",
             "octgnId": null,
@@ -854,7 +854,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/38_Informer.png"
         },
         {
-            "code": "17039",
+            "code": "17139",
             "type": "attachment",
             "name": "Unexpected Guile",
             "octgnId": null,
@@ -872,7 +872,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/39_Guile.png"
         },
         {
-            "code": "17040",
+            "code": "17140",
             "type": "event",
             "name": "All Men Are Fools",
             "octgnId": null,
@@ -888,7 +888,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/40_AAFools.png"
         },
         {
-            "code": "17041",
+            "code": "17141",
             "type": "event",
             "name": "To the Rose Banner!",
             "octgnId": null,
@@ -903,7 +903,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/41_Rose%20Banner.png"
         },
         {
-            "code": "17042",
+            "code": "17142",
             "type": "location",
             "name": "Flea Bottom",
             "octgnId": null,
@@ -921,7 +921,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/42_Flea%20Bottom.png"
         },
         {
-            "code": "17043",
+            "code": "17143",
             "type": "location",
             "name": "The Iron Bank",
             "octgnId": null,
@@ -938,7 +938,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/43_Iron%20Bank.png"
         },
         {
-            "code": "17044",
+            "code": "17144",
             "type": "location",
             "name": "Great Hall",
             "octgnId": null,
@@ -955,7 +955,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/44_Great%20Hall.png"
         },
         {
-            "code": "17045",
+            "code": "17145",
             "type": "event",
             "name": "\"The Dornishman's Wife\"",
             "octgnId": null,
@@ -971,7 +971,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/45_Dornish.png"
         },
         {
-            "code": "17046",
+            "code": "17146",
             "type": "event",
             "name": "Bribery",
             "octgnId": null,
@@ -986,7 +986,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/46_Bribery.png"
         },
         {
-            "code": "17047",
+            "code": "17147",
             "type": "event",
             "name": "The Dragon's Tail",
             "octgnId": null,
@@ -1003,7 +1003,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/47_Dragons%20Tail.png"
         },
         {
-            "code": "17048",
+            "code": "17148",
             "type": "agenda",
             "name": "Kingdom of Shadows",
             "octgnId": null,
@@ -1016,7 +1016,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/48_KOS.png"
         },
         {
-            "code": "17049",
+            "code": "17149",
             "type": "agenda",
             "name": "Sea of Blood",
             "octgnId": null,
@@ -1031,7 +1031,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/49_SoB.png"
         },
         {
-            "code": "17050",
+            "code": "17150",
             "type": "agenda",
             "name": "The Free Folk",
             "octgnId": null,
@@ -1044,7 +1044,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/50_FFolk.png"
         },
         {
-            "code": "17051",
+            "code": "17151",
             "type": "agenda",
             "name": "The Wars To Come",
             "octgnId": null,
@@ -1060,7 +1060,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/51_WTC.png"
         },
         {
-            "code": "17052",
+            "code": "17152",
             "type": "agenda",
             "name": "Valyrian Steel",
             "octgnId": null,
@@ -1074,7 +1074,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/52_Valyrian.png"
         },
         {
-            "code": "17053",
+            "code": "17153",
             "type": "plot",
             "name": "Breaking Ties",
             "octgnId": null,
@@ -1097,7 +1097,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/53_Ties.png"
         },
         {
-            "code": "17054",
+            "code": "17154",
             "type": "plot",
             "name": "Forced March",
             "octgnId": null,
@@ -1119,7 +1119,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/54_Forced.png"
         },
         {
-            "code": "17055",
+            "code": "17155",
             "type": "plot",
             "name": "Littlefinger's Meddling",
             "octgnId": null,
@@ -1141,7 +1141,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/55_Meddling.png"
         },
         {
-            "code": "17056",
+            "code": "17156",
             "type": "plot",
             "name": "At the Palace of Sorrows",
             "octgnId": null,
@@ -1162,7 +1162,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/56_Sorrows.png"
         },
         {
-            "code": "17057",
+            "code": "17157",
             "type": "plot",
             "name": "Return to the Fields",
             "octgnId": null,
@@ -1183,7 +1183,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/57_Return.png"
         },
         {
-            "code": "17058",
+            "code": "17158",
             "type": "plot",
             "name": "The Annals of Castle Black",
             "octgnId": null,
@@ -1205,7 +1205,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/58_Annals.png"
         },
         {
-            "code": "17059",
+            "code": "17159",
             "type": "plot",
             "name": "The King in the North",
             "octgnId": null,
@@ -1227,7 +1227,7 @@
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/59_Kitn.png"
         },
         {
-            "code": "17060",
+            "code": "17160",
             "type": "plot",
             "name": "Trade Routes",
             "octgnId": null,
