@@ -7382,7 +7382,7 @@
             "04167",
             "04168",
             "04169",
-            "04171",
+            "04170",
             "04171",
             "04172",
             "04173",
@@ -8773,9 +8773,9 @@
         "version": "2.1",
         "issuer": "Global Operations Team (G.O.T.)",
         "name": "Standard v2.1",
-        "cardSet": "redesign",
+        "cardSet": "redesign2",
         "code": "gotstandard2.1",
-        "date": "2026-0-01",
+        "date": "2026-07-01",
         "formats": [
             {
                 "name": "joust",
