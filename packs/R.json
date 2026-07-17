@@ -155,7 +155,7 @@
                 "Drowned God"
             ],
             "text": "<b>Action:</b> Kill a [greyjoy] character you own and control to put Drowned God Fanatic into play from your dead pile. (Max once per round.)\n<b>Interrupt:</b> When the effects of an opponent's triggered character ability would initiate, discard Drowned God Fanatic from your hand to cancel those effects.",
-            "designer": "Card design by 2013 European Melee champion, Vincent Teul\u00e9.",
+            "designer": "Card design by 2013 European Melee champion, Vincent Teulé.",
             "deckLimit": 3,
             "illustrator": "Aleksander Karcz",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/06_Fanatic.png"
@@ -473,7 +473,7 @@
             "loyal": true,
             "cost": 2,
             "traits": [],
-            "text": "<b>Reaction:</b> After you win a challenge as the attacking player, discard the top 2 cards of the losing opponent's deck. You may put an eligible character of the losing player\u2019s choice from their discard pile into play under your control. (Max 1 per challenge.)",
+            "text": "<b>Reaction:</b> After you win a challenge as the attacking player, discard the top 2 cards of the losing opponent's deck. You may put an eligible character of the losing player's choice from their discard pile into play under your control. (Max 1 per challenge.)",
             "deckLimit": 3,
             "illustrator": "Federico Musetti",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/21_Bound.png"
@@ -704,7 +704,7 @@
             "text": "<b>Action:</b>  If there is a Summer plot card revealed, discard 2 [targaryen] cards from your hand to put Qotho into play from your hand.",
             "flavor": "Qotho was ever the cruelest of the bloodriders.",
             "deckLimit": 3,
-            "illustrator": "Joshua Cair\u00f3s",
+            "illustrator": "Joshua Cairós",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/31_Qotho.png"
         },
         {
@@ -774,7 +774,7 @@
             "cost": "X",
             "traits": [],
             "text": "<b>Action:</b> Kneel your faction card to search your deck for an attachment with printed cost X or lower and put it into play attached to a character you control. Shuffle your deck.",
-            "flavor": "\"Gifts for my poor old wrinkled hands. How nice.\" <cite>The Widow of the Waterfront</cite>",
+            "flavor": "\"Gloves for my poor old wrinkled hands. How nice.\" <cite>The Widow of the Waterfront</cite>",
             "deckLimit": 3,
             "illustrator": "Preston Stone",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns/35_Widow.png"
