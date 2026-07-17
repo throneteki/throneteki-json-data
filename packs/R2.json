@@ -115,7 +115,8 @@
             "text": "Renown.\n<b>Reaction:</b> After a non-[lannister] <i>Knight</i> character enters play under your control, gain 2 gold. (Limit once per round.)",
             "deckLimit": 3,
             "illustrator": "Alexandre Dainche",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns2/65_Ser_Balon_Swann.png"
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns2/65_Ser_Balon_Swann.png",
+            "flavor": "\"Ser Gregor was a knight, and a knight should die with sword in hand. Poison is a foul and filthy way to kill.\""
         },
         {
             "code": "17166",
@@ -149,7 +150,8 @@
             "text": "<b>Action:</b> Kneel your faction card and pay X gold to choose X cards you control with shadow. Return each of those cards to shadows.",
             "deckLimit": 3,
             "illustrator": "Jason Jenicke",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns2/67_Clever_Feint.png"
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns2/67_Clever_Feint.png",
+            "flavor": "\"I'm having a gift made for Joffrey. A little chain.\" <cite>Tyrion Lannister</cite>"
         },
         {
             "code": "17168",
@@ -180,7 +182,8 @@
             "text": "<b>Challenges Action:</b> Kneel your faction card to draw X cards (to a maximum of 5 cards). X is the number of plot cards in your used pile.",
             "deckLimit": 3,
             "illustrator": "Cristi Balanescu",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns2/69_Secret_Schemes.png"
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns2/69_Secret_Schemes.png",
+            "flavor": "\"The Dornishmen burn to avenge Elia and her children.\" <cite>Viserys Targaryen</cite>"
         },
         {
             "code": "17170",
@@ -274,7 +277,8 @@
             "text": "Assault. Intimidate. No attachments.\n<b>Reaction:</b> After you marshal Great Ranging, search your hand, deck, and discard pile for Fist of the First Men and put it into play. Shuffle your deck.",
             "deckLimit": 3,
             "illustrator": "Tomasz Jedruszek",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns2/73_Great_Ranging.png"
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns2/73_Great_Ranging.png",
+            "flavor": "Three hundred sworn brothers of the Night's Watch had ridden north, two hundred from Castle Black and another hundred from the Shadow Tower."
         },
         {
             "code": "17174",
@@ -317,7 +321,7 @@
                 "The Reach"
             ],
             "text": "<b>Dominance Action:</b> Name a cardtype (character, location, attachment, or event). Then, reveal the top card of your deck. If the revealed card has that cardtype, draw it and gain 1 power for your faction. (Limit once per phase.)",
-            "flavor": "...Oldtown was a veritable labyrinth of a city, all wynds and crisscrossing alleys and narrow crookback streets",
+            "flavor": "...Oldtown was a veritable labyrinth of a city, all wynds and crisscrossing alleys and narrow crookback streets.",
             "deckLimit": 3,
             "illustrator": "Logan Feliciano",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns2/75_Oldtown.png"
