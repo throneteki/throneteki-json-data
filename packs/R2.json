@@ -1,0 +1,348 @@
+{
+    "cgdbId": null,
+    "code": "R2",
+    "name": "Redesigns II",
+    "releaseDate": "2026-07-01",
+    "cards": [
+        {
+            "code": "17161",
+            "type": "character",
+            "name": "Red Priest",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "R'hllor"
+            ],
+            "text": "<b>Reaction:</b> After Red Priest enters play, look at an opponent's hand. Then, choose 1 card in that hand and remove it from the game until the end of the round or until Red Priest leaves play.",
+            "flavor": "The red priest lit their fires every day at sunset, to thank R'hllor for the day just ending, and beg him to send his sun back on the morrow to banish the gathering darkness.",
+            "deckLimit": 3,
+            "illustrator": "Adam Lane",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns2/61_Red_Priest.png"
+        },
+        {
+            "code": "17162",
+            "type": "character",
+            "name": "Asha Greyjoy",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": true,
+            "cost": 7,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "Captain",
+                "Ironborn",
+                "Lady"
+            ],
+            "text": "Pillage. Stealth.\n<b>Reaction:</b> After Asha Greyjoy discards a card using pillage, search the top X cards of your deck for a card, reveal it, and add it to your hand. Shuffle your deck. X is the number of cards in the losing opponent's discard pile. (Limit once per phase.)",
+            "deckLimit": 3,
+            "illustrator": "Magali Villeneuve",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns2/62_Asha_Greyjoy.png"
+        },
+        {
+            "code": "17163",
+            "type": "location",
+            "name": "Pyke",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": true,
+            "cost": 5,
+            "traits": [
+                "Iron Islands",
+                "Stronghold"
+            ],
+            "text": "Each <i>Warship</i> location in your hand gains ambush (X). X is 1 less than that card's printed cost.\n<b>Reaction:</b> After a <i>Warship</i> location enters play under your control, choose another non-loyal, non-limited card with equal or lower printed cost. Kneel Pyke to place that card on top of its owner's deck. Then, at the end of the phase, that player draws 1 card.",
+            "deckLimit": 3,
+            "illustrator": "Ted Nasmith",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns2/63_Pyke.png"
+        },
+        {
+            "code": "17164",
+            "type": "location",
+            "name": "Nightflyer",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Warship"
+            ],
+            "text": "Shadow (X).\n<b>Reaction:</b> After Nightflyer comes out of shadows, choose a non-limited location with printed cost X or lower and discard it from play.\n+1 Initiative.",
+            "deckLimit": 3,
+            "illustrator": "Federico Musetti",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns2/64_Nightflyer.png"
+        },
+        {
+            "code": "17165",
+            "type": "character",
+            "name": "Ser Balon Swann",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 6,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Kingsguard",
+                "Knight"
+            ],
+            "text": "Renown.\n<b>Reaction:</b> After a non-[lannister] <i>Knight</i> character enters play under your control, gain 2 gold. (Limit once per round.)",
+            "deckLimit": 3,
+            "illustrator": "Alexandre Dainche",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns2/65_Ser_Balon_Swann.png",
+            "flavor": "\"Ser Gregor was a knight, and a knight should die with sword in hand. Poison is a foul and filthy way to kill.\""
+        },
+        {
+            "code": "17166",
+            "type": "location",
+            "name": "Casterly Rock",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "lannister",
+            "loyal": true,
+            "cost": 5,
+            "traits": [
+                "Stronghold",
+                "The Westerlands"
+            ],
+            "text": "While Casterly Rock is standing, you may spend gold on [lannister] cards you control as if it were in your gold pool during the marshaling phase.\n<b>Marshaling Action:</b> Kneel Casterly Rock to choose up to 3 [lannister] cards. Each of those cards gains 1 gold.",
+            "deckLimit": 3,
+            "illustrator": "Ted Nasmith",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns2/66_Casterly_Rock.png"
+        },
+        {
+            "code": "17167",
+            "type": "event",
+            "name": "Clever Feint",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 0,
+            "traits": [],
+            "text": "<b>Action:</b> Kneel your faction card and pay X gold to choose X cards you control with shadow. Return each of those cards to shadows.",
+            "deckLimit": 3,
+            "illustrator": "Jason Jenicke",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns2/67_Clever_Feint.png",
+            "flavor": "\"I'm having a gift made for Joffrey. A little chain.\" <cite>Tyrion Lannister</cite>"
+        },
+        {
+            "code": "17168",
+            "type": "event",
+            "name": "Someone Always Tells",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "martell",
+            "loyal": true,
+            "cost": 2,
+            "traits": [],
+            "text": "<b>Interrupt:</b> When the effects of an opponent's event or when revealed ability would initiate, cancel those effects.",
+            "flavor": "It was not supposed to end this way. This was not supposed to happen.",
+            "deckLimit": 3,
+            "illustrator": "Igor Artyomenko",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns2/68_Someone_Always_Tells.png"
+        },
+        {
+            "code": "17169",
+            "type": "event",
+            "name": "Secret Schemes",
+            "octgnId": null,
+            "quantity": 3,
+            "faction": "martell",
+            "loyal": true,
+            "cost": 1,
+            "traits": [],
+            "text": "<b>Challenges Action:</b> Kneel your faction card to draw X cards (to a maximum of 5 cards). X is the number of plot cards in your used pile.",
+            "deckLimit": 3,
+            "illustrator": "Cristi Balanescu",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns2/69_Secret_Schemes.png",
+            "flavor": "\"The Dornishmen burn to avenge Elia and her children.\" <cite>Viserys Targaryen</cite>"
+        },
+        {
+            "code": "17170",
+            "type": "character",
+            "name": "Daenerys Targaryen",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 5,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Lady",
+                "Queen"
+            ],
+            "text": "Daenerys Targaryen's STR cannot be reduced by card effects.\n<b>Reaction:</b> After you play a [targaryen] event, choose a participating character. Until the end of the phase, that character gets -1 STR and is killed if its STR is 0. (Limit 3 times per round.)",
+            "deckLimit": 3,
+            "illustrator": "Drazenka Kimpel",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns2/70_Daenerys_Targaryen.png"
+        },
+        {
+            "code": "17171",
+            "type": "character",
+            "name": "Aegon Targaryen",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Lord"
+            ],
+            "text": "Shadow (3).\n<b>Reaction:</b> After Aegon Targaryen enters play, search the top 10 cards of your deck for an Army or Mercenary character, put it into play, and shuffle your deck. At the end of the phase, if that card is still in play, return it to your hand.",
+            "deckLimit": 3,
+            "illustrator": "Paolo Puggioni",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns2/71_Aegon_Targaryen.png"
+        },
+        {
+            "code": "17172",
+            "type": "attachment",
+            "name": "Queensguard",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 3,
+            "traits": [
+                "Title"
+            ],
+            "text": "[targaryen] non-<i>Lady</i> character only. Shadow (2).\n<b>Action:</b> Discard 1 [targaryen] card from your hand to stand attached character. (Limit twice per round.)",
+            "flavor": "Ser Barristan might come seeking her; he was the first of her Queensguard, sworn to defend her life with his own.",
+            "deckLimit": 3,
+            "illustrator": "Jason Jenicke",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns2/72_Queensguard.png"
+        },
+        {
+            "code": "17173",
+            "type": "character",
+            "name": "Great Ranging",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": true,
+            "cost": 8,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 7,
+            "traits": [
+                "Army",
+                "Ranger",
+                "Steward"
+            ],
+            "text": "Assault. Intimidate. No attachments.\n<b>Reaction:</b> After you marshal Great Ranging, search your hand, deck, and discard pile for Fist of the First Men and put it into play. Shuffle your deck.",
+            "deckLimit": 3,
+            "illustrator": "Tomasz Jedruszek",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns2/73_Great_Ranging.png",
+            "flavor": "Three hundred sworn brothers of the Night's Watch had ridden north, two hundred from Castle Black and another hundred from the Shadow Tower."
+        },
+        {
+            "code": "17174",
+            "type": "character",
+            "name": "Randyll Tarly",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": true,
+            "cost": 7,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 6,
+            "traits": [
+                "House Tarly",
+                "Lord",
+                "Small Council"
+            ],
+            "text": "Renown.\n<b>Action:</b> Kneel a <i>The Reach</i> location to, either: stand an <i>Army</i> character, or reveal the top card of your deck. If it is a location, draw it (put it into play instead if it has the <i>The Reach</i> trait). (Limit twice per round.)",
+            "deckLimit": 3,
+            "illustrator": "Francisco Rico Torres",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns2/74_Randyll_Tarly.png"
+        },
+        {
+            "code": "17175",
+            "type": "location",
+            "name": "Oldtown",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": true,
+            "cost": 2,
+            "traits": [
+                "Oldtown",
+                "The Reach"
+            ],
+            "text": "<b>Dominance Action:</b> Name a cardtype (character, location, attachment, or event). Then, reveal the top card of your deck. If the revealed card has that cardtype, draw it and gain 1 power for your faction. (Limit once per phase.)",
+            "flavor": "...Oldtown was a veritable labyrinth of a city, all wynds and crisscrossing alleys and narrow crookback streets.",
+            "deckLimit": 3,
+            "illustrator": "Logan Feliciano",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns2/75_Oldtown.png"
+        },
+        {
+            "code": "17176",
+            "type": "location",
+            "name": "Goldengrove",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "The Reach"
+            ],
+            "text": "<b>Action:</b> Kneel Goldengrove or a <i>Small Council</i> character to choose another [tyrell] card you own with equal or lower printed cost. Stand that card and take control of it. (Limit twice per round.)",
+            "deckLimit": 3,
+            "illustrator": "Taehoon Kang",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns2/76_Goldengrove.png"
+        }
+    ]
+}
