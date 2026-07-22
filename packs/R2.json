@@ -188,74 +188,6 @@
         {
             "code": "17170",
             "type": "character",
-            "name": "Daenerys Targaryen",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": true,
-            "faction": "targaryen",
-            "loyal": true,
-            "cost": 5,
-            "icons": {
-                "military": false,
-                "intrigue": true,
-                "power": true
-            },
-            "strength": 3,
-            "traits": [
-                "Lady",
-                "Queen"
-            ],
-            "text": "Daenerys Targaryen's STR cannot be reduced by card effects.\n<b>Reaction:</b> After you play a [targaryen] event, choose a participating character. Until the end of the phase, that character gets -1 STR and is killed if its STR is 0. (Limit 3 times per round.)",
-            "deckLimit": 3,
-            "illustrator": "Drazenka Kimpel",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns2/70_Daenerys_Targaryen.png"
-        },
-        {
-            "code": "17171",
-            "type": "character",
-            "name": "Aegon Targaryen",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": true,
-            "faction": "targaryen",
-            "loyal": false,
-            "cost": 4,
-            "icons": {
-                "military": false,
-                "intrigue": true,
-                "power": true
-            },
-            "strength": 3,
-            "traits": [
-                "Lord"
-            ],
-            "text": "Shadow (3).\n<b>Reaction:</b> After Aegon Targaryen enters play, search the top 10 cards of your deck for an Army or Mercenary character, put it into play, and shuffle your deck. At the end of the phase, if that card is still in play, return it to your hand.",
-            "deckLimit": 3,
-            "illustrator": "Paolo Puggioni",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns2/71_Aegon_Targaryen.png"
-        },
-        {
-            "code": "17172",
-            "type": "attachment",
-            "name": "Queensguard",
-            "octgnId": null,
-            "quantity": 3,
-            "unique": false,
-            "faction": "targaryen",
-            "loyal": false,
-            "cost": 3,
-            "traits": [
-                "Title"
-            ],
-            "text": "[targaryen] non-<i>Lady</i> character only. Shadow (2).\n<b>Action:</b> Discard 1 [targaryen] card from your hand to stand attached character. (Limit twice per round.)",
-            "flavor": "Ser Barristan might come seeking her; he was the first of her Queensguard, sworn to defend her life with his own.",
-            "deckLimit": 3,
-            "illustrator": "Jason Jenicke",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns2/72_Queensguard.png"
-        },
-        {
-            "code": "17173",
-            "type": "character",
             "name": "Great Ranging",
             "octgnId": null,
             "quantity": 3,
@@ -277,8 +209,76 @@
             "text": "Assault. Intimidate. No attachments.\n<b>Reaction:</b> After you marshal Great Ranging, search your hand, deck, and discard pile for Fist of the First Men and put it into play. Shuffle your deck.",
             "deckLimit": 3,
             "illustrator": "Tomasz Jedruszek",
-            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns2/73_Great_Ranging.png",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns2/70_Great_Ranging.png",
             "flavor": "Three hundred sworn brothers of the Night's Watch had ridden north, two hundred from Castle Black and another hundred from the Shadow Tower."
+        },
+        {
+            "code": "17171",
+            "type": "character",
+            "name": "Daenerys Targaryen",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 5,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Lady",
+                "Queen"
+            ],
+            "text": "Daenerys Targaryen's STR cannot be reduced by card effects.\n<b>Reaction:</b> After you play a [targaryen] event, choose a participating character. Until the end of the phase, that character gets -1 STR and is killed if its STR is 0. (Limit 3 times per round.)",
+            "deckLimit": 3,
+            "illustrator": "Drazenka Kimpel",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns2/71_Daenerys_Targaryen.png"
+        },
+        {
+            "code": "17172",
+            "type": "character",
+            "name": "Aegon Targaryen",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Lord"
+            ],
+            "text": "Shadow (3).\n<b>Reaction:</b> After Aegon Targaryen enters play, search the top 10 cards of your deck for an Army or Mercenary character, put it into play, and shuffle your deck. At the end of the phase, if that card is still in play, return it to your hand.",
+            "deckLimit": 3,
+            "illustrator": "Paolo Puggioni",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns2/72_Aegon_Targaryen.png"
+        },
+        {
+            "code": "17173",
+            "type": "attachment",
+            "name": "Queensguard",
+            "octgnId": null,
+            "quantity": 3,
+            "unique": false,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 3,
+            "traits": [
+                "Title"
+            ],
+            "text": "[targaryen] non-<i>Lady</i> character only. Shadow (2).\n<b>Action:</b> Discard 1 [targaryen] card from your hand to stand attached character. (Limit twice per round.)",
+            "flavor": "Ser Barristan might come seeking her; he was the first of her Queensguard, sworn to defend her life with his own.",
+            "deckLimit": 3,
+            "illustrator": "Jason Jenicke",
+            "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns2/73_Queensguard.png"
         },
         {
             "code": "17174",
