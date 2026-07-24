@@ -255,7 +255,7 @@
             "traits": [
                 "Lord"
             ],
-            "text": "Shadow (3).\n<b>Reaction:</b> After Aegon Targaryen enters play, search the top 10 cards of your deck for an Army or Mercenary character, put it into play, and shuffle your deck. At the end of the phase, if that card is still in play, return it to your hand.",
+            "text": "Shadow (3).\n<b>Reaction:</b> After Aegon Targaryen enters play, search the top 10 cards of your deck for an <i>Army</i> or <i>Mercenary</i> character, put it into play, and shuffle your deck. At the end of the phase, if that card is still in play, return it to your hand.",
             "deckLimit": 3,
             "illustrator": "Paolo Puggioni",
             "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/redesigns2/72_Aegon_Targaryen.png"
