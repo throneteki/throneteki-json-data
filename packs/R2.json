@@ -203,8 +203,7 @@
             "strength": 7,
             "traits": [
                 "Army",
-                "Ranger",
-                "Steward"
+                "Ranger"
             ],
             "text": "Assault. Intimidate. No attachments.\n<b>Reaction:</b> After you marshal Great Ranging, search your hand, deck, and discard pile for Fist of the First Men and put it into play. Shuffle your deck.",
             "deckLimit": 3,
