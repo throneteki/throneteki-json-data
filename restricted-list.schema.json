@@ -84,7 +84,8 @@
             "cardSet": {
                 "enum": [
                     "original",
-                    "redesign"
+                    "redesign",
+                    "redesign2"
                 ]
             }
         },
