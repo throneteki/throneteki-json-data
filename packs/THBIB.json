@@ -1,0 +1,444 @@
+{
+  "cgdbId": null,
+  "code": "THBIB",
+  "name": "Till His Blood Is Boiling",
+  "releaseDate": "2026-08-24",
+  "cards": [
+    {
+      "code": "27001",
+      "type": "character",
+      "name": "Deepwood Steward",
+      "octgnId": null,
+      "quantity": 3,
+      "unique": false,
+      "faction": "baratheon",
+      "loyal": false,
+      "cost": 2,
+      "icons": {
+        "military": false,
+        "intrigue": false,
+        "power": true
+      },
+      "strength": 1,
+      "traits": [
+        "House Glover",
+        "Steward"
+      ],
+      "text": "<b>Reaction:</b> After you marshal Deepwood Steward, search the top 10 cards of your deck for a <i>The North</i> or out-of-faction location, reveal it, and add it to your hand. Shuffle your deck.",
+      "deckLimit": 3,
+      "illustrator": "Stephen Patane (Midjourney)",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/THBIB/1_Deepwood_Steward.png"
+    },
+    {
+      "code": "27002",
+      "type": "event",
+      "name": "Wedding at the Wall",
+      "octgnId": null,
+      "quantity": 3,
+      "faction": "baratheon",
+      "loyal": false,
+      "cost": 1,
+      "traits": [
+        "R'hllor"
+      ],
+      "text": "Shadow (0).\n<b>Reaction:</b> After you win a [power] challenge as the attacking player, choose and stand 2 characters you control with the <i>R'hllor</i> or <i>Wildling</i> trait.",
+      "flavor": "\"What fire joins, none may put asunder\" - Melisandre",
+      "deckLimit": 3,
+      "illustrator": "Darko Stojanovic",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/THBIB/2_Wedding_at_the_Wall.png"
+    },
+    {
+      "code": "27003",
+      "type": "character",
+      "name": "Kingsmoot Claimant",
+      "octgnId": null,
+      "quantity": 3,
+      "unique": false,
+      "faction": "greyjoy",
+      "loyal": true,
+      "cost": 4,
+      "icons": {
+        "military": true,
+        "intrigue": false,
+        "power": true
+      },
+      "strength": 4,
+      "traits": [
+        "Captain"
+      ],
+      "text": "While Kingsmoot Claimant is attacking an opponent who does not control a <i>King</i> character, it gains the <i>King</i> trait and renown.",
+      "flavor": "\"Beneath the bones of Nagga every captain stands as equal.\" - The Reader",
+      "deckLimit": 3,
+      "illustrator": "Chris Dien",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/THBIB/3_Kingsmoot_Claimant.png"
+    },
+    {
+      "code": "27004",
+      "type": "attachment",
+      "name": "Captain of the Iron Fleet",
+      "octgnId": null,
+      "quantity": 3,
+      "unique": true,
+      "faction": "greyjoy",
+      "loyal": false,
+      "cost": 1,
+      "traits": [
+        "Title"
+      ],
+      "text": "<i>Ironborn</i> character you control only.\nAttached character gains the <i>Captain</i> trait.\n<b>Action:</b> During a [military] or [power] challenge, kneel Captain of the Iron Fleet and a <i>Warship</i> location to have attached character contribute its STR to your side this challenge.",
+      "deckLimit": 3,
+      "illustrator": "Anders Finér",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/THBIB/4_Captain_of_the_Iron_Fleet.png"
+    },
+    {
+      "code": "27005",
+      "type": "character",
+      "name": "Orton Merryweather",
+      "octgnId": null,
+      "quantity": 3,
+      "unique": true,
+      "faction": "lannister",
+      "loyal": false,
+      "cost": 4,
+      "icons": {
+        "military": false,
+        "intrigue": true,
+        "power": true
+      },
+      "strength": 4,
+      "traits": [
+        "Lord",
+        "Small Council"
+      ],
+      "text": "Each gold in your gold pool contributes an additional 1 STR towards your total for dominance.\n<b>Interrupt:</b> When dominance is determined, if you have not lost an [intrigue] challenge this round, gain 2 gold.",
+      "deckLimit": 3,
+      "illustrator": "Ferenc Patkós",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/THBIB/5_Orton_Merryweather.png"
+    },
+    {
+      "code": "27006",
+      "type": "attachment",
+      "name": "Jeweled Tiara",
+      "octgnId": null,
+      "quantity": 3,
+      "unique": true,
+      "faction": "lannister",
+      "loyal": false,
+      "cost": 2,
+      "traits": [
+        "Crown",
+        "Item"
+      ],
+      "text": "<i>Lady</i> character only.\nAttached character gains the <i>Queen</i> trait.\n<b>Reaction:</b> After you win an [intrigue] challenge in which attached character is participating, kneel Jeweled Tiara to discard 1 card at random from the losing opponent's hand. (3 cards instead if you won by 10 or more STR.)",
+      "deckLimit": 3,
+      "illustrator": "Mark Evans",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/THBIB/6_Jeweled_Tiara.png"
+    },
+    {
+      "code": "27007",
+      "type": "character",
+      "name": "Nymella Toland",
+      "octgnId": null,
+      "quantity": 3,
+      "unique": true,
+      "faction": "martell",
+      "loyal": true,
+      "cost": 5,
+      "icons": {
+        "military": false,
+        "intrigue": true,
+        "power": true
+      },
+      "strength": 3,
+      "traits": [
+        "Lady"
+      ],
+      "text": "<b>Action:</b> Choose a character that is attacking or defending alone, and remove it from the challenge. (Limit once per round.)",
+      "flavor": "\"...Lady Jordayne has arranged games in his honor. When he reaches Ghost Hill he will find Lady Toland intent on outdoing her.\" - Doran Martell",
+      "deckLimit": 3,
+      "illustrator": "Gergely Nagy",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/THBIB/7_Nymella_Toland.png"
+    },
+    {
+      "code": "27008",
+      "type": "location",
+      "name": "Godsgrace",
+      "octgnId": null,
+      "quantity": 3,
+      "unique": true,
+      "faction": "martell",
+      "loyal": false,
+      "cost": 1,
+      "traits": [
+        "Dorne"
+      ],
+      "text": "<b>Reaction:</b> After a [martell] character you control gains power, if there is a <i>Summer</i> plot card revealed, kneel Godsgrace to have that character gain 1 power.",
+      "deckLimit": 3,
+      "illustrator": "Eric Wilkerson",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/THBIB/8_Godsgrace.png"
+    },
+    {
+      "code": "27009",
+      "type": "character",
+      "name": "Alys Karstark",
+      "octgnId": null,
+      "quantity": 3,
+      "unique": true,
+      "faction": "thenightswatch",
+      "loyal": false,
+      "cost": 3,
+      "icons": {
+        "military": false,
+        "intrigue": true,
+        "power": true
+      },
+      "strength": 2,
+      "traits": [
+        "House Karstark",
+        "Lady",
+        "Wildling"
+      ],
+      "text": "<b>Reaction:</b> After Alys Karstark stands, choose another <i>Wildling</i> character you control and have it gain 1 power. Then, if that character was Sigorn, draw 1 card. (Limit twice per round.)",
+      "flavor": "\"Alys, do you swear to share your fire with Sigorn, and warm him when the night is dark and full of terrors?\" - Melisandre",
+      "deckLimit": 3,
+      "illustrator": "Darko Stojanovic",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/THBIB/9_Alys_Karstark.png"
+    },
+    {
+      "code": "27010",
+      "type": "location",
+      "name": "Skirling Pass",
+      "octgnId": null,
+      "quantity": 3,
+      "unique": true,
+      "faction": "thenightswatch",
+      "loyal": false,
+      "cost": 1,
+      "traits": [
+        "The North"
+      ],
+      "text": "While Skirling Pass is standing, each non-<i>Wildling</i> character loses stealth.",
+      "flavor": "The wind cut like a knife up here, and shrilled in the night like a mother mourning her slain children.",
+      "deckLimit": 3,
+      "illustrator": "Stephen Najarian",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/THBIB/10_Skirling_Pass.png"
+    },
+    {
+      "code": "27011",
+      "type": "character",
+      "name": "Arnolf Karstark",
+      "octgnId": null,
+      "quantity": 3,
+      "unique": true,
+      "faction": "stark",
+      "loyal": false,
+      "cost": 4,
+      "icons": {
+        "military": false,
+        "intrigue": true,
+        "power": true
+      },
+      "strength": 4,
+      "traits": [
+        "House Karstark"
+      ],
+      "text": "<b>Reaction:</b> After a character or location is sacrificed, stand Arnolf Karstark. (Limit once per round.)",
+      "flavor": "\"March, I said, and before the moon can turn, we'll all be bathing in the blood of Freys and Boltons.\"",
+      "deckLimit": 3,
+      "illustrator": "Zsolt Ruzsinszki",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/THBIB/11_Arnolf_Karstark.png"
+    },
+    {
+      "code": "27012",
+      "type": "attachment",
+      "name": "Lord of Winterfell",
+      "octgnId": null,
+      "quantity": 3,
+      "unique": true,
+      "faction": "stark",
+      "loyal": true,
+      "cost": 2,
+      "traits": [
+        "Title"
+      ],
+      "text": "[stark] <i>Lord</i> character only.\nWhile there is a <i>Winter</i> plot card revealed, attached character gains insight.\n<b>Reaction:</b> After you win a challenge in which you control a participating loyal character, kneel Lord of Winterfell to have attached character gain 1 power.",
+      "deckLimit": 3,
+      "illustrator": "Mark Evans",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/THBIB/12_Lord_of_Winterfell.png"
+    },
+    {
+      "code": "27013",
+      "type": "character",
+      "name": "Sons of the Harpy",
+      "octgnId": null,
+      "quantity": 3,
+      "unique": false,
+      "faction": "targaryen",
+      "loyal": true,
+      "cost": 2,
+      "icons": {
+        "military": true,
+        "intrigue": true,
+        "power": false
+      },
+      "strength": 1,
+      "traits": [
+        "Ghiscari"
+      ],
+      "text": "Shadow (2).\n<b>Reaction:</b> After Sons of the Harpy comes out of shadows, choose a participating character. Until the end of the phase, that character gets -2 STR.",
+      "flavor": "The Sons of the Harpy did their butchery by night, and over each kill they left their mark.",
+      "deckLimit": 3,
+      "illustrator": "Gergely Nagy",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/THBIB/13_Sons_of_the_Harpy.png"
+    },
+    {
+      "code": "27014",
+      "type": "attachment",
+      "name": "Blood of Valyria",
+      "octgnId": null,
+      "quantity": 3,
+      "unique": false,
+      "faction": "targaryen",
+      "loyal": true,
+      "cost": 1,
+      "traits": [
+        "Legacy"
+      ],
+      "text": "Unique [targaryen] character only.\nAttached character's STR cannot be reduced by card effects.\nAttached character gains insight during [power] challenges.",
+      "flavor": "The line must be kept pure, Viserys had told her a thousand times.",
+      "deckLimit": 3,
+      "illustrator": "Roman Papsuev",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/THBIB/14_Blood_of_Valyria.png"
+    },
+    {
+      "code": "27015",
+      "type": "character",
+      "name": "Paxter Redwyne",
+      "octgnId": null,
+      "quantity": 3,
+      "unique": true,
+      "faction": "tyrell",
+      "loyal": true,
+      "cost": 6,
+      "icons": {
+        "military": false,
+        "intrigue": true,
+        "power": true
+      },
+      "strength": 5,
+      "traits": [
+        "House Redwyne",
+        "Lord",
+        "Small Council"
+      ],
+      "text": "Renown. Shadow (5).\n<b>Reaction:</b> After you win a challenge in which Paxter Redwyne is participating, choose a location you own and return it to your hand. (You may place it in shadows instead if it has the <i>Warship</i> trait.) (Limit twice per phase.)",
+      "deckLimit": 3,
+      "illustrator": "Chris Dien",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/THBIB/15_Paxter_Redwyne.png"
+    },
+    {
+      "code": "27016",
+      "type": "attachment",
+      "name": "Morningstar",
+      "octgnId": null,
+      "quantity": 3,
+      "unique": false,
+      "faction": "tyrell",
+      "loyal": false,
+      "cost": 1,
+      "traits": [
+        "Weapon"
+      ],
+      "text": "Character you control only.\n<b>Reaction:</b> After you win a [military] challenge in which attached character is participating, kneel Morningstar to stand attached character and remove it from the challenge.",
+      "deckLimit": 3,
+      "illustrator": "Stephen Patane (Midjourney)",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/THBIB/16_Morningstar.png"
+    },
+    {
+      "code": "27017",
+      "type": "character",
+      "name": "Sigorn",
+      "octgnId": null,
+      "quantity": 3,
+      "unique": true,
+      "faction": "neutral",
+      "cost": 5,
+      "icons": {
+        "military": true,
+        "intrigue": false,
+        "power": true
+      },
+      "strength": 4,
+      "traits": [
+        "Lord",
+        "Wildling"
+      ],
+      "text": "<b>Reaction:</b> After you win a [military] challenge in which Sigorn is attacking, choose and stand another <i>Wildling</i> character you control. Then, if that character was Alys Karstark, stand Sigorn.",
+      "flavor": "\"Sigorn, will you share your fire with Alys, and warm her when the night is dark and full of terrors?\"\" - Melisandre",
+      "deckLimit": 3,
+      "illustrator": "Darko Stojanovic",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/THBIB/17_Sigorn.png"
+    },
+    {
+      "code": "27018",
+      "type": "attachment",
+      "name": "Shadowskin Cloak",
+      "octgnId": null,
+      "quantity": 3,
+      "unique": false,
+      "faction": "neutral",
+      "cost": 2,
+      "traits": [
+        "Item"
+      ],
+      "text": "Shadow (0).\nAttached character gains stealth.\n<b>Forced Interrupt:</b> When the challenges phase ends, return Shadowskin Cloak to your hand.",
+      "flavor": "\"My cloak, the shadowskin you took from me for safekeeping.\" - Tyrion Lannister",
+      "deckLimit": 3,
+      "illustrator": "Stephen Patane (Midjourney)",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/THBIB/18_Shadowskin_Cloak.png"
+    },
+    {
+      "code": "27019",
+      "type": "plot",
+      "name": "Into the Lists",
+      "octgnId": null,
+      "quantity": 3,
+      "faction": "neutral",
+      "plotStats": {
+        "income": 4,
+        "initiative": 2,
+        "claim": 1,
+        "reserve": 6
+      },
+      "traits": [
+        "Kingdom",
+        "Summer"
+      ],
+      "text": "<b>When Revealed:</b> Each player may choose and kneel a non-<i>Army</i> character they control with a [military] icon. Then, if exactly 1 character has the highest STR among characters knelt this way, it gains 2 power.",
+      "deckLimit": 1,
+      "illustrator": "Scott Murphy",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/THBIB/19_Into_the_Lists.png"
+    },
+    {
+      "code": "27020",
+      "type": "plot",
+      "name": "Searching the Archives",
+      "octgnId": null,
+      "quantity": 3,
+      "faction": "neutral",
+      "plotStats": {
+        "income": 4,
+        "initiative": 0,
+        "claim": 1,
+        "reserve": 5
+      },
+      "traits": [
+        "Conclave"
+      ],
+      "text": "<b>When Revealed:</b> Choose up to 3 cards in your hand and place them facedown under your agenda. Then, draw that many cards.",
+      "deckLimit": 2,
+      "illustrator": "Melissa Findley",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/THBIB/20_Searching_the_Archives.png"
+    }
+  ]
+}
