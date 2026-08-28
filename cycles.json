@@ -231,5 +231,12 @@
             "JfE",
             "NCbT"
         ]
+    },
+    {
+        "id": "oldnew",
+        "name": "Old and the New",
+        "packs": [
+            "THBIB"
+        ]
     }
 ]
