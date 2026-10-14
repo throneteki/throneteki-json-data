@@ -1,0 +1,427 @@
+{
+  "cgdbId": null,
+  "code": "WGYK",
+  "name": "Whatever Gods You Keep",
+  "releaseDate": "2026-10-15",
+  "cards": [
+    {
+      "code": "27021",
+      "type": "character",
+      "name": "Dragonstone Proselyte",
+      "octgnId": null,
+      "quantity": 3,
+      "unique": false,
+      "faction": "baratheon",
+      "loyal": true,
+      "cost": 3,
+      "icons": {
+        "military": false,
+        "intrigue": true,
+        "power": true
+      },
+      "strength": 2,
+      "traits": [
+        "R'hllor"
+      ],
+      "text": "<b>Challenges Action:</b> Kneel Dragonstone Proselyte to choose a character with STR 3 or lower. Until the end of the round, that character cannot stand.",
+      "flavor": "\"He has an ally. R'hllor, the Lord of Light, the Heart of Fire, the God of Flame and Shadow.\" - Selyse Baratheon",
+      "deckLimit": 3,
+      "illustrator": "Gergely Nagy",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WGYK/21_Dragonstone_Proselyte.png"
+    },
+    {
+      "code": "27022",
+      "type": "event",
+      "name": "Fiery Talons",
+      "octgnId": null,
+      "quantity": 3,
+      "faction": "baratheon",
+      "loyal": false,
+      "cost": 0,
+      "traits": [
+        "R'hllor"
+      ],
+      "text": "<b>Action:</b> Kneel a <i>R'hllor</i> character to choose a participating character. Until the end of the phase, that character gets -1 STR and is placed in shadows if its STR is 0.",
+      "flavor": "...and high, high in the eastern sky, against the wall of cloud, Jon saw the eagle burning.",
+      "deckLimit": 3,
+      "illustrator": "Gergely Nagy",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WGYK/22_Fiery_Talons.png"
+    },
+    {
+      "code": "27023",
+      "type": "character",
+      "name": "Priest on the Docks",
+      "octgnId": null,
+      "quantity": 3,
+      "unique": false,
+      "faction": "greyjoy",
+      "loyal": true,
+      "cost": 3,
+      "icons": {
+        "military": false,
+        "intrigue": false,
+        "power": true
+      },
+      "strength": 3,
+      "traits": [
+        "Drowned God"
+      ],
+      "text": "<b>Reaction:</b> After you win dominance, kill Priest on the Docks to choose a non-limited location or attachment with printed cost 3 or lower and discard it from play.",
+      "flavor": "The priest was garbed in mottled robes of green and grey and blue, the swirling colors of the Drowned God.",
+      "deckLimit": 3,
+      "illustrator": "Gergely Nagy",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WGYK/23_Priest_on_the_Docks.png"
+    },
+    {
+      "code": "27024",
+      "type": "location",
+      "name": "Deepwood Motte",
+      "octgnId": null,
+      "quantity": 3,
+      "unique": true,
+      "faction": "greyjoy",
+      "loyal": false,
+      "cost": 1,
+      "traits": [
+        "Contested",
+        "The North"
+      ],
+      "text": "<b>Reaction:</b> After a location is knelt by assault during a challenge in which you are the attacking player, kneel Deepwood Motte to choose and stand a <i>Raider</i> character you control or Asha Greyjoy.\n-2 Initiative.",
+      "deckLimit": 3,
+      "illustrator": "Stephen Patane (Midjourney)",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WGYK/24_Deepwood_Motte.png"
+    },
+    {
+      "code": "27025",
+      "type": "character",
+      "name": "King's Landing Septon",
+      "octgnId": null,
+      "quantity": 3,
+      "unique": false,
+      "faction": "lannister",
+      "loyal": true,
+      "cost": 3,
+      "icons": {
+        "military": false,
+        "intrigue": true,
+        "power": false
+      },
+      "strength": 3,
+      "traits": [
+        "The Seven"
+      ],
+      "text": "<b>Interrupt:</b> When the effects of an opponent's triggered character, location, or attachment ability would initiate, return King's Landing Septon to your hand to cancel those effects.",
+      "flavor": "\"All King's Landing shall pray for your success.\" - The High Septon",
+      "deckLimit": 3,
+      "illustrator": "Gergely Nagy",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WGYK/25_Kings_Landing_Septon.png"
+    },
+    {
+      "code": "27026",
+      "type": "location",
+      "name": "Hornvale",
+      "octgnId": null,
+      "quantity": 3,
+      "unique": true,
+      "faction": "lannister",
+      "loyal": true,
+      "cost": 1,
+      "traits": [
+        "House Brax",
+        "The Westerlands"
+      ],
+      "text": "<b>Reaction:</b> After you win an [intrigue] challenge, kneel Hornvale to have the losing opponent choose a card in their hand and place it facedown under Hornvale. If Hornvale leaves play, return each card under it to its owner's hand.",
+      "deckLimit": 3,
+      "illustrator": "Andreas Rocha",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WGYK/26_Hornvale.png"
+    },
+    {
+      "code": "27027",
+      "type": "character",
+      "name": "Shadow City Septon",
+      "octgnId": null,
+      "quantity": 3,
+      "unique": false,
+      "faction": "martell",
+      "loyal": true,
+      "cost": 3,
+      "icons": {
+        "military": false,
+        "intrigue": true,
+        "power": true
+      },
+      "strength": 2,
+      "traits": [
+        "The Seven"
+      ],
+      "text": "Shadow (3).\n<b>Reaction:</b> After you lose dominance, return Shadow City Septon to shadows to have the winning opponent choose a standing character they control. Return that character to its owner's hand.",
+      "flavor": "...the Old Palace and its shadow city were full of eyes.",
+      "deckLimit": 3,
+      "illustrator": "Gergely Nagy",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WGYK/27_Shadow_City_Septon.png"
+    },
+    {
+      "code": "27028",
+      "type": "event",
+      "name": "A Game of Cyvasse",
+      "octgnId": null,
+      "quantity": 3,
+      "faction": "martell",
+      "loyal": false,
+      "cost": 1,
+      "traits": [],
+      "text": "<b>Challenges Action:</b> Each player cannot declare more than 1 character as an attacker or defender in the next [intrigue] challenge you initiate this phase. If you win that challenge, you may initiate an additional [intrigue] challenge this phase. (Max 1 per phase.)",
+      "deckLimit": 3,
+      "illustrator": "A. L. Ashbaugh",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WGYK/28_A_Game_of_Cyvasse.png"
+    },
+    {
+      "code": "27029",
+      "type": "character",
+      "name": "Superstitious Steward",
+      "octgnId": null,
+      "quantity": 3,
+      "unique": false,
+      "faction": "thenightswatch",
+      "loyal": true,
+      "cost": 3,
+      "icons": {
+        "military": false,
+        "intrigue": true,
+        "power": false
+      },
+      "strength": 3,
+      "traits": [
+        "Old Gods",
+        "Steward"
+      ],
+      "text": "<b>Reaction:</b> After a phase begins, name a <i>Trait</i>. If an opponent reveals a plot card with that <i>Trait</i> during this phase, you may sacrifice Superstitious Steward to have that player choose a character they control and discard it from play.",
+      "flavor": "\"The Seven have never answered my prayers. Perhaps the old gods will.\" - Samwell Tarly",
+      "deckLimit": 3,
+      "illustrator": "Gergely Nagy",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WGYK/29_Superstitious_Steward.png"
+    },
+    {
+      "code": "27030",
+      "type": "event",
+      "name": "For All the Nights to Come",
+      "octgnId": null,
+      "quantity": 3,
+      "faction": "thenightswatch",
+      "loyal": false,
+      "cost": 0,
+      "traits": [],
+      "text": "<b>Reaction:</b> After you win a challenge by 5 or more STR, choose a <i>Builder </i>character, a <i>Ranger </i>character, and a <i>Steward </i>character. Each of those characters gains 1 power. (Max 1 per phase.)",
+      "deckLimit": 3,
+      "illustrator": "Thomas Denmark",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WGYK/30_For_All_the_Nights_to_Come.png"
+    },
+    {
+      "code": "27031",
+      "type": "character",
+      "name": "Woods Witch",
+      "octgnId": null,
+      "quantity": 3,
+      "unique": false,
+      "faction": "stark",
+      "loyal": true,
+      "cost": 3,
+      "icons": {
+        "military": false,
+        "intrigue": true,
+        "power": false
+      },
+      "strength": 3,
+      "traits": [
+        "Old Gods"
+      ],
+      "text": "<b>Reaction:</b> After a character is discarded from an opponent's hand, sacrifice Woods Witch to name a cardtype. That player must sacrifice a card with that cardtype and the same printed cost as the discarded card.",
+      "flavor": "\"They know a little herb-craft and some midwifery, but elsewise...\" - Cersei Lannister",
+      "deckLimit": 3,
+      "illustrator": "Gergely Nagy",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WGYK/31_Woods_Witch.png"
+    },
+    {
+      "code": "27032",
+      "type": "location",
+      "name": "Grey Cliffs",
+      "octgnId": null,
+      "quantity": 3,
+      "unique": false,
+      "faction": "stark",
+      "loyal": false,
+      "cost": 1,
+      "traits": [
+        "House Karstark",
+        "The North"
+      ],
+      "text": "<b>Interrupt:</b> When Grey Cliffs is sacrificed, draw 1 card.\n+1 Initiative.",
+      "deckLimit": 3,
+      "illustrator": "Stephen Patane (Midjourney)",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WGYK/32_Grey_Cliffs.png"
+    },
+    {
+      "code": "27033",
+      "type": "character",
+      "name": "Purple Graces",
+      "octgnId": null,
+      "quantity": 3,
+      "unique": false,
+      "faction": "targaryen",
+      "loyal": true,
+      "cost": 3,
+      "icons": {
+        "military": false,
+        "intrigue": true,
+        "power": true
+      },
+      "strength": 2,
+      "traits": [
+        "Grace"
+      ],
+      "text": "<b>Action:</b> During a [military] challenge, kneel Purple Graces to choose an attacking character. Until the end of the phase, that character gets -2 STR.",
+      "flavor": "\"I shall pray and make sacrifice. Mayhaps the gods of Ghis will hear me.\" - Galazza Galare",
+      "deckLimit": 3,
+      "illustrator": "Gergely Nagy",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WGYK/33_Purple_Graces.png"
+    },
+    {
+      "code": "27034",
+      "type": "event",
+      "name": "By Sword or By Guile",
+      "octgnId": null,
+      "quantity": 3,
+      "faction": "targaryen",
+      "loyal": true,
+      "cost": 1,
+      "traits": [],
+      "text": "<b>Interrupt:</b> When claim is applied for a [military] or [intrigue] challenge in which you control an attacking <i>Army</i> or <i>Dragon</i> character, apply [power] claim instead.",
+      "flavor": "\"If Storm's End is so impregnable, how do you mean to take it?\" - Malo",
+      "deckLimit": 3,
+      "illustrator": "Antonio Maínez",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WGYK/34_By_Sword_or_By_Guile.png"
+    },
+    {
+      "code": "27035",
+      "type": "character",
+      "name": "Starry Septa",
+      "octgnId": null,
+      "quantity": 3,
+      "unique": false,
+      "faction": "tyrell",
+      "loyal": true,
+      "cost": 3,
+      "icons": {
+        "military": false,
+        "intrigue": true,
+        "power": true
+      },
+      "strength": 1,
+      "traits": [
+        "The Seven"
+      ],
+      "text": "<b>Action:</b> Kneel Starry Septa to choose a participating character with gold or power. Stand that character and remove it from the challenge.",
+      "flavor": "\"...it grieves me to say that the young queen and her ladies cannot be released until and unless their innocence has been proved.\" - Septa Moelle",
+      "deckLimit": 3,
+      "illustrator": "Gergely Nagy",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WGYK/35_Starry_Septa.png"
+    },
+    {
+      "code": "27036",
+      "type": "location",
+      "name": "Horn Hill",
+      "octgnId": null,
+      "quantity": 3,
+      "unique": true,
+      "faction": "tyrell",
+      "loyal": true,
+      "cost": 4,
+      "traits": [
+        "House Tarly",
+        "Stronghold",
+        "The Reach"
+      ],
+      "text": "During the first challenge you initiate each phase, raise the claim value on your revealed plot card by 1.\n+1 Initiative.",
+      "deckLimit": 3,
+      "illustrator": "Andreas Rocha",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WGYK/36_Horn_Hill.png"
+    },
+    {
+      "code": "27037",
+      "type": "character",
+      "name": "Theodan the True",
+      "octgnId": null,
+      "quantity": 3,
+      "unique": true,
+      "faction": "neutral",
+      "cost": 6,
+      "icons": {
+        "military": true,
+        "intrigue": false,
+        "power": true
+      },
+      "strength": 5,
+      "traits": [
+        "Commander",
+        "Knight",
+        "The Seven"
+      ],
+      "text": "No attachments except <i>The Seven</i>.\n<b>Reaction:</b> After you win a challenge in which Theodan the True is participating, choose a <i>The Seven</i> character. Until the end of the phase, that character gains insight or renown. (Limit twice per phase.)",
+      "deckLimit": 3,
+      "illustrator": "Gergely Nagy",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WGYK/37_Theodan_the_True.png"
+    },
+    {
+      "code": "27038",
+      "type": "location",
+      "name": "The Riverroad",
+      "octgnId": null,
+      "quantity": 3,
+      "unique": false,
+      "faction": "neutral",
+      "cost": 1,
+      "traits": [
+        "Westeros"
+      ],
+      "text": "Limited. \n<b>Action:</b> Kneel and sacrifice The Riverroad to choose a character. Until the end of the phase, that character gains a challenge icon of your choice. \n+1 Income.",
+      "deckLimit": 3,
+      "illustrator": "Juan Carlos Barquet",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WGYK/38_The_Riverroad.png"
+    },
+    {
+      "code": "27039",
+      "type": "plot",
+      "name": "Kingswood Ambush",
+      "octgnId": null,
+      "quantity": 3,
+      "faction": "neutral",
+      "plotStats": {
+        "income": 3,
+        "initiative": 7,
+        "claim": 1,
+        "reserve": 5
+      },
+      "traits": [
+        "Scheme",
+        "War"
+      ],
+      "text": "You cannot marshal characters.\nReduce the cost to ambush each of your cards by 2.",
+      "deckLimit": 1,
+      "illustrator": "Piotr Chrzanowski",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WGYK/39_Kingswood_Ambush.png"
+    },
+    {
+      "code": "27040",
+      "type": "agenda",
+      "name": "Sentinels of the Realm",
+      "octgnId": null,
+      "quantity": 3,
+      "faction": "neutral",
+      "traits": [],
+      "text": "You may include non-loyal <i>Guard</i> characters from any faction in your deck. You must include at least 12 <i>Guard</i> characters in your deck.\nWhile you control no <i>Guard</i> characters, you cannot play events.\n<b>Interrupt:</b> When the challenges phase ends, draw 1 card for each challenge type that has not been initiated against you this phase.",
+      "deckLimit": 1,
+      "illustrator": "Ferenc Patkós",
+      "imageUrl": "https://throneteki.ams3.cdn.digitaloceanspaces.com/packs/WGYK/40_Sentinels_of_the_Realm.png"
+    }
+  ]
+}
